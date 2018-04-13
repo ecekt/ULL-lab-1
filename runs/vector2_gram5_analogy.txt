@@ -1,0 +1,9504 @@
+*code coding dance dancing
+dance 0.73755094854
+breakdancing 0.543163752989
+dancing 0.524485214674
+breakdance 0.516109855494
+choreography 0.510175278192
+3
+2
+
+*code coding debug debugging
+debug 0.74328921465
+post-processing 0.653946619785
+coding 0.653475654667
+troubleshoot 0.652205218805
+debugging 0.638385129356
+5
+3
+
+*code coding decrease decreasing
+decrease 0.742187582547
+increase 0.611238224071
+increases 0.561275194606
+decreasing 0.559455194113
+decreases 0.558212375623
+4
+3
+
+*code coding describe describing
+describe 0.727263290495
+characterize 0.604072143498
+visualize 0.601185277165
+elucidate 0.601124929232
+visualise 0.597691635584
+63
+62
+
+*code coding discover discovering
+discover 0.732050928053
+uncover 0.575189188151
+dissect 0.543556858929
+discovering 0.531730235913
+deduce 0.524839735163
+4
+3
+
+*code coding enhance enhancing
+enhance 0.726212566841
+improve 0.605953630947
+amplify 0.600431401118
+sharpen 0.587501215765
+optimise 0.584878614418
+14
+13
+
+*code coding fly flying
+fly 0.725257589414
+flies 0.505212995367
+respire 0.457541028613
+gnaw 0.45697093856
+extrude 0.445982629218
+103
+101
+
+*code coding generate generating
+generate 0.734770267338
+produce 0.602972971242
+amplify 0.556164268201
+synthesise 0.546182277277
+localize 0.537568145184
+12
+10
+
+*code coding go going
+go 0.73078301383
+gone 0.513227482703
+went 0.486558686881
+goes 0.483048302112
+going 0.47090642978
+5
+4
+
+*code coding implement implementing
+implement 0.735499424308
+formulate 0.606915170879
+conceptualize 0.594213540243
+coding 0.577467396508
+fine-tune 0.571539433261
+26
+24
+
+*code coding increase increasing
+increase 0.721016192832
+decrease 0.672150614731
+increases 0.579774869631
+overestimate 0.538471610814
+decreasing 0.525038321274
+79
+77
+
+*code coding invent inventing
+invent 0.736154097037
+conceptualize 0.580321108344
+devise 0.559241719057
+visualise 0.542904348843
+formulate 0.542298368548
+18
+16
+
+*code coding jump jumping
+jump 0.748877391038
+jumps 0.477072151522
+coding 0.466379475234
+jumping 0.447685316342
+sprinting 0.446222480284
+4
+2
+
+*code coding listen listening
+listen 0.747681169655
+notate 0.541808509994
+enunciate 0.532529966535
+overreact 0.532509366778
+berate 0.529652842023
+72
+70
+
+*code coding look looking
+look 0.746538128939
+looked 0.556200545148
+looks 0.546848222508
+looking 0.540176489964
+coding 0.471274120816
+4
+3
+
+*code coding move moving
+move 0.729404028045
+moves 0.504152390361
+moving 0.489794705616
+rearrange 0.47252546104
+unwind 0.471721777751
+3
+2
+
+*code coding play playing
+play 0.731968545445
+playing 0.534515100558
+coding 0.49964256369
+plays 0.47359505682
+lip-sync 0.469232650373
+2
+1
+
+*code coding predict predicting
+predict 0.760424154685
+quantify 0.603490652365
+visualize 0.592380261606
+analyze 0.577046775246
+visualise 0.569008844499
+12
+11
+
+*code coding read reading
+read 0.722166725109
+enunciate 0.500005778275
+re-read 0.495807067629
+proofread 0.489300494299
+reread 0.487921825921
+27
+25
+
+*code coding run running
+run 0.712782458428
+running 0.505487843131
+coding 0.424188226319
+runs 0.419661480256
+slogging 0.403790562117
+2
+1
+
+*code coding say saying
+say 0.735427668947
+theorise 0.533279373411
+surmise 0.519200740908
+enunciate 0.518782199092
+speculate 0.509937210294
+61
+59
+
+*code coding scream screaming
+scream 0.712000514726
+squeal 0.485923319658
+shriek 0.485645008542
+whine 0.484252243855
+kick-ass 0.469375713835
+65
+63
+
+*code coding see seeing
+see 0.716945678102
+visualise 0.537856886382
+notate 0.50815681433
+enunciate 0.499905738927
+elucidate 0.496060998528
+378
+376
+
+*code coding shuffle shuffling
+shuffle 0.724354292176
+shuffling 0.482892500049
+shuffles 0.482485477165
+coding 0.47476728889
+strumming 0.461883702583
+2
+1
+
+*code coding sing singing
+sing 0.727402356589
+singing 0.557894504093
+improvise 0.519841823373
+rehearse 0.512169040614
+sang 0.507647453472
+2
+1
+
+*code coding sit sitting
+sit 0.739049610875
+kneel 0.459547749864
+sat 0.452988443843
+socialize 0.447921275643
+vocalize 0.432636920244
+19
+18
+
+*code coding slow slowing
+slow 0.738627730605
+slower 0.558118020466
+sluggish 0.54108261708
+plodding 0.498302798211
+slowing 0.493024537261
+5
+4
+
+*code coding swim swimming
+swim 0.726196869341
+paddling 0.478962632328
+swims 0.465736082017
+swimming 0.45600659512
+coding 0.450701724881
+4
+3
+
+*code coding think thinking
+think 0.743956356546
+belive 0.540481396373
+beleive 0.536500685085
+daresay 0.512484734585
+remeber 0.511222480794
+32
+30
+
+*code coding vanish vanishing
+vanish 0.739822338818
+disappear 0.556237525113
+regress 0.519037235489
+unwind 0.512139193137
+decompose 0.508829864607
+882
+880
+
+*code coding walk walking
+walk 0.701584227043
+walking 0.503965735734
+lip-sync 0.45436962388
+scurrying 0.446577644408
+nudge 0.445812790592
+2
+1
+
+*code coding write writing
+write 0.734546885404
+writing 0.567261471823
+compose 0.542997965498
+notate 0.532546778022
+enunciate 0.519745466748
+2
+1
+
+*dance dancing debug debugging
+debug 0.671027925434
+pre-configured 0.561178086609
+debugging 0.561104039679
+scriptable 0.54404412267
+vbscript 0.54239941325
+3
+2
+
+*dance dancing decrease decreasing
+decrease 0.713614360649
+increase 0.609612402246
+decreasing 0.592009707615
+decreased 0.560307114959
+increases 0.554493447233
+3
+2
+
+*dance dancing describe describing
+describe 0.667812589793
+portray 0.575969741491
+characterise 0.50373469776
+characterize 0.501506018752
+depict 0.499203703407
+8
+7
+
+*dance dancing discover discovering
+discover 0.667038000266
+discovers 0.513591175423
+uncover 0.509059477308
+discovering 0.499947262538
+realize 0.473029789663
+4
+3
+
+*dance dancing enhance enhancing
+enhance 0.699034485903
+enhancing 0.608864178391
+improve 0.564475103771
+maximize 0.510956614445
+maximise 0.500616497639
+2
+1
+
+*dance dancing fly flying
+fly 0.715272683137
+flies 0.547038311348
+frolicking 0.488611532994
+dancing 0.487505935665
+hovering 0.479793811842
+7
+5
+
+*dance dancing generate generating
+generate 0.665885911945
+generating 0.510582065558
+generates 0.476903665605
+generated 0.470591433815
+produce 0.457665585926
+2
+1
+
+*dance dancing go going
+go 0.712523755825
+gone 0.512300050792
+going 0.490269547123
+hurrying 0.478173049906
+scurrying 0.476020891929
+3
+2
+
+*dance dancing implement implementing
+implement 0.659149027534
+enforce 0.565393839099
+implementing 0.523825709622
+harmonise 0.494969287885
+institutionalize 0.488645977784
+3
+2
+
+*dance dancing increase increasing
+increase 0.707982411586
+decrease 0.625770524847
+increases 0.560960370915
+increased 0.560920102638
+decreasing 0.544938767006
+6
+5
+
+*dance dancing invent inventing
+invent 0.675812840236
+inventing 0.491080369277
+engrave 0.459887288993
+concoct 0.455804610204
+dancing 0.444819515672
+2
+1
+
+*dance dancing jump jumping
+jump 0.693566417125
+jumping 0.526714135506
+jumps 0.510251497557
+leaping 0.487269092629
+dancing 0.481629083361
+2
+1
+
+*dance dancing listen listening
+listen 0.688025687632
+berate 0.534062192919
+masturbate 0.532496522327
+chatting 0.515735736183
+urinate 0.513886753306
+78
+76
+
+*dance dancing look looking
+look 0.700338057974
+looked 0.587579448708
+looking 0.573138921793
+looks 0.531345086663
+gazing 0.467049458845
+3
+2
+
+*dance dancing move moving
+move 0.692539584736
+moving 0.564433275603
+moves 0.49353847658
+scurrying 0.466405012629
+hurrying 0.453475441993
+2
+1
+
+*dance dancing play playing
+play 0.69862354167
+playing 0.598123967044
+dancing 0.514939549418
+masturbating 0.450698483332
+frolicking 0.440913860214
+2
+1
+
+*dance dancing predict predicting
+predict 0.680052119582
+predicting 0.492926902503
+foretell 0.492758506164
+constrain 0.469137889517
+internalize 0.454665183057
+2
+1
+
+*dance dancing read reading
+read 0.691818822113
+chatting 0.437811090905
+gossiping 0.437676938207
+reading 0.43678213188
+muttered 0.424796189056
+4
+3
+
+*dance dancing run running
+run 0.694386279555
+running 0.535141927977
+paddled 0.418451378729
+paddling 0.404496524498
+crawling 0.398632503862
+2
+1
+
+*dance dancing say saying
+say 0.694947437573
+saying 0.492144290329
+says 0.476361975878
+muttered 0.469313177714
+opine 0.466199524565
+2
+1
+
+*dance dancing scream screaming
+scream 0.688859542042
+screaming 0.535080603021
+dancing 0.520751488572
+crying 0.515834158633
+grinning 0.507410160076
+2
+1
+
+*dance dancing see seeing
+see 0.672890361133
+detest 0.424872738606
+masturbate 0.418729421511
+covet 0.41135253613
+circumcise 0.410959256341
+21
+19
+
+*dance dancing shuffle shuffling
+shuffle 0.696383705609
+dancing 0.529100566933
+munching 0.443154008835
+strutting 0.431851755373
+shuffles 0.423004770175
+6
+4
+
+*dance dancing sing singing
+sing 0.710680322281
+singing 0.636311787847
+dancing 0.584112803498
+sang 0.533468218912
+sings 0.503748759058
+2
+1
+
+*dance dancing sit sitting
+sit 0.721628728774
+sitting 0.577136481255
+kneel 0.510667676364
+huddled 0.502571691103
+seated 0.492869680487
+2
+1
+
+*dance dancing slow slowing
+slow 0.727354060214
+slower 0.515144366139
+sluggish 0.498364478925
+slowing 0.479780462049
+dancing 0.461284381489
+4
+3
+
+*dance dancing swim swimming
+swim 0.711128284788
+paddling 0.516696163969
+dancing 0.516430692754
+frolicking 0.495551855553
+sunbathing 0.488527849303
+9
+7
+
+*dance dancing think thinking
+think 0.697188532684
+believe 0.496466721803
+detest 0.466861276494
+beleive 0.460172006406
+bitching 0.458434041501
+144
+142
+
+*dance dancing vanish vanishing
+vanish 0.741294354756
+disappear 0.561541620524
+masturbating 0.477746251042
+vanishes 0.477157602928
+reappear 0.455029707967
+42
+41
+
+*dance dancing walk walking
+walk 0.715452843885
+walking 0.561970834276
+frolicking 0.519830450913
+dancing 0.519162055414
+masturbating 0.474027799458
+2
+1
+
+*dance dancing write writing
+write 0.670531322183
+writing 0.541316151672
+scribbling 0.443088208123
+gossiping 0.440454052908
+dancing 0.434849905632
+2
+1
+
+*dance dancing code coding
+code 0.69868617958
+codes 0.580454659983
+coding 0.377505819446
+hipaa 0.350299707771
+coded 0.348699246165
+3
+2
+
+*debug debugging decrease decreasing
+decrease 0.701390012888
+increase 0.574801402583
+decreased 0.563994935622
+decreasing 0.545676564958
+increases 0.541370965845
+4
+3
+
+*debug debugging describe describing
+describe 0.625690993737
+describing 0.488324881201
+characterize 0.476678322982
+define 0.475040051017
+conceptualizing 0.468349715323
+2
+1
+
+*debug debugging discover discovering
+discover 0.639649054919
+discovering 0.562083156608
+discovers 0.519959763625
+realizes 0.475705308069
+realises 0.465744152952
+2
+1
+
+*debug debugging enhance enhancing
+enhance 0.664664187096
+enhancing 0.600778201336
+enhances 0.527639685733
+improve 0.522415769551
+improving 0.505014039023
+2
+1
+
+*debug debugging fly flying
+fly 0.638304442035
+flies 0.523792488584
+flying 0.439618776665
+busking 0.424076490022
+taxiing 0.416632046869
+3
+2
+
+*debug debugging generate generating
+generate 0.674962603156
+generating 0.607409656094
+generates 0.577004204976
+generated 0.521746241407
+debugging 0.503568929628
+2
+1
+
+*debug debugging go going
+go 0.668856675488
+gone 0.479497127593
+went 0.436726128819
+goes 0.41107776447
+going 0.404454112019
+5
+4
+
+*debug debugging implement implementing
+implement 0.629955438961
+debugging 0.602957437097
+implementing 0.584856793171
+resourcing 0.555488628427
+budgeting 0.539081039722
+3
+1
+
+*debug debugging increase increasing
+increase 0.685106483408
+decrease 0.621417297961
+increased 0.564566992134
+increases 0.556362824342
+decreased 0.536921142335
+6
+5
+
+*debug debugging invent inventing
+invent 0.641364384643
+inventing 0.53139092889
+debugging 0.491897301126
+devising 0.491006318032
+coining 0.446466498035
+2
+1
+
+*debug debugging jump jumping
+jump 0.655586577263
+jumps 0.460190820618
+jumping 0.445958706166
+freestyle 0.434457232299
+sprinting 0.433569057068
+3
+2
+
+*debug debugging listen listening
+listen 0.619536454128
+socializing 0.48648597714
+socialising 0.486061276349
+dieting 0.478178073568
+debugging 0.455264197676
+6
+4
+
+*debug debugging look looking
+look 0.681358522569
+looking 0.542087881856
+looked 0.523162625688
+looks 0.473810045545
+tidying 0.421716016181
+2
+1
+
+*debug debugging move moving
+move 0.645322294322
+moving 0.475859710898
+moves 0.456372798779
+shuffling 0.402797174317
+busking 0.402682814075
+2
+1
+
+*debug debugging play playing
+play 0.675584597348
+playing 0.572566961237
+plays 0.489830931698
+played 0.448918927287
+commentating 0.44334064147
+2
+1
+
+*debug debugging predict predicting
+predict 0.661053352855
+predicting 0.5970668941
+forecasting 0.487635238938
+quantifying 0.481798076897
+externalizing 0.469130143828
+2
+1
+
+*debug debugging read reading
+read 0.617194468438
+reading 0.503071788365
+debugging 0.447675789158
+copy-editing 0.4427549
+writting 0.433925094838
+2
+1
+
+*debug debugging run running
+run 0.676765391533
+running 0.464168221027
+runs 0.425337067043
+debugging 0.405905947506
+plowing 0.404721334831
+2
+1
+
+*debug debugging say saying
+say 0.631088227836
+opining 0.455059280603
+saying 0.453447706582
+hypothesizing 0.442577917011
+daresay 0.436112940195
+3
+2
+
+*debug debugging scream screaming
+scream 0.701922623477
+screaming 0.478167867294
+howls 0.459595327229
+audioslave 0.444256910449
+screamed 0.440834181291
+2
+1
+
+*debug debugging see seeing
+see 0.639134312855
+fine-tuning 0.384296525159
+debugging 0.381574356276
+wikilinking 0.375178657325
+wonkery 0.370363592827
+18
+16
+
+*debug debugging shuffle shuffling
+shuffle 0.677890735402
+shuffling 0.464032550791
+debugging 0.448267668699
+brawling 0.425982058899
+shuffles 0.425180518786
+2
+1
+
+*debug debugging sing singing
+sing 0.661796045949
+singing 0.576652491764
+sang 0.519977205711
+sings 0.498781326739
+choreographing 0.471208973835
+2
+1
+
+*debug debugging sit sitting
+sit 0.668511815472
+sat 0.507940123933
+sitting 0.50645884925
+lounging 0.417203752665
+socialising 0.417138463357
+3
+2
+
+*debug debugging slow slowing
+slow 0.697455597651
+sluggish 0.512466712026
+slowing 0.483619185618
+slower 0.47303920816
+uncoordinated 0.4674068294
+3
+2
+
+*debug debugging swim swimming
+swim 0.653841576596
+paddling 0.550720498541
+swimming 0.497118630259
+sunbathing 0.489686836784
+waterskiing 0.469243275857
+3
+2
+
+*debug debugging think thinking
+think 0.694143515837
+thinks 0.477697313664
+thinking 0.447681896197
+daresay 0.442901012561
+feel 0.431945804062
+3
+2
+
+*debug debugging vanish vanishing
+vanish 0.667422571503
+disappear 0.529336562903
+vanishes 0.462717632775
+disappears 0.435155137107
+showering 0.428517828558
+171
+169
+
+*debug debugging walk walking
+walk 0.694391525356
+walking 0.485470938926
+walks 0.455082190294
+walked 0.449737814375
+strolling 0.438785442196
+2
+1
+
+*debug debugging write writing
+write 0.620183224752
+writing 0.60164366113
+composing 0.511771635286
+debugging 0.510041863535
+wrote 0.491171963225
+2
+1
+
+*debug debugging code coding
+code 0.705978927755
+codes 0.558380324295
+debugging 0.515301868508
+coding 0.455341135877
+tabulation 0.388286299766
+4
+2
+
+*debug debugging dance dancing
+dance 0.709741635302
+dancing 0.551607518754
+dances 0.528393849605
+breakdancing 0.511499248979
+calisthenics 0.504349502016
+2
+1
+
+*decrease decreasing describe describing
+describe 0.63187929604
+describing 0.528793169176
+define 0.514333062971
+characterising 0.487292220155
+delimit 0.487000868128
+2
+1
+
+*decrease decreasing discover discovering
+discover 0.658249802805
+discovering 0.562511237014
+discovers 0.53011974514
+realizes 0.477329078987
+realises 0.473042655285
+2
+1
+
+*decrease decreasing enhance enhancing
+enhance 0.657782590915
+enhancing 0.612623317963
+decreasing 0.572676204035
+improve 0.556252402561
+improving 0.552940827031
+2
+1
+
+*decrease decreasing fly flying
+fly 0.660742716941
+flies 0.502632551354
+flying 0.475717931546
+circling 0.469711190774
+taxied 0.453165889957
+3
+2
+
+*decrease decreasing generate generating
+generate 0.648343740297
+generates 0.581106854318
+generated 0.558305023778
+generating 0.552273033598
+decreasing 0.526693258494
+4
+3
+
+*decrease decreasing go going
+go 0.668022191348
+gone 0.571556113695
+going 0.566877377083
+went 0.534688222183
+goes 0.522393595695
+3
+2
+
+*decrease decreasing implement implementing
+implement 0.644814637042
+implementing 0.561996117696
+enforce 0.502456811205
+optimising 0.485738978641
+harmonise 0.484850751428
+2
+1
+
+*decrease decreasing increase increasing
+decreasing 0.862550239438
+increasing 0.81365329291
+diminishing 0.651217484711
+increased 0.648633285964
+reducing 0.628700612774
+2
+1
+
+*decrease decreasing invent inventing
+invent 0.660163760028
+inventing 0.582654629497
+attaching 0.430914622916
+coining 0.425804831041
+inserting 0.425279324035
+2
+1
+
+*decrease decreasing jump jumping
+jump 0.657250089278
+jumping 0.478775874973
+jumps 0.435594439012
+f11 0.434858321433
+lunging 0.432064783975
+2
+1
+
+*decrease decreasing listen listening
+listen 0.664892161474
+listening 0.502479641475
+listened 0.48944898885
+attentively 0.461476964265
+bothering 0.44915973765
+2
+1
+
+*decrease decreasing look looking
+look 0.665619391621
+looked 0.632582924544
+looking 0.625663497619
+looks 0.538991766144
+gazing 0.474890485858
+3
+2
+
+*decrease decreasing move moving
+move 0.630438979508
+moving 0.596396716811
+moves 0.506600954631
+inched 0.486342862075
+tacking 0.478818450017
+2
+1
+
+*decrease decreasing play playing
+play 0.66103610444
+playing 0.562481443489
+plays 0.454552950086
+played 0.43106696354
+unplayed 0.405301832221
+2
+1
+
+*decrease decreasing predict predicting
+predict 0.652849056285
+decreasing 0.538097912566
+calculate 0.53422673386
+quantify 0.491487674467
+predicting 0.489640768683
+5
+3
+
+*decrease decreasing read reading
+read 0.690949532336
+memorized 0.492430398925
+memorised 0.472320486322
+trawled 0.465143677616
+perused 0.464903207175
+9
+8
+
+*decrease decreasing run running
+run 0.688790201637
+running 0.526625398391
+operated 0.420841735068
+governed 0.415465451623
+runs 0.414026139935
+2
+1
+
+*decrease decreasing say saying
+say 0.670938656087
+saying 0.50974523806
+insisting 0.50224678899
+presuming 0.487594662533
+supposing 0.484687353519
+2
+1
+
+*decrease decreasing scream screaming
+scream 0.670956119229
+screaming 0.45271609018
+swingin 0.44264899409
+spellbound 0.440732852187
+screamed 0.438838356677
+2
+1
+
+*decrease decreasing see seeing
+see 0.65027481486
+seeing 0.423091413184
+reckon 0.404104462925
+generalising 0.402842862954
+double-checking 0.396213467228
+2
+1
+
+*decrease decreasing shuffle shuffling
+shuffle 0.662838888591
+shuffles 0.46042872364
+shuffled 0.459170044499
+shuffling 0.425732950058
+swinging 0.408132769208
+4
+3
+
+*decrease decreasing sing singing
+sing 0.665185436503
+sung 0.545479861613
+singing 0.537950580644
+sang 0.535151792926
+chanted 0.49837492585
+3
+2
+
+*decrease decreasing sit sitting
+sit 0.674646275423
+sat 0.520612596102
+sitting 0.482575505551
+knelt 0.454603326548
+sits 0.442008490456
+3
+2
+
+*decrease decreasing slow slowing
+slow 0.694651050273
+slower 0.546805942684
+slowing 0.523856964422
+decreasing 0.499794591549
+fast 0.490453645393
+3
+2
+
+*decrease decreasing swim swimming
+swim 0.670915042085
+swimming 0.465113521461
+paddling 0.456055668645
+swims 0.443614643913
+rowing 0.434735231752
+2
+1
+
+*decrease decreasing think thinking
+think 0.703085863427
+suppose 0.481704636277
+thinks 0.467402771566
+beleive 0.464962811617
+reckon 0.460862417587
+220
+219
+
+*decrease decreasing vanish vanishing
+vanish 0.701224493748
+vanishes 0.529732716728
+decreasing 0.505732098278
+disappearing 0.466021644549
+vanishing 0.461202828478
+5
+3
+
+*decrease decreasing walk walking
+walk 0.666418370258
+walking 0.518865035301
+strolls 0.463695685315
+tiptoe 0.446995349611
+treading 0.445435835577
+2
+1
+
+*decrease decreasing write writing
+write 0.642467687446
+writing 0.535999453618
+composing 0.487636381454
+compose 0.464949302294
+written 0.454025520507
+2
+1
+
+*decrease decreasing code coding
+code 0.721289533576
+codes 0.619958539354
+3166-1 0.470094983313
+two-letter 0.44872154431
+coded 0.426604893176
+9
+8
+
+*decrease decreasing dance dancing
+dance 0.699701371289
+dancing 0.549873949786
+dances 0.492846553388
+bhangra 0.456165729619
+juggling 0.438936150653
+2
+1
+
+*decrease decreasing debug debugging
+debug 0.702265160723
+win32 0.586968518497
+configuring 0.583201157602
+client-side 0.579397555342
+debugging 0.577030098176
+5
+4
+
+*describe describing discover discovering
+discovering 0.643318714156
+discover 0.610243322426
+discovers 0.607149256494
+describing 0.571466345998
+finds 0.563236326041
+1
+1
+
+*describe describing enhance enhancing
+enhancing 0.706189573723
+enhances 0.628279044514
+enhance 0.591634978045
+improving 0.588591165211
+boosting 0.562162943765
+1
+1
+
+*describe describing fly flying
+fly 0.659011034388
+flies 0.590970883606
+flying 0.491657914656
+bailing 0.474340521884
+piloting 0.470307093656
+3
+2
+
+*describe describing generate generating
+generating 0.679496404778
+generates 0.657502658916
+generate 0.612360003846
+generated 0.598820308757
+creating 0.56731815276
+1
+1
+
+*describe describing go going
+go 0.63654100801
+goes 0.505709067571
+rummaging 0.496396301076
+gone 0.492452843137
+putting 0.481247826878
+6
+5
+
+*describe describing implement implementing
+implementing 0.72010171019
+formulating 0.62901055672
+implement 0.605188292403
+validating 0.579423000413
+describing 0.577683813435
+1
+1
+
+*describe describing increase increasing
+increase 0.652789506943
+increases 0.596436761761
+decrease 0.581300571462
+decreasing 0.574458931662
+increasing 0.565659170103
+5
+4
+
+*describe describing invent inventing
+inventing 0.655167786142
+describing 0.611239418487
+invent 0.59922841044
+devising 0.562664405748
+introducing 0.56175165214
+1
+1
+
+*describe describing jump jumping
+jump 0.676139326045
+jumps 0.503927625639
+jumping 0.493609054236
+bumping 0.446527366882
+leaping 0.434258051889
+3
+2
+
+*describe describing listen listening
+listen 0.616855908279
+describing 0.550891789153
+apologising 0.550486097888
+previewing 0.541558715855
+apologizing 0.531865304518
+11
+9
+
+*describe describing look looking
+look 0.687017106446
+looking 0.640762680415
+looked 0.592615579434
+looks 0.555214038159
+describing 0.516357974528
+2
+1
+
+*describe describing move moving
+move 0.634142201999
+moving 0.586919268209
+moves 0.505504848162
+materializing 0.494411461454
+putting 0.492900761921
+2
+1
+
+*describe describing play playing
+play 0.668089204117
+playing 0.653721421849
+plays 0.528007746439
+co-creating 0.488986872364
+played 0.488842496313
+2
+1
+
+*describe describing predict predicting
+predicting 0.705931532301
+describing 0.668430433775
+estimating 0.5967021217
+analyzing 0.59385576949
+assessing 0.591182176041
+1
+1
+
+*describe describing read reading
+read 0.704640246115
+describing 0.549331957344
+reading 0.548806783193
+quoting 0.533673924989
+writen 0.502795293003
+3
+1
+
+*describe describing run running
+run 0.68652813341
+running 0.558608993623
+runs 0.478693644779
+plugging 0.454697880119
+stowing 0.44125120097
+2
+1
+
+*describe describing say saying
+saying 0.672347906884
+say 0.630181528506
+stating 0.603886900705
+describing 0.589041715326
+mentioning 0.564684563218
+1
+1
+
+*describe describing scream screaming
+scream 0.684850860723
+screams 0.493556812904
+mallrats 0.474538519124
+previewing 0.47245301823
+screaming 0.466203963711
+5
+4
+
+*describe describing see seeing
+see 0.655569082486
+describing 0.613522434482
+explaining 0.519854388486
+outlining 0.517258842511
+seeing 0.507763622633
+5
+3
+
+*describe describing shuffle shuffling
+shuffle 0.680765159097
+previewing 0.472166562242
+plugging 0.45803977771
+shuffling 0.456387316813
+shuffles 0.447854817163
+4
+3
+
+*describe describing sing singing
+sing 0.646321765991
+singing 0.601370915506
+sang 0.57516608903
+sings 0.540542041083
+reciting 0.531059195093
+2
+1
+
+*describe describing sit sitting
+sit 0.661338880539
+sitting 0.565541491611
+sat 0.530084702035
+adjourning 0.460217142983
+putting 0.459502258478
+2
+1
+
+*describe describing slow slowing
+slow 0.689847442731
+slowing 0.554297715746
+slower 0.496293319335
+fast 0.495577764698
+describing 0.47126230911
+2
+1
+
+*describe describing swim swimming
+swim 0.677136190826
+swimming 0.492936443142
+paddling 0.476392772974
+swims 0.439511823852
+swam 0.433090580633
+2
+1
+
+*describe describing think thinking
+think 0.641900345723
+re-nominating 0.538467640467
+rereading 0.535804577546
+afding 0.517415393852
+resubmitting 0.51445335093
+38
+36
+
+*describe describing vanish vanishing
+vanish 0.654248468865
+vanishes 0.576052865139
+disappears 0.549308563329
+describing 0.517903238469
+reapplying 0.514094425065
+25
+23
+
+*describe describing walk walking
+walk 0.675571407548
+walking 0.541894687874
+walks 0.510642573056
+rummaging 0.468996583133
+hitch-hiking 0.46767748438
+2
+1
+
+*describe describing write writing
+write 0.647119788017
+writing 0.630076667332
+describing 0.617150007305
+written 0.555177976632
+wrote 0.53541791706
+2
+1
+
+*describe describing code coding
+code 0.713525466582
+codes 0.590875251557
+describing 0.443768822973
+zcta 0.441827960668
+coding 0.430918103342
+5
+3
+
+*describe describing dance dancing
+dance 0.655585771294
+dancing 0.509906296386
+choreographing 0.491007262666
+choreography 0.46549987874
+dj-ing 0.459684112598
+2
+1
+
+*describe describing debug debugging
+debug 0.680366076925
+configuring 0.660585679867
+debugging 0.627752144098
+decrypting 0.603942973969
+inputting 0.593612996531
+3
+2
+
+*describe describing decrease decreasing
+decrease 0.66759107534
+decreasing 0.616635459237
+decreases 0.582937283075
+increases 0.581032438251
+reducing 0.576685118928
+2
+1
+
+*discover discovering enhance enhancing
+enhancing 0.708239882998
+improving 0.62988559439
+enhance 0.624667247222
+boosting 0.593033807661
+improves 0.585081315792
+1
+1
+
+*discover discovering fly flying
+fly 0.635438109727
+flies 0.529957812351
+flying 0.509591288079
+re-equipping 0.450082996644
+crash-landing 0.446904684097
+3
+2
+
+*discover discovering generate generating
+generating 0.646376726618
+generate 0.629395155381
+generates 0.616281652332
+creating 0.612790541668
+producing 0.563959132306
+1
+1
+
+*discover discovering go going
+go 0.646549643446
+gone 0.519319107029
+goes 0.502340395296
+going 0.490853712684
+went 0.471239175248
+4
+3
+
+*discover discovering implement implementing
+implementing 0.713739143077
+implement 0.631624455276
+formulating 0.58409677263
+instituting 0.577231276725
+devising 0.560426010293
+1
+1
+
+*discover discovering increase increasing
+increase 0.660196923408
+increases 0.63601198328
+boosting 0.598639415513
+decreasing 0.588202923012
+decrease 0.582279173734
+6
+5
+
+*discover discovering invent inventing
+inventing 0.741792962416
+invent 0.627220591746
+coining 0.597741788038
+devising 0.575770978185
+discovering 0.575113457918
+1
+1
+
+*discover discovering jump jumping
+jump 0.660653760018
+jumping 0.526469576925
+jumps 0.476711737947
+bumping 0.459202358696
+hooking 0.458425236687
+2
+1
+
+*discover discovering listen listening
+listen 0.622260109838
+listening 0.518299193093
+discovering 0.495807970571
+deejaying 0.491251468403
+apologising 0.487894832059
+2
+1
+
+*discover discovering look looking
+look 0.680241321262
+looking 0.591889434536
+looked 0.580175073511
+looks 0.523854148675
+discovering 0.505392061036
+2
+1
+
+*discover discovering move moving
+move 0.640324475556
+moving 0.588578894381
+moves 0.535743723024
+materializing 0.477806097437
+reapplying 0.474643118725
+2
+1
+
+*discover discovering play playing
+play 0.666337440909
+playing 0.64081271445
+plays 0.537925846086
+popularising 0.477254029942
+co-creating 0.474328627181
+2
+1
+
+*discover discovering predict predicting
+predicting 0.650540679094
+predict 0.61494345024
+discovering 0.55993382552
+quantifying 0.559052107404
+assessing 0.536486819628
+1
+1
+
+*discover discovering read reading
+read 0.644173813095
+reading 0.55328115099
+rereading 0.497240515514
+memorizing 0.496260927309
+interpreting 0.488910307924
+2
+1
+
+*discover discovering run running
+run 0.651826560248
+running 0.568225651696
+runs 0.477377844796
+trialling 0.453857464069
+screwing 0.428171046877
+2
+1
+
+*discover discovering say saying
+say 0.642748608484
+saying 0.541133766355
+discovering 0.536372730195
+supposing 0.520036132848
+opining 0.509237117537
+2
+1
+
+*discover discovering scream screaming
+scream 0.675910662816
+screaming 0.473967291387
+lusting 0.466725482722
+swingin 0.459136788094
+midnite 0.432105238781
+2
+1
+
+*discover discovering see seeing
+see 0.602578742736
+discovering 0.532172114467
+seeing 0.5016930165
+rereading 0.467584240333
+brining 0.458771408195
+3
+1
+
+*discover discovering shuffle shuffling
+shuffle 0.672634270979
+inventing 0.445569172441
+hooking 0.430167729815
+popularizing 0.426027710222
+chugging 0.423509544114
+6
+5
+
+*discover discovering sing singing
+sing 0.656653043963
+singing 0.6095046715
+sang 0.55035280838
+sings 0.539609930433
+composing 0.517285061777
+2
+1
+
+*discover discovering sit sitting
+sit 0.655675521455
+sitting 0.543936086206
+sat 0.535679645231
+sits 0.461798569034
+cavorting 0.449118937022
+2
+1
+
+*discover discovering slow slowing
+slow 0.694293868667
+slowing 0.57770984745
+slower 0.499338385098
+plodding 0.481522502263
+fast 0.475112590163
+2
+1
+
+*discover discovering swim swimming
+swim 0.640407415846
+paddling 0.48764179817
+swimming 0.454806962947
+cavorting 0.435750558899
+spearfishing 0.427787635422
+3
+2
+
+*discover discovering think thinking
+think 0.666115738951
+re-nominating 0.497068144878
+discovering 0.492627929109
+brining 0.490661494448
+rereading 0.49011302071
+22
+20
+
+*discover discovering vanish vanishing
+vanish 0.650149603365
+vanishes 0.561570694522
+reapplying 0.512825331123
+lapsing 0.506259591851
+disappear 0.50103402143
+7
+5
+
+*discover discovering walk walking
+walk 0.650288934932
+walking 0.513822349173
+rummaging 0.44658526821
+strolls 0.446240673598
+strolling 0.438863537744
+2
+1
+
+*discover discovering write writing
+write 0.644928620494
+writing 0.625491319827
+composing 0.585139929179
+authoring 0.516789932127
+discovering 0.516446420152
+2
+1
+
+*discover discovering code coding
+code 0.706735601674
+codes 0.582333895244
+coding 0.460334918712
+3166-1 0.423613393119
+codifying 0.418348545401
+3
+2
+
+*discover discovering dance dancing
+dance 0.68349416565
+dancing 0.562065114002
+choreographing 0.507769256323
+popularising 0.50584869788
+dances 0.493208796165
+2
+1
+
+*discover discovering debug debugging
+debug 0.653313676922
+debugging 0.651201131198
+configuring 0.64220339273
+interfacing 0.614044924628
+client-side 0.60810250611
+2
+1
+
+*discover discovering decrease decreasing
+decrease 0.671289691197
+decreasing 0.63309377792
+increases 0.623333816572
+decreases 0.597685005947
+reducing 0.569337497079
+2
+1
+
+*discover discovering describe describing
+describing 0.642811668221
+characterizing 0.607946262047
+describe 0.600608387906
+discovering 0.568266520419
+characterising 0.558479502168
+1
+1
+
+*enhance enhancing fly flying
+fly 0.652847256187
+flies 0.559836059237
+flying 0.485756543339
+taxiing 0.472176298599
+stowing 0.468813043669
+3
+2
+
+*enhance enhancing generate generating
+generating 0.657501312267
+creating 0.625576718818
+generate 0.619394385076
+generates 0.6140993942
+generated 0.591785243417
+1
+1
+
+*enhance enhancing go going
+go 0.641100946458
+gone 0.544915150392
+rummaging 0.498240277288
+goes 0.49348821581
+going 0.486005713774
+5
+4
+
+*enhance enhancing implement implementing
+implementing 0.756678145386
+formulating 0.626477330693
+implement 0.612941521376
+enacting 0.599511742925
+instituting 0.588528338321
+1
+1
+
+*enhance enhancing increase increasing
+enhancing 0.679671745092
+increase 0.664851647483
+decreasing 0.635115886392
+increasing 0.627589066309
+decrease 0.625688659891
+4
+2
+
+*enhance enhancing invent inventing
+inventing 0.643172632851
+invent 0.622851997015
+devising 0.558983788217
+conceiving 0.537338393215
+creating 0.536594061086
+1
+1
+
+*enhance enhancing jump jumping
+jump 0.684492607058
+jumping 0.485830037855
+jumps 0.467429032548
+materializing 0.431976071441
+sprinting 0.431428928355
+2
+1
+
+*enhance enhancing listen listening
+listen 0.634159222437
+listening 0.510962005682
+chastising 0.509833418439
+apologising 0.499342641039
+deejaying 0.474773386769
+2
+1
+
+*enhance enhancing look looking
+look 0.686668823109
+looking 0.61050342599
+looked 0.567109986392
+looks 0.506145487101
+calling 0.450278982786
+2
+1
+
+*enhance enhancing move moving
+move 0.63680042005
+moving 0.590752355626
+moves 0.530922549593
+materializing 0.528723508809
+stowing 0.495614510143
+2
+1
+
+*enhance enhancing play playing
+play 0.691828476836
+playing 0.656868608434
+plays 0.563649453151
+played 0.533351347798
+co-creating 0.468928487846
+2
+1
+
+*enhance enhancing predict predicting
+predicting 0.690081752359
+predict 0.606747762682
+quantifying 0.605189047479
+assessing 0.577010894251
+analyzing 0.575315382183
+1
+1
+
+*enhance enhancing read reading
+read 0.669854248444
+writen 0.495678520786
+memorizing 0.486850459384
+translating 0.483609264103
+reading 0.480684219158
+5
+4
+
+*enhance enhancing run running
+run 0.695274991698
+running 0.582946050728
+stowing 0.440214066129
+runs 0.433604003588
+toiling 0.429168081661
+2
+1
+
+*enhance enhancing say saying
+say 0.621708399664
+saying 0.524240110573
+supposing 0.521751719812
+opining 0.494543259764
+doing 0.488619160609
+2
+1
+
+*enhance enhancing scream screaming
+scream 0.699405668996
+screaming 0.446871452442
+swingin 0.445108824531
+screams 0.434993005291
+urinating 0.434429040407
+2
+1
+
+*enhance enhancing see seeing
+see 0.61748070121
+seeing 0.463174382873
+describing 0.459505518709
+characterising 0.456861020333
+characterizing 0.442063619401
+2
+1
+
+*enhance enhancing shuffle shuffling
+shuffle 0.689146836047
+shuffling 0.462357213509
+strumming 0.434509566508
+materializing 0.427166219826
+shuffles 0.424131853805
+2
+1
+
+*enhance enhancing sing singing
+sing 0.666098767089
+singing 0.595946857143
+sang 0.563741618982
+sings 0.52470143184
+sung 0.520699223606
+2
+1
+
+*enhance enhancing sit sitting
+sit 0.682449925922
+sitting 0.577123122812
+sat 0.542139400855
+urinating 0.471933949548
+lounging 0.460999326764
+2
+1
+
+*enhance enhancing slow slowing
+slow 0.707591421872
+slowing 0.590780800871
+sluggish 0.517963217765
+slower 0.506004110612
+fast 0.491960824238
+2
+1
+
+*enhance enhancing swim swimming
+swim 0.670677028025
+paddling 0.500392598418
+swimming 0.484832404539
+sunbathing 0.458013116395
+urinating 0.451312246602
+3
+2
+
+*enhance enhancing think thinking
+think 0.649841246506
+afding 0.492666278444
+speedying 0.484014675731
+re-nominating 0.483925823888
+re-listing 0.482561462867
+232
+231
+
+*enhance enhancing vanish vanishing
+vanish 0.685989668733
+vanishes 0.535771701385
+materializing 0.514572637828
+reappearing 0.499173601376
+disappear 0.492782018721
+38
+37
+
+*enhance enhancing walk walking
+walk 0.684424002095
+walking 0.515433937799
+walks 0.491975886594
+rummaging 0.467964876005
+strolling 0.460984585376
+2
+1
+
+*enhance enhancing write writing
+write 0.645686374346
+writing 0.591774875159
+composing 0.547803076906
+transcribing 0.507862660382
+written 0.504601185574
+2
+1
+
+*enhance enhancing code coding
+code 0.706546250611
+codes 0.592985382258
+3166-1 0.435107870128
+codifying 0.424839447048
+zcta 0.42251382741
+6
+5
+
+*enhance enhancing dance dancing
+dance 0.66062036282
+dancing 0.552883795767
+choreographing 0.498612766774
+djing 0.485426366482
+improvising 0.483278469782
+2
+1
+
+*enhance enhancing debug debugging
+configuring 0.674762224604
+debug 0.669758396689
+debugging 0.638755683302
+initializing 0.594759010889
+cross-browser 0.59335437862
+3
+2
+
+*enhance enhancing decrease decreasing
+decrease 0.694406989296
+decreasing 0.660876715024
+reducing 0.613380337825
+enhancing 0.606485737845
+lessening 0.593379916763
+2
+1
+
+*enhance enhancing describe describing
+describing 0.686859518891
+characterizing 0.620655120101
+describe 0.592961987314
+characterising 0.592051757987
+conceptualizing 0.566486959127
+1
+1
+
+*enhance enhancing discover discovering
+discovering 0.656360778394
+discover 0.600439802345
+finding 0.554125225548
+uncovering 0.537637476743
+discovered 0.533961819783
+1
+1
+
+*fly flying generate generating
+generate 0.656747889403
+generating 0.614244884074
+generates 0.58066083448
+generated 0.505601116616
+flying 0.46520342202
+2
+1
+
+*fly flying go going
+go 0.59434557039
+flying 0.561374717401
+went 0.487771377744
+gone 0.483107404871
+going 0.455054206846
+5
+3
+
+*fly flying implement implementing
+implement 0.644181713405
+implementing 0.57269561549
+state-mandated 0.45575128404
+recordkeeping 0.452343214997
+competency-based 0.451826328583
+2
+1
+
+*fly flying increase increasing
+increase 0.63266954438
+decrease 0.563425727876
+increased 0.539530214899
+increases 0.531315063689
+increasing 0.519881099428
+5
+4
+
+*fly flying invent inventing
+invent 0.637162582392
+inventing 0.530294165453
+invents 0.496013525741
+flying 0.487559294788
+devising 0.40975927654
+2
+1
+
+*fly flying jump jumping
+jump 0.648628919105
+flying 0.57951947444
+jumping 0.451311688524
+freefall 0.448272414644
+jumps 0.443587223724
+3
+1
+
+*fly flying listen listening
+listen 0.612334136798
+listening 0.511075760015
+flying 0.477105420502
+listened 0.428162433638
+attentively 0.406638361557
+2
+1
+
+*fly flying look looking
+look 0.654136270992
+looking 0.56885163707
+looked 0.567137910402
+looks 0.513678777916
+flying 0.468012717635
+2
+1
+
+*fly flying move moving
+move 0.605168291861
+flying 0.593365170397
+moving 0.555428488298
+moves 0.430114305346
+withdrawing 0.429283896564
+3
+1
+
+*fly flying play playing
+play 0.609419036972
+playing 0.602511892602
+flying 0.531355882431
+plays 0.45026707287
+played 0.447203741431
+2
+1
+
+*fly flying predict predicting
+predict 0.61929342069
+predicting 0.52199077417
+calculate 0.452981444758
+predicted 0.436913376586
+predicts 0.421340551342
+2
+1
+
+*fly flying read reading
+read 0.642318825152
+reading 0.481347869986
+flying 0.454083482689
+perused 0.40316903915
+re-read 0.399930025569
+2
+1
+
+*fly flying run running
+run 0.673910068333
+flying 0.5515540927
+running 0.545989613358
+runs 0.418100866264
+ran 0.405093868815
+3
+1
+
+*fly flying say saying
+say 0.617038458866
+supposing 0.439579591459
+saying 0.439173155747
+flying 0.435091201947
+says 0.43159177833
+3
+2
+
+*fly flying scream screaming
+scream 0.670788149085
+flying 0.48425155381
+howling 0.419390600992
+robocop 0.392677247961
+spacemen 0.391024750692
+10
+8
+
+*fly flying see seeing
+see 0.619943280846
+flying 0.465049117601
+seeing 0.42610047302
+saw 0.386037493185
+dunno 0.344932285117
+3
+1
+
+*fly flying shuffle shuffling
+shuffle 0.671804746485
+flying 0.447724133951
+shuffles 0.394505409018
+shuffling 0.385887948368
+reshuffle 0.357942964794
+4
+2
+
+*fly flying sing singing
+sing 0.618508946875
+singing 0.543146199016
+flying 0.533869789737
+sang 0.484866364082
+sings 0.463753665629
+2
+1
+
+*fly flying sit sitting
+sit 0.602541873056
+sitting 0.529743213006
+sat 0.521602024589
+flying 0.517096516452
+standing 0.44790807869
+2
+1
+
+*fly flying slow slowing
+slow 0.676623391842
+slower 0.473821021419
+flying 0.473217124251
+sluggish 0.465809583294
+slowing 0.442499306995
+5
+3
+
+*fly flying swim swimming
+swim 0.635261931213
+flying 0.600920994292
+swimming 0.490772468606
+rowing 0.488122375112
+paddling 0.421807630639
+3
+1
+
+*fly flying think thinking
+think 0.665731047767
+flying 0.461029525164
+suppose 0.441636649067
+beleive 0.436270978972
+frankly 0.420180954482
+52
+50
+
+*fly flying vanish vanishing
+vanish 0.635639466103
+flying 0.514480160866
+vanishes 0.507650004221
+disappear 0.449954573516
+disappears 0.418568720045
+7
+5
+
+*fly flying walk walking
+walk 0.611449175968
+flying 0.597356950098
+walking 0.492012100739
+walks 0.426161382628
+stroll 0.410692951067
+3
+1
+
+*fly flying write writing
+write 0.631376426904
+writing 0.528559435507
+flying 0.49090064469
+wrote 0.445783010397
+writes 0.416461102211
+2
+1
+
+*fly flying code coding
+code 0.695026730896
+codes 0.528788449727
+flying 0.398866198486
+two-letter 0.384910976866
+cryptographic 0.373964057953
+20
+18
+
+*fly flying dance dancing
+dance 0.680184434985
+flying 0.496352649769
+dancing 0.488143979741
+dances 0.466929886086
+bhangra 0.441618606538
+3
+1
+
+*fly flying debug debugging
+debug 0.679569022058
+debugging 0.610769370998
+gtk 0.556102102006
+gpgpu 0.554357601409
+configuring 0.547617237717
+2
+1
+
+*fly flying decrease decreasing
+decrease 0.650133239414
+decreasing 0.557187961011
+decreased 0.519186035923
+increases 0.514804119529
+increase 0.513832860236
+2
+1
+
+*fly flying describe describing
+describe 0.631108401408
+describing 0.497090055269
+describes 0.456163885298
+characterize 0.450338817066
+illustrate 0.445482719197
+2
+1
+
+*fly flying discover discovering
+discover 0.637838482631
+discovering 0.537098261626
+discovers 0.530743399107
+learns 0.489567551735
+reveals 0.445469371614
+2
+1
+
+*fly flying enhance enhancing
+enhance 0.641508593844
+enhancing 0.552165783667
+enhances 0.499513192461
+improve 0.487049796013
+augment 0.4622456687
+2
+1
+
+*generate generating go going
+go 0.628998104749
+gone 0.530908316156
+going 0.502947470487
+went 0.463890452004
+goes 0.43767758083
+3
+2
+
+*generate generating implement implementing
+implementing 0.651369108992
+generating 0.576675082237
+implement 0.573694163158
+formulating 0.530546241425
+recordkeeping 0.517281998768
+1
+1
+
+*generate generating increase increasing
+increase 0.629027952222
+generating 0.577606267785
+decrease 0.572901306706
+increased 0.564856364114
+increasing 0.56011964062
+5
+3
+
+*generate generating invent inventing
+inventing 0.615269817835
+invent 0.594459770199
+generating 0.55712805191
+devising 0.474793549784
+constructing 0.473192125258
+1
+1
+
+*generate generating jump jumping
+jump 0.645279294048
+jumps 0.449841885184
+jumping 0.44134895626
+generating 0.429360268889
+bumping 0.409853299592
+3
+2
+
+*generate generating listen listening
+listen 0.611135536325
+listening 0.535342795979
+hating 0.44062898897
+chastising 0.434498853629
+generating 0.430130446899
+2
+1
+
+*generate generating look looking
+look 0.662058499769
+looking 0.596750492678
+looked 0.565927309537
+looks 0.466755027505
+generating 0.435062454224
+2
+1
+
+*generate generating move moving
+move 0.610952391388
+moving 0.565624869386
+moves 0.457059457019
+generating 0.454398283917
+relocating 0.450820347166
+2
+1
+
+*generate generating play playing
+play 0.660930306652
+playing 0.621356279471
+plays 0.509701528164
+played 0.469576718353
+generating 0.437510617003
+2
+1
+
+*generate generating predict predicting
+predicting 0.586115017656
+predict 0.560786438729
+generating 0.527251274967
+gauging 0.503361945786
+quantifying 0.486167977383
+1
+1
+
+*generate generating read reading
+read 0.624427529715
+reading 0.501515785121
+quoting 0.45604778314
+writen 0.439133708931
+enquiring 0.430684570636
+2
+1
+
+*generate generating run running
+run 0.667274233613
+running 0.534615405638
+generating 0.456350491683
+metro-north 0.42425971292
+pumping 0.414651875384
+2
+1
+
+*generate generating say saying
+say 0.604828594977
+saying 0.522215518654
+opining 0.453785256796
+mentioning 0.451609818783
+says 0.451473703075
+2
+1
+
+*generate generating scream screaming
+scream 0.698295082889
+screaming 0.441117404674
+maneater 0.426552284712
+swingin 0.411562757743
+cry-baby 0.410755453547
+2
+1
+
+*generate generating see seeing
+see 0.587728407963
+seeing 0.454644836115
+generating 0.43990557743
+re-evaluating 0.400656053865
+describing 0.391123572387
+2
+1
+
+*generate generating shuffle shuffling
+shuffle 0.685029968876
+generating 0.423487482671
+merry-go-round 0.400535787757
+shuffling 0.397155186113
+shuffles 0.392533383451
+4
+2
+
+*generate generating sing singing
+sing 0.625182216319
+singing 0.548660393965
+sang 0.512920854181
+sings 0.494960771984
+rehearsing 0.4727560887
+2
+1
+
+*generate generating sit sitting
+sit 0.625427306631
+sitting 0.532705433584
+sat 0.523706453645
+sits 0.464260339497
+lounging 0.447803847869
+2
+1
+
+*generate generating slow slowing
+slow 0.665246142493
+slowing 0.522643713635
+fast 0.471680909383
+slower 0.455743464147
+rapid 0.454765896518
+2
+1
+
+*generate generating swim swimming
+swim 0.636990740845
+paddling 0.512754810075
+swimming 0.488343833062
+rowing 0.481533346767
+sunbathing 0.417575015123
+3
+2
+
+*generate generating think thinking
+think 0.647718963788
+thinks 0.454584893539
+reconsidering 0.437326206281
+re-listing 0.428537604955
+rereading 0.422390884756
+8
+7
+
+*generate generating vanish vanishing
+vanish 0.636610094001
+vanishes 0.504667387616
+vanishing 0.496462425479
+generating 0.486913783698
+disappearing 0.471266721403
+3
+2
+
+*generate generating walk walking
+walk 0.648151688468
+walking 0.528460712489
+strolling 0.460344045095
+walks 0.459736326561
+hitch-hiking 0.43625462944
+2
+1
+
+*generate generating write writing
+writing 0.603897615837
+write 0.575798526746
+generating 0.524973084883
+wrote 0.477089868182
+composing 0.46189958246
+1
+1
+
+*generate generating code coding
+code 0.710380593715
+codes 0.557033833433
+generating 0.459508729056
+zcta 0.450847711653
+tabulation 0.420413940575
+6
+4
+
+*generate generating dance dancing
+dance 0.673560704725
+dancing 0.533754667378
+butoh 0.439605134115
+bhangra 0.434161840085
+hip-hop 0.42814832177
+2
+1
+
+*generate generating debug debugging
+debug 0.643650644759
+debugging 0.626697200001
+configuring 0.591858693916
+scriptable 0.564117188975
+gtk 0.559358627185
+2
+1
+
+*generate generating decrease decreasing
+decrease 0.653132349701
+decreasing 0.592164047537
+generating 0.553087268906
+lessening 0.536204975638
+decreased 0.534348378124
+2
+1
+
+*generate generating describe describing
+describing 0.626816974525
+describe 0.563833214965
+characterizing 0.508266922892
+generating 0.505529629607
+characterising 0.504096386052
+1
+1
+
+*generate generating discover discovering
+discover 0.604504357382
+discovering 0.601418647646
+discovers 0.509965654269
+discovered 0.495618621347
+finding 0.474328698703
+2
+1
+
+*generate generating enhance enhancing
+enhancing 0.639735857243
+enhance 0.58256128537
+boosting 0.536097318487
+improving 0.531768436761
+generating 0.521454237409
+1
+1
+
+*generate generating fly flying
+fly 0.592937106198
+flies 0.495806687527
+flying 0.49570114286
+refuelling 0.465860464124
+foundering 0.443276399328
+3
+2
+
+*go going implement implementing
+implement 0.654993512778
+implementing 0.52109693208
+liberalise 0.492798447738
+effectuate 0.482167847922
+formalise 0.480874198842
+2
+1
+
+*go going increase increasing
+increase 0.677383247409
+decrease 0.590891651611
+increasing 0.589206787579
+decreasing 0.576520530962
+increased 0.552129351646
+3
+2
+
+*go going invent inventing
+invent 0.645541141035
+going 0.531097777738
+trying 0.499946203076
+supposed 0.484451944916
+reffering 0.476164405428
+8
+6
+
+*go going jump jumping
+jump 0.651568375486
+going 0.526372018401
+jumping 0.438897827477
+jumps 0.413319197111
+salchow 0.408900140752
+3
+1
+
+*go going listen listening
+listen 0.633919848732
+reffering 0.576260648335
+going 0.573593109493
+listening 0.573070318746
+bothering 0.55581978952
+4
+2
+
+*go going look looking
+looking 0.677682345904
+look 0.638635439661
+looked 0.578480688604
+going 0.534703284166
+looks 0.531704089353
+1
+1
+
+*go going move moving
+moving 0.657402622386
+going 0.650802594105
+move 0.632301750359
+progressing 0.515087274706
+detoured 0.482462396972
+1
+1
+
+*go going play playing
+play 0.658089040278
+playing 0.608507551004
+going 0.548918230063
+played 0.477860388123
+plays 0.442379697496
+2
+1
+
+*go going predict predicting
+predict 0.660390026889
+expected 0.534396571055
+predicted 0.513250412307
+forecasted 0.508041218174
+predicting 0.502716480827
+5
+4
+
+*go going read reading
+read 0.68286249692
+going 0.516790084202
+reffering 0.470496012888
+choosen 0.466584893945
+reading 0.462470563804
+5
+3
+
+*go going run running
+run 0.692340452341
+going 0.58852493698
+running 0.535743991855
+timetabled 0.41694094461
+shunted 0.406839237624
+3
+1
+
+*go going say saying
+say 0.675492620585
+going 0.556701411071
+reffering 0.535913061894
+supposed 0.523005978889
+refering 0.498523185027
+22
+20
+
+*go going scream screaming
+scream 0.680685463368
+going 0.435821843059
+undertow 0.419992419912
+screaming 0.419672018036
+supposed 0.417250026956
+4
+2
+
+*go going see seeing
+see 0.678066220943
+going 0.525559471853
+reffering 0.480583945529
+supposed 0.463904971785
+refering 0.442332225463
+6
+4
+
+*go going shuffle shuffling
+shuffle 0.688102068594
+going 0.460828340054
+shuffled 0.405782474575
+chugging 0.398601730159
+shuffling 0.394690702618
+5
+3
+
+*go going sing singing
+sing 0.618521450182
+sung 0.51901670977
+going 0.515862211944
+singing 0.51072471544
+sang 0.480692734193
+4
+2
+
+*go going sit sitting
+going 0.605922151442
+sit 0.585313640007
+sitting 0.51285634184
+waiting 0.480744390613
+sat 0.444773549099
+3
+1
+
+*go going slow slowing
+slow 0.731037843311
+slower 0.527500579704
+slowing 0.514151706713
+sluggish 0.502798886155
+going 0.483212059132
+3
+2
+
+*go going swim swimming
+swim 0.651824588076
+going 0.495449577241
+rowing 0.425713698261
+swum 0.415513066544
+swimming 0.407961139523
+5
+3
+
+*go going think thinking
+think 0.693598840782
+supposed 0.503702568612
+going 0.502443120444
+reffering 0.499365101713
+realy 0.48703628693
+243
+241
+
+*go going vanish vanishing
+vanish 0.633914811722
+going 0.569176324073
+diffeomorphic 0.521286936451
+homotopic 0.508533632649
+reffering 0.498415213696
+56
+54
+
+*go going walk walking
+walk 0.652769290924
+going 0.583509908653
+veering 0.454738145406
+walking 0.452671716421
+travelling 0.436913868601
+4
+2
+
+*go going write writing
+write 0.637403073789
+writing 0.508325068526
+going 0.503036524455
+reffering 0.485509669787
+intented 0.452668958045
+2
+1
+
+*go going code coding
+code 0.689632019023
+codes 0.541819413667
+tabulation 0.42259991971
+zcta 0.414905048942
+coded 0.377608687544
+20
+19
+
+*go going dance dancing
+dance 0.681127498344
+dancing 0.476213447958
+bhangra 0.458806978982
+going 0.4451159092
+breakdance 0.433760620959
+2
+1
+
+*go going debug debugging
+debug 0.679444005355
+scriptable 0.572822987178
+framebuffer 0.536168884733
+pre-configured 0.530194100829
+cross-browser 0.52405301974
+14
+13
+
+*go going decrease decreasing
+decrease 0.682986849272
+decreasing 0.625465799939
+increase 0.57488242101
+lessening 0.53083809746
+increasing 0.524078788726
+2
+1
+
+*go going describe describing
+describe 0.653070480248
+referring 0.561432234446
+supposed 0.551407263052
+antithetical 0.531499535801
+refering 0.498843561493
+8
+7
+
+*go going discover discovering
+discover 0.662774049712
+supposed 0.526272971808
+revealed 0.513791027146
+uncover 0.507401291642
+rumored 0.494533523426
+6
+5
+
+*go going enhance enhancing
+enhance 0.649045409786
+improve 0.534996234272
+enhancing 0.532967643459
+maximize 0.508201297078
+heighten 0.492655890422
+3
+2
+
+*go going fly flying
+fly 0.642057371018
+going 0.585422370566
+flies 0.496003176419
+flying 0.466786717989
+taxied 0.463232803523
+4
+2
+
+*go going generate generating
+generate 0.671339559372
+generating 0.562393401714
+generated 0.550356375731
+yielding 0.521411040956
+generates 0.517388949913
+2
+1
+
+*implement implementing increase increasing
+increase 0.660794860662
+increasing 0.626960754099
+decreasing 0.61918069215
+decrease 0.616695025251
+reducing 0.594862617479
+2
+1
+
+*implement implementing invent inventing
+inventing 0.695140241062
+implementing 0.610756926609
+invent 0.599884187377
+devising 0.591006317839
+conceiving 0.580612011923
+1
+1
+
+*implement implementing jump jumping
+jump 0.658921643814
+jumping 0.505148888948
+sprinting 0.431243326461
+freefall 0.430072248701
+bumping 0.428618614252
+2
+1
+
+*implement implementing listen listening
+listen 0.575695960589
+tweeting 0.536006875294
+apologising 0.531408748016
+chastising 0.530910803916
+implementing 0.526447803481
+12
+10
+
+*implement implementing look looking
+look 0.657265749144
+looking 0.642376667315
+looked 0.550656085201
+looks 0.480120270329
+staring 0.454779093393
+2
+1
+
+*implement implementing move moving
+moving 0.626786096923
+move 0.626212099184
+implementing 0.505945817185
+materializing 0.498688421989
+putting 0.497915884681
+1
+1
+
+*implement implementing play playing
+play 0.683304888328
+playing 0.662131635762
+plays 0.530188519444
+played 0.493053197739
+co-creating 0.474096748885
+2
+1
+
+*implement implementing predict predicting
+predicting 0.722661194053
+assessing 0.614716570846
+quantifying 0.595943944542
+implementing 0.589369705099
+predict 0.581433343163
+1
+1
+
+*implement implementing read reading
+read 0.635335945302
+writen 0.539795566681
+reading 0.533568131419
+writting 0.52013529862
+interpreting 0.503652040333
+3
+2
+
+*implement implementing run running
+run 0.670941883468
+running 0.559752242773
+implementing 0.446821997593
+trialling 0.428509334834
+interning 0.425399030927
+2
+1
+
+*implement implementing say saying
+say 0.606742987296
+supposing 0.571996979879
+saying 0.552991107968
+arguing 0.545436715659
+opining 0.542982436877
+3
+2
+
+*implement implementing scream screaming
+scream 0.690047609312
+screaming 0.481361722853
+sleepwalking 0.448233104422
+mallrats 0.437259824498
+swingin 0.43520482692
+2
+1
+
+*implement implementing see seeing
+see 0.596260320533
+seeing 0.50589713704
+re-nominating 0.480529301662
+implementing 0.464408688882
+renominating 0.45988763568
+2
+1
+
+*implement implementing shuffle shuffling
+shuffle 0.691284431577
+implementing 0.475053340849
+shuffling 0.462889751455
+co-creating 0.41751637963
+drafting 0.414910684512
+3
+1
+
+*implement implementing sing singing
+sing 0.633406418337
+singing 0.61793079531
+sang 0.546893551328
+sung 0.528313978505
+sings 0.493554391851
+2
+1
+
+*implement implementing sit sitting
+sit 0.662800475522
+sitting 0.565375109966
+sat 0.505479685709
+putting 0.457329916397
+urinating 0.446342805022
+2
+1
+
+*implement implementing slow slowing
+slow 0.686034891532
+slowing 0.594984057687
+accelerating 0.477020377187
+slower 0.469236593768
+sluggish 0.461495974747
+2
+1
+
+*implement implementing swim swimming
+swim 0.645685690119
+swimming 0.521778217765
+paddling 0.499617398471
+rowing 0.449621532996
+sunbathing 0.442538739296
+2
+1
+
+*implement implementing think thinking
+think 0.670278286125
+re-nominating 0.50998027457
+writting 0.493201504504
+re-listing 0.491101195974
+afding 0.488941934596
+15
+13
+
+*implement implementing vanish vanishing
+vanish 0.651775889548
+reapplying 0.505528661527
+materializing 0.504137832812
+transforming 0.502603453787
+disappear 0.502324426754
+16
+15
+
+*implement implementing walk walking
+walk 0.646036027529
+walking 0.553705287338
+strolling 0.476330568357
+rummaging 0.467087218648
+hitch-hiking 0.452867157727
+2
+1
+
+*implement implementing write writing
+writing 0.674403803632
+write 0.608285301567
+implementing 0.567464116476
+writting 0.553486554346
+written 0.536869649205
+1
+1
+
+*implement implementing code coding
+code 0.707738663463
+codes 0.596476185226
+implementing 0.505663207465
+3166-1 0.445980655947
+zcta 0.438574969475
+6
+4
+
+*implement implementing dance dancing
+dance 0.675588294802
+dancing 0.563702950981
+choreographing 0.481051476631
+dances 0.462834887941
+remixing 0.453394670732
+2
+1
+
+*implement implementing debug debugging
+configuring 0.664803976194
+debugging 0.662306078719
+implementing 0.658277178474
+debug 0.652495152594
+querying 0.607264882497
+2
+2
+
+*implement implementing decrease decreasing
+decrease 0.688273080779
+decreasing 0.647723989518
+reducing 0.598294314779
+lessening 0.56573857292
+increases 0.560841386882
+2
+1
+
+*implement implementing describe describing
+describing 0.684524656624
+characterizing 0.629708736016
+characterising 0.579995721597
+conceptualizing 0.576548803645
+describe 0.565722978162
+1
+1
+
+*implement implementing discover discovering
+discovering 0.663234133696
+discover 0.587039096405
+finding 0.580023652317
+uncovering 0.55344179339
+investigating 0.517536785
+1
+1
+
+*implement implementing enhance enhancing
+enhancing 0.753516762437
+improving 0.681748647671
+enhance 0.593101563509
+facilitating 0.589064738279
+promoting 0.586886212947
+1
+1
+
+*implement implementing fly flying
+fly 0.647182970865
+flies 0.568423590697
+flying 0.533826293137
+hovering 0.487052815335
+circling 0.454639302414
+3
+2
+
+*implement implementing generate generating
+generating 0.680284845561
+creating 0.642971280921
+generated 0.610151993279
+generates 0.602400294516
+generate 0.602018463847
+1
+1
+
+*implement implementing go going
+go 0.634856896828
+gone 0.530459649996
+going 0.494508383554
+putting 0.481314379953
+letting 0.476810622206
+3
+2
+
+*increase increasing invent inventing
+invent 0.629958388174
+inventing 0.533642869307
+invents 0.437788402257
+reinterpreting 0.422587428197
+coining 0.420236215217
+2
+1
+
+*increase increasing jump jumping
+jump 0.632831629709
+jumps 0.431579442265
+jumping 0.430473193229
+lunging 0.417810357302
+bumping 0.391115338224
+3
+2
+
+*increase increasing listen listening
+listen 0.643287753423
+listening 0.485708622365
+attentively 0.476188644567
+listened 0.475790320621
+intently 0.450105839675
+2
+1
+
+*increase increasing look looking
+look 0.657150113759
+looking 0.590372379597
+looked 0.579960325488
+looks 0.494261540901
+gazes 0.431060286707
+2
+1
+
+*increase increasing move moving
+move 0.615410823897
+moving 0.562816294826
+moves 0.496781861602
+inched 0.493068981641
+hurtling 0.448943163382
+2
+1
+
+*increase increasing play playing
+play 0.660576846283
+playing 0.562069116237
+plays 0.481090670252
+played 0.448518149282
+increasing 0.398083820854
+2
+1
+
+*increase increasing predict predicting
+predict 0.629046907651
+increasing 0.522438121735
+predicting 0.492163685372
+predicted 0.47118875133
+quantify 0.469047234947
+3
+1
+
+*increase increasing read reading
+read 0.663429553182
+memorized 0.460096229148
+memorised 0.459331981133
+reading 0.4441685332
+trawled 0.437584761107
+4
+3
+
+*increase increasing run running
+run 0.659063840631
+running 0.52493195898
+runs 0.43685861031
+increasing 0.406729010727
+operated 0.399042174381
+2
+1
+
+*increase increasing say saying
+say 0.639914404793
+saying 0.491105655253
+supposing 0.483675745113
+insisting 0.468832776486
+mused 0.467062784926
+2
+1
+
+*increase increasing scream screaming
+scream 0.694878885881
+swingin 0.453258249527
+screaming 0.452902984014
+screams 0.441471269293
+howls 0.440848373082
+3
+2
+
+*increase increasing see seeing
+see 0.628337397581
+seeing 0.405433999016
+increasing 0.402894848128
+expecially 0.386512664678
+dreading 0.384851282433
+2
+1
+
+*increase increasing shuffle shuffling
+shuffle 0.655715468635
+shuffles 0.427910721109
+shuffled 0.396409381614
+increasing 0.383731926039
+swinging 0.382515633664
+30
+28
+
+*increase increasing sing singing
+sing 0.653604438884
+singing 0.555429029753
+sang 0.543689321731
+sings 0.517337034687
+sung 0.515618136009
+2
+1
+
+*increase increasing sit sitting
+sit 0.655250455659
+sat 0.516263490587
+sitting 0.471616950453
+sits 0.438009692169
+knelt 0.422935954479
+3
+2
+
+*increase increasing slow slowing
+slow 0.690256155415
+slower 0.507641642736
+fast 0.485192111502
+slowing 0.484329736274
+sluggish 0.473784069745
+4
+3
+
+*increase increasing swim swimming
+swim 0.656534155884
+swimming 0.445130001767
+swims 0.442860810226
+paddling 0.427099438705
+rowing 0.417707492188
+2
+1
+
+*increase increasing think thinking
+think 0.697222877181
+thinks 0.469506972212
+suppose 0.448525064962
+beleive 0.430883713364
+thinking 0.430168136321
+5
+4
+
+*increase increasing vanish vanishing
+vanish 0.675634489898
+vanishes 0.533807826314
+disappear 0.483556987898
+increasing 0.475023611904
+disappears 0.468109722439
+7
+5
+
+*increase increasing walk walking
+walk 0.652265849671
+walking 0.50324309712
+strolls 0.482011313755
+walked 0.439174686323
+walks 0.435195725251
+2
+1
+
+*increase increasing write writing
+write 0.612509694998
+writing 0.534034998214
+writes 0.447516124314
+composing 0.446180202256
+wrote 0.445854991649
+2
+1
+
+*increase increasing code coding
+code 0.702611868431
+codes 0.594608566145
+3166-1 0.418766490101
+increasing 0.403925761407
+two-letter 0.399316381031
+30
+28
+
+*increase increasing dance dancing
+dance 0.704976821596
+dancing 0.544561734319
+dances 0.497726681567
+bhangra 0.471205767315
+zouk 0.448626260947
+2
+1
+
+*increase increasing debug debugging
+debug 0.671223908441
+debugging 0.580570228343
+win32 0.575568897619
+configuring 0.567492484198
+scriptable 0.55741976148
+2
+1
+
+*increase increasing decrease decreasing
+increasing 0.870664105018
+decreasing 0.803934658926
+lessening 0.667115396199
+diminishing 0.646229832144
+reducing 0.642796441445
+2
+1
+
+*increase increasing describe describing
+describe 0.621579136633
+describing 0.509430941557
+characterising 0.487787650193
+emphasising 0.46041944819
+likening 0.456584196327
+2
+1
+
+*increase increasing discover discovering
+discover 0.646550918617
+discovers 0.547226672006
+discovering 0.534700002588
+realises 0.507009850982
+realizes 0.49803096239
+3
+2
+
+*increase increasing enhance enhancing
+increasing 0.660979836679
+enhance 0.6137610688
+enhancing 0.590050909815
+enhances 0.516645426761
+bolstering 0.510674185238
+3
+1
+
+*increase increasing fly flying
+fly 0.646723664758
+flies 0.535442780614
+flying 0.475558854073
+flys 0.430601462702
+hurtling 0.429566003157
+3
+2
+
+*increase increasing generate generating
+generate 0.605479537133
+generates 0.564812002379
+increasing 0.556903632662
+generated 0.546902942198
+generating 0.528651025868
+5
+3
+
+*increase increasing go going
+go 0.65641497674
+gone 0.565187107826
+going 0.551231001904
+goes 0.534521095421
+went 0.514478560789
+3
+2
+
+*increase increasing implement implementing
+implement 0.609681536008
+implementing 0.561897069032
+increasing 0.494917448741
+harmonising 0.489674533573
+prioritising 0.477965691905
+2
+1
+
+*invent inventing jump jumping
+jump 0.654916524051
+jumping 0.510521875606
+bumping 0.448471109563
+inventing 0.446780062575
+leaping 0.441521168427
+2
+1
+
+*invent inventing listen listening
+listen 0.594085364993
+inventing 0.568095342539
+listening 0.521607993519
+berating 0.499153106501
+chastising 0.488920969251
+3
+1
+
+*invent inventing look looking
+look 0.656174596519
+looking 0.622410873
+looked 0.551190543783
+inventing 0.507643277917
+looks 0.492672983611
+2
+1
+
+*invent inventing move moving
+move 0.603364054546
+moving 0.569166583143
+inventing 0.482402884282
+screwing 0.47725719686
+moves 0.471317552073
+2
+1
+
+*invent inventing play playing
+play 0.665806650168
+playing 0.654496210677
+inventing 0.531889400452
+plays 0.487569146119
+co-creating 0.476823201867
+2
+1
+
+*invent inventing predict predicting
+predicting 0.659256992634
+predict 0.6097643343
+quantifying 0.549971959336
+estimating 0.548381678863
+assessing 0.535784409333
+1
+1
+
+*invent inventing read reading
+read 0.620461257036
+reading 0.519386256546
+inventing 0.499696433012
+memorizing 0.482844629484
+quoting 0.470157908114
+2
+1
+
+*invent inventing run running
+run 0.654268915606
+running 0.579069799308
+runs 0.451888857724
+inventing 0.435648321067
+screwing 0.428398509281
+2
+1
+
+*invent inventing say saying
+say 0.6211267418
+saying 0.59920796028
+arguing 0.552517707604
+supposing 0.529995347731
+inventing 0.519577213776
+2
+1
+
+*invent inventing scream screaming
+scream 0.690656619891
+screaming 0.504219402397
+inventing 0.480914514831
+screams 0.446710999934
+swingin 0.444369191018
+2
+1
+
+*invent inventing see seeing
+see 0.609364822441
+seeing 0.477149847674
+inventing 0.475326247801
+explaining 0.464499812162
+describing 0.459945883942
+2
+1
+
+*invent inventing shuffle shuffling
+shuffle 0.682344556668
+inventing 0.508523902734
+popularizing 0.423136440088
+shuffles 0.418765203931
+shuffling 0.418754673419
+5
+3
+
+*invent inventing sing singing
+sing 0.633999962163
+singing 0.615691364103
+sang 0.520996992305
+inventing 0.507588249092
+sings 0.501608062842
+2
+1
+
+*invent inventing sit sitting
+sit 0.637265526144
+sitting 0.547860223084
+inventing 0.49151451313
+sat 0.486423515949
+cavorting 0.462516407192
+2
+1
+
+*invent inventing slow slowing
+slow 0.699456824824
+slowing 0.541438310155
+sluggish 0.495444182078
+fast 0.485778682668
+inventing 0.471091437758
+2
+1
+
+*invent inventing swim swimming
+swim 0.623462933493
+swimming 0.525725087791
+paddling 0.500973917562
+rowing 0.468555469093
+sunbathing 0.462832884061
+2
+1
+
+*invent inventing think thinking
+think 0.656850446279
+inventing 0.484068938995
+screwing 0.471066568021
+brining 0.466310910891
+pestering 0.456227401414
+18
+16
+
+*invent inventing vanish vanishing
+vanish 0.637672731421
+inventing 0.532965440067
+vanishes 0.50680864509
+disappearing 0.485528406696
+transforming 0.483439081477
+8
+6
+
+*invent inventing walk walking
+walk 0.641033937248
+walking 0.54498120426
+walks 0.470027304399
+inventing 0.461264464
+hitchhiking 0.456177843607
+2
+1
+
+*invent inventing write writing
+inventing 0.64346859458
+writing 0.643283111704
+write 0.583107332695
+composing 0.551102318497
+penning 0.534698048667
+2
+1
+
+*invent inventing code coding
+code 0.687626620709
+codes 0.564880740423
+inventing 0.440528365581
+zcta 0.427356242551
+coding 0.426241794988
+5
+3
+
+*invent inventing dance dancing
+dance 0.681011596547
+dancing 0.55929305027
+popularising 0.504133563121
+inventing 0.488965098865
+breakdancing 0.488116822564
+2
+1
+
+*invent inventing debug debugging
+debug 0.642473904036
+configuring 0.631096409156
+debugging 0.628875025532
+interfacing 0.591533870331
+decrypting 0.568014353795
+3
+2
+
+*invent inventing decrease decreasing
+decrease 0.673878227847
+decreasing 0.663868556683
+increases 0.589313292376
+decreases 0.580650864917
+lessening 0.575893407699
+2
+1
+
+*invent inventing describe describing
+describing 0.674434025864
+inventing 0.622409669332
+characterizing 0.60377552568
+describe 0.598754840116
+characterising 0.547060189158
+1
+1
+
+*invent inventing discover discovering
+discovering 0.725321954583
+discover 0.594967624012
+inventing 0.552610266281
+uncovering 0.548377427404
+discovers 0.518654578764
+1
+1
+
+*invent inventing enhance enhancing
+enhancing 0.695442345158
+enhance 0.630472611652
+improving 0.585373535551
+enhances 0.560006986495
+boosting 0.557965706792
+1
+1
+
+*invent inventing fly flying
+fly 0.627309708622
+flies 0.537774735549
+flying 0.512308767976
+inventing 0.473182007749
+dousing 0.450661036771
+3
+2
+
+*invent inventing generate generating
+generating 0.654519994346
+generate 0.602125965604
+inventing 0.580952002569
+generates 0.575167100785
+creating 0.550802856515
+1
+1
+
+*invent inventing go going
+go 0.618941957239
+inventing 0.522882014447
+gone 0.507562556828
+screwing 0.48539183035
+goes 0.484426003449
+6
+4
+
+*invent inventing implement implementing
+implementing 0.695365334602
+inventing 0.603485006387
+implement 0.573959629887
+instituting 0.553227460418
+devising 0.548050977641
+1
+1
+
+*invent inventing increase increasing
+increase 0.668007141057
+increasing 0.621462902061
+decreasing 0.614824265628
+increases 0.59667174494
+decrease 0.58068381561
+2
+1
+
+*jump jumping listen listening
+listen 0.658419914507
+listening 0.528328604971
+euthanize 0.488294260008
+jumping 0.47098427894
+attentively 0.467339304051
+2
+1
+
+*jump jumping look looking
+look 0.680330806391
+looking 0.588769031912
+looked 0.559950099259
+looks 0.530500320664
+jumping 0.474080955973
+2
+1
+
+*jump jumping move moving
+move 0.682869460556
+moving 0.573031598759
+jumping 0.562453883015
+moves 0.464924861104
+relocating 0.453363151889
+2
+1
+
+*jump jumping play playing
+play 0.676001884923
+playing 0.602566621062
+jumping 0.487850906776
+plays 0.451421585848
+played 0.428558708904
+2
+1
+
+*jump jumping predict predicting
+predict 0.664877133366
+predicting 0.512769488168
+quantify 0.509623397851
+infer 0.469660851802
+overstate 0.468559699576
+2
+1
+
+*jump jumping read reading
+read 0.666585324911
+jumping 0.463783392612
+reading 0.462067284664
+regurgitating 0.427645665448
+browsed 0.425851711714
+3
+1
+
+*jump jumping run running
+run 0.694037790888
+jumping 0.566064127061
+running 0.454293727361
+runs 0.438022825714
+paddling 0.405739731063
+3
+1
+
+*jump jumping say saying
+say 0.642245787459
+saying 0.499488599262
+opining 0.485053386586
+presuming 0.484548881955
+opine 0.480944958489
+2
+1
+
+*jump jumping scream screaming
+scream 0.669169963604
+jumping 0.508241284738
+screaming 0.479364715362
+shriek 0.458620377502
+farting 0.454559584579
+3
+1
+
+*jump jumping see seeing
+see 0.657543854406
+jumping 0.434943959219
+seeing 0.43029483862
+subjecting 0.404808925176
+remeber 0.395742262156
+3
+1
+
+*jump jumping shuffle shuffling
+shuffle 0.682856771947
+jumping 0.534582746213
+shuffling 0.485461992427
+shuffles 0.424909638453
+stomping 0.411362066837
+3
+1
+
+*jump jumping sing singing
+sing 0.662398158966
+singing 0.617671110285
+jumping 0.489751643976
+sang 0.461293910749
+miming 0.460548380048
+2
+1
+
+*jump jumping sit sitting
+sit 0.691062859114
+jumping 0.513996164689
+sitting 0.491300298302
+sat 0.441195193633
+lounging 0.438923191219
+3
+1
+
+*jump jumping slow slowing
+slow 0.706073970108
+slowing 0.527347607179
+jumping 0.502017289636
+sluggish 0.481083340818
+fast 0.466489556303
+2
+1
+
+*jump jumping swim swimming
+swim 0.707433708305
+jumping 0.610106575795
+paddling 0.520415018964
+swimming 0.496098249343
+wakeboarding 0.435124557609
+4
+2
+
+*jump jumping think thinking
+think 0.682043484988
+jumping 0.449995553895
+remeber 0.447150353853
+re-nominating 0.445276463263
+hypothesizing 0.438158534376
+83
+81
+
+*jump jumping vanish vanishing
+vanish 0.68854924174
+jumping 0.578148053172
+disappear 0.519353484798
+regressing 0.479796365672
+mutating 0.470297771652
+22
+20
+
+*jump jumping walk walking
+walk 0.677564999777
+jumping 0.596819369771
+walking 0.572283408895
+strolling 0.500488597525
+walks 0.468180011224
+3
+1
+
+*jump jumping write writing
+write 0.644425756321
+writing 0.541585369086
+compose 0.456176538133
+scribbling 0.450634859701
+writting 0.438624120589
+2
+1
+
+*jump jumping code coding
+code 0.695111112148
+codes 0.560897299625
+3166-1 0.390592533973
+jumping 0.387651471548
+tabulation 0.376952733775
+8
+6
+
+*jump jumping dance dancing
+dance 0.6928733513
+dancing 0.590646306734
+jumping 0.526672144526
+dances 0.514334933539
+juggling 0.500453510425
+2
+1
+
+*jump jumping debug debugging
+debug 0.681004638934
+debugging 0.601150817634
+client-side 0.572768340862
+configuring 0.562697642041
+server-side 0.554630156935
+2
+1
+
+*jump jumping decrease decreasing
+decrease 0.684724395939
+decreasing 0.602393026311
+decreased 0.591292793739
+increase 0.587458448538
+increases 0.558125517445
+2
+1
+
+*jump jumping describe describing
+describe 0.667565286973
+describing 0.522946171215
+characterize 0.510384553786
+characterise 0.500566850148
+define 0.498335621217
+2
+1
+
+*jump jumping discover discovering
+discover 0.67194615396
+discovering 0.564244164691
+discovers 0.526189116525
+uncover 0.505142112772
+discovered 0.469838715471
+2
+1
+
+*jump jumping enhance enhancing
+enhance 0.701862777112
+enhancing 0.588656629389
+improve 0.564533000423
+enhances 0.514262330262
+impair 0.490450946212
+2
+1
+
+*jump jumping fly flying
+fly 0.678005385104
+jumping 0.609697236202
+flies 0.595699775456
+flying 0.489429977731
+pollinating 0.467833002392
+4
+2
+
+*jump jumping generate generating
+generate 0.662829818029
+generates 0.537037677135
+generating 0.522013829455
+generated 0.500740710066
+produce 0.485081914961
+3
+2
+
+*jump jumping go going
+go 0.665091687446
+jumping 0.564771710663
+going 0.505275030421
+hurrying 0.478614832402
+goes 0.47336692305
+3
+1
+
+*jump jumping implement implementing
+implement 0.676529694606
+implementing 0.571303658063
+enforce 0.510337511849
+enact 0.504485651234
+automate 0.481384537209
+2
+1
+
+*jump jumping increase increasing
+increase 0.684439962127
+decrease 0.58827156541
+increases 0.560484145273
+increased 0.559270259018
+increasing 0.558180082385
+5
+4
+
+*jump jumping invent inventing
+invent 0.666508650429
+inventing 0.531329905292
+concocting 0.47219949087
+jumping 0.464658478857
+devise 0.44729941044
+2
+1
+
+*listen listening look looking
+look 0.637143162276
+looking 0.61504727337
+listening 0.563188097704
+looked 0.543475057259
+viewing 0.480911694218
+2
+1
+
+*listen listening move moving
+move 0.626362719195
+moving 0.606948148104
+listening 0.492538207403
+moves 0.462298852606
+slipping 0.445134757836
+2
+1
+
+*listen listening play playing
+play 0.661180224359
+playing 0.63706850374
+listening 0.565979530856
+goal-kicking 0.412727174003
+plays 0.408932287527
+2
+1
+
+*listen listening predict predicting
+predict 0.634300112954
+predicting 0.566624366452
+listening 0.531164150122
+predicted 0.48355921501
+pinpointing 0.466658417454
+2
+1
+
+*listen listening read reading
+read 0.638545055868
+listening 0.637410270751
+reading 0.614516456475
+memorizing 0.47830252524
+browsing 0.442261419155
+3
+1
+
+*listen listening run running
+run 0.670705202994
+running 0.540247006052
+listening 0.441373640975
+runs 0.424241513382
+walking 0.410490175038
+2
+1
+
+*listen listening say saying
+say 0.60768575916
+listening 0.574391912469
+saying 0.467234110525
+supposing 0.465197658363
+inferring 0.462965986856
+3
+1
+
+*listen listening scream screaming
+scream 0.644654805092
+listening 0.536611218327
+screaming 0.43105863842
+rocking 0.411963681319
+undertow 0.408241635382
+3
+1
+
+*listen listening see seeing
+see 0.617921828195
+listening 0.547224761283
+seeing 0.450802000838
+viewing 0.42505603996
+showing 0.384666432317
+3
+1
+
+*listen listening shuffle shuffling
+shuffle 0.689326703035
+listening 0.507918141901
+shuffling 0.482798429536
+shuffles 0.417062585623
+strumming 0.41170562819
+3
+1
+
+*listen listening sing singing
+singing 0.641288622376
+listening 0.61464014213
+sing 0.601750402656
+sung 0.485124059577
+miming 0.464764338226
+1
+1
+
+*listen listening sit sitting
+sit 0.613936668693
+sitting 0.581132903969
+listening 0.577800301791
+lounging 0.503694626939
+walking 0.491350566487
+2
+1
+
+*listen listening slow slowing
+slow 0.702388543357
+slower 0.508132735179
+listening 0.499689407716
+sluggish 0.492104284677
+fast 0.491251138187
+6
+4
+
+*listen listening swim swimming
+swim 0.665010987265
+swimming 0.546669154961
+listening 0.523024016993
+paddling 0.518203300945
+walking 0.459007734109
+2
+1
+
+*listen listening think thinking
+think 0.656608693727
+listening 0.533821106903
+thinking 0.46846521668
+inferring 0.420684562138
+imagining 0.415583538031
+3
+1
+
+*listen listening vanish vanishing
+vanish 0.631360266978
+listening 0.497992175252
+coalescing 0.479130081936
+disappear 0.475931871499
+vanishes 0.445560788529
+14
+12
+
+*listen listening walk walking
+walk 0.665243754794
+walking 0.621709025366
+listening 0.545194872798
+stroll 0.49274858095
+strolling 0.481446198353
+2
+1
+
+*listen listening write writing
+listening 0.606071295812
+write 0.5962688412
+writing 0.583089956573
+composing 0.51261990252
+compiling 0.473536642103
+3
+1
+
+*listen listening code coding
+code 0.720492068414
+codes 0.574380165482
+tabulation 0.50778685958
+zcta 0.424523246835
+listening 0.417949454969
+6
+4
+
+*listen listening dance dancing
+dance 0.712734992466
+listening 0.56083277061
+dancing 0.53301717355
+breakdancing 0.473365284252
+breakdance 0.459287712128
+3
+1
+
+*listen listening debug debugging
+debug 0.697903057776
+debugging 0.641684056653
+listening 0.582852399599
+configuring 0.570620064435
+scriptable 0.55505738195
+2
+1
+
+*listen listening decrease decreasing
+decrease 0.696398555443
+decreasing 0.609907009312
+increase 0.585692424522
+decreased 0.540194610259
+increases 0.53183072631
+2
+1
+
+*listen listening describe describing
+describe 0.620753091922
+listening 0.562433301856
+describing 0.537097013106
+define 0.501444891396
+characterize 0.478971333276
+3
+1
+
+*listen listening discover discovering
+discover 0.662213960827
+discovering 0.569615550517
+listening 0.539593441729
+discovers 0.526475413216
+discovered 0.485594291956
+2
+1
+
+*listen listening enhance enhancing
+enhance 0.663207269006
+enhancing 0.599498306839
+improve 0.540179013669
+improving 0.511183976543
+listening 0.509266946633
+2
+1
+
+*listen listening fly flying
+fly 0.643649031956
+flying 0.528575088699
+flies 0.521417620207
+listening 0.502534664396
+hovering 0.48529307059
+2
+1
+
+*listen listening generate generating
+generate 0.645765737026
+generating 0.602458296951
+generated 0.553708171271
+generates 0.535675000742
+listening 0.482465406064
+2
+1
+
+*listen listening go going
+go 0.596388902783
+going 0.55328120073
+listening 0.551018209487
+walking 0.50548369672
+gone 0.488866474028
+2
+1
+
+*listen listening implement implementing
+implement 0.61786917449
+implementing 0.580954736923
+listening 0.572630076604
+automating 0.495125544517
+standards-based 0.493922703681
+2
+1
+
+*listen listening increase increasing
+increase 0.688539242756
+decrease 0.608186130255
+increasing 0.579300453305
+increased 0.565541491482
+decreasing 0.563626253342
+3
+2
+
+*listen listening invent inventing
+invent 0.612773807668
+listening 0.580245080165
+inventing 0.530352308682
+designing 0.44347162412
+invented 0.443347869723
+3
+1
+
+*listen listening jump jumping
+jump 0.657137339443
+jumping 0.506718017231
+listening 0.458480220114
+jumps 0.45614422123
+25m 0.444443019035
+2
+1
+
+*look looking move moving
+move 0.655270342928
+moving 0.617725025792
+going 0.514004321077
+looking 0.50442142774
+progressing 0.501901056612
+2
+1
+
+*look looking play playing
+play 0.678214208858
+playing 0.642086471075
+played 0.499060490819
+plays 0.47260320817
+looking 0.442119511322
+2
+1
+
+*look looking predict predicting
+predict 0.660631413111
+predicting 0.543422589028
+predicted 0.510836590404
+infer 0.460634970721
+quantify 0.460200130345
+2
+1
+
+*look looking read reading
+read 0.658987179319
+looking 0.547858374624
+reading 0.48542242642
+searching 0.478783099545
+rummaging 0.470636854024
+3
+1
+
+*look looking run running
+run 0.710770106245
+running 0.569319227513
+going 0.468179213653
+looking 0.45496034184
+runs 0.448779147973
+2
+1
+
+*look looking say saying
+say 0.640209320399
+arguing 0.53426027801
+supposing 0.522252230675
+hoping 0.521624451509
+replying 0.521023671012
+6
+5
+
+*look looking scream screaming
+scream 0.668548516275
+screaming 0.490131439659
+crying 0.48195297047
+prepping 0.468758980921
+looking 0.458207890427
+2
+1
+
+*look looking see seeing
+see 0.649401158616
+looking 0.498971490978
+hoping 0.474349888488
+asking 0.46201872119
+wondering 0.451635341428
+6
+4
+
+*look looking shuffle shuffling
+shuffle 0.681255838303
+sneaking 0.448138459694
+shuffling 0.43426267435
+shuffles 0.422389263609
+shuffled 0.400703569975
+3
+2
+
+*look looking sing singing
+sing 0.654476480586
+singing 0.578647032575
+auditioning 0.504883106105
+sung 0.502188831281
+sang 0.498070720006
+2
+1
+
+*look looking sit sitting
+sit 0.656785657035
+sitting 0.543182777482
+looking 0.520336072795
+waiting 0.518350946675
+lounging 0.468286216037
+2
+1
+
+*look looking slow slowing
+slow 0.717169409719
+slowing 0.56010633302
+slowed 0.49947934081
+fast 0.495862144598
+sluggish 0.489242941101
+2
+1
+
+*look looking swim swimming
+swim 0.678079710801
+paddling 0.482501584882
+swimming 0.472084421049
+swam 0.466860709802
+swims 0.445948883988
+3
+2
+
+*look looking think thinking
+think 0.674537352833
+looking 0.525239974936
+wondering 0.487197933166
+worried 0.478331458644
+over-reacting 0.47827555568
+22
+20
+
+*look looking vanish vanishing
+vanish 0.685811894026
+looking 0.517647854852
+vanishes 0.50123631793
+disappearing 0.49683171589
+disappear 0.495055098497
+7
+5
+
+*look looking walk walking
+walk 0.686301249881
+walking 0.558866522359
+strolling 0.521520941611
+travelling 0.515532345252
+hitchhiking 0.506609669433
+2
+1
+
+*look looking write writing
+write 0.620709128284
+writing 0.541138455055
+preparing 0.511130681335
+prepping 0.487784095735
+composing 0.486748621714
+2
+1
+
+*look looking code coding
+code 0.68806314867
+codes 0.57293541012
+zcta 0.429319489325
+searching 0.382958553562
+coded 0.379603155235
+11
+10
+
+*look looking dance dancing
+dance 0.674421822738
+dancing 0.532791416067
+breakdance 0.445832991464
+juggling 0.440182014359
+breakdancing 0.434923916356
+2
+1
+
+*look looking debug debugging
+debug 0.67947209548
+debugging 0.584367471927
+scriptable 0.563023129985
+configuring 0.562266985271
+sftp 0.535189008928
+2
+1
+
+*look looking decrease decreasing
+decrease 0.68783688037
+decreasing 0.661023753934
+increase 0.598811515105
+reducing 0.559960112244
+increasing 0.557340019927
+2
+1
+
+*look looking describe describing
+describe 0.613112610646
+referring 0.594970081748
+describing 0.526857877198
+referred 0.485824487812
+alluding 0.48289069842
+3
+2
+
+*look looking discover discovering
+discover 0.675991791018
+discovering 0.539229041386
+hoping 0.529623473619
+discovers 0.529000620959
+searching 0.505829400523
+2
+1
+
+*look looking enhance enhancing
+enhance 0.661313117279
+enhancing 0.585512037261
+hindering 0.545461317271
+improve 0.544872458968
+improving 0.544340599954
+2
+1
+
+*look looking fly flying
+fly 0.688713297235
+flying 0.53687875598
+flies 0.535695957823
+circling 0.462060558496
+hovering 0.45841366718
+2
+1
+
+*look looking generate generating
+generate 0.671513774157
+generating 0.587835340455
+generated 0.559238346076
+generates 0.51606139879
+yielding 0.474176486992
+2
+1
+
+*look looking go going
+going 0.682483903157
+go 0.664287447025
+gone 0.594453849371
+looking 0.538071708224
+hurrying 0.531778057191
+1
+1
+
+*look looking implement implementing
+implement 0.644493264209
+implementing 0.606427323119
+seeking 0.509556933971
+attempting 0.488570029913
+proposing 0.484939777169
+2
+1
+
+*look looking increase increasing
+increase 0.691444556651
+increasing 0.613988356712
+decreasing 0.604555992479
+decrease 0.588490631157
+increased 0.57129260616
+2
+1
+
+*look looking invent inventing
+invent 0.64248283944
+inventing 0.548491140463
+trying 0.504028881044
+seeking 0.482755131721
+attempting 0.468931955106
+2
+1
+
+*look looking jump jumping
+jump 0.679555513616
+jumping 0.514039165987
+jumps 0.461915713486
+leaping 0.449490204625
+running 0.424527604597
+2
+1
+
+*look looking listen listening
+listen 0.646774788412
+listening 0.579675888716
+bothering 0.545197117599
+wanting 0.544818341145
+looking 0.541604028119
+2
+1
+
+*move moving play playing
+play 0.6556250815
+playing 0.648404708401
+moving 0.499612322629
+played 0.475399422453
+plays 0.470630004834
+2
+1
+
+*move moving predict predicting
+predict 0.635220919147
+predicting 0.567782723599
+predicted 0.494999985515
+quantifying 0.486268488182
+estimating 0.478012989419
+2
+1
+
+*move moving read reading
+read 0.688674619548
+reading 0.543683345898
+moving 0.496141301872
+memorized 0.453435935292
+quoting 0.452882924729
+2
+1
+
+*move moving run running
+run 0.661958855069
+running 0.583643591189
+moving 0.523549328921
+going 0.424938301037
+operated 0.422394460517
+2
+1
+
+*move moving say saying
+say 0.661136907843
+saying 0.484049229549
+opining 0.468259872254
+said 0.467005753571
+says 0.461733773068
+2
+1
+
+*move moving scream screaming
+scream 0.676435314171
+screaming 0.469579680114
+blaring 0.448867849601
+squealing 0.438094850887
+banging 0.435730178589
+2
+1
+
+*move moving see seeing
+see 0.665085378559
+moving 0.468317128252
+seeing 0.424405716332
+describing 0.404540196739
+explaining 0.381519692996
+3
+1
+
+*move moving shuffle shuffling
+shuffle 0.661309706718
+moving 0.502493486788
+shuffles 0.44587603581
+shuffling 0.428766117178
+switching 0.419050164196
+4
+2
+
+*move moving sing singing
+sing 0.658171270511
+singing 0.572073049669
+sung 0.522158781443
+sang 0.501080906786
+rehearsing 0.494050366879
+2
+1
+
+*move moving sit sitting
+sit 0.636692919694
+sitting 0.533639422989
+moving 0.518325531576
+sat 0.518237715318
+seated 0.443171280474
+2
+1
+
+*move moving slow slowing
+slow 0.713763597672
+slowing 0.543098312045
+slower 0.536831986517
+sluggish 0.495031320739
+fast 0.480293042716
+2
+1
+
+*move moving swim swimming
+swim 0.667959678607
+moving 0.524350668119
+paddling 0.512748104831
+swimming 0.488332006535
+rowing 0.473221185005
+4
+2
+
+*move moving think thinking
+think 0.681118549347
+moving 0.441621868798
+re-nominating 0.439986298658
+afding 0.436670312595
+suppose 0.431631811902
+178
+176
+
+*move moving vanish vanishing
+vanish 0.667711783036
+disappearing 0.581798899794
+moving 0.57540720579
+reappearing 0.537451812066
+vanishing 0.527402028643
+5
+3
+
+*move moving walk walking
+walk 0.644539685115
+moving 0.564558150718
+walking 0.546945667538
+journeying 0.514434036269
+hitchhiking 0.490018218814
+3
+1
+
+*move moving write writing
+write 0.651121045631
+writing 0.531201392179
+moving 0.489947909628
+composing 0.479994888692
+submitting 0.468232782199
+2
+1
+
+*move moving code coding
+code 0.70930348733
+codes 0.586945630179
+coded 0.405948074226
+639-1 0.397958103266
+3166-1 0.389284985729
+7
+6
+
+*move moving dance dancing
+dance 0.665092210438
+dancing 0.542879438486
+dances 0.469037511527
+bhangra 0.468021530999
+anti-folk 0.461913030683
+2
+1
+
+*move moving debug debugging
+debug 0.679550261483
+debugging 0.58462975335
+scriptable 0.57562114642
+outputting 0.570987859372
+configuring 0.565677076873
+2
+1
+
+*move moving decrease decreasing
+decrease 0.670405665024
+decreasing 0.66445331804
+decreased 0.578387451163
+lessening 0.568551259126
+reducing 0.551522501439
+2
+1
+
+*move moving describe describing
+describe 0.657240291707
+describing 0.597345552714
+referring 0.51718888496
+illustrate 0.474936932956
+illustrating 0.455378060581
+2
+1
+
+*move moving discover discovering
+discover 0.649779589159
+discovering 0.573050244087
+discovers 0.506790295525
+revealed 0.468128033276
+discovered 0.467974328872
+2
+1
+
+*move moving enhance enhancing
+enhance 0.6550030718
+enhancing 0.628927434295
+improving 0.563869396182
+improve 0.551645814422
+augmenting 0.508392686841
+2
+1
+
+*move moving fly flying
+fly 0.636463729173
+moving 0.595181183861
+flies 0.541200835396
+flying 0.540104426297
+journeying 0.500526575025
+4
+2
+
+*move moving generate generating
+generate 0.649652452178
+generating 0.605397100302
+generates 0.580099789786
+generated 0.543094015432
+producing 0.5306037176
+2
+1
+
+*move moving go going
+going 0.642794203715
+moving 0.640236126025
+go 0.62522245711
+journeying 0.549502668959
+gone 0.538135835599
+1
+1
+
+*move moving implement implementing
+implement 0.62349494354
+implementing 0.617080705062
+deploying 0.512823873548
+moving 0.49894525116
+adopting 0.494737727602
+2
+1
+
+*move moving increase increasing
+increase 0.651974348432
+decreasing 0.627008873854
+increasing 0.605254501667
+decrease 0.587803532724
+increased 0.561788457171
+3
+2
+
+*move moving invent inventing
+invent 0.634896447033
+inventing 0.561125132469
+moving 0.49248447578
+adapting 0.476998744241
+invents 0.464233127483
+2
+1
+
+*move moving jump jumping
+jump 0.651159986207
+moving 0.49707931492
+jumping 0.478592596932
+jumps 0.44296604363
+freefall 0.431470693527
+3
+1
+
+*move moving listen listening
+listen 0.643387172302
+listening 0.596329083928
+listened 0.49873852695
+moving 0.491562535998
+replying 0.473748861086
+2
+1
+
+*move moving look looking
+look 0.642266156199
+looking 0.619791385389
+looked 0.57731298868
+moving 0.504757611817
+looks 0.497648375014
+2
+1
+
+*play playing predict predicting
+predict 0.62877725509
+predicting 0.539243737619
+predicts 0.460541588227
+assessing 0.449277390189
+observing 0.446407570934
+2
+1
+
+*play playing read reading
+read 0.661067541033
+reading 0.515607772272
+perusing 0.475175883461
+quoting 0.459325575789
+playing 0.448223354543
+2
+1
+
+*play playing run running
+run 0.640040119505
+running 0.619065939034
+runs 0.493463184205
+playing 0.475145116769
+trialling 0.448590756412
+2
+1
+
+*play playing say saying
+say 0.632786348942
+saying 0.532388200794
+says 0.517628313454
+arguing 0.486903354081
+supposing 0.484240390048
+2
+1
+
+*play playing scream screaming
+scream 0.671739543895
+screaming 0.476788789125
+rehearsing 0.469496211615
+moaning 0.456750392994
+prepping 0.455790586683
+2
+1
+
+*play playing see seeing
+see 0.627609698658
+seeing 0.485107373188
+discussing 0.417959854859
+sees 0.417337842365
+watching 0.413724059707
+2
+1
+
+*play playing shuffle shuffling
+shuffle 0.673693405487
+playing 0.504380464179
+shuffles 0.473178130259
+strumming 0.464155990609
+shuffling 0.461662848924
+5
+3
+
+*play playing sing singing
+singing 0.659378232462
+sing 0.627497987504
+playing 0.593784582023
+sang 0.582802625632
+rehearsing 0.56568112411
+1
+1
+
+*play playing sit sitting
+sit 0.631702866238
+sitting 0.613800471049
+sat 0.512747024718
+playing 0.50079816021
+seated 0.498667435008
+2
+1
+
+*play playing slow slowing
+slow 0.69416929265
+slower 0.522000319794
+slowing 0.496267942456
+sluggish 0.479296093878
+fast 0.479041540519
+3
+2
+
+*play playing swim swimming
+swim 0.647287134553
+swimming 0.560550086527
+playing 0.516422261729
+paddling 0.501201818511
+swam 0.471153651542
+2
+1
+
+*play playing think thinking
+think 0.666700533799
+thinks 0.49048115712
+fwiw 0.483348665401
+afding 0.449479085491
+considering 0.444993300591
+15
+14
+
+*play playing vanish vanishing
+vanish 0.68180465837
+vanishes 0.532084757314
+disappears 0.519220591836
+disappear 0.514913188431
+detracting 0.492935090441
+17
+15
+
+*play playing walk walking
+walk 0.646432193481
+walking 0.613410392967
+walks 0.518012294648
+strolling 0.512992800416
+walked 0.501172310591
+2
+1
+
+*play playing write writing
+write 0.620996928159
+writing 0.617789644924
+composing 0.549476263682
+rehearsing 0.495151135582
+freelancing 0.482055839413
+2
+1
+
+*play playing code coding
+code 0.680011416038
+codes 0.578387278933
+zcta 0.428219612325
+3166-1 0.411632214729
+identifier 0.391017968612
+8
+6
+
+*play playing dance dancing
+dance 0.667808898706
+dancing 0.565655493532
+breakdancing 0.515567549531
+juggling 0.506955402589
+drumming 0.505697938369
+2
+1
+
+*play playing debug debugging
+debug 0.659731730514
+debugging 0.605401300336
+configuring 0.568701981482
+multi-threaded 0.554394674791
+customizing 0.548210051303
+2
+1
+
+*play playing decrease decreasing
+decrease 0.672775241353
+decreasing 0.601418383741
+increase 0.557092543565
+increases 0.552591697755
+decreases 0.549338775925
+2
+1
+
+*play playing describe describing
+describe 0.626727263821
+describing 0.591441001176
+describes 0.516859296457
+documenting 0.492289574714
+referring 0.485099700053
+2
+1
+
+*play playing discover discovering
+discover 0.644823765335
+discovering 0.58775816526
+discovers 0.584164701624
+learns 0.505884524848
+unearths 0.492616373587
+2
+1
+
+*play playing enhance enhancing
+enhance 0.656235329398
+enhancing 0.631669592471
+enhances 0.538424720427
+improving 0.53448835023
+improve 0.532812811075
+2
+1
+
+*play playing fly flying
+fly 0.619284094256
+flies 0.580523801173
+flying 0.560876317889
+hovering 0.526652864206
+playing 0.513563154921
+3
+2
+
+*play playing generate generating
+generate 0.636073071874
+generating 0.586735515758
+generates 0.575430904872
+creating 0.537847622623
+producing 0.51999434805
+2
+1
+
+*play playing go going
+go 0.596977275982
+gone 0.527999274604
+going 0.524389300099
+goes 0.508391699836
+goofing 0.501018342916
+3
+2
+
+*play playing implement implementing
+implement 0.636839671766
+implementing 0.60042939176
+formulating 0.473087108283
+enacting 0.456806106589
+finalising 0.451331312238
+2
+1
+
+*play playing increase increasing
+increase 0.664085085585
+decrease 0.581876634971
+increasing 0.562019848444
+increases 0.562014733204
+increased 0.560204333486
+3
+2
+
+*play playing invent inventing
+invent 0.628248850419
+inventing 0.570309767439
+experimenting 0.516773545298
+invents 0.488384688913
+designing 0.465596149919
+2
+1
+
+*play playing jump jumping
+jump 0.648608721648
+jumping 0.511602717455
+jumps 0.495786096037
+sprinting 0.461641286193
+hurdling 0.451366818911
+2
+1
+
+*play playing listen listening
+listen 0.623284313703
+listening 0.561226647706
+chatting 0.514586184894
+playing 0.508230947058
+listened 0.502636616496
+2
+1
+
+*play playing look looking
+look 0.66348997834
+looking 0.63598981759
+looked 0.589073113132
+looks 0.581522293821
+prepping 0.441885415737
+2
+1
+
+*play playing move moving
+move 0.632046469318
+moving 0.618680000587
+moves 0.538593187835
+inched 0.482733156029
+playing 0.473539452989
+2
+1
+
+*predict predicting read reading
+read 0.668771475786
+reading 0.542658205832
+writen 0.48183626036
+memorizing 0.481788611129
+predicting 0.47619111231
+2
+1
+
+*predict predicting run running
+run 0.678532293285
+running 0.543891975522
+runs 0.465774702112
+ran 0.441122280903
+subbing 0.422242306046
+2
+1
+
+*predict predicting say saying
+saying 0.635452757468
+say 0.62947066133
+supposing 0.582650783988
+predicting 0.546986460048
+opining 0.53947165458
+1
+1
+
+*predict predicting scream screaming
+scream 0.674323654386
+screaming 0.493968273683
+screams 0.474087334267
+howls 0.469163804699
+crying 0.45543533366
+2
+1
+
+*predict predicting see seeing
+see 0.630543728461
+predicting 0.541956372607
+seeing 0.522055869223
+describing 0.470936265211
+showing 0.458926510903
+3
+1
+
+*predict predicting shuffle shuffling
+shuffle 0.682616671424
+co-creating 0.446275054714
+shuffling 0.432129420679
+shuffles 0.429255667683
+predicting 0.417636843506
+3
+2
+
+*predict predicting sing singing
+sing 0.638666724347
+singing 0.589904661019
+sang 0.517917054458
+sung 0.500341328788
+sings 0.48198609979
+2
+1
+
+*predict predicting sit sitting
+sit 0.657349750122
+sitting 0.563148110497
+sat 0.520325643844
+stood 0.453809168322
+holidaying 0.452808752462
+2
+1
+
+*predict predicting slow slowing
+slow 0.709672173216
+slowing 0.567606396276
+predicting 0.505851179136
+sluggish 0.483266401759
+fast 0.47647199605
+2
+1
+
+*predict predicting swim swimming
+swim 0.657136468552
+paddling 0.495856899411
+swimming 0.494006816182
+sunbathing 0.434879848461
+rowing 0.424427120083
+3
+2
+
+*predict predicting think thinking
+think 0.659531782715
+thinking 0.526214114414
+supposing 0.510411465693
+thinks 0.491276155979
+predicting 0.487477153462
+2
+1
+
+*predict predicting vanish vanishing
+vanish 0.635067559057
+reappearing 0.507693998689
+predicting 0.501085400982
+disappear 0.498026199931
+vanishes 0.493484213592
+42
+40
+
+*predict predicting walk walking
+walk 0.65159902744
+walking 0.523277928849
+walks 0.476986521291
+hitch-hiking 0.454494672227
+strolls 0.44779968979
+2
+1
+
+*predict predicting write writing
+writing 0.656680365897
+write 0.630365666231
+writes 0.537453835478
+wrote 0.532617140348
+written 0.52341995458
+1
+1
+
+*predict predicting code coding
+code 0.711349672838
+codes 0.589815100183
+tabulation 0.429659648249
+collation 0.416465719408
+zcta 0.407140713367
+7
+6
+
+*predict predicting dance dancing
+dance 0.674802551796
+dancing 0.519677549182
+dances 0.46884548368
+choreographing 0.463793717064
+breakdancing 0.461881085802
+2
+1
+
+*predict predicting debug debugging
+debug 0.641396644163
+debugging 0.64075140497
+configuring 0.633693121459
+decrypting 0.621173083728
+transcoding 0.598553436658
+2
+1
+
+*predict predicting decrease decreasing
+decrease 0.679705961316
+predicting 0.595000206358
+decreasing 0.57854574951
+increases 0.55903566427
+reducing 0.551930018812
+3
+1
+
+*predict predicting describe describing
+describing 0.712642895546
+predicting 0.673634153802
+characterizing 0.615300648256
+describe 0.590045458373
+characterising 0.565854869688
+1
+1
+
+*predict predicting discover discovering
+discovering 0.651871751577
+discover 0.623945166362
+predicting 0.563190293409
+discovers 0.538919917128
+finding 0.535479894199
+1
+1
+
+*predict predicting enhance enhancing
+enhancing 0.689490837805
+improving 0.602645128264
+boosting 0.588045601103
+enhances 0.581481286781
+enhance 0.579457213575
+1
+1
+
+*predict predicting fly flying
+fly 0.634315374716
+flies 0.583190096868
+flying 0.504071536786
+bailing 0.456284988957
+hovering 0.44832334861
+3
+2
+
+*predict predicting generate generating
+generating 0.667295367148
+generate 0.633569979616
+generates 0.63129564695
+predicting 0.592137598734
+generated 0.580587597886
+1
+1
+
+*predict predicting go going
+go 0.625265016746
+gone 0.48698630171
+going 0.467406234042
+putting 0.45819366351
+rummaging 0.445833725852
+3
+2
+
+*predict predicting implement implementing
+implementing 0.728774315974
+formulating 0.64627832349
+predicting 0.59421905795
+implement 0.583726388098
+devising 0.577496091512
+1
+1
+
+*predict predicting increase increasing
+increase 0.658897479972
+decrease 0.600684135901
+increases 0.578899562617
+predicting 0.561251185466
+boosting 0.554742400436
+6
+4
+
+*predict predicting invent inventing
+inventing 0.640461942217
+invent 0.61084779113
+devising 0.563571404875
+fashioning 0.551851626006
+invented 0.532955792078
+1
+1
+
+*predict predicting jump jumping
+jump 0.652739697595
+jumping 0.458229591453
+jumps 0.445009768976
+predicting 0.422692718142
+sprinting 0.417253693081
+2
+1
+
+*predict predicting listen listening
+listen 0.601964280958
+listening 0.515216401821
+tweeting 0.514208157061
+chastising 0.513643017668
+apologising 0.505545412971
+2
+1
+
+*predict predicting look looking
+look 0.685781035185
+looking 0.608547169405
+looked 0.595459581051
+looks 0.540686884233
+calling 0.482308360164
+2
+1
+
+*predict predicting move moving
+move 0.622588472446
+moving 0.570783648968
+moves 0.482641390186
+materializing 0.473266632537
+putting 0.47017842339
+2
+1
+
+*predict predicting play playing
+play 0.693649892908
+playing 0.635061369294
+plays 0.548749218544
+played 0.512865217329
+co-creating 0.490110138776
+2
+1
+
+*read reading run running
+run 0.667836780308
+running 0.540600956045
+reading 0.48479464748
+runs 0.474511205495
+laneway 0.394326040057
+2
+1
+
+*read reading say saying
+say 0.626885538872
+reading 0.547627617326
+opining 0.451783656904
+presuming 0.442574789884
+saying 0.434180128173
+5
+3
+
+*read reading scream screaming
+scream 0.67179025518
+reading 0.451070220773
+cacophony 0.444130780832
+swingin 0.44370260383
+parklife 0.429369341198
+7
+5
+
+*read reading see seeing
+see 0.634750563176
+reading 0.532742471434
+seeing 0.444190952384
+inspite 0.387357388893
+viewing 0.376523205799
+3
+1
+
+*read reading shuffle shuffling
+shuffle 0.674185975001
+shuffling 0.46562187008
+reading 0.446181011772
+shuffles 0.42020750373
+strumming 0.39452578922
+2
+1
+
+*read reading sing singing
+sing 0.632479356386
+singing 0.586563551595
+reading 0.519501688396
+chanting 0.485744501054
+recitation 0.470354744424
+2
+1
+
+*read reading sit sitting
+sit 0.649361155461
+sitting 0.528260867548
+reading 0.513593600284
+sat 0.459917159469
+banqueting 0.431661869504
+2
+1
+
+*read reading slow slowing
+slow 0.697933896704
+slowing 0.52913810265
+fast 0.497458853423
+reading 0.48389412049
+slower 0.480688091661
+2
+1
+
+*read reading swim swimming
+swim 0.692882714057
+swimming 0.531439182914
+reading 0.520850106856
+paddling 0.493784847873
+rowing 0.443179365111
+2
+1
+
+*read reading think thinking
+think 0.680807770841
+reading 0.563035723137
+thinking 0.431218783387
+suspect 0.423700661031
+re-listing 0.421248706525
+3
+1
+
+*read reading vanish vanishing
+vanish 0.668686158809
+disappear 0.510232831934
+reading 0.476340862734
+vanishes 0.450892035656
+vanishing 0.436426295428
+5
+3
+
+*read reading walk walking
+walk 0.675175659897
+walking 0.542902228341
+reading 0.519183522305
+strolling 0.435932402766
+stroll 0.433698042687
+2
+1
+
+*read reading write writing
+reading 0.658683475068
+write 0.604957442022
+writing 0.575503706961
+composing 0.492801109526
+demoing 0.46197428875
+3
+1
+
+*read reading code coding
+code 0.714120251743
+codes 0.550200625079
+reading 0.459833170604
+tabulation 0.426943033405
+coding 0.412231969792
+5
+3
+
+*read reading dance dancing
+dance 0.706074427507
+dancing 0.520421382965
+breakdancing 0.502212143281
+gymnastic 0.49345079656
+breakdance 0.486525578664
+2
+1
+
+*read reading debug debugging
+debug 0.678473572707
+debugging 0.662603295317
+configuring 0.589282169472
+client-side 0.572392442711
+reading 0.563075720326
+2
+1
+
+*read reading decrease decreasing
+decrease 0.718719741931
+increase 0.598958348097
+decreasing 0.574248392752
+increases 0.566215631309
+lessening 0.549722702183
+3
+2
+
+*read reading describe describing
+describe 0.618262440211
+reading 0.474455895515
+describing 0.470422683069
+characterize 0.465318221668
+define 0.465238480443
+3
+1
+
+*read reading discover discovering
+discover 0.633015897145
+discovering 0.553551157053
+discovers 0.491260543395
+reading 0.473258222244
+uncover 0.458594171968
+2
+1
+
+*read reading enhance enhancing
+enhance 0.710966654873
+enhancing 0.600185640538
+improve 0.553280037919
+enhances 0.549478085587
+heighten 0.504897637105
+2
+1
+
+*read reading fly flying
+fly 0.650393065676
+flies 0.504077825631
+flying 0.479512343075
+reading 0.457969660891
+taxiing 0.445184643628
+3
+2
+
+*read reading generate generating
+generate 0.668510953449
+generating 0.592000179096
+generates 0.56162217969
+creating 0.476577427947
+reading 0.453053114108
+2
+1
+
+*read reading go going
+go 0.644434598892
+reading 0.495757856765
+going 0.450037982622
+went 0.429691657921
+hurrying 0.397760017179
+3
+1
+
+*read reading implement implementing
+implement 0.635668265799
+implementing 0.565886960575
+scale-up 0.516592929743
+community-led 0.511961850958
+reading 0.503178700382
+2
+1
+
+*read reading increase increasing
+increase 0.704765294133
+decrease 0.639002999647
+increases 0.579492130479
+increasing 0.549567605831
+decreasing 0.533601885916
+4
+3
+
+*read reading invent inventing
+invent 0.629357081676
+inventing 0.525304958706
+reading 0.507242737575
+devising 0.450843840482
+envisioning 0.450186562913
+2
+1
+
+*read reading jump jumping
+jump 0.670368273207
+reading 0.4617299561
+jumping 0.454088729915
+freefall 0.444938332664
+jumps 0.438667872444
+3
+1
+
+*read reading listen listening
+reading 0.612085805085
+listen 0.604455588836
+listening 0.586061825184
+socialising 0.435471327899
+furthur 0.435098883736
+3
+1
+
+*read reading look looking
+look 0.648535005925
+reading 0.575421746986
+looking 0.539560080204
+viewing 0.435992670678
+looks 0.417655085523
+3
+1
+
+*read reading move moving
+move 0.661493706411
+moving 0.554414018868
+reading 0.49542400684
+moves 0.470179153751
+relocating 0.422273587596
+2
+1
+
+*read reading play playing
+play 0.675986823461
+playing 0.583392659534
+reading 0.495969244281
+plays 0.436780145932
+warmup 0.417477222436
+2
+1
+
+*read reading predict predicting
+predict 0.639205601675
+predicting 0.531888740166
+assessing 0.46239446146
+prediction 0.460007899134
+reading 0.45706066933
+2
+1
+
+*run running say saying
+say 0.666604277067
+says 0.499441873604
+saying 0.443254908133
+opining 0.440551895479
+y'know 0.439276120213
+3
+2
+
+*run running scream screaming
+scream 0.686562665857
+running 0.451065261646
+swingin 0.435277706739
+snarling 0.431661060978
+murmuring 0.427385490464
+6
+4
+
+*run running see seeing
+see 0.675790779544
+seeing 0.413243787705
+whith 0.381346756294
+running 0.378031952341
+what-so-ever 0.3733017066
+2
+1
+
+*run running shuffle shuffling
+shuffle 0.717950317298
+running 0.497554347706
+shuffles 0.486729885994
+shuffling 0.462176758732
+chugging 0.433173844815
+4
+2
+
+*run running sing singing
+sing 0.660772683779
+singing 0.562549277113
+sings 0.536153912384
+sang 0.522598105621
+miming 0.467116262025
+2
+1
+
+*run running sit sitting
+sit 0.678231729921
+sitting 0.560563596724
+running 0.542046034473
+sits 0.473118113514
+sat 0.457751903425
+2
+1
+
+*run running slow slowing
+slow 0.711800963173
+slower 0.511469553648
+fast 0.49559274889
+slowing 0.490830662602
+running 0.484621540362
+4
+3
+
+*run running swim swimming
+swim 0.670777810425
+swimming 0.559169105938
+running 0.557595736217
+paddling 0.470174267738
+rowing 0.461790013476
+2
+1
+
+*run running think thinking
+think 0.681444066464
+fwiw 0.442546131876
+thinks 0.442149513365
+bitching 0.439677876398
+running 0.435593624222
+15
+13
+
+*run running vanish vanishing
+vanish 0.680900883386
+disappear 0.533944645241
+vanishes 0.509890012017
+disappearing 0.496524631396
+disappears 0.496038837398
+21
+19
+
+*run running walk walking
+walk 0.677854612221
+running 0.603057108853
+walking 0.57669011924
+strolling 0.464250729528
+swaying 0.461482401811
+3
+1
+
+*run running write writing
+write 0.658288785968
+writing 0.550972175229
+writes 0.480883734814
+running 0.479474722294
+wrote 0.472776017488
+2
+1
+
+*run running code coding
+code 0.701419290584
+codes 0.592550025871
+coding 0.433763455663
+identifier 0.406904891222
+3166-1 0.401015613773
+3
+2
+
+*run running dance dancing
+dance 0.709451183862
+dancing 0.580438099611
+breakdancing 0.485320569383
+dances 0.465039202693
+breakdance 0.45948480888
+2
+1
+
+*run running debug debugging
+debug 0.710630417577
+debugging 0.594372853704
+configuring 0.574214075133
+scriptable 0.566951659541
+dhtml 0.564662042136
+2
+1
+
+*run running decrease decreasing
+decrease 0.719622435596
+decreasing 0.614895788692
+increase 0.570942521972
+decreases 0.565058154175
+increases 0.551263684645
+2
+1
+
+*run running describe describing
+describe 0.674730223193
+describing 0.543045674332
+refer 0.509260822275
+depict 0.498781734558
+describes 0.494275149105
+2
+1
+
+*run running discover discovering
+discover 0.659218758725
+discovering 0.563738228958
+discovers 0.521788518106
+uncover 0.509967701698
+uncovers 0.487281977407
+2
+1
+
+*run running enhance enhancing
+enhance 0.677025381948
+enhancing 0.598182237893
+improve 0.559351406286
+improving 0.518871967981
+strengthen 0.517765117566
+2
+1
+
+*run running fly flying
+fly 0.653902790897
+flies 0.541249428559
+running 0.507760676846
+flying 0.480834574495
+fluttering 0.467229235037
+4
+2
+
+*run running generate generating
+generate 0.672566259733
+generates 0.591133884622
+generating 0.554570464372
+producing 0.480750995664
+creating 0.473501605643
+3
+2
+
+*run running go going
+go 0.654093072756
+running 0.556797361702
+goes 0.503989701227
+went 0.496279744776
+going 0.493032886132
+5
+3
+
+*run running implement implementing
+implement 0.677504620434
+implementing 0.573350503754
+enforce 0.478588268411
+configure 0.462504211385
+running 0.457946966561
+2
+1
+
+*run running increase increasing
+increase 0.690705421065
+decrease 0.653890219469
+decreasing 0.58756341872
+increasing 0.581235867779
+increases 0.576450238596
+4
+3
+
+*run running invent inventing
+invent 0.658308077912
+inventing 0.553872073038
+invents 0.511404413147
+fabricate 0.441279878763
+adapting 0.432207430561
+2
+1
+
+*run running jump jumping
+jump 0.722823372227
+running 0.567498569688
+jumps 0.489965667008
+jumping 0.44505143136
+sprinting 0.424674830379
+4
+2
+
+*run running listen listening
+listen 0.66948741925
+listening 0.518835893573
+listens 0.459644850082
+chatting 0.447278591095
+running 0.427930523791
+2
+1
+
+*run running look looking
+look 0.683160947434
+looking 0.571854416143
+looks 0.545818189225
+looked 0.540687983911
+running 0.452832421496
+2
+1
+
+*run running move moving
+move 0.669811118263
+moving 0.60596384766
+moves 0.559350836299
+running 0.540578267289
+swaying 0.450648285908
+2
+1
+
+*run running play playing
+play 0.646473826528
+playing 0.643145899086
+running 0.494189991943
+plays 0.468688129548
+strumming 0.422950157426
+2
+1
+
+*run running predict predicting
+predict 0.654684227621
+predicting 0.511569652484
+detect 0.47605365446
+visualize 0.473505295798
+calculate 0.466991606828
+2
+1
+
+*run running read reading
+read 0.664838750381
+reading 0.508314967936
+running 0.464687974415
+reads 0.421053905713
+reread 0.414076820309
+2
+1
+
+*say saying scream screaming
+scream 0.708830341034
+saying 0.490456697436
+screaming 0.47436989768
+screams 0.474272517633
+howls 0.464916658373
+3
+1
+
+*say saying see seeing
+see 0.667875903675
+saying 0.594408659571
+seeing 0.536708259174
+stating 0.536393789762
+explaining 0.478131409498
+3
+1
+
+*say saying shuffle shuffling
+shuffle 0.681901877397
+saying 0.459130070329
+stating 0.425712002984
+swiping 0.42566347081
+shuffles 0.425214995052
+6
+4
+
+*say saying sing singing
+sing 0.662550807355
+singing 0.60492710142
+saying 0.549959405714
+sang 0.516997265622
+sings 0.497536222617
+2
+1
+
+*say saying sit sitting
+sit 0.652809385945
+sat 0.497544681632
+saying 0.493598854582
+sitting 0.489735218143
+whittling 0.462985903056
+4
+2
+
+*say saying slow slowing
+slow 0.715747496747
+slowing 0.57385425721
+slowed 0.502891150245
+fast 0.502819714977
+sluggish 0.476321028219
+2
+1
+
+*say saying swim swimming
+swim 0.656864971776
+paddling 0.47390144903
+swimming 0.463576185181
+flicking 0.438252677014
+swims 0.430630011812
+3
+2
+
+*say saying think thinking
+saying 0.656417403892
+think 0.648296171155
+stating 0.555060316262
+insinuating 0.510616423234
+intimating 0.496075789426
+8
+6
+
+*say saying vanish vanishing
+vanish 0.660411672576
+disappear 0.514524766103
+vanishes 0.514418652856
+disappears 0.500448226305
+saying 0.49038960969
+32
+30
+
+*say saying walk walking
+walk 0.67048531948
+walking 0.511272382824
+walks 0.498796711936
+saying 0.480779232227
+strolls 0.456136171714
+2
+1
+
+*say saying write writing
+write 0.608655065435
+saying 0.591325921446
+writing 0.590310407901
+stating 0.520771330971
+deriding 0.492692352477
+3
+1
+
+*say saying code coding
+code 0.715663019224
+codes 0.589148796347
+saying 0.425371584412
+stating 0.387950353695
+coded 0.376802249585
+9
+7
+
+*say saying dance dancing
+dance 0.695500544985
+dancing 0.528860401199
+choreography 0.483223115382
+breakdancing 0.478011237319
+butoh 0.467936551537
+2
+1
+
+*say saying debug debugging
+debug 0.65388929995
+drag-and-drop 0.588486292502
+configuring 0.576427745392
+debugging 0.570895465914
+debugger 0.567687105129
+4
+3
+
+*say saying decrease decreasing
+decrease 0.681654078961
+increases 0.588138403572
+decreasing 0.580564500774
+lessening 0.569525724099
+increase 0.56367705367
+3
+2
+
+*say saying describe describing
+describing 0.664504298796
+describe 0.619075234042
+saying 0.58155881674
+describes 0.568711641503
+characterising 0.556280062207
+1
+1
+
+*say saying discover discovering
+discover 0.64952283682
+discovers 0.572661550986
+discovering 0.540696577771
+saying 0.538305877583
+stating 0.53786817093
+3
+2
+
+*say saying enhance enhancing
+enhance 0.664874035139
+enhancing 0.612772334905
+enhances 0.596207311663
+boosting 0.530341640145
+improves 0.519410480859
+2
+1
+
+*say saying fly flying
+fly 0.655353618777
+flies 0.565169570111
+saying 0.462318834117
+flys 0.460787377038
+bailing 0.453536941035
+6
+4
+
+*say saying generate generating
+generate 0.608648870669
+generates 0.58276287666
+generating 0.544472225421
+generated 0.526844439269
+triggering 0.479943884041
+3
+2
+
+*say saying go going
+go 0.654090817792
+saying 0.542547571785
+stating 0.467647384788
+goes 0.466537815178
+limps 0.460711752138
+8
+6
+
+*say saying implement implementing
+implement 0.626291268162
+implementing 0.584218134291
+instituting 0.526980765433
+saying 0.49995311812
+declaring 0.492724320279
+2
+1
+
+*say saying increase increasing
+increase 0.671151021227
+increases 0.599511165797
+decrease 0.593668697981
+boosting 0.562289974329
+increasing 0.554064836807
+5
+4
+
+*say saying invent inventing
+invent 0.599648996812
+inventing 0.553633237459
+concocting 0.49588489252
+saying 0.486644152782
+envisioning 0.475895208828
+2
+1
+
+*say saying jump jumping
+jump 0.655116195099
+jumping 0.479150901938
+jumps 0.465834089771
+leaping 0.44652846477
+holing 0.423652786411
+2
+1
+
+*say saying listen listening
+listen 0.627509856635
+saying 0.58548441642
+telling 0.507604485369
+applauding 0.506879693276
+deriding 0.50605147072
+22
+20
+
+*say saying look looking
+look 0.665620877983
+looking 0.581613425196
+looked 0.566055983034
+saying 0.527179555469
+looks 0.519380175296
+2
+1
+
+*say saying move moving
+move 0.666237336219
+moves 0.551223999309
+moving 0.513611770779
+saying 0.474456482032
+inched 0.467619342532
+3
+2
+
+*say saying play playing
+play 0.653583268675
+playing 0.582800692338
+saying 0.462191419714
+plays 0.448590582897
+replaying 0.430471829491
+2
+1
+
+*say saying predict predicting
+predicting 0.604336706487
+predict 0.596505840026
+predicts 0.530913361271
+stating 0.518380678424
+saying 0.517833425002
+1
+1
+
+*say saying read reading
+read 0.665501902804
+saying 0.572752193313
+stating 0.481158278411
+telling 0.469409065398
+reading 0.458219401649
+5
+3
+
+*say saying run running
+run 0.688332621204
+running 0.478409206213
+runs 0.449019281756
+saying 0.43465699246
+hobbled 0.431434824007
+2
+1
+
+*scream screaming see seeing
+see 0.67736082884
+screaming 0.487662532244
+seeing 0.429935926115
+sees 0.407973131951
+observe 0.401415616447
+3
+1
+
+*scream screaming shuffle shuffling
+shuffle 0.696197718838
+screaming 0.519718290149
+shuffles 0.459313760286
+shuffling 0.41638974747
+comfy 0.409917995698
+4
+2
+
+*scream screaming sing singing
+sing 0.691765806431
+screaming 0.604600873912
+singing 0.554746480591
+sings 0.53347549997
+shouting 0.520157859915
+3
+1
+
+*scream screaming sit sitting
+sit 0.719720593979
+screaming 0.518867338805
+sitting 0.497428630652
+sat 0.491455508608
+kneel 0.461099089881
+3
+1
+
+*scream screaming slow slowing
+slow 0.700247906201
+fast 0.508800678611
+screaming 0.494570981833
+slower 0.490327436519
+slowing 0.48050233458
+5
+3
+
+*scream screaming swim swimming
+swim 0.694862053658
+screaming 0.500501357918
+swims 0.491575839042
+swam 0.485816251491
+lunging 0.447400522481
+14
+12
+
+*scream screaming think thinking
+think 0.701763797659
+screaming 0.502462590158
+thinking 0.489493449654
+believe 0.486504685143
+thinks 0.48266645714
+3
+1
+
+*scream screaming vanish vanishing
+vanish 0.708956568753
+disappear 0.576611743034
+disappears 0.516354065251
+screaming 0.504753706032
+vanishes 0.486794658805
+1586
+1584
+
+*scream screaming walk walking
+walk 0.728780045182
+screaming 0.551582010476
+walking 0.504933074695
+strolls 0.50220462071
+walks 0.480897173637
+3
+1
+
+*scream screaming write writing
+write 0.674452293197
+writing 0.486941889983
+screaming 0.478682190217
+publish 0.469919384228
+compose 0.468199612599
+2
+1
+
+*scream screaming code coding
+code 0.671716975688
+codes 0.543575901105
+screaming 0.407288795865
+3166-1 0.35673962145
+two-letter 0.356222988338
+6
+4
+
+*scream screaming dance dancing
+dance 0.657582687208
+dancing 0.559618953846
+screaming 0.529191710072
+dances 0.520237266565
+acrobatics 0.453084631553
+2
+1
+
+*scream screaming debug debugging
+debug 0.65936033098
+debugging 0.552278121222
+multi-tasking 0.544257162624
+user-mode 0.535155823418
+troubleshoot 0.5323041179
+2
+1
+
+*scream screaming decrease decreasing
+decrease 0.684491868632
+increase 0.603356798999
+increases 0.574968337105
+decreasing 0.56517242446
+decreases 0.558182322188
+4
+3
+
+*scream screaming describe describing
+describe 0.672778033864
+characterise 0.497355078506
+refer 0.49381325937
+define 0.490161030272
+describing 0.489717790943
+5
+4
+
+*scream screaming discover discovering
+discover 0.686974865257
+discovers 0.559189812902
+discovering 0.512203802063
+uncover 0.49966236327
+realises 0.496532456916
+3
+2
+
+*scream screaming enhance enhancing
+enhance 0.695804560297
+improve 0.563538669567
+maximize 0.543432037804
+enhances 0.535260507738
+enhancing 0.529991628084
+5
+4
+
+*scream screaming fly flying
+fly 0.715284089646
+flies 0.582504191482
+screaming 0.534623957481
+fluttering 0.465739543639
+swatting 0.456551190812
+10
+8
+
+*scream screaming generate generating
+generate 0.703338942293
+generates 0.556970302333
+generating 0.506621646303
+generated 0.477604056725
+produce 0.465691479009
+3
+2
+
+*scream screaming go going
+go 0.712062167219
+goes 0.544353937554
+going 0.50940625603
+screaming 0.499887193758
+strolled 0.476682284875
+3
+2
+
+*scream screaming implement implementing
+implement 0.665126545635
+enforce 0.527473404557
+implementing 0.496692080987
+institutionalize 0.493305918642
+formulate 0.492311979859
+3
+2
+
+*scream screaming increase increasing
+increase 0.692245442919
+decrease 0.581178528361
+increases 0.570631045511
+increased 0.530527351349
+increasing 0.513369205734
+5
+4
+
+*scream screaming invent inventing
+invent 0.668455768086
+inventing 0.479585868988
+concoct 0.45651162496
+screaming 0.456131186733
+devise 0.452483145188
+2
+1
+
+*scream screaming jump jumping
+jump 0.675998301206
+screaming 0.514144131018
+jumps 0.484890125876
+jumping 0.484482236619
+leaping 0.468775932039
+4
+2
+
+*scream screaming listen listening
+listen 0.644514641652
+screaming 0.544946167037
+masturbate 0.506259643233
+berate 0.499283731299
+chide 0.495628359249
+62
+60
+
+*scream screaming look looking
+look 0.687075455812
+looking 0.585222163656
+looked 0.555915726033
+screaming 0.524112086382
+looks 0.519021667598
+2
+1
+
+*scream screaming move moving
+move 0.690875542085
+moving 0.543904018178
+moves 0.490196921738
+darted 0.472708770772
+screaming 0.459247455417
+2
+1
+
+*scream screaming play playing
+play 0.683328049738
+playing 0.554333929942
+screaming 0.499767351851
+plays 0.485700240753
+played 0.439872699903
+2
+1
+
+*scream screaming predict predicting
+predict 0.673984543876
+predicting 0.527950892493
+predicts 0.48656863099
+infer 0.480735538996
+extrapolate 0.469024660806
+2
+1
+
+*scream screaming read reading
+read 0.690815247508
+screaming 0.47906900387
+reading 0.462395646635
+reads 0.432844621873
+strolled 0.430278747242
+3
+1
+
+*scream screaming run running
+run 0.691390721847
+runs 0.50035202018
+screaming 0.480647082554
+running 0.475854386843
+scamper 0.422512122745
+4
+2
+
+*scream screaming say saying
+say 0.704416245756
+screaming 0.507384359206
+saying 0.503569123483
+says 0.501610797349
+presuming 0.47134677948
+3
+1
+
+*see seeing shuffle shuffling
+shuffle 0.676011947351
+sneaking 0.471834980383
+shuffling 0.456963223654
+shuffles 0.451524862272
+seeing 0.447991576192
+3
+2
+
+*see seeing sing singing
+sing 0.666313591974
+singing 0.596782433377
+seeing 0.537934674897
+sung 0.537260749894
+giggling 0.518710224859
+2
+1
+
+*see seeing sit sitting
+sit 0.643585588406
+sitting 0.549546225307
+knelt 0.508326828445
+gazed 0.49915565971
+seeing 0.497594257192
+2
+1
+
+*see seeing slow slowing
+slow 0.71577798854
+slowing 0.574195795345
+sluggish 0.538659749141
+slower 0.528869684777
+plodding 0.514823581822
+2
+1
+
+*see seeing swim swimming
+swim 0.678054673863
+paddling 0.511953030032
+giggling 0.487320000344
+swimming 0.469014094659
+seeing 0.46443942613
+4
+3
+
+*see seeing think thinking
+think 0.689167326982
+seeing 0.649138493799
+realizing 0.527256844305
+noticing 0.518932222443
+thinks 0.504817635277
+10
+8
+
+*see seeing vanish vanishing
+vanish 0.682170646265
+seeing 0.578987200398
+disappear 0.538644845923
+hallucinating 0.529866763189
+panicking 0.52267238909
+334
+332
+
+*see seeing walk walking
+walk 0.667053065183
+walking 0.54943573805
+seeing 0.524272548796
+limping 0.513541127004
+strolling 0.509344536994
+2
+1
+
+*see seeing write writing
+write 0.644118219235
+writing 0.564150456718
+seeing 0.521651440415
+tweeting 0.497689964264
+composing 0.487715899627
+2
+1
+
+*see seeing code coding
+code 0.665753612818
+codes 0.540229325024
+seeing 0.450481359788
+overwriting 0.36613757868
+unpacking 0.364598444811
+6
+4
+
+*see seeing dance dancing
+dance 0.697910977148
+dancing 0.551684858173
+breakdancing 0.508166172808
+seeing 0.497646465588
+dances 0.492167928599
+2
+1
+
+*see seeing debug debugging
+debug 0.667773474467
+debugging 0.58095599484
+client-side 0.563516675209
+decrypting 0.560478467619
+configuring 0.544302859529
+2
+1
+
+*see seeing decrease decreasing
+decrease 0.689088730264
+decreasing 0.611359134853
+lessening 0.568717535259
+increases 0.562863780659
+decreases 0.558239349339
+2
+1
+
+*see seeing describe describing
+seeing 0.621244934722
+describe 0.621064956414
+describing 0.548792550294
+perceiving 0.520043834827
+deriding 0.513429051733
+3
+1
+
+*see seeing discover discovering
+discover 0.670710950153
+discovering 0.639654098183
+seeing 0.637476609103
+discovers 0.61186892532
+realizing 0.584871422313
+2
+1
+
+*see seeing enhance enhancing
+enhance 0.666800324051
+enhancing 0.634700886318
+improve 0.556337705798
+enhances 0.555448279351
+improving 0.553382831401
+2
+1
+
+*see seeing fly flying
+fly 0.644706932794
+flies 0.573311832541
+seeing 0.51681420698
+flying 0.507524339848
+teleporting 0.494611019778
+4
+2
+
+*see seeing generate generating
+generate 0.634464341823
+generating 0.60107096141
+generates 0.5656832934
+seeing 0.531843022462
+generated 0.524654130214
+2
+1
+
+*see seeing go going
+go 0.649311639574
+seeing 0.544744973839
+gone 0.520567038319
+sneaking 0.512182521953
+going 0.503665077834
+5
+3
+
+*see seeing implement implementing
+implement 0.621412943465
+implementing 0.613504728654
+seeing 0.528359007265
+instituting 0.497973351969
+deploying 0.497082463971
+2
+1
+
+*see seeing increase increasing
+increase 0.665605671869
+decrease 0.613925579369
+increases 0.584908893888
+decreasing 0.577851330992
+increasing 0.563732760186
+5
+4
+
+*see seeing invent inventing
+invent 0.63185136771
+inventing 0.555193120462
+seeing 0.524446874489
+concocting 0.515701370383
+conceiving 0.50553964854
+2
+1
+
+*see seeing jump jumping
+jump 0.675960705827
+jumps 0.507211359825
+jumping 0.505347020708
+seeing 0.485275404407
+leaping 0.472990459288
+3
+2
+
+*see seeing listen listening
+listen 0.651623015083
+seeing 0.613878393718
+consoling 0.559389555577
+listening 0.558070593694
+giggling 0.52843379186
+4
+2
+
+*see seeing look looking
+look 0.695874765701
+looked 0.641216421445
+looking 0.622294028736
+seeing 0.620915797071
+looks 0.5353722171
+3
+2
+
+*see seeing move moving
+move 0.686994786918
+moving 0.561517212911
+seeing 0.55542324873
+moves 0.528399118114
+inched 0.499080301335
+2
+1
+
+*see seeing play playing
+play 0.671778018724
+playing 0.634437551921
+plays 0.515736171893
+seeing 0.50791175853
+replaying 0.452579927228
+2
+1
+
+*see seeing predict predicting
+predict 0.629860047978
+predicting 0.595128266773
+seeing 0.579094642339
+foreseeing 0.524199228032
+realizing 0.500296814309
+2
+1
+
+*see seeing read reading
+read 0.669427698035
+seeing 0.6015410069
+reading 0.547049884491
+gazed 0.486416300974
+memorised 0.485714185804
+3
+1
+
+*see seeing run running
+run 0.683498477074
+running 0.520287844626
+floundering 0.45022381523
+hobbled 0.4451339993
+seeing 0.441050238247
+2
+1
+
+*see seeing say saying
+say 0.646215087444
+seeing 0.616028354599
+saying 0.585532060827
+realizing 0.53777659967
+opining 0.5345212119
+3
+1
+
+*see seeing scream screaming
+scream 0.684511767702
+seeing 0.526700967826
+giggling 0.524547079158
+hysterically 0.521797856415
+screams 0.512061475797
+10
+8
+
+*shuffle shuffling sing singing
+sing 0.67705840422
+vocalizing 0.541000381366
+singing 0.525566905909
+shuffling 0.511313768332
+clapping 0.509363904428
+3
+2
+
+*shuffle shuffling sit sitting
+sit 0.675086050677
+shuffling 0.557868354773
+whittling 0.536521117358
+hewing 0.496592107662
+sitting 0.483794609289
+5
+3
+
+*shuffle shuffling slow slowing
+slow 0.749057887847
+shuffling 0.596231110582
+slowing 0.578004127094
+slower 0.571770723319
+sluggish 0.519088577739
+3
+1
+
+*shuffle shuffling swim swimming
+swim 0.71552206271
+shuffling 0.54867985965
+paddling 0.51675678155
+wriggling 0.49075563906
+pedalling 0.478942107504
+8
+6
+
+*shuffle shuffling think thinking
+think 0.706140512568
+cherrypicking 0.536047883558
+double-checking 0.53117306099
+remeber 0.5248063886
+nuking 0.524410686451
+204
+202
+
+*shuffle shuffling vanish vanishing
+vanish 0.723285929493
+disappear 0.57604515652
+shuffling 0.539658478399
+copy-pasting 0.527694388128
+double-checking 0.522251509306
+2560
+2558
+
+*shuffle shuffling walk walking
+walk 0.703500013119
+shuffling 0.593932119712
+walking 0.548555271748
+1km 0.528832917139
+whittling 0.517022125601
+3
+1
+
+*shuffle shuffling write writing
+write 0.693485940549
+writing 0.540354294237
+memorizing 0.518618798328
+shuffling 0.518328537916
+memorize 0.516173731411
+2
+1
+
+*shuffle shuffling code coding
+code 0.729965665464
+codes 0.614965087948
+coding 0.513494780828
+shuffling 0.497766608408
+ebcdic 0.461769999658
+3
+2
+
+*shuffle shuffling dance dancing
+dance 0.685442016485
+shuffling 0.581966011857
+dancing 0.516429520958
+quilting 0.509785957424
+juggling 0.505321223849
+3
+1
+
+*shuffle shuffling debug debugging
+debug 0.728677973575
+debugging 0.668466622269
+client-side 0.640961489355
+decrypting 0.633281576214
+diagramming 0.620978260977
+2
+1
+
+*shuffle shuffling decrease decreasing
+decrease 0.745673134978
+decreasing 0.651673993472
+increase 0.607210015227
+decreases 0.595926274422
+lessening 0.593391591099
+2
+1
+
+*shuffle shuffling describe describing
+describe 0.692881172705
+disentangle 0.55644735454
+characterize 0.556315899941
+characterise 0.546253218584
+contextualize 0.545201920131
+6
+5
+
+*shuffle shuffling discover discovering
+discover 0.705417556743
+uncover 0.567754141811
+deduce 0.531260486976
+discovering 0.524682291622
+unearths 0.517241576179
+4
+3
+
+*shuffle shuffling enhance enhancing
+enhance 0.720474486416
+improve 0.623849727435
+enhancing 0.612840207629
+enhances 0.584353810739
+hinders 0.58179932469
+3
+2
+
+*shuffle shuffling fly flying
+fly 0.71922422502
+flies 0.539851286528
+shuffling 0.527725981514
+swatting 0.509118872971
+wriggling 0.49953511983
+10
+8
+
+*shuffle shuffling generate generating
+generate 0.728652390135
+generates 0.614539310267
+generating 0.551078443305
+generated 0.543093368142
+shuffling 0.534471851915
+3
+2
+
+*shuffle shuffling go going
+go 0.697828323164
+trudge 0.535382803191
+shuffling 0.521012122493
+scurrying 0.508433189468
+whittling 0.507428887618
+8
+6
+
+*shuffle shuffling implement implementing
+implement 0.70348459023
+implementing 0.558850707032
+fine-tune 0.552547116249
+harmonise 0.542383637736
+disassembling 0.540853905305
+2
+1
+
+*shuffle shuffling increase increasing
+increase 0.72041038727
+decrease 0.679914535437
+decreasing 0.623639290977
+increases 0.603823961356
+lowering 0.58047473366
+9
+8
+
+*shuffle shuffling invent inventing
+invent 0.694880032565
+shuffling 0.546596979862
+fabricate 0.523196166382
+abbreviating 0.51898914625
+memorize 0.512705263385
+44
+42
+
+*shuffle shuffling jump jumping
+jump 0.687623682624
+shuffling 0.558617491808
+jumping 0.522720952757
+pedalling 0.511321328372
+jumps 0.510568724714
+3
+1
+
+*shuffle shuffling listen listening
+listen 0.66701993527
+masturbate 0.554654955883
+chide 0.554530098895
+memorise 0.553438839709
+stigmatize 0.553018795966
+58
+56
+
+*shuffle shuffling look looking
+look 0.714209663094
+looking 0.588974463875
+looked 0.577192484534
+looks 0.529259899317
+massaging 0.513413710179
+2
+1
+
+*shuffle shuffling move moving
+move 0.71587960781
+shuffling 0.61581641287
+moving 0.587780278468
+moves 0.534343558394
+whittling 0.497007691642
+3
+1
+
+*shuffle shuffling play playing
+play 0.68035784416
+shuffling 0.569337674987
+playing 0.566605466219
+replaying 0.512916183139
+memorizing 0.464543481155
+3
+1
+
+*shuffle shuffling predict predicting
+predict 0.714228768114
+extrapolate 0.549978910722
+predicting 0.546009052037
+visualising 0.545088116512
+quantify 0.544227113036
+3
+2
+
+*shuffle shuffling read reading
+read 0.712433395906
+reading 0.556862871074
+memorizing 0.552550650703
+memorized 0.524590037176
+shuffling 0.520933230399
+2
+1
+
+*shuffle shuffling run running
+run 0.703877279254
+shuffling 0.530458093745
+running 0.521270530725
+stowing 0.488279916879
+whittling 0.48320503445
+3
+1
+
+*shuffle shuffling say saying
+say 0.686669541318
+cherrypicking 0.548927014012
+double-checking 0.545475871677
+surmise 0.538283485489
+hypothesizing 0.531293992398
+26
+24
+
+*shuffle shuffling scream screaming
+scream 0.698461591652
+shuffling 0.544146373829
+screams 0.495436366912
+squealing 0.493802744221
+chattering 0.493219152585
+38
+36
+
+*shuffle shuffling see seeing
+see 0.70789408837
+double-checking 0.48463830928
+guage 0.484620243359
+shuffling 0.48198022056
+seeing 0.480444353431
+5
+3
+
+*sing singing sit sitting
+sit 0.589360647878
+singing 0.573140019842
+sitting 0.555980370725
+dancing 0.497054521025
+lounging 0.495813780329
+3
+1
+
+*sing singing slow slowing
+slow 0.720759194664
+slower 0.514236320926
+fast 0.513687895463
+slowing 0.506654853331
+sluggish 0.493693166346
+4
+3
+
+*sing singing swim swimming
+swim 0.66627358287
+swimming 0.587004209345
+paddling 0.552389276107
+surfing 0.532942347323
+singing 0.514535937558
+2
+1
+
+*sing singing think thinking
+think 0.68472693614
+thinks 0.495167653714
+thinking 0.472360785414
+singing 0.441917707852
+bitching 0.43773068101
+3
+2
+
+*sing singing vanish vanishing
+vanish 0.653145705182
+disappears 0.503713009024
+disappear 0.502802331244
+vanishes 0.497155719524
+disappearing 0.478768695494
+42
+40
+
+*sing singing walk walking
+walk 0.669052635774
+walking 0.597392854541
+singing 0.568762699482
+walks 0.503080211891
+dancing 0.48079659847
+2
+1
+
+*sing singing write writing
+writing 0.689991207085
+singing 0.602813501927
+write 0.599061870166
+composing 0.553618741225
+cartooning 0.500597037661
+1
+1
+
+*sing singing code coding
+code 0.680713965468
+codes 0.551405273815
+coding 0.41998917673
+tabulation 0.415283226169
+identifier 0.388777692464
+3
+2
+
+*sing singing dance dancing
+dance 0.731609267149
+dancing 0.665261492813
+singing 0.607603102907
+breakdancing 0.566977291158
+drumming 0.51711046553
+2
+1
+
+*sing singing debug debugging
+debug 0.669541290151
+debugging 0.635856533971
+drag-and-drop 0.588868779791
+user-interface 0.588348669276
+note-taking 0.587863126328
+2
+1
+
+*sing singing decrease decreasing
+decrease 0.676508959844
+decreasing 0.582810335704
+increase 0.553082980971
+decreased 0.539356619673
+increases 0.532713379822
+2
+1
+
+*sing singing describe describing
+describe 0.615705562234
+describing 0.549985149675
+describes 0.499924553348
+mimicking 0.497898257971
+synesthetic 0.477042600466
+2
+1
+
+*sing singing discover discovering
+discover 0.65350535443
+discovers 0.592756820191
+discovering 0.577557104118
+learns 0.506872813155
+reveals 0.490629956628
+3
+2
+
+*sing singing enhance enhancing
+enhance 0.67092086182
+enhancing 0.618176817208
+enhances 0.573786203599
+resiliency 0.505747463865
+improve 0.505224397983
+2
+1
+
+*sing singing fly flying
+fly 0.649591900351
+flies 0.587407169042
+singing 0.534477835059
+flying 0.522672063361
+piloting 0.477811943897
+4
+2
+
+*sing singing generate generating
+generate 0.632721979702
+generates 0.566591089305
+generated 0.557941894696
+generating 0.551904627642
+creating 0.512678936851
+4
+3
+
+*sing singing go going
+go 0.621330000363
+singing 0.511308091017
+gone 0.508407974912
+going 0.498495808854
+walking 0.462820215655
+4
+2
+
+*sing singing implement implementing
+implement 0.621521074312
+implementing 0.595439350096
+anti-spam 0.518429879585
+problem-solving 0.506369663069
+leveraging 0.502899325584
+2
+1
+
+*sing singing increase increasing
+increase 0.663608711973
+decrease 0.589885930132
+increasing 0.566821370717
+increases 0.545262527937
+increased 0.543868682032
+3
+2
+
+*sing singing invent inventing
+invent 0.631982593253
+inventing 0.570691221705
+invents 0.518655121351
+singing 0.479789635277
+typewriting 0.470102915622
+2
+1
+
+*sing singing jump jumping
+jump 0.665453574691
+jumping 0.570612456095
+hurdling 0.485179890793
+sprinting 0.480342289863
+jumps 0.479257022925
+2
+1
+
+*sing singing listen listening
+listening 0.623206205803
+listen 0.611352997057
+singing 0.605933677018
+deejaying 0.502346062944
+ad-libbing 0.49528130886
+1
+1
+
+*sing singing look looking
+look 0.650534259648
+looking 0.588768026511
+looked 0.53479762443
+looks 0.510327215595
+singing 0.463633743156
+2
+1
+
+*sing singing move moving
+move 0.64896887486
+moving 0.558248953561
+moves 0.518933819591
+darting 0.44377558961
+singing 0.437554917089
+2
+1
+
+*sing singing play playing
+playing 0.667345372022
+play 0.633083930011
+singing 0.599959626516
+commentating 0.501757580059
+dancing 0.48965253983
+1
+1
+
+*sing singing predict predicting
+predict 0.620292792903
+predicting 0.549785064935
+predicts 0.502906586983
+observing 0.475286294494
+forecasting 0.463167301936
+2
+1
+
+*sing singing read reading
+read 0.644774487579
+reading 0.558366454017
+singing 0.506958619699
+writing 0.453940901816
+perusing 0.448104253284
+2
+1
+
+*sing singing run running
+run 0.66572709079
+running 0.549716309013
+singing 0.453739905703
+runs 0.440984363618
+paddling 0.422818848631
+2
+1
+
+*sing singing say saying
+say 0.619724145302
+saying 0.535256228936
+opining 0.517272686117
+says 0.507756797147
+singing 0.497546083006
+2
+1
+
+*sing singing scream screaming
+scream 0.670111472333
+singing 0.548001318216
+rapping 0.475445318934
+breakdancing 0.471611709276
+screaming 0.468343273544
+5
+3
+
+*sing singing see seeing
+see 0.625871072644
+seeing 0.444904240072
+singing 0.437348420226
+showing 0.425843638388
+noticing 0.401552964038
+2
+1
+
+*sing singing shuffle shuffling
+shuffle 0.701244958031
+singing 0.480341015261
+shuffling 0.45879395332
+dancing 0.454476388437
+rapping 0.452126809865
+3
+1
+
+*sit sitting slow slowing
+slow 0.701973793849
+slowing 0.507467484771
+sluggish 0.501643240554
+slower 0.484988107238
+sitting 0.456267790676
+2
+1
+
+*sit sitting swim swimming
+swim 0.659888508213
+sitting 0.55627749525
+swimming 0.523279761806
+paddling 0.481606579686
+rowing 0.432127877984
+3
+1
+
+*sit sitting think thinking
+think 0.685342944192
+thinks 0.474655558326
+thinking 0.459715193699
+misreading 0.444331762499
+forewarned 0.443742484923
+3
+2
+
+*sit sitting vanish vanishing
+vanish 0.62607308559
+sitting 0.51824934978
+disappearing 0.500282887764
+detracting 0.498352455797
+vanishes 0.49827884721
+34
+32
+
+*sit sitting walk walking
+walk 0.66540512058
+sitting 0.622632430199
+walking 0.548618423762
+walks 0.45600430677
+wandering 0.432162281
+3
+1
+
+*sit sitting write writing
+write 0.575626691465
+writing 0.561238725264
+sitting 0.524939973034
+writting 0.460509556004
+talking 0.452443675735
+2
+1
+
+*sit sitting code coding
+code 0.739514337896
+codes 0.558348374733
+tabulation 0.41895566772
+superset 0.388299104418
+zcta 0.379615103218
+6
+5
+
+*sit sitting dance dancing
+dance 0.673705271323
+dancing 0.565117475693
+dances 0.456811629429
+sitting 0.456544731062
+breakdancing 0.451626463315
+2
+1
+
+*sit sitting debug debugging
+debug 0.64779304788
+debugging 0.580419600224
+framebuffer 0.569164989412
+scriptable 0.535838481193
+dhtml 0.525346600142
+2
+1
+
+*sit sitting decrease decreasing
+decrease 0.682180018091
+decreasing 0.567326707297
+increase 0.540346817695
+lessening 0.529949019422
+decreased 0.518501450602
+2
+1
+
+*sit sitting describe describing
+describe 0.639365610579
+describing 0.556962426474
+describes 0.486057908936
+bemoaning 0.45600678277
+picturing 0.449073770878
+2
+1
+
+*sit sitting discover discovering
+discover 0.635528226028
+discovers 0.560274836486
+discovering 0.525479580562
+learns 0.51591202928
+discovered 0.505316012865
+3
+2
+
+*sit sitting enhance enhancing
+enhance 0.627452909261
+enhancing 0.568491592669
+improve 0.503267372594
+enhances 0.503087988653
+hampering 0.489835520654
+2
+1
+
+*sit sitting fly flying
+fly 0.631430174062
+flies 0.561085615057
+flying 0.543856541328
+sitting 0.53827421721
+hovering 0.467886477806
+3
+2
+
+*sit sitting generate generating
+generate 0.621289793617
+generating 0.558699986311
+generated 0.545838008783
+generates 0.536285835299
+creating 0.440590825326
+2
+1
+
+*sit sitting go going
+sitting 0.595527163035
+go 0.562238076759
+gone 0.524347462967
+going 0.509826857871
+sneaking 0.466251637085
+4
+2
+
+*sit sitting implement implementing
+implement 0.629995282213
+implementing 0.55182882544
+enacting 0.464027039883
+circumventing 0.453329164081
+implementation 0.447246186698
+2
+1
+
+*sit sitting increase increasing
+increase 0.659412414437
+decrease 0.605324737449
+decreasing 0.531320565416
+increased 0.52357941425
+increasing 0.518907856056
+5
+4
+
+*sit sitting invent inventing
+invent 0.585694300657
+inventing 0.474770011583
+invents 0.460306590383
+emulating 0.443198772878
+talking 0.438742410899
+2
+1
+
+*sit sitting jump jumping
+jump 0.679668329373
+sitting 0.488042547572
+jumps 0.471489388346
+jumping 0.453545641163
+leaping 0.418007393328
+4
+2
+
+*sit sitting listen listening
+listen 0.589813676651
+sitting 0.556021218484
+listening 0.555458123649
+talking 0.494463414004
+watching 0.480299403884
+3
+1
+
+*sit sitting look looking
+look 0.617864515387
+looking 0.550837069502
+looked 0.543622822951
+sitting 0.513822959615
+looks 0.513307603205
+2
+1
+
+*sit sitting move moving
+move 0.640247519344
+moving 0.570289413486
+sitting 0.539830760593
+moves 0.523172853404
+slipping 0.421214464935
+2
+1
+
+*sit sitting play playing
+playing 0.637268024129
+play 0.6234567764
+sitting 0.513823257741
+played 0.41569297411
+commentating 0.414727143771
+1
+1
+
+*sit sitting predict predicting
+predict 0.634130515412
+predicting 0.551465522055
+predicted 0.464803055464
+foreseeing 0.445327178272
+observing 0.43186645802
+2
+1
+
+*sit sitting read reading
+read 0.635702413079
+reading 0.503128079426
+quoting 0.497821609598
+sitting 0.494459682489
+memorised 0.454055004037
+2
+1
+
+*sit sitting run running
+run 0.659815988469
+running 0.557481674708
+sitting 0.535553532821
+runs 0.388141253975
+ran 0.37594234789
+2
+1
+
+*sit sitting say saying
+say 0.633642493155
+says 0.491903211687
+saying 0.480973638237
+sitting 0.480701121817
+supposing 0.474117174502
+3
+2
+
+*sit sitting scream screaming
+scream 0.693771612566
+sitting 0.476674449387
+screaming 0.443243992838
+sleepwalking 0.442529854383
+howls 0.442354973772
+3
+1
+
+*sit sitting see seeing
+see 0.646121912835
+seeing 0.486812967728
+sitting 0.467453579697
+showing 0.401270714776
+saw 0.38668818524
+2
+1
+
+*sit sitting shuffle shuffling
+shuffle 0.681009073684
+sitting 0.534400968916
+shuffling 0.43483650175
+reshuffle 0.414780859578
+shuffles 0.398133136729
+3
+1
+
+*sit sitting sing singing
+sing 0.606911945995
+singing 0.605522968571
+sitting 0.601471747682
+sings 0.512253019714
+sang 0.510806960458
+2
+1
+
+*slow slowing swim swimming
+swim 0.693092686382
+paddling 0.450855966546
+swam 0.448448187965
+slowing 0.436029836375
+swimming 0.433494504238
+5
+3
+
+*slow slowing think thinking
+think 0.704833970069
+beleive 0.51440239093
+belive 0.507456969005
+supposing 0.496018348226
+remeber 0.494337888323
+198
+196
+
+*slow slowing vanish vanishing
+vanish 0.735776527146
+disappear 0.584380852961
+vanishes 0.523338145276
+deactivating 0.515524642345
+inflating 0.495897590052
+23
+21
+
+*slow slowing walk walking
+walk 0.702345944623
+slowing 0.469985267712
+walks 0.460841611574
+walking 0.450195800192
+strolled 0.444241715063
+4
+2
+
+*slow slowing write writing
+write 0.669775991668
+publish 0.478192745312
+writing 0.47081109162
+plagiarize 0.461414829197
+contextualize 0.453285924358
+3
+2
+
+*slow slowing code coding
+code 0.72310815141
+codes 0.596817022862
+coding 0.417953790353
+invalidating 0.415808807397
+uid 0.412802707875
+3
+2
+
+*slow slowing dance dancing
+dance 0.676004460947
+dancing 0.45003101151
+slowing 0.429120027299
+revitalising 0.411254529333
+undercutting 0.398097855939
+2
+1
+
+*slow slowing debug debugging
+debug 0.677549646047
+configuring 0.624682504179
+user-mode 0.573329573921
+disassembling 0.572112751432
+configures 0.569762599423
+21
+20
+
+*slow slowing decrease decreasing
+decrease 0.761581357275
+increase 0.681936283105
+decreasing 0.658499220946
+reducing 0.645313071197
+increases 0.637411381287
+3
+2
+
+*slow slowing describe describing
+describe 0.672954575198
+characterize 0.564335822131
+contextualize 0.558978594408
+define 0.544385445246
+describing 0.537014836822
+5
+4
+
+*slow slowing discover discovering
+discover 0.697990651295
+discovering 0.57300601062
+discovers 0.544086959384
+deducing 0.509876676352
+deduce 0.507146306701
+2
+1
+
+*slow slowing enhance enhancing
+enhance 0.738183328975
+enhancing 0.663914965269
+improve 0.617210742681
+boosting 0.586350545658
+improving 0.584994997346
+2
+1
+
+*slow slowing fly flying
+fly 0.690009848081
+flies 0.54326075642
+overflying 0.470159400531
+slowing 0.466434591194
+hurtling 0.465160252205
+36
+34
+
+*slow slowing generate generating
+generate 0.699695687231
+generates 0.590854388003
+generating 0.581766264247
+generated 0.531879099965
+redistributing 0.527666623413
+3
+2
+
+*slow slowing go going
+go 0.705431265527
+goes 0.516869415276
+went 0.515900345027
+going 0.49102404161
+gone 0.474047199921
+4
+3
+
+*slow slowing implement implementing
+implement 0.695571686744
+implementing 0.615185418906
+commercialise 0.540132042482
+decentralize 0.53659422108
+privatize 0.531896844446
+2
+1
+
+*slow slowing increase increasing
+increase 0.765219504786
+decrease 0.671435098154
+increases 0.636283068101
+reducing 0.617797495825
+decreasing 0.607461206855
+6
+5
+
+*slow slowing invent inventing
+invent 0.686874059146
+devalue 0.508456487809
+inventing 0.495809902617
+plagiarize 0.4915458601
+deface 0.477040403063
+3
+2
+
+*slow slowing jump jumping
+jump 0.683912355687
+jumps 0.492867850984
+bumping 0.477680885985
+jumping 0.459911782491
+slowing 0.452522054916
+4
+3
+
+*slow slowing listen listening
+listen 0.677969878419
+chide 0.521851766389
+second-guess 0.519250726991
+circumcise 0.512005791459
+antagonise 0.511905078827
+231
+229
+
+*slow slowing look looking
+look 0.670044224442
+looking 0.544545075061
+looked 0.516563874952
+looks 0.485757429334
+beefing 0.444376493518
+2
+1
+
+*slow slowing move moving
+move 0.717305831707
+moving 0.568371138678
+slowing 0.499216307535
+relocating 0.484872979409
+moves 0.484181459704
+2
+1
+
+*slow slowing play playing
+play 0.690101290932
+playing 0.522527122718
+plays 0.451125566493
+replaying 0.448325216887
+forfeiting 0.445485688114
+2
+1
+
+*slow slowing predict predicting
+predict 0.709779714742
+predicting 0.568802553848
+quantify 0.533470970442
+infer 0.53295581171
+calculate 0.523811259264
+2
+1
+
+*slow slowing read reading
+read 0.678154973301
+re-read 0.48704944087
+reading 0.478339175577
+writen 0.471156051693
+restating 0.460173875139
+3
+2
+
+*slow slowing run running
+run 0.696097060237
+shutting 0.513277267738
+running 0.47552158478
+slowing 0.470778004723
+canceling 0.45938770032
+3
+2
+
+*slow slowing say saying
+say 0.697300137918
+saying 0.550733847153
+supposing 0.544585539845
+presuming 0.497300222091
+says 0.492661253799
+2
+1
+
+*slow slowing scream screaming
+scream 0.677974889894
+slowing 0.447804580392
+pricking 0.440856379667
+shutting 0.43780727724
+shout 0.435731125638
+18
+16
+
+*slow slowing see seeing
+see 0.693237030677
+seeing 0.460283384955
+explaining 0.455341555594
+deducing 0.438637429664
+guage 0.438151771513
+2
+1
+
+*slow slowing shuffle shuffling
+shuffle 0.680828137756
+slowing 0.469948227909
+shuffles 0.462532046597
+canceling 0.454601480729
+shutting 0.446009601651
+12
+10
+
+*slow slowing sing singing
+sing 0.667286397982
+sang 0.497047512494
+singing 0.465243032982
+bringing 0.451632852005
+sings 0.450369440892
+3
+2
+
+*slow slowing sit sitting
+sit 0.688410398903
+sat 0.502000236432
+sitting 0.47301919304
+kneel 0.472475610807
+knelt 0.467544876503
+3
+2
+
+*swim swimming think thinking
+think 0.674324671475
+thinks 0.468821733278
+suppose 0.467417733517
+swimming 0.455982053719
+daresay 0.453985562272
+127
+125
+
+*swim swimming vanish vanishing
+vanish 0.68687189683
+swimming 0.46849786954
+disappear 0.456396766559
+vanishes 0.455210002873
+disappears 0.426376874648
+57
+55
+
+*swim swimming walk walking
+walk 0.657834886988
+swimming 0.60105266533
+walking 0.551176077245
+jogging 0.500003501454
+bicycling 0.468508784645
+3
+1
+
+*swim swimming write writing
+write 0.642139541298
+writing 0.541961275897
+wrote 0.475531534068
+composing 0.463881601781
+swimming 0.462994278572
+2
+1
+
+*swim swimming code coding
+code 0.712270697036
+codes 0.606699464636
+identifier 0.417416066
+tabulation 0.416888596871
+swimming 0.41470926585
+6
+4
+
+*swim swimming dance dancing
+dance 0.733902311827
+swimming 0.579200155346
+dancing 0.551653172515
+gymnastics 0.513413413582
+weightlifting 0.500373591935
+3
+1
+
+*swim swimming debug debugging
+debug 0.660951333034
+debugging 0.605184165872
+configuring 0.57689960082
+note-taking 0.563118662657
+user-interface 0.561711539016
+2
+1
+
+*swim swimming decrease decreasing
+decrease 0.686080112987
+increase 0.593782049781
+decreasing 0.565714335321
+lessening 0.534614402568
+increases 0.532351218221
+3
+2
+
+*swim swimming describe describing
+describe 0.689093060379
+describing 0.531712410991
+characterize 0.514465094247
+describes 0.509465622912
+define 0.491572406667
+2
+1
+
+*swim swimming discover discovering
+discover 0.680563706225
+discovers 0.532979856529
+discovering 0.516277327833
+swimming 0.454436746003
+discovered 0.454393924559
+3
+2
+
+*swim swimming enhance enhancing
+enhance 0.69018265406
+enhancing 0.57471639754
+improve 0.529532498838
+enhances 0.52270481182
+maximize 0.496728832689
+2
+1
+
+*swim swimming fly flying
+fly 0.619780184439
+swimming 0.579187183007
+parachuting 0.488520485165
+weightlifting 0.487067775862
+waterskiing 0.471295920889
+8
+6
+
+*swim swimming generate generating
+generate 0.655722817873
+generating 0.548891708293
+generates 0.542946577969
+generated 0.481155134948
+time-varying 0.464264131497
+2
+1
+
+*swim swimming go going
+go 0.645024911826
+swimming 0.503711003431
+went 0.46853252458
+gone 0.46485063632
+going 0.433595206282
+5
+3
+
+*swim swimming implement implementing
+implement 0.654230192832
+implementing 0.560846002602
+instituting 0.498118488476
+recordkeeping 0.4890791739
+resourcing 0.481078519231
+2
+1
+
+*swim swimming increase increasing
+increase 0.688180925517
+decrease 0.587774197153
+increased 0.56225985558
+increasing 0.533616724013
+increases 0.532841233638
+4
+3
+
+*swim swimming invent inventing
+invent 0.64438792625
+inventing 0.541498736428
+devising 0.453864804606
+devise 0.451053284455
+invents 0.448381432175
+2
+1
+
+*swim swimming jump jumping
+jump 0.679974068841
+swimming 0.571234846093
+25m 0.521556263387
+weightlifting 0.518517706429
+trampoline 0.508957286629
+37
+35
+
+*swim swimming listen listening
+listen 0.622356790313
+listening 0.500217660402
+swimming 0.479515348875
+pamper 0.446119564115
+attentively 0.441380424652
+2
+1
+
+*swim swimming look looking
+look 0.674169896031
+looking 0.533022131318
+looked 0.521828031395
+looks 0.510401222743
+swimming 0.470789870833
+2
+1
+
+*swim swimming move moving
+move 0.624499577323
+swimming 0.503209927066
+moves 0.479462588555
+moving 0.477448590655
+25-metre 0.397118415396
+4
+2
+
+*swim swimming play playing
+play 0.651937631502
+playing 0.606772496898
+swimming 0.547191258002
+five-a-side 0.502197308496
+trampolining 0.493003290151
+2
+1
+
+*swim swimming predict predicting
+predict 0.674201120106
+predicting 0.536149149864
+determine 0.467695638869
+predicted 0.464635016767
+estimating 0.461547561794
+2
+1
+
+*swim swimming read reading
+read 0.629795277628
+reading 0.447327483402
+swimming 0.446758999066
+quoting 0.418234781042
+memorizing 0.416716628709
+2
+1
+
+*swim swimming run running
+run 0.630284561643
+running 0.534905236758
+swimming 0.531309476552
+racewalking 0.450654499656
+half-marathon 0.445948959403
+2
+1
+
+*swim swimming say saying
+say 0.65718582074
+says 0.487745473695
+saying 0.484627987318
+supposing 0.448651717629
+quipping 0.420970882561
+3
+2
+
+*swim swimming scream screaming
+scream 0.679998967995
+swimming 0.475126102339
+swingin 0.413501476462
+spacemen 0.411101474255
+yodeling 0.410105408713
+38
+36
+
+*swim swimming see seeing
+see 0.689972877722
+swimming 0.441824542266
+seeing 0.412245565532
+observe 0.381859416697
+saw 0.377632651833
+3
+1
+
+*swim swimming shuffle shuffling
+shuffle 0.677753635395
+swimming 0.472890171845
+shuffleboard 0.452842494742
+billiards 0.44352382704
+racquetball 0.440710212541
+140
+138
+
+*swim swimming sing singing
+sing 0.644122463292
+singing 0.59957799307
+sang 0.536118354354
+swimming 0.517604855521
+sings 0.48888943245
+2
+1
+
+*swim swimming sit sitting
+sit 0.636972865427
+swimming 0.53556113798
+sitting 0.500079697486
+shuffleboard 0.493686486696
+picnicking 0.461577480929
+3
+1
+
+*swim swimming slow slowing
+slow 0.698087989089
+slower 0.505759336824
+fast 0.472805836553
+slowing 0.463962387992
+sluggish 0.461183122136
+4
+3
+
+*think thinking vanish vanishing
+vanish 0.696874915287
+disappear 0.55069006432
+thinking 0.526477303008
+teleporting 0.479326959489
+vanishes 0.470931213949
+43
+41
+
+*think thinking walk walking
+walk 0.716573983332
+thinking 0.533866067109
+walking 0.530334594852
+strolls 0.485361786965
+stroll 0.483006598278
+3
+1
+
+*think thinking write writing
+write 0.698779570824
+writing 0.615213749567
+thinking 0.530039043945
+scribbling 0.470852811352
+compose 0.460448073513
+2
+1
+
+*think thinking code coding
+code 0.705698974257
+codes 0.575382567888
+thinking 0.437707781013
+coding 0.418107974443
+dialing 0.380318979606
+4
+2
+
+*think thinking dance dancing
+dance 0.720213165175
+breakdancing 0.530495700255
+dancing 0.526004736634
+thinking 0.525178033738
+breakdance 0.483891277546
+3
+2
+
+*think thinking debug debugging
+debug 0.696440762887
+debugging 0.598007520509
+user-mode 0.57752923752
+microcode 0.575664856981
+windowing 0.566453675087
+2
+1
+
+*think thinking decrease decreasing
+decrease 0.696853092061
+increase 0.571648872776
+reducing 0.512968545485
+decreasing 0.512574822391
+increases 0.500319143814
+4
+3
+
+*think thinking describe describing
+describe 0.648540235073
+describing 0.531138525917
+thinking 0.525079932015
+characterize 0.48116531249
+portray 0.47933676971
+2
+1
+
+*think thinking discover discovering
+discover 0.710194237518
+thinking 0.570301905144
+discovering 0.541573150343
+discovers 0.53316868728
+uncover 0.496097013627
+3
+1
+
+*think thinking enhance enhancing
+enhance 0.694115484039
+enhancing 0.568430564856
+improve 0.557198600804
+stimulate 0.515632120813
+strengthen 0.515567920807
+2
+1
+
+*think thinking fly flying
+fly 0.696120325484
+flies 0.526615861219
+thinking 0.509690599458
+teleporting 0.451136968877
+piloting 0.436414001815
+8
+6
+
+*think thinking generate generating
+generate 0.669881406455
+generating 0.523886148654
+generates 0.480381886357
+produce 0.478052212281
+thinking 0.473122305855
+2
+1
+
+*think thinking go going
+go 0.704269163104
+thinking 0.556438364494
+goes 0.484715483837
+went 0.481360263006
+going 0.481285607726
+5
+3
+
+*think thinking implement implementing
+implement 0.681886933362
+implementing 0.548607939308
+thinking 0.531094968429
+institutionalize 0.513532540766
+formulate 0.509994148599
+2
+1
+
+*think thinking increase increasing
+increase 0.681590944049
+decrease 0.615315249026
+boosting 0.517342726772
+increases 0.51365783952
+increasing 0.499134065834
+5
+4
+
+*think thinking invent inventing
+invent 0.695239194837
+thinking 0.544066271762
+inventing 0.507594566317
+devising 0.497315494307
+devise 0.494178917772
+3
+1
+
+*think thinking jump jumping
+jump 0.718741070412
+thinking 0.50846808085
+jumps 0.479368922899
+jumping 0.471366306757
+leaping 0.432157897225
+4
+2
+
+*think thinking listen listening
+listen 0.65093393937
+thinking 0.547732676078
+listening 0.501445312531
+scribbling 0.498169420966
+cajole 0.471574506259
+3
+1
+
+*think thinking look looking
+look 0.675210383953
+thinking 0.584461084176
+looking 0.546556580247
+looked 0.526432944359
+looks 0.450142792064
+3
+1
+
+*think thinking move moving
+move 0.71767861515
+thinking 0.534151513277
+moves 0.527782866311
+moving 0.498452412672
+inched 0.461161654501
+4
+2
+
+*think thinking play playing
+play 0.689933935258
+playing 0.546900234707
+thinking 0.471837486374
+plays 0.427206085446
+deejaying 0.422711087975
+2
+1
+
+*think thinking predict predicting
+predict 0.667975460389
+predicting 0.58621248765
+thinking 0.527743031527
+predicts 0.481497590789
+predicted 0.475679185176
+2
+1
+
+*think thinking read reading
+read 0.677009607009
+thinking 0.576554231479
+scribbling 0.465441334321
+reading 0.460070636223
+writing 0.456774743122
+4
+2
+
+*think thinking run running
+run 0.697272003509
+running 0.503078935818
+thinking 0.49205518187
+runs 0.452632391219
+ran 0.404948609332
+2
+1
+
+*think thinking say saying
+thinking 0.67993678571
+say 0.644453373146
+saying 0.520880907616
+insinuating 0.46506316238
+arguing 0.452519844418
+3
+1
+
+*think thinking scream screaming
+scream 0.681447728765
+shriek 0.495454262362
+thinking 0.491006008968
+screaming 0.486197336957
+sobbing 0.472511799705
+4
+2
+
+*think thinking see seeing
+see 0.633581380637
+thinking 0.571217556828
+explaining 0.409686036566
+scribbling 0.388000641247
+sees 0.386874807927
+7
+5
+
+*think thinking shuffle shuffling
+shuffle 0.710432486107
+thinking 0.499783916242
+shuffling 0.454550820518
+shuffles 0.443995645271
+strumming 0.434453051183
+3
+1
+
+*think thinking sing singing
+sing 0.69688755771
+singing 0.567889881674
+thinking 0.507179502393
+sang 0.49120049619
+sings 0.48510124855
+2
+1
+
+*think thinking sit sitting
+sit 0.693342470539
+sitting 0.511745780247
+sat 0.480883587487
+thinking 0.458759456223
+kneel 0.434014185151
+2
+1
+
+*think thinking slow slowing
+slow 0.738221958245
+slowing 0.519348106548
+sluggish 0.51832992341
+thinking 0.511859626322
+slower 0.481538929373
+2
+1
+
+*think thinking swim swimming
+swim 0.680623218138
+thinking 0.483933208646
+paddling 0.451753161781
+gallops 0.432063446917
+swims 0.425036522544
+6
+4
+
+*vanish vanishing walk walking
+walk 0.694041660776
+vanishing 0.571233161855
+walking 0.49134451865
+three-mile 0.401939359907
+stroll 0.400462960315
+3
+1
+
+*vanish vanishing write writing
+write 0.635012230196
+writing 0.486883361601
+wrote 0.48071639519
+vanishing 0.472045454344
+compose 0.469381341348
+2
+1
+
+*vanish vanishing code coding
+code 0.711409725828
+codes 0.560357157199
+vanishing 0.455406182474
+zcta 0.396308126485
+registry 0.391965194196
+10
+8
+
+*vanish vanishing dance dancing
+dance 0.720269059966
+dancing 0.496135439349
+breakdance 0.490339987358
+bhangra 0.484410338335
+jitterbug 0.473174170901
+2
+1
+
+*vanish vanishing debug debugging
+debug 0.665833332997
+debugging 0.538145484193
+user-interface 0.532887131548
+user-mode 0.518400407437
+scriptable 0.51567364563
+2
+1
+
+*vanish vanishing decrease decreasing
+decrease 0.674699236669
+increase 0.567007073439
+vanishing 0.558083829748
+decreasing 0.554286889558
+lessening 0.533385022722
+4
+2
+
+*vanish vanishing describe describing
+describe 0.62824265449
+vanishing 0.521385675105
+illustrate 0.513974264715
+describing 0.5060464168
+define 0.501131264367
+4
+2
+
+*vanish vanishing discover discovering
+discover 0.655444281051
+discovering 0.552140610456
+vanishing 0.531147547759
+discovers 0.519247204494
+uncover 0.485229537697
+2
+1
+
+*vanish vanishing enhance enhancing
+enhance 0.664594901972
+enhancing 0.53320529209
+improve 0.526232764156
+enhances 0.50910689869
+vanishing 0.479653452675
+2
+1
+
+*vanish vanishing fly flying
+fly 0.662638431729
+vanishing 0.55830785556
+flies 0.498392964503
+flying 0.471181915102
+free-flying 0.422644700499
+4
+2
+
+*vanish vanishing generate generating
+generate 0.637034594955
+generating 0.571730115479
+generates 0.530063445548
+vanishing 0.525986124031
+produce 0.470391129809
+2
+1
+
+*vanish vanishing go going
+go 0.612683554673
+vanishing 0.579484078392
+gone 0.533840246209
+going 0.49946157456
+goin 0.435886199832
+4
+2
+
+*vanish vanishing implement implementing
+implement 0.629143378995
+implementing 0.516232033577
+vanishing 0.468331040784
+revitalisation 0.459602587429
+enact 0.458849832542
+2
+1
+
+*vanish vanishing increase increasing
+increase 0.669903104992
+decrease 0.580693128036
+increasing 0.533377241193
+vanishing 0.519906897102
+increased 0.506305583237
+3
+2
+
+*vanish vanishing invent inventing
+invent 0.657489576192
+vanishing 0.571079684424
+inventing 0.526597011229
+invents 0.464629324216
+invented 0.458341527267
+3
+1
+
+*vanish vanishing jump jumping
+jump 0.667103370756
+vanishing 0.569133411668
+freefall 0.432603132846
+jumping 0.425934348687
+jumps 0.411749426643
+4
+2
+
+*vanish vanishing listen listening
+listen 0.635560382168
+vanishing 0.523808068395
+listening 0.487015042138
+attentively 0.427501007895
+listened 0.416863682118
+3
+1
+
+*vanish vanishing look looking
+look 0.634745880469
+vanishing 0.523842503998
+looking 0.512225258745
+looked 0.501160757998
+looks 0.468592162858
+3
+1
+
+*vanish vanishing move moving
+move 0.610453660486
+vanishing 0.560513486552
+moving 0.538005093018
+moves 0.489359953308
+jaunt 0.4188235791
+3
+1
+
+*vanish vanishing play playing
+play 0.662596654314
+playing 0.501955844208
+vanishing 0.473597557607
+plays 0.458394465145
+dramatization 0.432903639491
+2
+1
+
+*vanish vanishing predict predicting
+predict 0.623659167818
+vanishing 0.516935898322
+predicting 0.486500870864
+quantify 0.475831881741
+quantifies 0.443488932734
+3
+1
+
+*vanish vanishing read reading
+read 0.650359752592
+vanishing 0.47384297411
+reading 0.454079263408
+ghostwritten 0.411336918948
+memorized 0.409008838628
+3
+1
+
+*vanish vanishing run running
+run 0.648406677508
+vanishing 0.493156012175
+running 0.463923411348
+top-grossing 0.39785490861
+100-mile 0.393414135606
+3
+1
+
+*vanish vanishing say saying
+say 0.638090411943
+vanishing 0.495999315387
+saying 0.47128596584
+says 0.440054218037
+opining 0.418765965112
+3
+1
+
+*vanish vanishing scream screaming
+scream 0.725536849416
+vanishing 0.545557929158
+flashdance 0.483216331291
+serendipity 0.480501189043
+slasher 0.475327941141
+208
+206
+
+*vanish vanishing see seeing
+see 0.676021797087
+vanishing 0.558915272675
+seeing 0.373915894618
+reimagining 0.372893403718
+re-make 0.359913900989
+3
+1
+
+*vanish vanishing shuffle shuffling
+shuffle 0.713663844165
+vanishing 0.524053604867
+reimagining 0.417782927455
+jitterbug 0.411825664534
+be-bop 0.401070272417
+49
+47
+
+*vanish vanishing sing singing
+sing 0.663753618106
+singing 0.521597257901
+sang 0.519766546061
+vanishing 0.50844055172
+singalong 0.483322862009
+2
+1
+
+*vanish vanishing sit sitting
+sit 0.612076196124
+vanishing 0.522135826589
+sitting 0.45509871778
+sat 0.445097745113
+walking 0.374273090039
+3
+1
+
+*vanish vanishing slow slowing
+slow 0.688801611745
+vanishing 0.478465851598
+slowing 0.472402683575
+fast 0.464416938039
+sluggish 0.462683585249
+3
+1
+
+*vanish vanishing swim swimming
+swim 0.683124811342
+vanishing 0.489400760123
+swimming 0.425475922407
+paddling 0.422439199539
+rowing 0.405413626391
+3
+1
+
+*vanish vanishing think thinking
+think 0.682825340124
+vanishing 0.5136095092
+thinking 0.401432650458
+thinks 0.401033975328
+reimagining 0.388305115318
+3
+1
+
+*walk walking write writing
+write 0.627307534653
+writing 0.579405173946
+walking 0.481863800963
+writes 0.465454516437
+scribbling 0.462403847745
+2
+1
+
+*walk walking code coding
+code 0.701628916828
+codes 0.582688900499
+coding 0.476908691773
+tabulation 0.396208220543
+3166-1 0.394978334946
+3
+2
+
+*walk walking dance dancing
+dance 0.699565522227
+dancing 0.591751114959
+walking 0.540844864297
+breakdancing 0.519114809673
+juggling 0.504845077068
+2
+1
+
+*walk walking debug debugging
+debug 0.704434614958
+debugging 0.606452285144
+configuring 0.594349727734
+cross-browser 0.581850629104
+jtag 0.577952134724
+2
+1
+
+*walk walking decrease decreasing
+decrease 0.688879658062
+decreasing 0.616405727992
+increase 0.565637659288
+decreases 0.551517488506
+reducing 0.547292380145
+2
+1
+
+*walk walking describe describing
+describe 0.65371871872
+describing 0.537688387466
+describes 0.487514225545
+illustrate 0.468746166647
+define 0.46674834176
+2
+1
+
+*walk walking discover discovering
+discover 0.667930352393
+discovers 0.544503943273
+discovering 0.54447463434
+uncover 0.467806678147
+discovered 0.467190370168
+3
+2
+
+*walk walking enhance enhancing
+enhance 0.692872296264
+enhancing 0.588758121127
+enhances 0.575710928668
+improve 0.559345740246
+strengthen 0.522368509999
+2
+1
+
+*walk walking fly flying
+fly 0.650157983241
+walking 0.625631302196
+flies 0.547101026551
+flying 0.522581758871
+hovering 0.518085662203
+4
+2
+
+*walk walking generate generating
+generate 0.637808418811
+generating 0.552362376443
+generates 0.535570956123
+generated 0.487385724258
+creating 0.486251063154
+2
+1
+
+*walk walking go going
+go 0.663683622618
+walking 0.609325825206
+going 0.498021630052
+went 0.477993924127
+gone 0.47735127579
+3
+1
+
+*walk walking implement implementing
+implement 0.655836343841
+implementing 0.591467489232
+implements 0.49872458813
+best-practice 0.490989906237
+non-intrusive 0.490850326539
+2
+1
+
+*walk walking increase increasing
+increase 0.675179389318
+decrease 0.604793717504
+decreasing 0.574617363472
+increasing 0.573076328206
+increases 0.542688724805
+4
+3
+
+*walk walking invent inventing
+invent 0.651752483695
+inventing 0.548845928778
+invents 0.481124245157
+walking 0.468948137921
+designing 0.464988321926
+2
+1
+
+*walk walking jump jumping
+jump 0.651852228308
+walking 0.561558627349
+jumping 0.527120168911
+jumps 0.491805950708
+climbing 0.474421857404
+3
+1
+
+*walk walking listen listening
+listen 0.647881980024
+listening 0.606461195699
+walking 0.529536763659
+attentively 0.475207086544
+chatting 0.458984389088
+2
+1
+
+*walk walking look looking
+look 0.662944191855
+looking 0.587256764459
+looked 0.583245586506
+looks 0.511546421824
+walking 0.490070416255
+2
+1
+
+*walk walking move moving
+move 0.636632319037
+walking 0.578153167364
+moving 0.573904791295
+moves 0.48901763351
+inched 0.461976340471
+3
+1
+
+*walk walking play playing
+playing 0.655233004331
+play 0.65289022809
+walking 0.52274037605
+played 0.479802554901
+plays 0.469413548126
+1
+1
+
+*walk walking predict predicting
+predict 0.655972214071
+predicting 0.548232225859
+predicted 0.510062197612
+visualize 0.458127050392
+predicts 0.456536141924
+2
+1
+
+*walk walking read reading
+read 0.640986263164
+reading 0.497012582396
+walking 0.478776604858
+writen 0.466942188581
+memorised 0.457315721619
+2
+1
+
+*walk walking run running
+run 0.644700767828
+walking 0.586710329532
+running 0.560518317014
+paddling 0.446819945056
+jogging 0.425381287229
+3
+1
+
+*walk walking say saying
+say 0.647124939512
+saying 0.501651332144
+supposing 0.501238339597
+says 0.493718564336
+quipping 0.48837249692
+2
+1
+
+*walk walking scream screaming
+scream 0.669565733902
+walking 0.475042635102
+kick-ass 0.468999282437
+bellowing 0.454933815573
+farting 0.45336793635
+37
+35
+
+*walk walking see seeing
+see 0.645525629191
+walking 0.464667985906
+seeing 0.459176437559
+whith 0.408100864727
+expecially 0.394748002222
+3
+1
+
+*walk walking shuffle shuffling
+shuffle 0.689686837018
+walking 0.548334141239
+shuffles 0.520960475909
+shuffling 0.483704465943
+strumming 0.449742974475
+4
+2
+
+*walk walking sing singing
+sing 0.636304608699
+singing 0.597963754948
+walking 0.563623304934
+sang 0.518406253086
+sung 0.486138350751
+2
+1
+
+*walk walking sit sitting
+sit 0.656140564826
+walking 0.616625240695
+sitting 0.541828211848
+lounging 0.48555457728
+jogging 0.46261230296
+3
+1
+
+*walk walking slow slowing
+slow 0.727699537968
+slower 0.541653395578
+fast 0.525195154188
+walking 0.513005583197
+slowing 0.506603777583
+5
+3
+
+*walk walking swim swimming
+swim 0.668274001838
+walking 0.610797201545
+swimming 0.563100033806
+paddling 0.560586796327
+water-skiing 0.51597423055
+3
+1
+
+*walk walking think thinking
+think 0.678217258956
+thinks 0.479912353337
+fwiw 0.472157732653
+walking 0.465193662454
+daresay 0.45877129197
+9
+7
+
+*walk walking vanish vanishing
+vanish 0.662542714552
+walking 0.510433275434
+disappear 0.493909240501
+vanishes 0.457288561117
+teleporting 0.444490663628
+61
+59
+
+*write writing code coding
+code 0.687844180359
+codes 0.563958004267
+coding 0.457283037712
+writing 0.419282997639
+numeration 0.418047484938
+3
+2
+
+*write writing dance dancing
+dance 0.707134754243
+dancing 0.610948571362
+breakdancing 0.557167989854
+playwriting 0.518993905838
+choreography 0.516817411223
+2
+1
+
+*write writing debug debugging
+debugging 0.672161979878
+debug 0.635609837057
+configuring 0.613848066056
+versioning 0.592291034746
+journaling 0.59226115465
+1
+1
+
+*write writing decrease decreasing
+decrease 0.679616668437
+decreasing 0.625633789439
+decreased 0.568646293614
+lessening 0.561101481944
+increases 0.552912275789
+2
+1
+
+*write writing describe describing
+describe 0.595749338823
+describing 0.57748000481
+writing 0.57580140797
+characterizing 0.530155695559
+conceptualizing 0.50843182262
+2
+1
+
+*write writing discover discovering
+discover 0.611916072189
+discovering 0.581415802681
+discovers 0.539361943958
+discovered 0.519930951687
+realises 0.489362833017
+2
+1
+
+*write writing enhance enhancing
+enhance 0.648781637866
+enhancing 0.628091635938
+enhances 0.588323630449
+improving 0.555053618033
+resiliency 0.524420020809
+2
+1
+
+*write writing fly flying
+fly 0.639452945351
+flies 0.535047277417
+flying 0.500708528197
+writing 0.481235955317
+piloting 0.445050252656
+3
+2
+
+*write writing generate generating
+generating 0.619403727347
+generate 0.58045090503
+generated 0.555789448719
+writing 0.533604392639
+generates 0.532273440881
+1
+1
+
+*write writing go going
+go 0.614740777154
+gone 0.529963388835
+going 0.487397950909
+writing 0.484039240655
+rummaging 0.426705873417
+3
+2
+
+*write writing implement implementing
+implementing 0.647900616122
+implement 0.57249632385
+re-engineering 0.572011336971
+recordkeeping 0.557249616134
+automating 0.556059684449
+1
+1
+
+*write writing increase increasing
+increase 0.657885689911
+increasing 0.60291877972
+decrease 0.601423456448
+decreasing 0.590576130523
+increased 0.583782826849
+2
+1
+
+*write writing invent inventing
+writing 0.628073984229
+inventing 0.614203839133
+invent 0.574741169226
+crafting 0.543808320104
+innovating 0.503592473516
+2
+1
+
+*write writing jump jumping
+jump 0.651697281912
+jumping 0.51311965477
+sprinting 0.467943543883
+hurdling 0.46304522397
+vaulting 0.446625583906
+2
+1
+
+*write writing listen listening
+writing 0.598314345733
+listen 0.594613481595
+listening 0.566643356667
+deejaying 0.530882997024
+djing 0.503728437144
+3
+1
+
+*write writing look looking
+look 0.643114181184
+looking 0.598879031626
+looked 0.546577885555
+writing 0.525155654876
+looks 0.504458129667
+2
+1
+
+*write writing move moving
+move 0.627829813355
+moving 0.521323723954
+moves 0.488448250223
+writing 0.476538728847
+slipping 0.428360817142
+2
+1
+
+*write writing play playing
+playing 0.661158131623
+play 0.646577186837
+writing 0.51454194409
+commentating 0.494777374936
+djing 0.489003687453
+1
+1
+
+*write writing predict predicting
+predicting 0.621740561935
+predict 0.595001248933
+quantifying 0.509281335527
+analysing 0.501597389573
+assessing 0.497986661162
+1
+1
+
+*write writing read reading
+writing 0.656620683114
+read 0.616756386183
+reading 0.565640870219
+writting 0.482255149911
+translating 0.47750862045
+3
+1
+
+*write writing run running
+run 0.64703581074
+running 0.539632264525
+writing 0.468832583312
+dj-ing 0.417964147325
+runs 0.417508046552
+2
+1
+
+*write writing say saying
+say 0.601812346345
+writing 0.584381259421
+saying 0.580324114701
+opining 0.549928873577
+supposing 0.530144627444
+3
+1
+
+*write writing scream screaming
+scream 0.680214636088
+sleepwalking 0.46643764664
+writing 0.46376937284
+undertow 0.462414890138
+howls 0.461117809319
+6
+4
+
+*write writing see seeing
+see 0.619476016861
+writing 0.453928270098
+seeing 0.45069058597
+re-evaluating 0.434630742476
+expecially 0.402329417928
+3
+1
+
+*write writing shuffle shuffling
+shuffle 0.673300557341
+djing 0.460210323896
+writing 0.451772402496
+shuffling 0.441171070134
+clowning 0.426724655344
+4
+2
+
+*write writing sing singing
+singing 0.710211527845
+writing 0.619181003088
+sing 0.609904422801
+rapping 0.559033939098
+djing 0.522941591196
+1
+1
+
+*write writing sit sitting
+sit 0.602740539119
+sitting 0.574617801334
+writing 0.543299463725
+sat 0.475220938969
+lounging 0.465664642523
+2
+1
+
+*write writing slow slowing
+slow 0.702708998051
+sluggish 0.522231133673
+slowing 0.510095995093
+writing 0.483574047751
+slower 0.482338036289
+3
+2
+
+*write writing swim swimming
+swim 0.638619187313
+paddling 0.533546695453
+swimming 0.51628470492
+rowing 0.49514736248
+sprinting 0.466115948912
+3
+2
+
+*write writing think thinking
+think 0.67922672232
+thinking 0.541952504397
+thinks 0.473647179281
+writing 0.471387497734
+unconvinced 0.449727040611
+2
+1
+
+*write writing vanish vanishing
+vanish 0.648640494911
+disappear 0.513370718444
+vanishes 0.477906369855
+disappearing 0.476570101767
+refraining 0.457094752079
+13
+11
+
+*write writing walk walking
+walk 0.630242863242
+walking 0.563628183159
+writing 0.474588812222
+dreaming 0.452243433114
+paddling 0.44929311519
+2
+1
+

@@ -1,0 +1,9504 @@
+*bad worst big biggest
+big 0.669480574422
+biggest 0.59211975315
+worst 0.563142299866
+greatest 0.48437537274
+dirtiest 0.473247657894
+2
+1
+
+*bad worst bright brightest
+bright 0.665031716712
+worst 0.526705042235
+brightest 0.525113016597
+brighter 0.47896404922
+twinkling 0.428704321644
+3
+1
+
+*bad worst cold coldest
+cold 0.650563736923
+worst 0.579855141675
+coldest 0.474194981739
+mildest 0.4568186228
+costliest 0.454608259355
+3
+1
+
+*bad worst cool coolest
+cool 0.686371044463
+worst 0.562721636527
+hottest 0.49702992979
+calm 0.466512588235
+coolest 0.440385395989
+5
+3
+
+*bad worst dark darkest
+dark 0.687961151238
+darkest 0.524282189185
+worst 0.52131467695
+darker 0.452765779652
+thinnest 0.424208488134
+2
+1
+
+*bad worst easy easiest
+easy 0.680078276137
+easiest 0.536241728194
+easier 0.491697891119
+worst 0.480454068587
+hardest 0.464608140529
+2
+1
+
+*bad worst fast fastest
+fast 0.689102242503
+worst 0.541980755357
+fastest 0.522340328079
+slowest 0.505239234014
+slow 0.43342806844
+3
+1
+
+*bad worst good best
+worst 0.705295421762
+best 0.601169665217
+good 0.585653604655
+second-best 0.502657608432
+excellent 0.497296259179
+2
+1
+
+*bad worst great greatest
+great 0.690603727671
+greatest 0.6155052111
+worst 0.532739346605
+tremendous 0.476439056942
+immense 0.460422641635
+2
+1
+
+*bad worst high highest
+high 0.707386560174
+highest 0.548791134468
+worst 0.51039133773
+lowest 0.505094682502
+second-highest 0.467913231797
+2
+1
+
+*bad worst hot hottest
+hot 0.699695666167
+hottest 0.53186576986
+worst 0.531770116676
+billboard 0.454484049161
+coolest 0.435047807827
+2
+1
+
+*bad worst large largest
+large 0.685417188496
+huge 0.565256285944
+largest 0.55223054132
+massive 0.543022182842
+sizable 0.533402348595
+3
+2
+
+*bad worst long longest
+long 0.677241921313
+longest 0.54220371686
+worst 0.469989973
+second-longest 0.447387932298
+shortest 0.438219196569
+2
+1
+
+*bad worst low lowest
+low 0.68924576495
+lowest 0.608011102605
+highest 0.561242183234
+worst 0.556762044317
+high 0.484380371318
+2
+1
+
+*bad worst lucky luckiest
+lucky 0.66632763908
+worst 0.593546518063
+deadliest 0.453113289012
+scariest 0.452508169957
+biggest 0.43582049333
+65
+63
+
+*bad worst old oldest
+old 0.700486357301
+worst 0.574259926799
+older 0.462100659638
+ugliest 0.443520974851
+deadliest 0.402938917793
+6
+4
+
+*bad worst quick quickest
+quick 0.674441439712
+worst 0.524181050466
+quickest 0.444201245985
+quicker 0.415235369647
+rapid 0.405300660873
+3
+1
+
+*bad worst sharp sharpest
+sharp 0.687276058893
+worst 0.523341239785
+sharpest 0.513750578215
+blunt 0.410565396986
+jagged 0.393821324837
+3
+1
+
+*bad worst simple simplest
+simple 0.668202304275
+simplest 0.51683971673
+worst 0.499932418437
+straightforward 0.47488479302
+simplistic 0.432491452369
+2
+1
+
+*bad worst short shortest
+short 0.663511606439
+shortest 0.485347029844
+longest 0.470530999208
+worst 0.45847963082
+brief 0.43230105873
+2
+1
+
+*bad worst slow slowest
+slow 0.679853926884
+worst 0.572950715018
+slowest 0.530655890717
+slower 0.516404182984
+fastest 0.469643127049
+3
+1
+
+*bad worst small smallest
+small 0.669220166216
+tiny 0.552371833096
+large 0.548091502574
+smaller 0.52486277035
+smallest 0.513504367651
+5
+4
+
+*bad worst smart smartest
+smart 0.69002200782
+worst 0.524959340403
+cheapest 0.414395993338
+greenest 0.412298698247
+funniest 0.409115805821
+13
+11
+
+*bad worst strange strangest
+strange 0.651808543965
+worst 0.624590359452
+strangest 0.530976660581
+terrifying 0.513262972937
+mysterious 0.513219137376
+3
+1
+
+*bad worst strong strongest
+strong 0.678396946695
+strongest 0.570332690131
+worst 0.569457832631
+stronger 0.468137283045
+greatest 0.432939509167
+2
+1
+
+*bad worst sweet sweetest
+sweet 0.668173542367
+worst 0.536356425313
+best 0.39770185346
+softest 0.391478748156
+funniest 0.386479122217
+98
+96
+
+*bad worst tall tallest
+tall 0.67940293971
+tallest 0.481216081323
+towering 0.467301467706
+taller 0.462754714466
+5'7 0.457500558765
+2
+1
+
+*bad worst warm warmest
+warm 0.664684785091
+warmest 0.530172461458
+worst 0.522196017029
+warmer 0.518650509858
+coldest 0.492933015583
+2
+1
+
+*bad worst weak weakest
+weak 0.672626410003
+worst 0.608732269592
+strongest 0.552877678035
+weakest 0.524591899574
+weaker 0.496142609231
+4
+2
+
+*bad worst weird weirdest
+weird 0.648265381397
+worst 0.627099171376
+strangest 0.509679430464
+scariest 0.492857888408
+dumbest 0.472526344772
+9
+7
+
+*bad worst wide widest
+wide 0.689010636585
+widest 0.588876036636
+broadest 0.465302254046
+worst 0.453050430772
+wider 0.450411994655
+2
+1
+
+*bad worst young youngest
+young 0.670446914105
+worst 0.479507440068
+youngest 0.47793604467
+best-dressed 0.469429771202
+highest-paid 0.46126999134
+3
+1
+
+*big biggest bright brightest
+bright 0.642292541554
+brightest 0.551196578905
+biggest 0.468522335667
+brighter 0.450821658386
+brightly 0.443795605067
+2
+1
+
+*big biggest cold coldest
+cold 0.657315217749
+mildest 0.440109879858
+coldest 0.434028113401
+warmest 0.430404390831
+biggest 0.429593992001
+3
+2
+
+*big biggest cool coolest
+cool 0.626067502415
+biggest 0.495388154011
+hottest 0.476381076025
+warmest 0.459874031357
+finest 0.431522738793
+9
+7
+
+*big biggest dark darkest
+dark 0.653270106748
+darkest 0.515834726693
+biggest 0.436080903676
+largest 0.425795322633
+mightiest 0.422635830619
+2
+1
+
+*big biggest easy easiest
+easy 0.681815745402
+easiest 0.522315001115
+biggest 0.50734718031
+easier 0.491298824889
+impossible 0.452546906294
+2
+1
+
+*big biggest fast fastest
+fast 0.673352069267
+fastest 0.538731640346
+slowest 0.476466442288
+biggest 0.452961077326
+largest 0.445141899581
+2
+1
+
+*big biggest good best
+good 0.637597079231
+excellent 0.535696705793
+finest 0.490179327804
+decent 0.446998689197
+biggest 0.44629414521
+10
+8
+
+*big biggest great greatest
+great 0.660685738994
+greatest 0.632715120809
+biggest 0.59365581036
+largest 0.528216332527
+finest 0.489667221117
+2
+1
+
+*big biggest high highest
+high 0.680223373748
+highest 0.573914905412
+lowest 0.478965528077
+second-highest 0.462271794658
+biggest 0.46065866848
+2
+1
+
+*big biggest hot hottest
+hot 0.682600120166
+biggest 0.527092244065
+hottest 0.482337935275
+largest 0.474374500376
+biggest-selling 0.465077122972
+3
+1
+
+*big biggest large largest
+largest 0.709969659418
+large 0.661518399157
+biggest 0.632007811028
+sizable 0.587644110901
+sizeable 0.579268056377
+1
+1
+
+*big biggest long longest
+long 0.649694393187
+longest 0.582736655504
+biggest 0.465665983198
+largest 0.4655745728
+busiest 0.430055613705
+2
+1
+
+*big biggest low lowest
+low 0.671374520409
+highest 0.579433157526
+lowest 0.577286481883
+biggest 0.477856646775
+largest 0.474923587253
+3
+2
+
+*big biggest lucky luckiest
+lucky 0.644417039132
+biggest 0.602293440272
+largest 0.495613473136
+biggest-selling 0.474913380373
+best-known 0.457003556437
+64
+62
+
+*big biggest old oldest
+old 0.704576186619
+biggest 0.52413699472
+oldest 0.501099514118
+largest 0.470548223359
+erstwhile 0.459241011277
+3
+1
+
+*big biggest quick quickest
+quick 0.640951362839
+biggest 0.468521850058
+quickest 0.411903217899
+rapid 0.405103582111
+quicker 0.396154804746
+3
+1
+
+*big biggest sharp sharpest
+sharp 0.635507578288
+sharpest 0.517451895929
+biggest 0.455813772375
+largest 0.424139553982
+fiercest 0.411935289641
+2
+1
+
+*big biggest simple simplest
+simple 0.657758792421
+simplest 0.517864022648
+biggest 0.483345586565
+straightforward 0.479581567687
+largest 0.439230648224
+2
+1
+
+*big biggest short shortest
+short 0.64817692316
+longest 0.499247070417
+shortest 0.451416893955
+brief 0.439087286625
+largest 0.425876276673
+3
+2
+
+*big biggest slow slowest
+slow 0.669953435956
+slowest 0.497701256422
+slower 0.488400309885
+fastest 0.480778036575
+largest 0.462014318576
+2
+1
+
+*big biggest small smallest
+small 0.658013453045
+largest 0.637611711025
+biggest 0.592478501234
+smallest 0.555987934095
+tiny 0.537740350208
+4
+2
+
+*big biggest smart smartest
+smart 0.640629323375
+biggest 0.488687002084
+largest 0.468632028683
+cheapest 0.45566293557
+newest 0.432774887302
+80
+78
+
+*big biggest strange strangest
+strange 0.65775185899
+bizarre 0.531343525704
+strangest 0.501312502164
+biggest 0.482335253763
+mysterious 0.479843632972
+3
+2
+
+*big biggest strong strongest
+strong 0.69128403002
+strongest 0.600482422273
+biggest 0.483143718428
+stronger 0.460886897961
+largest 0.454205393407
+2
+1
+
+*big biggest sweet sweetest
+sweet 0.662165687912
+biggest 0.48598327711
+biggest-selling 0.433777852252
+choicest 0.423936094533
+malts 0.420249330292
+112
+110
+
+*big biggest tall tallest
+tall 0.635992582297
+tallest 0.520635774546
+largest 0.491649909757
+biggest 0.473983291835
+oldest 0.429173350586
+2
+1
+
+*big biggest warm warmest
+warm 0.658230857335
+warmest 0.53695836656
+warmer 0.465892016037
+coldest 0.46251903364
+unpolluted 0.434207279986
+2
+1
+
+*big biggest weak weakest
+weak 0.679968602755
+strongest 0.588368461965
+weakest 0.529129254082
+weaker 0.475078036666
+strong 0.464211102353
+3
+2
+
+*big biggest weird weirdest
+weird 0.647350390725
+biggest 0.516324961135
+strangest 0.485133926079
+bizarre 0.477890179376
+nastiest 0.470856258277
+6
+4
+
+*big biggest wide widest
+wide 0.658083711751
+widest 0.573537343283
+largest 0.510773016425
+biggest 0.482823534692
+wider 0.470661100578
+2
+1
+
+*big biggest young youngest
+young 0.670276369153
+biggest 0.46724073466
+youngest 0.455716451733
+ablest 0.444487647996
+highest-paid 0.438771882043
+3
+1
+
+*big biggest bad worst
+bad 0.647000875512
+worst 0.52103106032
+biggest 0.508250073369
+strongest 0.427398959589
+atrocious 0.416719665141
+2
+1
+
+*bright brightest cold coldest
+cold 0.641234290324
+brightest 0.473664271355
+philippine-american 0.445299201801
+greco-italian 0.433840486026
+italo-abyssinian 0.432778432862
+16
+14
+
+*bright brightest cool coolest
+cool 0.642898390325
+brightest 0.551099408284
+coolest 0.510550586017
+hottest 0.494895637255
+smartest 0.475823010581
+3
+1
+
+*bright brightest dark darkest
+brightest 0.666073876685
+dark 0.627043411598
+darkest 0.546638792439
+bravest 0.492028500907
+mightiest 0.481128005754
+3
+1
+
+*bright brightest easy easiest
+easy 0.675198747614
+easiest 0.559636160532
+easier 0.498490565222
+brightest 0.47611241495
+hardest 0.468705302865
+2
+1
+
+*bright brightest fast fastest
+fast 0.659043407492
+slowest 0.568856268749
+fastest 0.539447273772
+brightest 0.495165222553
+quickest 0.447302631436
+3
+2
+
+*bright brightest good best
+good 0.663810621237
+excellent 0.523386490479
+brightest 0.514540688571
+smartest 0.478126504292
+nicest 0.4475840108
+11
+9
+
+*bright brightest great greatest
+great 0.714837836792
+greatest 0.576741957187
+brightest 0.47587757474
+foremost 0.447280737841
+ablest 0.440959530503
+2
+1
+
+*bright brightest high highest
+high 0.661446165369
+highest 0.509467366293
+fifth-highest 0.467016083348
+second-highest 0.46269675637
+brightest 0.455750865652
+2
+1
+
+*bright brightest hot hottest
+hot 0.674465498923
+brightest 0.545256203273
+hottest 0.517691166179
+coolest 0.489818132963
+best-performing 0.476695148175
+3
+1
+
+*bright brightest large largest
+large 0.64954735625
+largest 0.60889539349
+sizable 0.552962119133
+huge 0.541433766327
+sizeable 0.527806320882
+2
+1
+
+*bright brightest long longest
+long 0.644160604592
+longest 0.569943194175
+brightest 0.483634335628
+shortest 0.460926108749
+second-longest 0.420719458752
+2
+1
+
+*bright brightest low lowest
+low 0.636770911282
+lowest 0.534191066372
+highest 0.527052280356
+second-lowest 0.485690473863
+third-highest 0.47132164685
+2
+1
+
+*bright brightest lucky luckiest
+lucky 0.698192805223
+brightest 0.572742092111
+smartest 0.488076233842
+unlucky 0.468761857753
+weirdest 0.462162947849
+11
+9
+
+*bright brightest old oldest
+old 0.700895145471
+brightest 0.474431995389
+oldest 0.46337653301
+erstwhile 0.453720789782
+older 0.45084029533
+3
+1
+
+*bright brightest quick quickest
+quick 0.653028411264
+brightest 0.476029382019
+quickest 0.463954777811
+slowest 0.422503359178
+quicker 0.398192801914
+3
+1
+
+*bright brightest sharp sharpest
+sharp 0.611190456263
+sharpest 0.575186085592
+brightest 0.529775257305
+weakest 0.412001676743
+westernmost 0.39779471644
+2
+1
+
+*bright brightest simple simplest
+simple 0.637166504319
+simplest 0.572911679805
+brightest 0.479348956402
+straightforward 0.459190599615
+silliest 0.453865462924
+2
+1
+
+*bright brightest short shortest
+short 0.659709913263
+shortest 0.488341028715
+longest 0.473139236628
+brightest 0.447957152204
+highest-grossing 0.442408590704
+2
+1
+
+*bright brightest slow slowest
+slow 0.667961639425
+slowest 0.580135074871
+fastest 0.471377372014
+brightest 0.467156450818
+quickest 0.466748047503
+2
+1
+
+*bright brightest small smallest
+small 0.652415987845
+smallest 0.570205751469
+smaller 0.544058700734
+tiny 0.533580488142
+largest 0.529425229661
+2
+1
+
+*bright brightest smart smartest
+smart 0.647214781556
+brightest 0.546630307257
+smartest 0.538586708233
+cleverest 0.475393406865
+weirdest 0.459031980306
+3
+1
+
+*bright brightest strange strangest
+strange 0.659123677819
+brightest 0.577988696569
+strangest 0.575680039414
+mysterious 0.522640981091
+craziest 0.51715518823
+3
+1
+
+*bright brightest strong strongest
+strong 0.619924627334
+strongest 0.608507520933
+weakest 0.518362641678
+brightest 0.492527323826
+weak 0.468211689901
+2
+1
+
+*bright brightest sweet sweetest
+sweet 0.641172246594
+brightest 0.543033811535
+weirdest 0.474766664229
+wildest 0.429465142573
+strangest 0.421588232775
+9
+7
+
+*bright brightest tall tallest
+tall 0.630473145724
+tallest 0.556922632873
+brightest 0.498245901587
+smartest 0.429523960302
+slowest 0.426318185218
+2
+1
+
+*bright brightest warm warmest
+warm 0.601534399102
+warmest 0.533616989203
+brightest 0.525313759051
+coldest 0.477048407053
+cleanest 0.470232103249
+2
+1
+
+*bright brightest weak weakest
+weak 0.672666777004
+weakest 0.584292349145
+strongest 0.538449322441
+brightest 0.533802310009
+weaker 0.496882597146
+2
+1
+
+*bright brightest weird weirdest
+weird 0.668763879886
+strangest 0.543924039759
+weirdest 0.543570559677
+dumbest 0.524034429373
+craziest 0.51792925002
+3
+2
+
+*bright brightest wide widest
+wide 0.644716049812
+widest 0.527266601551
+brightest 0.454510144043
+wider 0.426974174894
+broadest 0.415577216191
+2
+1
+
+*bright brightest young youngest
+young 0.699253637371
+brightest 0.550013435299
+ablest 0.533600403802
+cleverest 0.525976562803
+bravest 0.523582902147
+8
+6
+
+*bright brightest bad worst
+bad 0.665745133416
+brightest 0.489040715238
+smartest 0.465462349826
+dumbest 0.463507708374
+weirdest 0.455999299891
+6
+4
+
+*bright brightest big biggest
+big 0.684766251156
+biggest 0.579523175611
+brightest 0.50992113225
+dumbest 0.479852745785
+smartest 0.474902069602
+2
+1
+
+*cold coldest cool coolest
+coldest 0.703229445519
+cool 0.659401581407
+wettest 0.63497148682
+warmest 0.614753384227
+coolest 0.606693966834
+5
+3
+
+*cold coldest dark darkest
+dark 0.688768252168
+coldest 0.615315519553
+darkest 0.573017889952
+wettest 0.551716349655
+sunniest 0.525973778647
+3
+1
+
+*cold coldest easy easiest
+easy 0.6817190547
+easiest 0.580638499524
+easier 0.539728422441
+coldest 0.473801565099
+safest 0.470021278773
+2
+1
+
+*cold coldest fast fastest
+fast 0.656077847153
+slowest 0.566922823059
+fastest 0.562401355365
+coldest 0.526018025816
+slower 0.519280873407
+3
+2
+
+*cold coldest good best
+good 0.689191551249
+coldest 0.535944101481
+decent 0.520862889088
+excellent 0.511307673476
+wettest 0.501552508397
+33
+31
+
+*cold coldest great greatest
+great 0.701057979536
+greatest 0.553015440415
+coldest 0.507641641777
+wettest 0.49922311203
+sunniest 0.486785578084
+2
+1
+
+*cold coldest high highest
+high 0.6815683698
+highest 0.537767952642
+lowest 0.521320923767
+coldest 0.508246377259
+second-lowest 0.493577286078
+2
+1
+
+*cold coldest hot hottest
+coldest 0.695264220168
+hot 0.656443557366
+wettest 0.622058031074
+hottest 0.619812853854
+coolest 0.612677568617
+4
+2
+
+*cold coldest large largest
+large 0.685750766174
+sizable 0.579333544445
+sizeable 0.571374066996
+huge 0.561187275869
+larger 0.558442952591
+7
+6
+
+*cold coldest long longest
+long 0.695821560025
+longest 0.520373204028
+coldest 0.516746267078
+wettest 0.507333855055
+shortest 0.482034980666
+2
+1
+
+*cold coldest low lowest
+low 0.685731280828
+lowest 0.608237878761
+coldest 0.568898792385
+highest 0.532500065349
+wettest 0.527217134654
+2
+1
+
+*cold coldest lucky luckiest
+lucky 0.676569930229
+coolest 0.538097819569
+coldest 0.529177614211
+wettest 0.488874831441
+prettiest 0.478805105023
+10
+8
+
+*cold coldest old oldest
+old 0.72956923597
+wettest 0.525248839954
+coldest 0.520600423552
+sunniest 0.49761450384
+rainiest 0.488104667324
+18
+16
+
+*cold coldest quick quickest
+quick 0.636259013076
+quickest 0.464078275305
+quicker 0.454558185471
+coldest 0.451531801396
+slowest 0.428993889774
+2
+1
+
+*cold coldest sharp sharpest
+sharp 0.647579379176
+coldest 0.515847746456
+sharpest 0.491772529212
+wettest 0.464755382513
+thinnest 0.439675588978
+3
+1
+
+*cold coldest simple simplest
+simple 0.681501137346
+coldest 0.475192157307
+simpler 0.464994020516
+simplest 0.46049931012
+straightforward 0.443078304278
+4
+2
+
+*cold coldest short shortest
+short 0.664360561234
+shortest 0.5428728466
+shorter 0.499572022101
+coldest 0.471377945372
+longest 0.462228802784
+2
+1
+
+*cold coldest slow slowest
+slow 0.680733061256
+slower 0.581547640238
+slowest 0.564909402981
+coldest 0.549600324128
+wettest 0.524081810767
+3
+2
+
+*cold coldest small smallest
+small 0.68827177618
+tiny 0.585796105894
+smaller 0.576232655948
+smallest 0.540079788267
+large 0.533584682949
+4
+3
+
+*cold coldest smart smartest
+smart 0.662314387852
+coolest 0.522286579329
+greenest 0.492262957706
+coldest 0.470268096872
+nicest 0.455813585324
+12
+10
+
+*cold coldest strange strangest
+strange 0.689294563758
+coldest 0.558962718942
+oddest 0.525080165516
+strangest 0.519136034006
+wettest 0.511486843251
+4
+2
+
+*cold coldest strong strongest
+strong 0.664277419311
+strongest 0.548449965687
+coldest 0.52386659647
+wettest 0.486258120684
+warmest 0.485736477305
+2
+1
+
+*cold coldest sweet sweetest
+sweet 0.656158036074
+coldest 0.55710918
+wettest 0.539748523796
+warmest 0.505495309674
+sunniest 0.505174401476
+10
+8
+
+*cold coldest tall tallest
+tall 0.694621610158
+wettest 0.501675018334
+coldest 0.492024878246
+5'10 0.476308874801
+5'7 0.464901510846
+6
+4
+
+*cold coldest warm warmest
+coldest 0.76441725874
+warmest 0.722795318185
+wettest 0.682815737533
+warm 0.651498040488
+driest 0.646751045577
+2
+1
+
+*cold coldest weak weakest
+weak 0.682282645399
+coldest 0.560405613852
+weakest 0.536724399153
+wettest 0.530519962226
+weaker 0.527435234552
+3
+1
+
+*cold coldest weird weirdest
+weird 0.679485481487
+coldest 0.569527726691
+wettest 0.528695572902
+oddest 0.517623634165
+coolest 0.513255639244
+8
+6
+
+*cold coldest wide widest
+wide 0.686345025155
+widest 0.548733881164
+coldest 0.483453351928
+wettest 0.473740203545
+narrowest 0.470144751723
+2
+1
+
+*cold coldest young youngest
+young 0.687414943028
+18-49 0.505031105196
+18-34 0.493556427308
+25-54 0.482479324668
+poorest 0.481378111257
+9
+7
+
+*cold coldest bad worst
+bad 0.659684530857
+coldest 0.58222490294
+wettest 0.533581307526
+coolest 0.501558758975
+sunniest 0.491265948199
+8
+6
+
+*cold coldest big biggest
+big 0.707680595007
+biggest 0.531005273693
+coldest 0.518056140812
+coolest 0.507461800719
+wettest 0.506202950938
+2
+1
+
+*cold coldest bright brightest
+bright 0.705745644806
+coldest 0.585632397345
+brighter 0.562458457374
+brightest 0.55532386608
+wettest 0.536397008984
+4
+2
+
+*cool coolest dark darkest
+dark 0.679888566364
+coolest 0.612832313808
+loneliest 0.546999058869
+darkest 0.53168489916
+fattest 0.5297685342
+4
+2
+
+*cool coolest easy easiest
+easy 0.663398871085
+easiest 0.54491277626
+coolest 0.538770879982
+weirdest 0.470703958692
+toughest 0.46458246794
+2
+1
+
+*cool coolest fast fastest
+fast 0.677613446409
+fastest 0.579922756974
+slowest 0.550407372163
+coolest 0.537603196886
+smoothest 0.465364016146
+2
+1
+
+*cool coolest good best
+good 0.688848005059
+coolest 0.588830918984
+nicest 0.527538512879
+smartest 0.511834368942
+decent 0.495598053326
+40
+38
+
+*cool coolest great greatest
+great 0.711377719586
+greatest 0.561925076861
+coolest 0.522343453818
+strangest 0.49373477373
+dumbest 0.486392629227
+2
+1
+
+*cool coolest high highest
+high 0.684912219225
+coolest 0.485151725248
+fifth-highest 0.476549812848
+second-lowest 0.470597332957
+highest 0.46242401362
+5
+3
+
+*cool coolest hot hottest
+coolest 0.708350555179
+hot 0.676187644013
+hottest 0.556957422845
+sexiest 0.530769431917
+scariest 0.530261837566
+3
+1
+
+*cool coolest large largest
+large 0.674850175638
+small 0.557228135601
+largest 0.556304271389
+huge 0.550989332557
+sizable 0.527991582489
+3
+2
+
+*cool coolest long longest
+long 0.690918803936
+longest 0.51159391567
+coolest 0.499947230415
+shortest 0.451553175703
+second-longest 0.43238760759
+2
+1
+
+*cool coolest low lowest
+low 0.652711318345
+lowest 0.556958714793
+coolest 0.532630314918
+second-lowest 0.522211023572
+highest 0.483132701347
+2
+1
+
+*cool coolest lucky luckiest
+lucky 0.709447027521
+coolest 0.621400101093
+luckiest 0.56290810266
+prettiest 0.541765234511
+weirdest 0.538618580605
+3
+1
+
+*cool coolest old oldest
+old 0.76064510985
+coolest 0.564992680712
+ugliest 0.503669861365
+prettiest 0.500133208562
+loneliest 0.499782768602
+34
+32
+
+*cool coolest quick quickest
+quick 0.657243335231
+coolest 0.497167160829
+quickest 0.460507132436
+strangest 0.456370971391
+briefest 0.442541850789
+3
+1
+
+*cool coolest sharp sharpest
+sharp 0.638618819672
+sharpest 0.547488579035
+coolest 0.508162691791
+strangest 0.461538684213
+nastiest 0.449414641829
+2
+1
+
+*cool coolest simple simplest
+simple 0.664120968622
+coolest 0.528573044196
+strangest 0.494605244822
+silliest 0.486276954277
+oddest 0.482487615685
+7
+5
+
+*cool coolest short shortest
+short 0.675865116026
+shortest 0.498974645807
+briefest 0.466510839035
+coolest 0.463846976341
+highest-grossing 0.459492991491
+2
+1
+
+*cool coolest slow slowest
+slow 0.650245054074
+slowest 0.592961739475
+coolest 0.569688935728
+fastest 0.541805414014
+slower 0.539853876733
+2
+1
+
+*cool coolest small smallest
+small 0.692133181558
+tiny 0.607372199051
+smaller 0.54645384458
+smallish 0.526496180202
+smallest 0.518424112052
+5
+4
+
+*cool coolest smart smartest
+smart 0.707668676493
+coolest 0.597324115781
+smartest 0.542304504338
+prettiest 0.510711457797
+weirdest 0.50381598148
+3
+1
+
+*cool coolest strange strangest
+strange 0.698656403066
+strangest 0.617414742864
+coolest 0.599393708942
+oddest 0.580647318827
+craziest 0.578433727871
+2
+1
+
+*cool coolest strong strongest
+strong 0.643500013911
+strongest 0.565574496739
+coolest 0.510091638898
+weakest 0.45219060488
+stronger 0.45205965244
+2
+1
+
+*cool coolest sweet sweetest
+sweet 0.688954367602
+coolest 0.579758087659
+weirdest 0.528118743085
+prettiest 0.520670113236
+cutest 0.508663486138
+6
+4
+
+*cool coolest tall tallest
+tall 0.685565388798
+coolest 0.549489846773
+tallest 0.484556967949
+handsomest 0.48075289848
+prettiest 0.477127294608
+3
+1
+
+*cool coolest warm warmest
+coolest 0.730016758837
+warmest 0.659310452798
+coldest 0.629299872972
+sunniest 0.618993522098
+driest 0.589052217068
+2
+1
+
+*cool coolest weak weakest
+weak 0.661609790207
+coolest 0.553235396449
+weakest 0.548167439116
+strongest 0.527373345809
+weaker 0.499762582534
+3
+1
+
+*cool coolest weird weirdest
+weird 0.682478651327
+coolest 0.623520464282
+weirdest 0.619745191455
+strangest 0.609063989048
+craziest 0.600208624857
+3
+1
+
+*cool coolest wide widest
+wide 0.6862877985
+widest 0.508718557504
+wider 0.450500069381
+coolest 0.449637229386
+broadest 0.442026046131
+2
+1
+
+*cool coolest young youngest
+young 0.728821529989
+cleverest 0.552777507304
+smartest 0.549585013852
+meanest 0.547245023475
+coolest 0.533790637991
+46
+44
+
+*cool coolest bad worst
+bad 0.704647063877
+coolest 0.578531048933
+weirdest 0.515182478297
+craziest 0.503521618829
+dumbest 0.502205023769
+22
+20
+
+*cool coolest big biggest
+big 0.706873537838
+coolest 0.616673982152
+biggest 0.562695593135
+fattest 0.545859745156
+weirdest 0.542094102182
+3
+1
+
+*cool coolest bright brightest
+bright 0.67042636187
+coolest 0.612676297605
+brightest 0.594355919876
+prettiest 0.53987530593
+cutest 0.509637527149
+3
+1
+
+*cool coolest cold coldest
+coolest 0.657674170955
+cold 0.616310946933
+coldest 0.563317354916
+rainiest 0.544226371868
+sunniest 0.539951092695
+3
+1
+
+*dark darkest easy easiest
+easy 0.682991902547
+easiest 0.530615383362
+easier 0.519557379995
+hardest 0.463611374204
+difficult 0.452554598682
+2
+1
+
+*dark darkest fast fastest
+fast 0.652005497847
+slowest 0.514271830724
+fastest 0.505440206322
+slow 0.485146942876
+faster 0.460329927111
+3
+2
+
+*dark darkest good best
+good 0.682080122859
+excellent 0.481704613561
+darkest 0.465915805128
+decent 0.445805631768
+proudest 0.438629267979
+14
+12
+
+*dark darkest great greatest
+great 0.71036811199
+greatest 0.5572969604
+darkest 0.483965164788
+tremendous 0.472580515753
+proudest 0.468052115135
+2
+1
+
+*dark darkest high highest
+high 0.666493297712
+highest 0.475078956941
+darkest 0.442800337757
+lowest 0.425792347661
+low 0.422518547027
+2
+1
+
+*dark darkest hot hottest
+hot 0.698873621632
+hottest 0.531300697335
+darkest 0.489508102832
+warmest 0.464109521636
+coldest 0.451971588634
+2
+1
+
+*dark darkest large largest
+large 0.643639474736
+huge 0.564743580943
+sizable 0.55512978199
+sizeable 0.550473584718
+larger 0.510983939843
+8
+7
+
+*dark darkest long longest
+long 0.683233384437
+darkest 0.506314867692
+longest 0.478767143587
+shortest 0.40886883373
+24-48 0.405036425228
+3
+1
+
+*dark darkest low lowest
+low 0.669435886185
+lowest 0.516195263147
+darkest 0.49132889523
+highest 0.47093869963
+lower 0.442978776373
+2
+1
+
+*dark darkest lucky luckiest
+lucky 0.707757662998
+darkest 0.509513865358
+happiest 0.452668648814
+unlucky 0.452415256165
+strangest 0.441840597092
+33
+31
+
+*dark darkest old oldest
+old 0.715622311026
+darkest 0.475186197779
+erstwhile 0.439391163442
+happiest 0.429146378545
+earlier 0.425603300371
+33
+31
+
+*dark darkest quick quickest
+quick 0.67162186559
+quicker 0.463210490489
+darkest 0.437874000478
+cursory 0.415261022043
+frantic 0.399413436594
+9
+7
+
+*dark darkest sharp sharpest
+sharp 0.659479228357
+darkest 0.519921823604
+sharpest 0.509517655259
+deepest 0.409407842998
+gnashing 0.379107592743
+3
+1
+
+*dark darkest simple simplest
+simple 0.645511904622
+straightforward 0.501605004883
+simplest 0.495233588165
+darkest 0.47025444438
+simpler 0.463462694982
+3
+2
+
+*dark darkest short shortest
+short 0.662092679868
+brief 0.483882055814
+shorter 0.46319881031
+shortest 0.460065219166
+darkest 0.457280070062
+4
+3
+
+*dark darkest slow slowest
+slow 0.692707428856
+slower 0.506686040994
+slowest 0.502253979812
+darkest 0.487560948094
+sluggish 0.435921674654
+3
+2
+
+*dark darkest small smallest
+small 0.65036318621
+tiny 0.558183341181
+smaller 0.494443210769
+large 0.47860786743
+smallest 0.465337845827
+5
+4
+
+*dark darkest smart smartest
+smart 0.64886811285
+darkest 0.435233915521
+strangest 0.429958587891
+funniest 0.41854401791
+happiest 0.416066750329
+17
+15
+
+*dark darkest strange strangest
+strange 0.669490288912
+darkest 0.59375997673
+strangest 0.575496542363
+bizarre 0.523216488389
+wondrous 0.521151352935
+3
+1
+
+*dark darkest strong strongest
+strong 0.6630803726
+strongest 0.545614270252
+stronger 0.495963039187
+darkest 0.469846902116
+steadfast 0.442498554018
+2
+1
+
+*dark darkest sweet sweetest
+sweet 0.708420166718
+darkest 0.521919105686
+wildest 0.453755649429
+sweetest 0.444784677546
+darlin 0.441475969786
+4
+2
+
+*dark darkest tall tallest
+tall 0.626881096276
+darkest 0.457114871885
+5'10 0.422745500332
+5'7 0.415039915104
+taller 0.411822090711
+6
+4
+
+*dark darkest warm warmest
+warm 0.697904501349
+warmest 0.586057809991
+darkest 0.582442298543
+warmer 0.516979256588
+coldest 0.512227172228
+2
+1
+
+*dark darkest weak weakest
+weak 0.65753838389
+weakest 0.541391279867
+strongest 0.527352158098
+weaker 0.512892892279
+darkest 0.504231427281
+2
+1
+
+*dark darkest weird weirdest
+weird 0.690163573376
+darkest 0.545279272007
+strangest 0.535527760433
+wildest 0.501174470748
+wierd 0.495823538682
+8
+6
+
+*dark darkest wide widest
+wide 0.666952853436
+widest 0.561202229908
+wider 0.486434168272
+darkest 0.45989587243
+broadest 0.4397957353
+2
+1
+
+*dark darkest young youngest
+young 0.65985407293
+best-loved 0.451140385987
+younger 0.446309191547
+ablest 0.4434473543
+cleverest 0.442817616394
+31
+29
+
+*dark darkest bad worst
+bad 0.699010644479
+darkest 0.482688706377
+worst 0.446872394514
+happiest 0.438577125495
+saddest 0.438404197321
+3
+1
+
+*dark darkest big biggest
+big 0.697812899046
+biggest 0.533950341985
+darkest 0.472630998847
+strangest 0.435534653713
+saddest 0.43470606086
+2
+1
+
+*dark darkest bright brightest
+darkest 0.66428555945
+bright 0.63222522412
+brightest 0.539658642087
+warmest 0.478281496856
+brighter 0.459933531929
+3
+1
+
+*dark darkest cold coldest
+cold 0.680041866738
+darkest 0.565007712636
+warmest 0.497735786729
+coldest 0.497520299239
+colder 0.47323602059
+4
+2
+
+*dark darkest cool coolest
+cool 0.678552513464
+darkest 0.570008640152
+warmest 0.506198115977
+hottest 0.501530557554
+coldest 0.476278408939
+7
+5
+
+*easy easiest fast fastest
+fast 0.657535829519
+slowest 0.58445833083
+easiest 0.567586413716
+fastest 0.559319419972
+quickest 0.537317145926
+4
+2
+
+*easy easiest good best
+good 0.69796530857
+easiest 0.547349930265
+nicest 0.536432964684
+wisest 0.52389371942
+stupidest 0.513629897077
+12
+10
+
+*easy easiest great greatest
+great 0.726436153698
+dumbest 0.470597891026
+wisest 0.469415129851
+easiest 0.469142558743
+greatest 0.466712196031
+5
+3
+
+*easy easiest high highest
+high 0.683744370034
+higher 0.503432196978
+highest 0.491926028695
+lowest 0.480407962457
+schulich 0.436583904608
+3
+2
+
+*easy easiest hot hottest
+hot 0.668122848314
+coolest 0.547803993859
+hottest 0.530322905376
+coldest 0.5124324886
+driest 0.501924454503
+3
+2
+
+*easy easiest large largest
+large 0.651585146148
+larger 0.547299258545
+huge 0.538601436797
+small 0.526751256529
+smaller 0.522710294549
+6
+5
+
+*easy easiest long longest
+long 0.665817312771
+shortest 0.52334003397
+longest 0.506881666245
+mildest 0.458031943134
+smoothest 0.45674631461
+3
+2
+
+*easy easiest low lowest
+low 0.677765471281
+lowest 0.575786379922
+lower 0.503485933141
+highest 0.494238777022
+mildest 0.487101693782
+2
+1
+
+*easy easiest lucky luckiest
+lucky 0.667641992734
+nicest 0.545477800101
+stupidest 0.542015621045
+dumbest 0.538047409207
+easiest 0.537557848707
+7
+5
+
+*easy easiest old oldest
+old 0.706272866029
+handsomest 0.509560016351
+ugliest 0.480548480352
+stupidest 0.479204056503
+commonest 0.474955669578
+23
+21
+
+*easy easiest quick quickest
+quick 0.624555436482
+easiest 0.614523887584
+quickest 0.57879421937
+quicker 0.499662440914
+simplest 0.497026642336
+3
+1
+
+*easy easiest sharp sharpest
+sharp 0.652091781768
+sharpest 0.597955291025
+easiest 0.465764987208
+bottom-right 0.458074260219
+supraorbital 0.452767697957
+2
+1
+
+*easy easiest simple simplest
+simple 0.670728100457
+simplest 0.637324895211
+easiest 0.606867246574
+silliest 0.541926172519
+commonest 0.538857417195
+2
+1
+
+*easy easiest short shortest
+short 0.657623986159
+shortest 0.568260647058
+briefest 0.492530559034
+shorter 0.482379974256
+silliest 0.467120456776
+2
+1
+
+*easy easiest slow slowest
+slow 0.670215331249
+slowest 0.592211602517
+easiest 0.583133794241
+quickest 0.552483953445
+slower 0.533986963744
+2
+1
+
+*easy easiest small smallest
+small 0.668001594535
+smaller 0.567601714404
+tiny 0.540626820187
+smallest 0.531305643314
+similar-sized 0.5066883119
+4
+3
+
+*easy easiest smart smartest
+smart 0.687871503914
+easiest 0.543079463911
+nicest 0.526811982573
+cheapest 0.510435695236
+smartest 0.506593772167
+5
+3
+
+*easy easiest strange strangest
+strange 0.711862411839
+mysterious 0.585186781561
+oddest 0.572333681501
+bizarre 0.571239154833
+strangest 0.567201868942
+5
+4
+
+*easy easiest strong strongest
+strong 0.658093797222
+strongest 0.592547468554
+stronger 0.531697665854
+weakest 0.487230127918
+weak 0.486351252566
+2
+1
+
+*easy easiest sweet sweetest
+sweet 0.65515363679
+softest 0.513079482289
+freshest 0.509131491331
+kindest 0.500988517682
+weirdest 0.49484248457
+7
+6
+
+*easy easiest tall tallest
+tall 0.670538214224
+taller 0.478612670821
+5'10 0.469691940587
+handsomest 0.46616077962
+tallest 0.463485275428
+5
+4
+
+*easy easiest warm warmest
+warm 0.69640577595
+warmer 0.587731684121
+warmest 0.571400141444
+coldest 0.551377509063
+colder 0.533607947777
+3
+2
+
+*easy easiest weak weakest
+weak 0.694470573959
+weakest 0.564935972201
+weaker 0.551003179575
+strongest 0.539864466308
+easiest 0.501471652479
+2
+1
+
+*easy easiest weird weirdest
+weird 0.713764349714
+oddest 0.556494136631
+craziest 0.552064515351
+stupidest 0.549323397364
+dumbest 0.548647512505
+7
+6
+
+*easy easiest wide widest
+wide 0.673463220088
+widest 0.522004354968
+wider 0.503171953467
+narrowest 0.462097616712
+broadest 0.45559205639
+2
+1
+
+*easy easiest young youngest
+young 0.663933226754
+cleverest 0.577706945662
+smartest 0.550128966332
+wisest 0.547474336316
+ablest 0.544713101508
+22
+21
+
+*easy easiest bad worst
+bad 0.71062454016
+stupidest 0.518742393173
+nicest 0.506635404208
+wisest 0.494581628702
+dumbest 0.492141374509
+6
+5
+
+*easy easiest big biggest
+big 0.690101214733
+dumbest 0.535771702394
+stupidest 0.510395793237
+dirtiest 0.506586947102
+nicest 0.506351387743
+7
+6
+
+*easy easiest bright brightest
+bright 0.676672884661
+brightest 0.552406587079
+brighter 0.501212595253
+softest 0.490193799227
+nicest 0.488879745951
+2
+1
+
+*easy easiest cold coldest
+cold 0.688246926376
+mildest 0.554633349777
+coldest 0.530088042361
+colder 0.505866925365
+driest 0.500017383651
+3
+2
+
+*easy easiest cool coolest
+cool 0.697316659581
+easiest 0.542391832478
+coolest 0.521810397321
+nicest 0.517018116821
+mildest 0.513578295335
+3
+1
+
+*easy easiest dark darkest
+dark 0.697745915804
+darkest 0.552875864294
+darker 0.518669860101
+nicest 0.484070306237
+bottom-right 0.483265563984
+2
+1
+
+*fast fastest good best
+good 0.660628500372
+fastest 0.536160751127
+excellent 0.492004816552
+decent 0.46925961544
+second-best 0.465190336656
+9
+7
+
+*fast fastest great greatest
+great 0.701424305629
+greatest 0.569944250999
+fastest 0.461348730152
+biggest 0.446951047678
+finest 0.440237709002
+2
+1
+
+*fast fastest high highest
+high 0.673020601216
+highest 0.610329342968
+lowest 0.534478347059
+second-highest 0.530291545698
+higher 0.510806671961
+2
+1
+
+*fast fastest hot hottest
+hot 0.685590001307
+hottest 0.559742539551
+fastest 0.524533877836
+coolest 0.515717104195
+billboard 0.474483596629
+2
+1
+
+*fast fastest large largest
+large 0.664044019273
+largest 0.633784412992
+smallest 0.580589520326
+larger 0.555944205141
+huge 0.55509097885
+2
+1
+
+*fast fastest long longest
+long 0.633362742954
+longest 0.594524044623
+fastest 0.538285440304
+second-longest 0.509978695429
+second-fastest 0.503551689628
+2
+1
+
+*fast fastest low lowest
+low 0.657934485313
+lowest 0.640621270628
+highest 0.622236036449
+second-lowest 0.528451758874
+second-highest 0.527820305183
+2
+1
+
+*fast fastest lucky luckiest
+lucky 0.682062516557
+fastest 0.530286639859
+fattest 0.48143756918
+luckiest 0.476749800848
+coolest 0.462484074499
+4
+2
+
+*fast fastest old oldest
+old 0.708416013049
+oldest 0.502021877057
+ugliest 0.484189836661
+fastest 0.476914926798
+older 0.47564148307
+2
+1
+
+*fast fastest quick quickest
+fastest 0.635138298374
+quick 0.591315838415
+quickest 0.583779568402
+slowest 0.476213605858
+easiest 0.452869136473
+3
+1
+
+*fast fastest sharp sharpest
+sharp 0.632477547909
+sharpest 0.51284212205
+fastest 0.489467018121
+westernmost 0.430218228473
+lowest 0.413001866975
+2
+1
+
+*fast fastest simple simplest
+simple 0.613213384112
+fastest 0.522403169234
+simplest 0.520318878936
+easiest 0.474593969002
+smallest 0.468849665318
+3
+1
+
+*fast fastest short shortest
+short 0.649412081049
+shortest 0.524655940916
+fastest 0.506664503428
+longest 0.49513872817
+shorter 0.473981170943
+2
+1
+
+*fast fastest slow slowest
+fastest 0.74941008931
+slowest 0.660435314303
+slow 0.595355695551
+quickest 0.594589498582
+second-fastest 0.541387420405
+2
+1
+
+*fast fastest small smallest
+small 0.656468308159
+smallest 0.633905659673
+tiny 0.578950322905
+smaller 0.57243415721
+largest 0.564779495785
+2
+1
+
+*fast fastest smart smartest
+smart 0.649219383496
+fastest 0.577141996627
+smartest 0.476163022306
+greenest 0.475331382407
+smallest 0.465057796989
+3
+1
+
+*fast fastest strange strangest
+strange 0.66944312859
+strangest 0.51695776336
+oddest 0.512666179275
+mysterious 0.499985713079
+craziest 0.499728105282
+2
+1
+
+*fast fastest strong strongest
+strong 0.643428310711
+strongest 0.606633079711
+fastest 0.522195688379
+stronger 0.482038854947
+weakest 0.462599748731
+2
+1
+
+*fast fastest sweet sweetest
+sweet 0.667394528936
+fastest 0.484341898393
+strawberry 0.463358805972
+weirdest 0.42310926081
+fattest 0.415690270772
+26
+24
+
+*fast fastest tall tallest
+tall 0.675395730251
+tallest 0.573526481436
+fastest 0.543327947917
+taller 0.511404997153
+5'10 0.458234186439
+2
+1
+
+*fast fastest warm warmest
+warm 0.641626481937
+warmest 0.550695974198
+warmer 0.533256865293
+coldest 0.525942872883
+wettest 0.512386061022
+2
+1
+
+*fast fastest weak weakest
+weak 0.647295903357
+strongest 0.579785949387
+weakest 0.570586121134
+weaker 0.534107965438
+fastest 0.524492165195
+3
+2
+
+*fast fastest weird weirdest
+weird 0.664019216364
+weirdest 0.514283239342
+craziest 0.512097666671
+oddest 0.501466950703
+strangest 0.497555222317
+2
+1
+
+*fast fastest wide widest
+wide 0.665378219752
+widest 0.544504122092
+wider 0.52393075986
+fastest 0.487012330466
+smallest 0.437924040886
+2
+1
+
+*fast fastest young youngest
+young 0.695618072997
+youngest 0.533261161458
+cleverest 0.503314167646
+highest-paid 0.502179569034
+highest-placed 0.493352500688
+2
+1
+
+*fast fastest bad worst
+bad 0.663767735513
+fastest 0.487082734739
+worst 0.453815435662
+nicest 0.438074025199
+dumbest 0.432690169638
+3
+1
+
+*fast fastest big biggest
+big 0.704797571694
+biggest 0.589423126196
+fastest 0.505199001977
+second-biggest 0.480390086907
+fattest 0.474802801203
+2
+1
+
+*fast fastest bright brightest
+bright 0.6404258739
+brightest 0.552462857002
+brighter 0.511355508236
+fastest 0.490110722245
+richest 0.447255737957
+2
+1
+
+*fast fastest cold coldest
+cold 0.623715443216
+coldest 0.510341474646
+driest 0.481638838669
+fastest 0.47541540728
+wettest 0.464395061698
+2
+1
+
+*fast fastest cool coolest
+cool 0.655275785715
+hottest 0.538333132397
+coolest 0.536319541024
+fastest 0.496992979098
+coldest 0.462634426785
+3
+2
+
+*fast fastest dark darkest
+dark 0.644346289468
+darkest 0.545832007833
+darker 0.483326906237
+fattest 0.479508652989
+fastest 0.470221098226
+2
+1
+
+*fast fastest easy easiest
+easy 0.656536064571
+easiest 0.599012443534
+fastest 0.591024347787
+quickest 0.526110754334
+easier 0.491951156669
+2
+1
+
+*good best great greatest
+great 0.621249441883
+best 0.596957934058
+greatest 0.594712992087
+biggest 0.474185062221
+finest 0.469103736089
+3
+1
+
+*good best high highest
+high 0.666889281167
+best 0.529064081024
+highest 0.502265965132
+lowest 0.429728696064
+second-highest 0.417469031922
+3
+1
+
+*good best hot hottest
+hot 0.711579837598
+best 0.546511602233
+hottest 0.513657270109
+billboard 0.461012122889
+cashbox 0.426857424759
+3
+1
+
+*good best large largest
+large 0.650146317366
+largest 0.540614695916
+small 0.507773041763
+biggest 0.492892237217
+huge 0.474544935691
+2
+1
+
+*good best long longest
+long 0.672245476625
+best 0.512420372356
+longest 0.492801483591
+shortest 0.38758940749
+third-longest 0.372360741953
+3
+1
+
+*good best low lowest
+low 0.666423324522
+best 0.542038515499
+lowest 0.522720823075
+highest 0.500555879734
+high 0.417456408171
+3
+1
+
+*good best lucky luckiest
+lucky 0.685079899086
+best 0.587283169383
+biggest 0.424031464556
+biggest-selling 0.402583848147
+sexiest 0.398601653165
+50
+48
+
+*good best old oldest
+old 0.726480404694
+best 0.537707567197
+older 0.467995358368
+oldest 0.428773878034
+erstwhile 0.390705215019
+4
+2
+
+*good best quick quickest
+quick 0.634656590845
+best 0.573701796768
+quickest 0.430058513557
+fastest 0.386089738866
+easiest 0.38341688055
+3
+1
+
+*good best sharp sharpest
+sharp 0.652605381659
+best 0.502657154088
+sharpest 0.471434388863
+blunt 0.381542136993
+jagged 0.379865286023
+3
+1
+
+*good best simple simplest
+simple 0.645196568974
+best 0.512738974173
+simplest 0.508929095285
+straightforward 0.458207334991
+simplistic 0.433090690753
+3
+1
+
+*good best short shortest
+short 0.668147690831
+best 0.498105442883
+shortest 0.427762015356
+highest-grossing 0.423140814669
+longest 0.413506271478
+3
+1
+
+*good best slow slowest
+slow 0.659985827068
+best 0.547925647422
+slower 0.48843634533
+slowest 0.480016140688
+fastest 0.478241522841
+4
+2
+
+*good best small smallest
+small 0.658125830668
+tiny 0.52866098857
+smallest 0.502463309764
+smaller 0.49802818424
+large 0.485754217895
+3
+2
+
+*good best smart smartest
+smart 0.671223552442
+best 0.565451505176
+adlib 0.397039880168
+funniest 0.388270888556
+sexiest 0.383688715045
+25
+23
+
+*good best strange strangest
+strange 0.648180916889
+best 0.559627562819
+bizarre 0.494632641746
+mysterious 0.485780583242
+strangest 0.46158076381
+5
+3
+
+*good best strong strongest
+strong 0.625983967434
+best 0.590633842056
+strongest 0.567782089913
+worst 0.40546207953
+stronger 0.389851094014
+3
+1
+
+*good best sweet sweetest
+sweet 0.676724961978
+best 0.558726223109
+cornbread 0.399312266046
+malts 0.399228633661
+chutney 0.396855822506
+3785
+3783
+
+*good best tall tallest
+tall 0.684263374817
+best 0.486479080868
+tallest 0.436258453711
+5'10 0.420858986292
+5'7 0.419048245511
+3
+1
+
+*good best warm warmest
+warm 0.627463605568
+best 0.523220496482
+warmest 0.459040004483
+moist 0.44898936788
+cool 0.448289491237
+3
+1
+
+*good best weak weakest
+weak 0.635450127362
+best 0.592227851567
+strongest 0.535668564356
+weakest 0.468743844013
+worst 0.435822884414
+4
+2
+
+*good best weird weirdest
+weird 0.660761154347
+best 0.562457242808
+craziest 0.460056104165
+weirdest 0.441277073494
+scariest 0.43661381009
+4
+2
+
+*good best wide widest
+wide 0.674131317483
+best 0.506192968047
+widest 0.487257628504
+wider 0.421606209865
+broad 0.406550960696
+3
+1
+
+*good best young youngest
+young 0.693799791031
+best 0.514487798742
+youngest 0.466852147629
+sexiest 0.46005007056
+best-dressed 0.459967490511
+3
+1
+
+*good best bad worst
+best 0.689650361874
+worst 0.590831704786
+bad 0.568657381425
+craziest 0.438159545783
+weirdest 0.407341422615
+2
+1
+
+*good best big biggest
+big 0.697873494643
+biggest 0.568167251047
+best 0.560841075013
+second-biggest 0.41859231453
+top-grossing 0.407389003426
+2
+1
+
+*good best bright brightest
+bright 0.649534206053
+best 0.536289521298
+brightest 0.494449726468
+hued 0.449630087814
+blue-violet 0.425373834948
+3
+1
+
+*good best cold coldest
+cold 0.654368230769
+best 0.500397460986
+hot 0.409015408444
+hottest 0.399087971701
+coldest 0.381651199993
+5
+3
+
+*good best cool coolest
+cool 0.672886753262
+best 0.580074599587
+hottest 0.49712813205
+coolest 0.418971660883
+hot 0.387003136922
+4
+2
+
+*good best dark darkest
+dark 0.677733457206
+best 0.514195792404
+darkest 0.50555289574
+darker 0.436606419224
+lightest 0.406441718906
+3
+1
+
+*good best easy easiest
+easy 0.682037505185
+best 0.581179576811
+easiest 0.540765906068
+easier 0.453640714788
+hardest 0.447510497051
+3
+1
+
+*good best fast fastest
+fast 0.684970154418
+best 0.591669625227
+fastest 0.520153749711
+slowest 0.444102338893
+faster 0.397293407731
+3
+1
+
+*great greatest high highest
+high 0.691121379188
+highest 0.559218203247
+lowest 0.521878368746
+greatest 0.504430808271
+second-highest 0.467934760695
+2
+1
+
+*great greatest hot hottest
+hot 0.738321884865
+hottest 0.570101623816
+greatest 0.47510033283
+number-one 0.473653703765
+coolest 0.464728995414
+2
+1
+
+*great greatest large largest
+large 0.646728032924
+largest 0.560529691781
+greatest 0.543607652917
+biggest 0.537574414076
+sizable 0.519754687707
+2
+1
+
+*great greatest long longest
+long 0.668656168691
+longest 0.568798563756
+greatest 0.459332520185
+shortest 0.440305348498
+second-longest 0.41625175283
+2
+1
+
+*great greatest low lowest
+low 0.692294220449
+lowest 0.610222031318
+highest 0.556286575215
+second-lowest 0.486149080399
+greatest 0.482073166472
+2
+1
+
+*great greatest lucky luckiest
+lucky 0.710577849365
+greatest 0.496413376083
+unlucky 0.466773957755
+scariest 0.45286122559
+biggest 0.447111887477
+36
+34
+
+*great greatest old oldest
+old 0.727047420237
+older 0.496787485999
+greatest 0.471107939109
+oldest 0.433925389131
+biggest 0.411079229011
+4
+2
+
+*great greatest quick quickest
+quick 0.654782954756
+greatest 0.460810018662
+quickest 0.42543125984
+game-changing 0.413046744774
+toughest 0.410375383382
+3
+1
+
+*great greatest sharp sharpest
+sharp 0.668932123485
+sharpest 0.494338649015
+greatest 0.448772530627
+jagged 0.427597788782
+razor-sharp 0.397163956641
+2
+1
+
+*great greatest simple simplest
+simple 0.668688336647
+simplest 0.54237271595
+straightforward 0.508422824503
+minimalistic 0.471285698058
+simplistic 0.452419111177
+2
+1
+
+*great greatest short shortest
+short 0.684035983069
+longest 0.475604162156
+shortest 0.467323170279
+greatest 0.436817130875
+shorter 0.427950780638
+3
+2
+
+*great greatest slow slowest
+slow 0.680661893826
+slowest 0.51673340106
+slower 0.505742467677
+fastest 0.485586262014
+fast 0.468897080175
+2
+1
+
+*great greatest small smallest
+small 0.649311982516
+tiny 0.574886968081
+smallest 0.54297706007
+biggest 0.491964542491
+smaller 0.489150594096
+3
+2
+
+*great greatest smart smartest
+smart 0.716525819557
+greatest 0.43640938223
+sim 0.414135944879
+scariest 0.406606085985
+internet-enabled 0.402178893979
+10
+8
+
+*great greatest strange strangest
+strange 0.690225086394
+bizarre 0.51914192755
+scariest 0.488821388279
+strangest 0.484518646461
+greatest 0.480482820724
+4
+3
+
+*great greatest strong strongest
+strong 0.671805065234
+strongest 0.599851958899
+greatest 0.550246030523
+stronger 0.465043393068
+weakest 0.455660934748
+2
+1
+
+*great greatest sweet sweetest
+sweet 0.689078775544
+highest-charting 0.459348416579
+darlin 0.444370011872
+greatest 0.441852719562
+lowest-charting 0.438288504577
+947
+945
+
+*great greatest tall tallest
+tall 0.694866248103
+tallest 0.475886027662
+5'10 0.454472498424
+taller 0.453718522913
+greatest 0.450829607151
+2
+1
+
+*great greatest warm warmest
+warm 0.660118468837
+warmest 0.549116315956
+coldest 0.49724723757
+hottest 0.494327118692
+warmer 0.483810380889
+2
+1
+
+*great greatest weak weakest
+weak 0.677599789416
+strongest 0.572538189357
+weakest 0.557561578023
+weaker 0.515407748245
+greatest 0.441653772937
+3
+2
+
+*great greatest weird weirdest
+weird 0.693775237427
+wierd 0.509093468704
+greatest 0.507978932332
+scariest 0.489751066141
+weirdest 0.478783791274
+5
+3
+
+*great greatest wide widest
+wide 0.66728419648
+widest 0.531103544468
+greatest 0.504304768511
+broadest 0.434140261589
+wider 0.403432528984
+2
+1
+
+*great greatest young youngest
+young 0.710208579908
+greatest 0.508784097599
+sexiest 0.472669678597
+twenty-something 0.469199003705
+college-aged 0.46231509259
+8
+6
+
+*great greatest bad worst
+bad 0.669402404346
+worst 0.534010393745
+greatest 0.466934857127
+scariest 0.414443099113
+weirdest 0.406672122721
+2
+1
+
+*great greatest big biggest
+big 0.670531132437
+biggest 0.631918810349
+greatest 0.596889708357
+toughest 0.475336265425
+highest-charting 0.472513807708
+2
+1
+
+*great greatest bright brightest
+bright 0.682158944148
+brightest 0.545497433147
+brighter 0.479376727925
+hued 0.444197141297
+greatest 0.438131912278
+2
+1
+
+*great greatest cold coldest
+cold 0.666121957948
+hottest 0.475229550387
+coldest 0.464015733505
+hot 0.4600058982
+warmest 0.438284023105
+3
+2
+
+*great greatest cool coolest
+cool 0.693630732037
+hottest 0.562145339497
+coolest 0.491596307078
+greatest 0.466886838923
+hot 0.431328386825
+3
+2
+
+*great greatest dark darkest
+dark 0.680568670829
+darkest 0.54282809037
+darker 0.478903262356
+greatest 0.460653151968
+lightest 0.453810190203
+2
+1
+
+*great greatest easy easiest
+easy 0.716291519625
+easier 0.479920317678
+easiest 0.473612911374
+greatest 0.46882864034
+hardest 0.463675258161
+3
+2
+
+*great greatest fast fastest
+fast 0.694755699923
+fastest 0.534255756419
+slowest 0.488105003582
+greatest 0.433516954416
+slow 0.431483334021
+2
+1
+
+*great greatest good best
+good 0.624954768612
+greatest 0.572414873423
+best 0.536381794871
+worst 0.483299206507
+finest 0.481096264514
+3
+1
+
+*high highest hot hottest
+hot 0.679832402904
+hottest 0.537111983611
+highest 0.496300317119
+number-one 0.486328401861
+billboard 0.467898315258
+2
+1
+
+*high highest large largest
+large 0.672747518097
+largest 0.62914079183
+huge 0.587705578036
+sizable 0.551643470926
+sizeable 0.549984919773
+2
+1
+
+*high highest long longest
+long 0.656708429235
+longest 0.591814643545
+shortest 0.537100843922
+highest 0.453154972712
+second-longest 0.43219390596
+2
+1
+
+*high highest low lowest
+highest 0.773421398293
+lowest 0.726596267554
+low 0.634627181305
+second-highest 0.608053710783
+third-highest 0.560419813669
+2
+1
+
+*high highest lucky luckiest
+lucky 0.690579898174
+biggest 0.456159579714
+highest 0.45536235027
+unlucky 0.435084480709
+weirdest 0.426645898055
+7
+5
+
+*high highest old oldest
+old 0.684791323899
+oldest 0.495338692853
+highest 0.465325864002
+older 0.456784225881
+ugliest 0.448171895899
+2
+1
+
+*high highest quick quickest
+quick 0.669216660443
+quickest 0.463311792781
+highest 0.445989148135
+quicker 0.444534545704
+easiest 0.397567588952
+2
+1
+
+*high highest sharp sharpest
+sharp 0.671491522934
+sharpest 0.521633254679
+highest 0.504322117349
+lowest 0.448025497099
+second-highest 0.419482931566
+2
+1
+
+*high highest simple simplest
+simple 0.677125411548
+simplest 0.553186855669
+simpler 0.469018935416
+straightforward 0.459666705047
+highest 0.45368147008
+2
+1
+
+*high highest short shortest
+short 0.637860593928
+shortest 0.592561496921
+longest 0.523075669435
+shorter 0.456967227866
+briefest 0.437922527115
+2
+1
+
+*high highest slow slowest
+slow 0.685061542793
+slowest 0.524311943197
+slower 0.486366554207
+fastest 0.473221144567
+slowing 0.472283305565
+2
+1
+
+*high highest small smallest
+small 0.659297156267
+smallest 0.583962721287
+largest 0.565984539468
+smaller 0.557227372918
+tiny 0.548732949228
+2
+1
+
+*high highest smart smartest
+smart 0.635044910009
+cheapest 0.469428907166
+highest 0.448695992317
+best-looking 0.428944352233
+smallest 0.426411608935
+11
+9
+
+*high highest strange strangest
+strange 0.687085077598
+bizarre 0.508496581604
+oddest 0.491132281595
+mysterious 0.489364510056
+strangest 0.486070603122
+5
+4
+
+*high highest strong strongest
+strong 0.66640987929
+strongest 0.618001797299
+highest 0.549156115114
+stronger 0.511226627665
+weakest 0.447692124956
+2
+1
+
+*high highest sweet sweetest
+sweet 0.652055797505
+freshest 0.429229545739
+softest 0.427087778576
+weirdest 0.423830975164
+muffins 0.423415247287
+7
+5
+
+*high highest tall tallest
+tall 0.649645504225
+tallest 0.552422391335
+highest 0.551979459825
+taller 0.487019554473
+towering 0.434551292623
+2
+1
+
+*high highest warm warmest
+warm 0.678611396888
+warmest 0.573388258779
+warmer 0.547248461121
+coldest 0.525205137858
+colder 0.484434981623
+2
+1
+
+*high highest weak weakest
+weak 0.6744480638
+strongest 0.588348750037
+weakest 0.548648233532
+weaker 0.532580441008
+highest 0.521901832112
+3
+2
+
+*high highest weird weirdest
+weird 0.669449815372
+weirdest 0.501119851831
+oddest 0.4888081152
+craziest 0.485101768693
+strange 0.477236613971
+2
+1
+
+*high highest wide widest
+wide 0.653309944649
+widest 0.623811306381
+highest 0.528295200599
+wider 0.4965827528
+broadest 0.490470642947
+2
+1
+
+*high highest young youngest
+young 0.677153805985
+youngest 0.485469483517
+bravest 0.476483116876
+highest-paid 0.467223578476
+highest 0.457790128483
+2
+1
+
+*high highest bad worst
+bad 0.67878829646
+worst 0.466177040142
+highest 0.441116636881
+lamest 0.4166609162
+dumbest 0.408742301918
+2
+1
+
+*high highest big biggest
+big 0.700676784269
+biggest 0.600887709776
+highest 0.490970359793
+second-biggest 0.47923378507
+largest 0.472846220777
+2
+1
+
+*high highest bright brightest
+bright 0.663511165134
+brightest 0.537985423478
+brighter 0.480776552443
+highest 0.472801932369
+blue-white 0.466885051203
+2
+1
+
+*high highest cold coldest
+cold 0.672924316982
+coldest 0.501184408954
+highest 0.481501959802
+warmest 0.473421139815
+colder 0.453686679896
+2
+1
+
+*high highest cool coolest
+cool 0.695578191065
+highest 0.482169402998
+hottest 0.480390145385
+warmest 0.465192025382
+coldest 0.463074401519
+7
+5
+
+*high highest dark darkest
+dark 0.682444257731
+darkest 0.536631240517
+highest 0.486997797183
+darker 0.480806914738
+lowest 0.450435959502
+2
+1
+
+*high highest easy easiest
+easy 0.705242442943
+easier 0.560739219216
+easiest 0.55518983192
+highest 0.470238103604
+hardest 0.456291471487
+3
+2
+
+*high highest fast fastest
+fast 0.642717797846
+fastest 0.567656249559
+slowest 0.539239691049
+slow 0.475767452629
+faster 0.475382775859
+2
+1
+
+*high highest good best
+good 0.677657359891
+excellent 0.524144809677
+highest 0.515076553858
+better 0.461834383161
+decent 0.461679422459
+6
+4
+
+*high highest great greatest
+great 0.694293155072
+greatest 0.579694791112
+highest 0.519914280384
+biggest 0.459613357968
+foremost 0.452387882987
+2
+1
+
+*hot hottest large largest
+large 0.662686432889
+sizable 0.541657415654
+huge 0.539851564793
+sizeable 0.520770388823
+vast 0.50440528234
+9
+8
+
+*hot hottest long longest
+long 0.67484163356
+hottest 0.445135616708
+longest 0.444363045843
+shortest 0.434763321164
+longest-standing 0.373316076175
+3
+1
+
+*hot hottest low lowest
+low 0.681846316845
+lowest 0.570455724616
+lower 0.489897574377
+highest 0.476434782067
+hottest 0.474406644174
+2
+1
+
+*hot hottest lucky luckiest
+lucky 0.692759253331
+hottest 0.546419471117
+coolest 0.46176449348
+unlucky 0.45763913289
+nicest 0.445394228659
+11
+9
+
+*hot hottest old oldest
+old 0.712306738932
+older 0.506665465605
+hottest 0.479265848308
+ugliest 0.451623860412
+erstwhile 0.437352066869
+17
+15
+
+*hot hottest quick quickest
+quick 0.653547634181
+hottest 0.440702283773
+quicker 0.420274104477
+toughest 0.405820844962
+briefest 0.359286327004
+6
+4
+
+*hot hottest sharp sharpest
+sharp 0.668389704008
+sharpest 0.478743717433
+hottest 0.457821011726
+sharper 0.383896399671
+blunt 0.382051056104
+2
+1
+
+*hot hottest simple simplest
+simple 0.661012731922
+simplest 0.442725613726
+simpler 0.432259926706
+straightforward 0.430445786175
+oddest 0.422207087052
+2
+1
+
+*hot hottest short shortest
+short 0.664843705723
+shortest 0.479284625748
+shorter 0.444760367166
+hottest 0.427822180085
+brief 0.410952920316
+2
+1
+
+*hot hottest slow slowest
+slow 0.655528346097
+slowest 0.505503143519
+slower 0.505269116785
+hottest 0.467282315718
+fastest 0.440928872697
+2
+1
+
+*hot hottest small smallest
+small 0.655312117004
+tiny 0.54259109975
+smaller 0.531236677533
+large 0.512962394226
+smallish 0.488784831401
+6
+5
+
+*hot hottest smart smartest
+smart 0.700094947375
+hottest 0.4859548233
+smartest 0.438598130787
+nicest 0.438149196355
+coolest 0.431011163099
+3
+1
+
+*hot hottest strange strangest
+strange 0.699902086665
+bizarre 0.524793513201
+oddest 0.52054007487
+mysterious 0.507892549659
+strangest 0.500894166464
+5
+4
+
+*hot hottest strong strongest
+strong 0.665509167885
+strongest 0.55227685027
+stronger 0.459485151935
+hottest 0.449531481977
+weak 0.441250779533
+2
+1
+
+*hot hottest sweet sweetest
+sweet 0.661358813037
+hottest 0.537877717274
+juicy 0.428078135619
+weirdest 0.426934158021
+coolest 0.421054399293
+6
+4
+
+*hot hottest tall tallest
+tall 0.694070213263
+taller 0.463295075229
+hottest 0.452479045133
+5'10 0.441233325727
+5'7 0.425453893772
+6
+4
+
+*hot hottest warm warmest
+hottest 0.641662697296
+warm 0.637489144342
+warmest 0.584104600723
+warmer 0.569464477293
+coldest 0.561217134294
+3
+1
+
+*hot hottest weak weakest
+weak 0.675189658263
+strongest 0.522095495559
+weakest 0.520649556302
+weaker 0.513461234262
+hottest 0.451528330113
+3
+2
+
+*hot hottest weird weirdest
+weird 0.706214116639
+hottest 0.505174749813
+oddest 0.501420060734
+weirdest 0.483521651179
+strange 0.477564781312
+4
+2
+
+*hot hottest wide widest
+wide 0.692848118295
+widest 0.474270894166
+broad 0.448071545873
+wider 0.429492381453
+hottest 0.413316950135
+2
+1
+
+*hot hottest young youngest
+young 0.736200232473
+younger 0.485829594814
+college-aged 0.484451507424
+hottest 0.483425423364
+cleverest 0.481374458331
+31
+29
+
+*hot hottest bad worst
+bad 0.696722955485
+hottest 0.484127633438
+worst 0.455101670806
+nicest 0.436894803854
+oddest 0.428545800871
+3
+1
+
+*hot hottest big biggest
+big 0.714139478069
+hottest 0.553166329097
+biggest 0.501864665195
+dirtiest 0.463236223117
+toughest 0.441432270671
+3
+1
+
+*hot hottest bright brightest
+bright 0.677832633202
+hottest 0.550743410212
+brightest 0.524550273045
+brighter 0.485794901445
+coolest 0.42753254728
+3
+1
+
+*hot hottest cold coldest
+hottest 0.63932635702
+cold 0.624562678129
+coldest 0.542169467392
+driest 0.483520692546
+warmest 0.48326475884
+3
+1
+
+*hot hottest cool coolest
+hottest 0.688062283958
+cool 0.686943373479
+coolest 0.518071498141
+coldest 0.470874464333
+warmest 0.446659760077
+3
+1
+
+*hot hottest dark darkest
+dark 0.691219962407
+darkest 0.538543374619
+hottest 0.490950732575
+darker 0.481811077375
+coolest 0.427792700492
+2
+1
+
+*hot hottest easy easiest
+easy 0.653334597404
+easiest 0.524575281943
+easier 0.497757613296
+hottest 0.484928607421
+toughest 0.4508001498
+2
+1
+
+*hot hottest fast fastest
+fast 0.662382184574
+fastest 0.497746693094
+slowest 0.481239751117
+hottest 0.474779533209
+faster 0.417569776505
+2
+1
+
+*hot hottest good best
+good 0.687988166886
+excellent 0.509696082317
+decent 0.470718881298
+hottest 0.465392103176
+nicest 0.463349084909
+20
+18
+
+*hot hottest great greatest
+great 0.702088210851
+greatest 0.519450237144
+dirtiest 0.422861530355
+hottest 0.421872315338
+tremendous 0.417569704615
+2
+1
+
+*hot hottest high highest
+high 0.66280728627
+lowest 0.493644614407
+highest 0.49219280338
+hottest 0.460635438005
+higher 0.455930321491
+3
+2
+
+*large largest long longest
+longest 0.667408795752
+long 0.63643662133
+shortest 0.518018975992
+second-longest 0.512604561488
+largest 0.501155287093
+1
+1
+
+*large largest low lowest
+highest 0.633723324377
+lowest 0.621754207345
+low 0.615087480088
+second-highest 0.559734317718
+largest 0.545164703556
+2
+2
+
+*large largest lucky luckiest
+lucky 0.690022511426
+biggest 0.496140412382
+largest 0.486729272554
+smartest 0.485859532506
+third-largest 0.473263492677
+10
+8
+
+*large largest old oldest
+old 0.70614630731
+oldest 0.582190253821
+second-oldest 0.504305925591
+third-oldest 0.492963721792
+largest 0.492829116788
+2
+1
+
+*large largest quick quickest
+quick 0.623148800021
+quickest 0.533263067639
+fastest 0.483636816039
+easiest 0.454773848776
+safest 0.439725854933
+2
+1
+
+*large largest sharp sharpest
+sharp 0.634675599573
+sharpest 0.542995867461
+largest 0.450649574554
+strongest 0.438919548426
+second-largest 0.413792869194
+2
+1
+
+*large largest simple simplest
+simplest 0.615745942184
+simple 0.608614417996
+cheapest 0.506388443355
+easiest 0.503817277021
+largest 0.501763020824
+1
+1
+
+*large largest short shortest
+short 0.611861895917
+longest 0.604324429574
+shortest 0.580096956594
+highest-grossing 0.498844242883
+longest-running 0.493165702908
+3
+2
+
+*large largest slow slowest
+slow 0.663075872876
+fastest 0.560985471404
+slowest 0.559451033116
+quickest 0.514415309324
+largest 0.491648816745
+3
+2
+
+*large largest small smallest
+largest 0.813796286957
+second-largest 0.730180755428
+smallest 0.714979706703
+third-largest 0.686881196633
+fourth-largest 0.679229655486
+3
+2
+
+*large largest smart smartest
+smart 0.658611113715
+smartest 0.520890054124
+cheapest 0.509000017028
+fourth-largest 0.490622034201
+fastest-growing 0.488043225336
+2
+1
+
+*large largest strange strangest
+strange 0.624410911712
+strangest 0.575669835682
+craziest 0.548281324208
+weirdest 0.533594813857
+dumbest 0.519727333207
+2
+1
+
+*large largest strong strongest
+strongest 0.693269781796
+strong 0.636244831978
+largest 0.519387044613
+fourth-largest 0.511070772912
+second-largest 0.504070558051
+1
+1
+
+*large largest sweet sweetest
+sweet 0.672696886363
+weirdest 0.457052494469
+freshest 0.454066086647
+biggest-selling 0.451574788131
+sweetest 0.438272636649
+5
+4
+
+*large largest tall tallest
+tallest 0.648723463325
+tall 0.626357991738
+oldest 0.528451436675
+largest 0.525511110506
+second-oldest 0.477063643126
+1
+1
+
+*large largest warm warmest
+warm 0.637213264901
+warmest 0.567154956301
+coldest 0.534741087868
+cleanest 0.511044655735
+wettest 0.483893811664
+2
+1
+
+*large largest weak weakest
+strongest 0.653068793535
+weak 0.652392967194
+weakest 0.556231681871
+weaker 0.486070502528
+fourth-largest 0.478911599585
+3
+2
+
+*large largest weird weirdest
+weird 0.659312999672
+weirdest 0.555989246209
+craziest 0.527603712921
+strangest 0.521401721917
+dumbest 0.517858900418
+2
+1
+
+*large largest wide widest
+wide 0.597041982036
+largest 0.590584584068
+widest 0.577245367879
+fourth-largest 0.515870919798
+second-largest 0.510382719371
+3
+1
+
+*large largest young youngest
+young 0.642582068038
+youngest 0.581927752849
+smartest 0.559992997599
+cleverest 0.558267866874
+highest-paid 0.555275903644
+2
+1
+
+*large largest bad worst
+bad 0.662243279841
+worst 0.491031349904
+weirdest 0.463016998888
+smartest 0.459592423814
+fourth-largest 0.457090795322
+2
+1
+
+*large largest big biggest
+biggest 0.700566122496
+big 0.639998811043
+largest 0.615922775258
+second-largest 0.562721380759
+second-biggest 0.555654118229
+1
+1
+
+*large largest bright brightest
+bright 0.632978327898
+brightest 0.622310167449
+lightest 0.473497558902
+smartest 0.462198381461
+busiest 0.459850643882
+2
+1
+
+*large largest cold coldest
+cold 0.660808311961
+coldest 0.48666624266
+cleanest 0.472151502251
+busiest 0.464201032237
+fourth-largest 0.456147564849
+2
+1
+
+*large largest cool coolest
+cool 0.66155537561
+hottest 0.535618721543
+coolest 0.523491633436
+cleanest 0.49365121205
+coldest 0.463208958854
+3
+2
+
+*large largest dark darkest
+dark 0.655054904921
+darkest 0.561853547601
+lightest 0.479760002263
+brightest 0.468128087158
+fourth-largest 0.459094054382
+2
+1
+
+*large largest easy easiest
+easy 0.685315705691
+easiest 0.596624816754
+safest 0.525159570374
+easier 0.500640264201
+quickest 0.485199474013
+2
+1
+
+*large largest fast fastest
+fast 0.657281987326
+fastest 0.627787017366
+slowest 0.545202039696
+quickest 0.493119309359
+busiest 0.484916822998
+2
+1
+
+*large largest good best
+good 0.646985715357
+excellent 0.515267767028
+second-best 0.504560021924
+best 0.497211309788
+finest 0.496897020802
+4
+3
+
+*large largest great greatest
+great 0.649901824405
+greatest 0.590517732153
+largest 0.562327066029
+biggest 0.533064860982
+second-largest 0.52120358736
+2
+1
+
+*large largest high highest
+high 0.643504408335
+highest 0.607873003754
+second-highest 0.549975292317
+largest 0.500347217092
+third-highest 0.499863278648
+2
+1
+
+*large largest hot hottest
+hot 0.695163609827
+hottest 0.554313633771
+coolest 0.50125176399
+largest 0.489496967722
+third-largest 0.487615615995
+2
+1
+
+*long longest low lowest
+lowest 0.660963168787
+low 0.648286563291
+highest 0.636638772035
+second-highest 0.567104578568
+second-lowest 0.544266832343
+1
+1
+
+*long longest lucky luckiest
+lucky 0.690830569759
+longest 0.516088816268
+fattest 0.456905260117
+luckiest 0.456449233039
+biggest 0.454991849927
+4
+2
+
+*long longest old oldest
+old 0.68689381087
+oldest 0.588015673701
+older 0.495299440127
+second-oldest 0.48838729352
+third-oldest 0.478664335927
+2
+1
+
+*long longest quick quickest
+quick 0.634165993266
+quickest 0.489170599492
+fastest 0.458329020988
+longest 0.452914741393
+first-ever 0.448216213487
+2
+1
+
+*long longest sharp sharpest
+sharp 0.613151695577
+sharpest 0.5400691123
+longest 0.462123005526
+steepest 0.440400875774
+lowest 0.437446598004
+2
+1
+
+*long longest simple simplest
+simple 0.65026520957
+simplest 0.577563176752
+longest 0.513347393929
+most-used 0.475480989472
+simpler 0.473766207486
+2
+1
+
+*long longest short shortest
+longest 0.695670453305
+shortest 0.637421986392
+short 0.626639429132
+second-longest 0.560163383234
+third-longest 0.504572379041
+2
+1
+
+*long longest slow slowest
+slow 0.674301432209
+slowest 0.569026694272
+longest 0.553719294496
+fastest 0.535746909531
+slower 0.506813835309
+2
+1
+
+*long longest small smallest
+small 0.650753698384
+smallest 0.620262675089
+largest 0.600584780526
+smaller 0.567513032087
+tiny 0.527018674152
+2
+1
+
+*long longest smart smartest
+smart 0.660369463335
+cheapest 0.455097155213
+oldest 0.453908411236
+longest 0.448638628878
+smartest 0.44705066719
+5
+3
+
+*long longest strange strangest
+strange 0.659399134526
+strangest 0.536772426708
+craziest 0.524377917405
+bizarre 0.508374204312
+oddest 0.499536772445
+2
+1
+
+*long longest strong strongest
+strongest 0.648735002076
+strong 0.621730433781
+weakest 0.501969850224
+stronger 0.499863701461
+longest 0.479462359274
+1
+1
+
+*long longest sweet sweetest
+sweet 0.662643096326
+freshest 0.441687762493
+longest 0.440819832081
+weirdest 0.438400496558
+sweetest 0.427303719396
+5
+3
+
+*long longest tall tallest
+tall 0.634204309963
+tallest 0.6081035725
+longest 0.546563127648
+oldest 0.510549368069
+taller 0.485549756822
+2
+1
+
+*long longest warm warmest
+warm 0.671228117602
+warmer 0.554356189528
+coldest 0.525313949689
+warmest 0.495971563775
+colder 0.484329814372
+4
+3
+
+*long longest weak weakest
+weak 0.659640634481
+strongest 0.588663654291
+weakest 0.581798931911
+weaker 0.53874212058
+longest 0.468641122445
+3
+2
+
+*long longest weird weirdest
+weird 0.672996047901
+craziest 0.52196070256
+weirdest 0.519492218908
+strangest 0.502617632052
+dumbest 0.484522958139
+3
+2
+
+*long longest wide widest
+wide 0.625962331694
+widest 0.616576469598
+longest 0.529948951427
+second-longest 0.503056414588
+largest 0.491095183198
+2
+1
+
+*long longest young youngest
+young 0.646952735918
+youngest 0.577065447977
+highest-paid 0.53820071339
+meanest 0.51847358767
+cleverest 0.512348052939
+2
+1
+
+*long longest bad worst
+bad 0.674894890711
+worst 0.496901986894
+longest 0.442580717495
+craziest 0.439257951959
+oldest 0.432271048113
+2
+1
+
+*long longest big biggest
+big 0.678400793862
+biggest 0.619597905554
+second-biggest 0.523136824249
+largest 0.514435039498
+longest 0.507204157154
+2
+1
+
+*long longest bright brightest
+bright 0.626655429779
+brightest 0.575967695912
+brighter 0.526435515769
+longest 0.474904788914
+lightest 0.459428918985
+2
+1
+
+*long longest cold coldest
+cold 0.687269393584
+longest 0.490589134333
+coldest 0.485187439651
+second-longest 0.445674141593
+frigid 0.43972604576
+3
+1
+
+*long longest cool coolest
+cool 0.67931068114
+hottest 0.500349196494
+coldest 0.468562860441
+coolest 0.467963473635
+longest 0.467417952275
+4
+3
+
+*long longest dark darkest
+dark 0.662358671052
+longest 0.505321518565
+darkest 0.497819963208
+darker 0.486702018773
+second-longest 0.484737767133
+3
+1
+
+*long longest easy easiest
+easy 0.691475863426
+easiest 0.574942267866
+easier 0.556433627084
+longest 0.507812847549
+hardest 0.484360635327
+2
+1
+
+*long longest fast fastest
+fast 0.656392142294
+fastest 0.612304824771
+slowest 0.565345757563
+longest 0.562745730967
+faster 0.475736382426
+2
+1
+
+*long longest good best
+good 0.667184639917
+excellent 0.542203836566
+longest 0.478180574873
+finest 0.469300160956
+decent 0.452481145143
+8
+6
+
+*long longest great greatest
+great 0.666913294276
+greatest 0.585194317203
+finest 0.485953877093
+largest 0.480213371363
+biggest 0.477444450365
+2
+1
+
+*long longest high highest
+high 0.674749069052
+highest 0.61370671785
+second-highest 0.559129681904
+lowest 0.543493382175
+third-highest 0.506913519012
+2
+1
+
+*long longest hot hottest
+hot 0.711790091772
+hottest 0.52106622427
+longest 0.510924730453
+second-longest 0.470908176451
+coolest 0.449607083919
+2
+1
+
+*long longest large largest
+largest 0.675935998965
+large 0.652330511574
+smallest 0.571851608735
+larger 0.542046832426
+huge 0.533786664894
+1
+1
+
+*low lowest lucky luckiest
+lucky 0.685051681202
+weirdest 0.463373831559
+lowest 0.457018858559
+craziest 0.45489654656
+unlucky 0.451572018425
+7
+5
+
+*low lowest old oldest
+old 0.68891108178
+older 0.471267450028
+oldest 0.470407607611
+ugliest 0.448923336308
+erstwhile 0.441823569011
+3
+2
+
+*low lowest quick quickest
+quick 0.637339099825
+quickest 0.480396030087
+lowest 0.45783836048
+quicker 0.440289427718
+simplest 0.426760818615
+2
+1
+
+*low lowest sharp sharpest
+sharp 0.666955152034
+sharpest 0.524598977085
+lowest 0.52019767073
+sharper 0.393690027965
+thinnest 0.392012992417
+2
+1
+
+*low lowest simple simplest
+simple 0.649232134518
+simplest 0.5992346344
+lowest 0.492774563923
+simpler 0.47031888856
+straightforward 0.456157759355
+2
+1
+
+*low lowest short shortest
+short 0.621869625397
+shortest 0.616802894449
+longest 0.542462340678
+briefest 0.454446615723
+lowest 0.449733963368
+2
+1
+
+*low lowest slow slowest
+slow 0.620579671542
+slowest 0.610321878762
+fastest 0.528645354212
+lowest 0.518745826
+quickest 0.507540493791
+2
+1
+
+*low lowest small smallest
+smallest 0.649659914708
+small 0.635515468193
+smaller 0.558428036574
+tiny 0.533072965579
+largest 0.525400065097
+1
+1
+
+*low lowest smart smartest
+smart 0.660897551227
+smallest 0.451892255646
+smartest 0.443398187593
+cheapest 0.442246990006
+weirdest 0.441594101271
+3
+2
+
+*low lowest strange strangest
+strange 0.65903630171
+oddest 0.546919174869
+strangest 0.532548236861
+craziest 0.532180940418
+bizarre 0.520770525496
+3
+2
+
+*low lowest strong strongest
+strong 0.645583972699
+strongest 0.634038302455
+stronger 0.523055286354
+lowest 0.517085612491
+weakest 0.4641873066
+2
+1
+
+*low lowest sweet sweetest
+sweet 0.676592622897
+weirdest 0.442161761587
+softest 0.431343833676
+freshest 0.431069742019
+sweetest 0.422019730538
+5
+4
+
+*low lowest tall tallest
+tall 0.634499254048
+tallest 0.502350000408
+lowest 0.49449858574
+topmost 0.461970308173
+taller 0.456885238304
+2
+1
+
+*low lowest warm warmest
+warm 0.671608095102
+warmest 0.560554932881
+warmer 0.550167563345
+coldest 0.550142191459
+lowest 0.514157199193
+2
+1
+
+*low lowest weak weakest
+weak 0.633999992105
+strongest 0.621913475101
+weakest 0.585741599301
+lowest 0.559390944259
+weaker 0.555944805771
+3
+2
+
+*low lowest weird weirdest
+weird 0.669555557125
+weirdest 0.535096049871
+craziest 0.53203905203
+oddest 0.523067021512
+strangest 0.500751615461
+2
+1
+
+*low lowest wide widest
+widest 0.630933852393
+wide 0.626619945235
+broadest 0.537646019967
+wider 0.499411562509
+lowest 0.48993003231
+1
+1
+
+*low lowest young youngest
+young 0.658856590389
+youngest 0.519156177728
+cleverest 0.510620819684
+ablest 0.500166159463
+meanest 0.498556750412
+2
+1
+
+*low lowest bad worst
+bad 0.648315539064
+worst 0.487835280561
+craziest 0.464905039648
+lowest 0.460338994107
+weirdest 0.460170201195
+2
+1
+
+*low lowest big biggest
+big 0.691454137559
+biggest 0.575655486656
+lowest 0.487084006934
+smallest 0.464917893091
+second-biggest 0.461067915468
+2
+1
+
+*low lowest bright brightest
+bright 0.668760664974
+brightest 0.566557221298
+brighter 0.488331967617
+lowest 0.475999175286
+blue-white 0.450439684092
+2
+1
+
+*low lowest cold coldest
+cold 0.662233573418
+coldest 0.529011133121
+lowest 0.506709520775
+warmest 0.461985065177
+mildest 0.457891666386
+2
+1
+
+*low lowest cool coolest
+cool 0.659999976461
+hottest 0.554065092685
+lowest 0.51011222725
+coldest 0.507839732543
+coolest 0.506747343255
+5
+3
+
+*low lowest dark darkest
+dark 0.68550031481
+darkest 0.544634589158
+lowest 0.515682662151
+darker 0.475240990397
+lightest 0.460157846343
+2
+1
+
+*low lowest easy easiest
+easy 0.674658047761
+easiest 0.576309830521
+easier 0.51317508514
+hardest 0.456612683865
+lowest 0.455011693717
+2
+1
+
+*low lowest fast fastest
+fast 0.634071574521
+fastest 0.581517516895
+slowest 0.577452710074
+quickest 0.469964881409
+smoothest 0.468803024355
+2
+1
+
+*low lowest good best
+good 0.660352173588
+excellent 0.509436263763
+lowest 0.489317510738
+second-best 0.46438918246
+nicest 0.449137393801
+11
+9
+
+*low lowest great greatest
+great 0.676426712017
+greatest 0.580763374704
+lowest 0.453533038428
+biggest 0.437767614762
+finest 0.425454793243
+2
+1
+
+*low lowest high highest
+lowest 0.736884795991
+highest 0.681454035396
+second-highest 0.608463135898
+high 0.604502968932
+second-lowest 0.575691972624
+2
+1
+
+*low lowest hot hottest
+hot 0.690995252362
+hottest 0.574070760817
+coolest 0.487103948935
+lowest 0.481120157849
+coldest 0.474482740559
+2
+1
+
+*low lowest large largest
+large 0.633447663254
+largest 0.606207583529
+smallest 0.60347045182
+larger 0.550505230241
+lowest 0.547766111725
+2
+1
+
+*low lowest long longest
+long 0.632726305551
+longest 0.620080367978
+shortest 0.566308062363
+second-longest 0.477383597055
+lowest 0.463753925994
+2
+1
+
+*lucky luckiest old oldest
+old 0.776611453442
+luckiest 0.599582870699
+handsomest 0.594320232892
+loneliest 0.545130212907
+meanest 0.532367732223
+259
+257
+
+*lucky luckiest quick quickest
+quick 0.66916506809
+luckiest 0.498023878742
+briefest 0.484844264536
+rough-and-tumble 0.480535187217
+no-holds-barred 0.477086814597
+576
+574
+
+*lucky luckiest sharp sharpest
+sharp 0.671442764535
+sharpest 0.552547302682
+scutellum 0.502665368559
+concavity 0.495715927837
+striding 0.493724686074
+2
+1
+
+*lucky luckiest simple simplest
+simple 0.713241332308
+pre-existent 0.518765956306
+now-standard 0.516894057897
+stolid 0.514705078693
+non-transparent 0.514549615712
+40
+38
+
+*lucky luckiest short shortest
+short 0.711735609901
+luckiest 0.502421668474
+17-minute 0.498283954239
+briefest 0.490184221217
+shortest 0.479631630789
+5
+3
+
+*lucky luckiest slow slowest
+slow 0.721854640331
+luckiest 0.528452285086
+slower 0.520914087914
+slowest 0.520616961427
+meanest 0.505616396928
+4
+2
+
+*lucky luckiest small smallest
+small 0.713673434154
+smallish 0.584573455478
+tiny 0.577009853973
+middle-sized 0.574990863037
+largish 0.569967784279
+190
+188
+
+*lucky luckiest smart smartest
+smart 0.707613589782
+luckiest 0.59719367105
+handsomest 0.558353513719
+cleverest 0.547348013348
+best-looking 0.536398632975
+6
+4
+
+*lucky luckiest strange strangest
+strange 0.720218356454
+luckiest 0.618367289804
+mysterious 0.59782159241
+ghost-like 0.576671001546
+cutest 0.566960538949
+38
+36
+
+*lucky luckiest strong strongest
+strong 0.695650267098
+weak 0.510672886526
+luckiest 0.509702942092
+strongest 0.508982920196
+keenest 0.504015560672
+4
+2
+
+*lucky luckiest sweet sweetest
+sweet 0.685367473974
+luckiest 0.593787126991
+cutest 0.571333910704
+meanest 0.548517759137
+handsomest 0.543768368944
+42
+40
+
+*lucky luckiest tall tallest
+tall 0.731485725127
+handsomest 0.566307843328
+heavyset 0.554217932841
+luckiest 0.548469526188
+5'10 0.545266340556
+35
+33
+
+*lucky luckiest warm warmest
+warm 0.710988025999
+warmer 0.583948702808
+frigid 0.555443896678
+luckiest 0.553024203334
+sunlit 0.550171847188
+8
+6
+
+*lucky luckiest weak weakest
+weak 0.719356911013
+luckiest 0.557527278093
+weakest 0.541394492355
+weaker 0.53817340778
+meanest 0.517471775513
+3
+1
+
+*lucky luckiest weird weirdest
+weird 0.707065575687
+luckiest 0.607454111664
+cutest 0.569290131259
+nastiest 0.562805047713
+craziest 0.562026940784
+13
+11
+
+*lucky luckiest wide widest
+wide 0.719657225149
+wider 0.525108191472
+widest 0.497925237613
+broad 0.496810704402
+circumboreal 0.48344059644
+3
+2
+
+*lucky luckiest young youngest
+young 0.74105324363
+luckiest 0.643688536149
+handsomest 0.6233756455
+meanest 0.609829217354
+cleverest 0.603762659654
+1073
+1071
+
+*lucky luckiest bad worst
+bad 0.709082059676
+luckiest 0.621734826189
+meanest 0.552175306296
+loneliest 0.5315577285
+fattest 0.525648267988
+3564
+3562
+
+*lucky luckiest big biggest
+big 0.694284456814
+luckiest 0.661004428393
+fattest 0.617444819238
+meanest 0.563695096717
+handsomest 0.559738766687
+403
+401
+
+*lucky luckiest bright brightest
+bright 0.706976553262
+luckiest 0.601743066457
+handsomest 0.572764206384
+suffusion 0.54880465747
+ground-colour 0.546868461697
+264
+262
+
+*lucky luckiest cold coldest
+cold 0.715134348952
+luckiest 0.565245761034
+frigid 0.557362307132
+sweltering 0.552072790974
+polish-bolshevik 0.536457344005
+40
+38
+
+*lucky luckiest cool coolest
+cool 0.699916333165
+luckiest 0.591343572733
+handsomest 0.532089739781
+coolest 0.523957468975
+meanest 0.515143473902
+4
+2
+
+*lucky luckiest dark darkest
+dark 0.752448273001
+luckiest 0.595916684406
+handsomest 0.557463716519
+loneliest 0.551659786948
+pitch-black 0.54188033745
+126
+124
+
+*lucky luckiest easy easiest
+easy 0.653414144035
+luckiest 0.541209103769
+easiest 0.539053442363
+easier 0.516179171535
+likeliest 0.498846955103
+3
+1
+
+*lucky luckiest fast fastest
+fast 0.689371646958
+luckiest 0.534555765169
+slowest 0.526860611508
+meanest 0.52583655015
+slow 0.518659297016
+13
+11
+
+*lucky luckiest good best
+good 0.709841363972
+luckiest 0.588502903124
+decent 0.573461749218
+loneliest 0.530970326117
+nicest 0.52359308019
+10868
+10866
+
+*lucky luckiest great greatest
+great 0.742736770865
+luckiest 0.55295377778
+handsomest 0.538996533113
+sub-roman 0.533583274541
+loneliest 0.517108403598
+57
+55
+
+*lucky luckiest high highest
+high 0.714604539958
+pingry 0.511092668861
+junior-high 0.510588938047
+mchs 0.500617237725
+fifth-highest 0.491159495971
+50
+48
+
+*lucky luckiest hot hottest
+hot 0.708238050991
+luckiest 0.581898204114
+coolest 0.520813124067
+fattest 0.518270687039
+handsomest 0.515052609122
+17
+15
+
+*lucky luckiest large largest
+large 0.695832589536
+small 0.583943524483
+huge 0.565568758279
+largish 0.565528427963
+rapidly-growing 0.554057556206
+324
+322
+
+*lucky luckiest long longest
+long 0.693414634708
+luckiest 0.519069765609
+third-longest 0.504031667713
+handsomest 0.492374796868
+start-finish 0.49008745853
+38
+36
+
+*lucky luckiest low lowest
+low 0.697014101635
+second-lowest 0.500295803829
+lowest 0.499862509283
+near-zero 0.498440207614
+mid-latitudes 0.494017920973
+3
+2
+
+*old oldest quick quickest
+quick 0.668603730985
+quicker 0.471761027843
+timely 0.441439750521
+quickest 0.434949612952
+slow 0.427438387457
+4
+3
+
+*old oldest sharp sharpest
+sharp 0.676150603458
+sharpest 0.479882771443
+oldest 0.381959418132
+razor-sharp 0.379222179989
+sharper 0.362935168249
+2
+1
+
+*old oldest simple simplest
+simple 0.661768691495
+simplest 0.518380029629
+straightforward 0.48759196607
+simpler 0.484166749192
+oldest 0.462512073306
+2
+1
+
+*old oldest short shortest
+short 0.669405408047
+longest 0.563915612326
+shortest 0.503314931771
+shorter 0.476131153896
+oldest 0.44748000112
+3
+2
+
+*old oldest slow slowest
+slow 0.711951853203
+slower 0.500882034933
+slowest 0.493031685454
+fastest 0.485703164938
+oldest 0.464520960545
+3
+2
+
+*old oldest small smallest
+small 0.70006834363
+smaller 0.570850338769
+smallest 0.559329076435
+largest 0.557754063012
+large 0.556920168332
+3
+2
+
+*old oldest smart smartest
+smart 0.671408072132
+oldest 0.522120333925
+second-oldest 0.454254409903
+cheapest 0.419927348322
+smartest 0.417092714231
+5
+3
+
+*old oldest strange strangest
+strange 0.666463784856
+bizarre 0.527554908366
+mysterious 0.504332490578
+oldest 0.48528999655
+strangest 0.457970103652
+5
+3
+
+*old oldest strong strongest
+strong 0.672456781813
+strongest 0.563827670296
+oldest 0.485724071179
+stronger 0.471463560993
+weak 0.452206056983
+2
+1
+
+*old oldest sweet sweetest
+sweet 0.675514928003
+oldest 0.471165538111
+coffees 0.414589023243
+chutney 0.405170926724
+tangy 0.404819741367
+1012
+1010
+
+*old oldest tall tallest
+tall 0.676296995724
+tallest 0.56988996594
+oldest 0.553900379473
+taller 0.48129545233
+supertall 0.460874894147
+2
+1
+
+*old oldest warm warmest
+warm 0.667502161916
+warmer 0.501712228205
+cool 0.475729141769
+oldest 0.458488599083
+cooler 0.440393594704
+8
+6
+
+*old oldest weak weakest
+weak 0.682871631645
+strongest 0.53321575528
+weaker 0.512195249418
+weakest 0.506467493049
+oldest 0.502595213372
+4
+3
+
+*old oldest weird weirdest
+weird 0.675437360763
+oldest 0.474943178122
+bizarre 0.461132980778
+craziest 0.435865602246
+strange 0.431681829753
+7
+5
+
+*old oldest wide widest
+wide 0.6700271618
+widest 0.530867849032
+wider 0.458980857488
+oldest 0.458458750578
+largest 0.458250499962
+2
+1
+
+*old oldest young youngest
+young 0.66417844269
+youngest 0.574486060491
+oldest 0.54721765756
+second-oldest 0.478251697194
+highest-paid 0.478019130878
+2
+1
+
+*old oldest bad worst
+bad 0.655761952162
+oldest 0.522363448404
+good 0.451916861005
+second-oldest 0.40323562002
+poor 0.396341765373
+13
+11
+
+*old oldest big biggest
+big 0.690414485503
+biggest 0.55629518849
+oldest 0.549517434438
+largest 0.504952231494
+youngest 0.438736057717
+2
+1
+
+*old oldest bright brightest
+bright 0.674586185156
+brightest 0.529669179358
+oldest 0.494078544396
+brighter 0.482138112371
+brightly 0.46312944462
+2
+1
+
+*old oldest cold coldest
+cold 0.670988573505
+oldest 0.457533041866
+longest 0.415387880968
+frigid 0.403540778529
+coldest 0.395359831836
+5
+3
+
+*old oldest cool coolest
+cool 0.699315002573
+oldest 0.499942257875
+hottest 0.439652813998
+calm 0.410983332813
+second-oldest 0.401629679699
+10
+8
+
+*old oldest dark darkest
+dark 0.677870032687
+oldest 0.490730570358
+darker 0.458040838391
+darkest 0.438633862503
+lightest 0.429641227792
+4
+2
+
+*old oldest easy easiest
+easy 0.686127386639
+easier 0.54439798505
+easiest 0.532438878242
+oldest 0.49479007181
+difficult 0.454681524719
+3
+2
+
+*old oldest fast fastest
+fast 0.70090696696
+fastest 0.551363381835
+oldest 0.502803574083
+slow 0.489865773192
+slowest 0.482814176674
+2
+1
+
+*old oldest good best
+good 0.697718223503
+oldest 0.504051978161
+decent 0.482924609582
+excellent 0.467632179499
+finest 0.452040899194
+12
+10
+
+*old oldest great greatest
+great 0.689729010359
+greatest 0.48170374019
+finest 0.4731951395
+oldest 0.472858407353
+foremost 0.46520627917
+2
+1
+
+*old oldest high highest
+high 0.672066450773
+highest 0.548545765282
+higher 0.495134688951
+oldest 0.485588225094
+second-highest 0.480812270698
+2
+1
+
+*old oldest hot hottest
+hot 0.69993444931
+oldest 0.521916852008
+hottest 0.483549611252
+longest 0.436076243895
+second-oldest 0.426152301352
+3
+1
+
+*old oldest large largest
+large 0.702057701055
+largest 0.627536556124
+sizable 0.569667697557
+sizeable 0.561682716602
+small 0.551368996221
+2
+1
+
+*old oldest long longest
+long 0.679563247924
+longest 0.636421215656
+oldest 0.503427281105
+shortest 0.458630983089
+second-longest 0.458478560052
+2
+1
+
+*old oldest low lowest
+low 0.675837334811
+lowest 0.555894829908
+highest 0.543452561262
+oldest 0.473936367783
+higher 0.471411925983
+2
+1
+
+*old oldest lucky luckiest
+lucky 0.685160553912
+oldest 0.517283349002
+youngest 0.46397146945
+longest 0.435056504839
+fortunate 0.423718832976
+21
+19
+
+*quick quickest sharp sharpest
+sharp 0.60418989132
+sharpest 0.586526983198
+quickest 0.561979254845
+smoothest 0.516336975327
+slowest 0.495368971258
+2
+1
+
+*quick quickest simple simplest
+quickest 0.632303324104
+simple 0.623882625758
+simplest 0.606844657867
+smoothest 0.584755280216
+easiest 0.567804228044
+3
+1
+
+*quick quickest short shortest
+shortest 0.655849322594
+short 0.651551984081
+quickest 0.581408337752
+longest 0.551929993292
+second-fastest 0.516737075755
+1
+1
+
+*quick quickest slow slowest
+quickest 0.727966108862
+slowest 0.695548106118
+slow 0.649852456954
+fastest 0.599593805419
+smoothest 0.560820269087
+2
+1
+
+*quick quickest small smallest
+small 0.639029093348
+smallest 0.623643918641
+smaller 0.586051095702
+largest 0.51466810928
+larger 0.513865450091
+2
+1
+
+*quick quickest smart smartest
+smart 0.657223197027
+quickest 0.602398723647
+cheapest 0.56212643822
+nicest 0.518309305958
+smartest 0.507273970271
+5
+3
+
+*quick quickest strange strangest
+strange 0.671464604387
+craziest 0.542754366002
+quickest 0.540802082705
+strangest 0.536886636388
+oddest 0.533643881825
+4
+2
+
+*quick quickest strong strongest
+strong 0.628100984034
+strongest 0.595495573168
+quickest 0.534997179684
+stronger 0.513147923452
+second-fastest 0.509183899728
+2
+1
+
+*quick quickest sweet sweetest
+sweet 0.663533352034
+quickest 0.510582273296
+softest 0.50996833179
+lightest 0.478380649367
+freshest 0.463658406085
+31
+29
+
+*quick quickest tall tallest
+tall 0.67562314292
+tallest 0.544863267178
+second-fastest 0.507472128824
+taller 0.505799062945
+slowest 0.493289551724
+2
+1
+
+*quick quickest warm warmest
+warm 0.660183349446
+warmer 0.596605819755
+warmest 0.583606009129
+coldest 0.564037175841
+wettest 0.554960639066
+3
+2
+
+*quick quickest weak weakest
+weak 0.642332139164
+weakest 0.587938698085
+quickest 0.586136552886
+weaker 0.573495339621
+strongest 0.55890014802
+2
+1
+
+*quick quickest weird weirdest
+weird 0.672762021784
+craziest 0.549887595834
+weirdest 0.537268454566
+quickest 0.53545224252
+nicest 0.524401301194
+3
+2
+
+*quick quickest wide widest
+wide 0.65559483061
+widest 0.579330436487
+quickest 0.518160742364
+wider 0.476210867787
+smoothest 0.475518201995
+2
+1
+
+*quick quickest young youngest
+young 0.691159655059
+highest-placed 0.549959508887
+cleverest 0.539494218555
+handsomest 0.538179004132
+highest-paid 0.534740409197
+6
+5
+
+*quick quickest bad worst
+bad 0.675999906962
+quickest 0.530596475577
+nicest 0.500434239767
+stupidest 0.469116279786
+craziest 0.466152354433
+9
+7
+
+*quick quickest big biggest
+big 0.687105086227
+quickest 0.561889487897
+biggest 0.531815388995
+dirtiest 0.510374169433
+fattest 0.50605549322
+3
+1
+
+*quick quickest bright brightest
+bright 0.668896694106
+brightest 0.562165004125
+lightest 0.539262808968
+quickest 0.538818890092
+smoothest 0.51639748839
+2
+1
+
+*quick quickest cold coldest
+cold 0.667088568155
+coldest 0.529490314545
+cleanest 0.519694164914
+quickest 0.50977480278
+mildest 0.509247204683
+2
+1
+
+*quick quickest cool coolest
+cool 0.680202257418
+quickest 0.542349030882
+cleanest 0.531103812472
+coolest 0.513647348772
+wettest 0.500180435068
+4
+2
+
+*quick quickest dark darkest
+dark 0.694497875305
+lightest 0.540342271857
+smoothest 0.527733540452
+darkest 0.526413132383
+quickest 0.524559836957
+4
+3
+
+*quick quickest easy easiest
+quickest 0.699365078512
+easiest 0.687319885481
+easy 0.664158131967
+safest 0.55878376028
+smoothest 0.526659744137
+2
+1
+
+*quick quickest fast fastest
+quickest 0.70855599324
+slowest 0.682618198717
+fastest 0.668493504159
+fast 0.643693128234
+second-fastest 0.57446000036
+3
+2
+
+*quick quickest good best
+good 0.66905577653
+quickest 0.619859744315
+nicest 0.527127274694
+surest 0.517009211851
+second-best 0.506754943445
+11
+9
+
+*quick quickest great greatest
+great 0.685000939801
+quickest 0.541242390856
+greatest 0.53882522193
+second-fastest 0.492835639133
+cleanest 0.47676311992
+3
+1
+
+*quick quickest high highest
+high 0.680980587658
+highest 0.532493691321
+second-highest 0.5208822896
+second-lowest 0.509683505311
+fourth-highest 0.503115104757
+2
+1
+
+*quick quickest hot hottest
+hot 0.698015844557
+quickest 0.545596382807
+hottest 0.504738622605
+coolest 0.503595112336
+cleanest 0.490522754116
+3
+1
+
+*quick quickest large largest
+large 0.641726288987
+largest 0.590577027352
+smallest 0.573335761526
+larger 0.555881651282
+smaller 0.523486600894
+2
+1
+
+*quick quickest long longest
+long 0.689437707727
+longest 0.601376143692
+shortest 0.583180969181
+quickest 0.556430391033
+second-fastest 0.519455509454
+2
+1
+
+*quick quickest low lowest
+low 0.670224007507
+lowest 0.598388419645
+second-lowest 0.545518738278
+quickest 0.544159299742
+highest 0.538990229884
+2
+1
+
+*quick quickest lucky luckiest
+lucky 0.704429520595
+quickest 0.576711683457
+luckiest 0.509359377033
+unlucky 0.49786385716
+second-fastest 0.486981702832
+3
+1
+
+*quick quickest old oldest
+old 0.729810700383
+handsomest 0.509130614883
+oldest 0.498280861163
+loneliest 0.492316236884
+older 0.482608563528
+3
+2
+
+*sharp sharpest simple simplest
+simple 0.70582063992
+simplest 0.613509259822
+sharpest 0.601924070757
+silliest 0.588410194976
+smoothest 0.572448822477
+2
+1
+
+*sharp sharpest short shortest
+short 0.709785320873
+shortest 0.600007243314
+briefest 0.535755015928
+sharpest 0.529182058197
+longest 0.506641901139
+2
+1
+
+*sharp sharpest slow slowest
+slow 0.697268746397
+slowest 0.605689808413
+smoothest 0.578941715684
+sharpest 0.574792556901
+quickest 0.551952769294
+2
+1
+
+*sharp sharpest small smallest
+small 0.690115805273
+smaller 0.584335742177
+tiny 0.56983383586
+smallest 0.559413765004
+large 0.548459541546
+4
+3
+
+*sharp sharpest smart smartest
+smart 0.676863029739
+nicest 0.583184847371
+cleverest 0.566111676775
+smartest 0.553698696263
+dirtiest 0.544480527311
+4
+3
+
+*sharp sharpest strange strangest
+strange 0.688027006308
+strangest 0.657907430273
+oddest 0.654384262635
+craziest 0.638186046057
+nastiest 0.620642655832
+2
+1
+
+*sharp sharpest strong strongest
+strong 0.667921241152
+strongest 0.608119953844
+sharpest 0.592253736419
+keenest 0.542615214948
+stronger 0.535898954471
+2
+1
+
+*sharp sharpest sweet sweetest
+sweet 0.675963907194
+freshest 0.594036687296
+softest 0.587727258412
+loveliest 0.57817766501
+weirdest 0.55434294297
+11
+10
+
+*sharp sharpest tall tallest
+tall 0.685518231513
+handsomest 0.538999332061
+tallest 0.520802341631
+sharpest 0.504417098429
+smoothest 0.502228050278
+3
+2
+
+*sharp sharpest warm warmest
+warm 0.680607708167
+warmest 0.587433066148
+softest 0.562754986933
+warmer 0.56171802775
+mildest 0.560075248634
+2
+1
+
+*sharp sharpest weak weakest
+weak 0.692901169247
+weakest 0.583312235339
+weaker 0.570743347372
+sharpest 0.570704360219
+strongest 0.564502448348
+2
+1
+
+*sharp sharpest weird weirdest
+weird 0.701859434654
+craziest 0.633449317434
+oddest 0.626930214416
+strangest 0.622589744429
+weirdest 0.618113753275
+5
+4
+
+*sharp sharpest wide widest
+wide 0.701969031469
+widest 0.589345859688
+broadest 0.551839350121
+wider 0.548562343868
+sharpest 0.547411221587
+2
+1
+
+*sharp sharpest young youngest
+young 0.709774520355
+cleverest 0.624549679842
+handsomest 0.587795557058
+bravest 0.586370665319
+ablest 0.572245047096
+98
+96
+
+*sharp sharpest bad worst
+bad 0.709536956019
+silliest 0.557851898576
+nicest 0.55301539937
+craziest 0.549327042107
+oddest 0.541881087775
+47
+45
+
+*sharp sharpest big biggest
+big 0.708458954144
+dirtiest 0.591060238855
+biggest 0.578340355177
+craziest 0.561504478363
+dumbest 0.561145871204
+3
+2
+
+*sharp sharpest bright brightest
+bright 0.671187533905
+brightest 0.634990298045
+twinkling 0.594011207396
+sharpest 0.592194035473
+softest 0.585287058383
+2
+1
+
+*sharp sharpest cold coldest
+cold 0.696714343465
+mildest 0.568994014523
+roughest 0.557647406349
+cruelest 0.547723790713
+sharpest 0.545545372551
+29
+27
+
+*sharp sharpest cool coolest
+cool 0.681926132087
+nicest 0.57613668055
+freshest 0.559952057131
+mildest 0.546728269833
+saddest 0.546397283104
+8
+7
+
+*sharp sharpest dark darkest
+dark 0.724131715037
+sharpest 0.598262018763
+darkest 0.5963177213
+smoothest 0.560308779054
+tightest 0.547479663517
+3
+1
+
+*sharp sharpest easy easiest
+easy 0.689566946446
+easiest 0.642395121268
+easier 0.575563481461
+smoothest 0.564140854501
+surest 0.554933926351
+2
+1
+
+*sharp sharpest fast fastest
+fast 0.691773043454
+slowest 0.592277446086
+smoothest 0.588860502677
+fastest 0.54360546138
+sharpest 0.540679019949
+4
+3
+
+*sharp sharpest good best
+good 0.701114471654
+nicest 0.580174747668
+surest 0.556702515471
+silliest 0.54745807051
+likeliest 0.545879762987
+111
+109
+
+*sharp sharpest great greatest
+great 0.74051124067
+greatest 0.570572552107
+noblest 0.535292502433
+sharpest 0.531196184002
+sub-roman 0.523322174742
+2
+1
+
+*sharp sharpest high highest
+high 0.687814405402
+second-lowest 0.527653400275
+fifth-highest 0.512548631918
+highest 0.510597581885
+sharpest 0.506491787698
+4
+3
+
+*sharp sharpest hot hottest
+hot 0.700043204046
+freshest 0.539616271013
+coolest 0.530266299433
+smoothest 0.526172165825
+saddest 0.520859200986
+9
+8
+
+*sharp sharpest large largest
+large 0.693904484785
+huge 0.5927077361
+larger 0.573178565519
+largest 0.572186005461
+vast 0.556607048712
+4
+3
+
+*sharp sharpest long longest
+long 0.69197277194
+longest 0.599167061142
+shortest 0.578958267081
+smoothest 0.553560855001
+sharpest 0.542305108952
+2
+1
+
+*sharp sharpest low lowest
+low 0.688551451897
+second-lowest 0.554007679004
+near-zero 0.553020795813
+lowest 0.551226833712
+sharpest 0.545504433993
+4
+3
+
+*sharp sharpest lucky luckiest
+lucky 0.714841419266
+luckiest 0.573454973174
+craziest 0.559551124397
+nicest 0.554726106686
+weirdest 0.549754739137
+2
+1
+
+*sharp sharpest old oldest
+old 0.749935542985
+handsomest 0.555785986216
+ugliest 0.537348470069
+loveliest 0.532600312972
+loneliest 0.519847051622
+39
+38
+
+*sharp sharpest quick quickest
+quick 0.657443242866
+sharpest 0.588526879441
+quickest 0.572011774462
+briefest 0.541233527594
+smoothest 0.533759936829
+3
+1
+
+*simple simplest short shortest
+short 0.652301462522
+shortest 0.570536575671
+simplest 0.543468406779
+longest 0.481039068451
+shorter 0.447266396031
+2
+1
+
+*simple simplest slow slowest
+slow 0.66424897446
+slowest 0.594731831121
+simplest 0.582500952601
+quickest 0.534760739969
+fastest 0.516825825512
+2
+1
+
+*simple simplest small smallest
+smallest 0.658187463202
+small 0.592168421352
+smaller 0.583918568925
+simplest 0.551570745935
+largest 0.542930594462
+1
+1
+
+*simple simplest smart smartest
+smart 0.669620362521
+simplest 0.560947034313
+cheapest 0.528297311427
+nicest 0.479428119078
+smartest 0.476143855606
+5
+3
+
+*simple simplest strange strangest
+strange 0.653166450735
+simplest 0.577410433468
+strangest 0.552689382177
+oddest 0.53761147971
+craziest 0.528354039071
+3
+1
+
+*simple simplest strong strongest
+strongest 0.655688054322
+strong 0.63770942688
+stronger 0.520241817062
+weakest 0.507021613279
+simplest 0.494751534277
+1
+1
+
+*simple simplest sweet sweetest
+sweet 0.670512810629
+simplest 0.510515461395
+freshest 0.476139288847
+weirdest 0.452438076775
+softest 0.44893603967
+101
+99
+
+*simple simplest tall tallest
+tall 0.650250124345
+simplest 0.511926389603
+tallest 0.511420406117
+taller 0.466998890381
+5'7 0.448305691864
+3
+1
+
+*simple simplest warm warmest
+warm 0.668067490891
+warmer 0.576134162544
+warmest 0.559224873391
+colder 0.555849091799
+coldest 0.521183820143
+3
+2
+
+*simple simplest weak weakest
+weak 0.655308981379
+strongest 0.615139784362
+weakest 0.602800751258
+weaker 0.582492313472
+simplest 0.575576589774
+3
+2
+
+*simple simplest weird weirdest
+weird 0.671987617667
+simplest 0.581173292504
+weirdest 0.539412728351
+craziest 0.521745145735
+strangest 0.513864481137
+3
+1
+
+*simple simplest wide widest
+wide 0.645416568587
+widest 0.609701622441
+broadest 0.507074553196
+simplest 0.463543773533
+wider 0.455900945091
+2
+1
+
+*simple simplest young youngest
+young 0.65510366106
+youngest 0.528668843776
+cleverest 0.517839631288
+smartest 0.512305335729
+meanest 0.512152574088
+2
+1
+
+*simple simplest bad worst
+bad 0.699151626905
+simplest 0.510706708606
+worst 0.499885397927
+nicest 0.455814474355
+weirdest 0.432721059187
+3
+1
+
+*simple simplest big biggest
+big 0.677393195578
+biggest 0.536122295987
+simplest 0.50564947965
+weirdest 0.476396559327
+dirtiest 0.467740394734
+2
+1
+
+*simple simplest bright brightest
+bright 0.658894336251
+brightest 0.610778160409
+simplest 0.514468086514
+brighter 0.513204154385
+lightest 0.479044039811
+2
+1
+
+*simple simplest cold coldest
+cold 0.71225143617
+mildest 0.498171461953
+simplest 0.495688686496
+colder 0.488448867938
+coldest 0.461964601445
+5
+3
+
+*simple simplest cool coolest
+cool 0.690723986962
+simplest 0.540834140116
+hottest 0.508220841085
+mildest 0.479533574298
+cooler 0.476680995696
+7
+5
+
+*simple simplest dark darkest
+dark 0.663798979785
+darkest 0.547636704453
+simplest 0.508772603191
+lightest 0.497432000155
+brightest 0.474810945174
+2
+1
+
+*simple simplest easy easiest
+easy 0.664818469601
+easiest 0.651231134714
+simplest 0.615560275599
+easier 0.529558408503
+quickest 0.521394528942
+2
+1
+
+*simple simplest fast fastest
+fast 0.673055669064
+simplest 0.584629809321
+fastest 0.570470184695
+slowest 0.568218981743
+quickest 0.502538419994
+3
+1
+
+*simple simplest good best
+good 0.684748225616
+simplest 0.533209980902
+excellent 0.518113636552
+best 0.495030781183
+nicest 0.48640867903
+4
+2
+
+*simple simplest great greatest
+great 0.665778523619
+greatest 0.547102026578
+plitvice 0.471435347818
+finest 0.467838856084
+simplest 0.445605797365
+2
+1
+
+*simple simplest high highest
+high 0.671638905068
+highest 0.537584793916
+lowest 0.501330412243
+higher 0.447722017877
+second-lowest 0.441199451111
+2
+1
+
+*simple simplest hot hottest
+hot 0.718173954926
+hottest 0.531956840129
+simplest 0.502293431507
+coolest 0.457934390225
+cheapest 0.436384829568
+2
+1
+
+*simple simplest large largest
+large 0.614595368724
+largest 0.604637263494
+smallest 0.584377741847
+larger 0.543184477658
+simplest 0.50101386123
+2
+1
+
+*simple simplest long longest
+long 0.650387528851
+longest 0.567020090803
+shortest 0.533387942621
+simplest 0.507455698518
+smoothest 0.442024629012
+2
+1
+
+*simple simplest low lowest
+low 0.647605414516
+lowest 0.61532051419
+highest 0.555414113818
+simplest 0.501854744891
+ultra-low 0.487039397348
+2
+1
+
+*simple simplest lucky luckiest
+lucky 0.694374873481
+simplest 0.481616066161
+cheapest 0.465431819523
+nicest 0.464935840781
+weirdest 0.463203919231
+6
+4
+
+*simple simplest old oldest
+old 0.70244728461
+oldest 0.488693799931
+older 0.484619144123
+simplest 0.477087534845
+handsomest 0.44105401664
+2
+1
+
+*simple simplest quick quickest
+quick 0.624909813006
+simplest 0.607827477028
+quickest 0.554352206255
+easiest 0.492016449024
+cheapest 0.453692139634
+3
+1
+
+*simple simplest sharp sharpest
+sharp 0.628903622189
+sharpest 0.545290391472
+simplest 0.526440784391
+sharper 0.427977694566
+clearest 0.420534050817
+2
+1
+
+*short shortest slow slowest
+slow 0.69423888845
+slowest 0.610676547817
+shortest 0.562985935415
+quickest 0.559907924577
+slower 0.556313939548
+2
+1
+
+*short shortest small smallest
+smallest 0.637201446731
+small 0.614982271701
+smaller 0.537945911391
+largest 0.53359763291
+larger 0.517761737139
+1
+1
+
+*short shortest smart smartest
+smart 0.681841651739
+cheapest 0.50378269951
+nicest 0.497396884928
+smartest 0.493779634
+shortest 0.47453191175
+4
+3
+
+*short shortest strange strangest
+strange 0.666383385209
+strangest 0.554030459271
+mysterious 0.537024506612
+oddest 0.533465564083
+craziest 0.517307875658
+2
+1
+
+*short shortest strong strongest
+strong 0.669910314378
+strongest 0.641966419617
+stronger 0.531200060533
+weaker 0.465518599935
+shortest 0.465107596656
+2
+1
+
+*short shortest sweet sweetest
+sweet 0.677990399826
+healthiest 0.459104556395
+freshest 0.456341076764
+weirdest 0.448461825834
+sweetest 0.443777187379
+5
+4
+
+*short shortest tall tallest
+tall 0.655427514
+tallest 0.56286534114
+shortest 0.544347853281
+taller 0.505696361247
+slowest 0.465695432148
+2
+1
+
+*short shortest warm warmest
+warm 0.690801916223
+warmer 0.586574982527
+warmest 0.578532295129
+coldest 0.559644965212
+colder 0.531780415257
+3
+2
+
+*short shortest weak weakest
+weak 0.681865163275
+strongest 0.608665936466
+weaker 0.567580677458
+weakest 0.555258046402
+shortest 0.513103058423
+4
+3
+
+*short shortest weird weirdest
+weird 0.674464035613
+weirdest 0.538451186717
+strangest 0.524133357243
+nicest 0.520855487538
+craziest 0.519269375333
+2
+1
+
+*short shortest wide widest
+wide 0.658161801258
+widest 0.633580667462
+shortest 0.521430358849
+broadest 0.494009812758
+wider 0.486661287038
+2
+1
+
+*short shortest young youngest
+young 0.672410230276
+youngest 0.538451401975
+meanest 0.530313241653
+cleverest 0.529468203906
+smartest 0.525656786796
+2
+1
+
+*short shortest bad worst
+bad 0.680688136001
+nicest 0.494785344696
+stupidest 0.47393971482
+worst 0.466623305755
+wisest 0.462883602895
+4
+3
+
+*short shortest big biggest
+big 0.698543976298
+biggest 0.526855426526
+shortest 0.500250544258
+dirtiest 0.482929041862
+hardest 0.470600718503
+2
+1
+
+*short shortest bright brightest
+bright 0.690294155682
+brightest 0.558815822399
+brighter 0.54420795886
+shortest 0.507425317182
+smoothest 0.48583207531
+2
+1
+
+*short shortest cold coldest
+cold 0.678555163678
+coldest 0.541522366736
+colder 0.506824865377
+mildest 0.488823370993
+warmest 0.485030584976
+2
+1
+
+*short shortest cool coolest
+cool 0.695370237975
+coldest 0.50663381522
+coolest 0.49995478779
+hottest 0.49709390993
+nicest 0.485054278428
+3
+2
+
+*short shortest dark darkest
+dark 0.686009934352
+darkest 0.539259437441
+smoothest 0.519613892047
+shortest 0.515155340512
+lightest 0.496300514975
+2
+1
+
+*short shortest easy easiest
+easy 0.699914057574
+easiest 0.650569655012
+easier 0.56072787934
+quickest 0.543107101168
+shortest 0.540656999629
+2
+1
+
+*short shortest fast fastest
+fast 0.696292941338
+slowest 0.590769173962
+fastest 0.576434718715
+shortest 0.565286959993
+quickest 0.533872875218
+3
+2
+
+*short shortest good best
+good 0.70462043582
+shortest 0.523231827792
+excellent 0.511713218476
+nicest 0.498393950455
+surest 0.474655263979
+23
+21
+
+*short shortest great greatest
+great 0.716629462504
+greatest 0.535496196317
+shortest 0.497727292471
+nicest 0.433778832838
+noblest 0.428293627318
+2
+1
+
+*short shortest high highest
+high 0.654946467185
+highest 0.616391256436
+lowest 0.553772275038
+second-highest 0.531826821808
+second-lowest 0.496132902482
+2
+1
+
+*short shortest hot hottest
+hot 0.692048488747
+hottest 0.54427043579
+coolest 0.505437071175
+coldest 0.498504355973
+shortest 0.482696546892
+2
+1
+
+*short shortest large largest
+large 0.632785140575
+largest 0.597760549485
+smallest 0.5709135578
+larger 0.547995146518
+huge 0.529403484365
+2
+1
+
+*short shortest long longest
+shortest 0.716914929597
+longest 0.660127858679
+long 0.646559899714
+second-longest 0.543167171165
+smoothest 0.516227458995
+2
+1
+
+*short shortest low lowest
+lowest 0.66311230025
+low 0.640107388291
+highest 0.62853453687
+second-lowest 0.536590703358
+second-highest 0.529117692148
+1
+1
+
+*short shortest lucky luckiest
+lucky 0.707480909068
+shortest 0.499912478946
+nicest 0.481922330254
+luckiest 0.479458355759
+unlucky 0.473679991723
+4
+2
+
+*short shortest old oldest
+old 0.727532721549
+oldest 0.512920509941
+shortest 0.497208682769
+older 0.467831558195
+handsomest 0.463891207777
+2
+1
+
+*short shortest quick quickest
+quick 0.632846442162
+quickest 0.600328437241
+shortest 0.535889547352
+easiest 0.52122955241
+quicker 0.516367592882
+2
+1
+
+*short shortest sharp sharpest
+sharp 0.631729535886
+sharpest 0.544401860824
+smoothest 0.477919795193
+shortest 0.450463665336
+tightest 0.445522600056
+2
+1
+
+*short shortest simple simplest
+simple 0.664265837882
+simplest 0.598045940802
+shortest 0.566531496476
+smoothest 0.534077034849
+easiest 0.531559698453
+2
+1
+
+*slow slowest small smallest
+small 0.652186794799
+smallest 0.64350146304
+smaller 0.597591449868
+tiny 0.553151272645
+larger 0.537377915468
+2
+1
+
+*slow slowest smart smartest
+smart 0.700280022032
+slowest 0.537339433805
+smartest 0.517125206246
+cheapest 0.499720158712
+best-looking 0.490741760609
+3
+1
+
+*slow slowest strange strangest
+strange 0.666857342293
+strangest 0.571510949131
+craziest 0.5656209764
+oddest 0.554662375832
+mysterious 0.54887957381
+2
+1
+
+*slow slowest strong strongest
+strong 0.661118023986
+strongest 0.611555798953
+stronger 0.549319873986
+slowest 0.510475651678
+highest-placed 0.508671315842
+2
+1
+
+*slow slowest sweet sweetest
+sweet 0.660236213379
+weirdest 0.494376045404
+lightest 0.486539505812
+slowest 0.482556754577
+cutest 0.478644333771
+26
+24
+
+*slow slowest tall tallest
+tall 0.703404133614
+taller 0.541891098426
+slowest 0.537684432233
+5'10 0.527727699576
+5'7 0.52459430202
+6
+4
+
+*slow slowest warm warmest
+warm 0.657254018278
+warmest 0.588139309018
+warmer 0.568248918949
+coldest 0.560075823772
+slowest 0.529753703551
+2
+1
+
+*slow slowest weak weakest
+weak 0.651916044249
+weakest 0.613065795261
+weaker 0.599970107202
+strongest 0.597130162629
+slowest 0.583460058312
+2
+1
+
+*slow slowest weird weirdest
+weird 0.65986087494
+weirdest 0.584241513042
+craziest 0.579958080077
+strangest 0.553796554508
+scariest 0.551517697614
+2
+1
+
+*slow slowest wide widest
+wide 0.681596278703
+widest 0.555942269406
+wider 0.500590439077
+narrowest 0.476916406832
+lowest-ranked 0.45920375817
+2
+1
+
+*slow slowest young youngest
+young 0.719583381382
+highest-placed 0.591611420801
+cleverest 0.55235547995
+best-placed 0.549545632386
+handsomest 0.53312067324
+9
+8
+
+*slow slowest bad worst
+bad 0.657796003991
+slowest 0.514143893054
+craziest 0.498432799315
+weirdest 0.494951432145
+smartest 0.491688098327
+26
+24
+
+*slow slowest big biggest
+big 0.704068625369
+biggest 0.534492903631
+best-placed 0.519398040049
+lowest-ranked 0.515023366653
+highest-placed 0.514615359096
+2
+1
+
+*slow slowest bright brightest
+bright 0.67789628872
+brightest 0.605738198023
+lightest 0.537723249696
+brighter 0.510560454688
+quietest 0.494856713469
+2
+1
+
+*slow slowest cold coldest
+cold 0.67144521046
+coldest 0.519716373132
+slowest 0.517206726107
+colder 0.482923908169
+snowiest 0.480306073001
+2
+1
+
+*slow slowest cool coolest
+cool 0.662362495892
+coolest 0.572061455068
+slowest 0.564465218428
+hottest 0.543579470353
+lightest 0.518640409439
+2
+1
+
+*slow slowest dark darkest
+dark 0.689993616669
+lightest 0.549390654839
+darkest 0.530511888164
+loneliest 0.522299590525
+highest-placed 0.510221482258
+3
+2
+
+*slow slowest easy easiest
+easy 0.66319642657
+easiest 0.606716258532
+slowest 0.590268291585
+quickest 0.536961197541
+cheapest 0.495397343776
+2
+1
+
+*slow slowest fast fastest
+slowest 0.769566547385
+fastest 0.677347386669
+fast 0.629352016761
+second-fastest 0.583544279257
+quickest 0.552495833595
+2
+1
+
+*slow slowest good best
+good 0.680313916415
+slowest 0.540947120784
+excellent 0.516616140229
+second-best 0.496126912321
+nicest 0.488363288783
+28
+26
+
+*slow slowest great greatest
+great 0.701950570613
+greatest 0.551295574553
+highest-placed 0.491482433391
+slowest 0.482455826011
+second-fastest 0.477343711001
+2
+1
+
+*slow slowest high highest
+high 0.70212365553
+highest 0.535814484749
+lowest 0.535219542552
+second-lowest 0.512680761608
+second-highest 0.510515371966
+2
+1
+
+*slow slowest hot hottest
+hot 0.692913947715
+hottest 0.564346955495
+coolest 0.549917252986
+slowest 0.522698505744
+highest-placed 0.500476498919
+2
+1
+
+*slow slowest large largest
+large 0.663922608972
+smallest 0.586033935367
+larger 0.570578063895
+largest 0.540190365657
+smaller 0.528936145458
+4
+3
+
+*slow slowest long longest
+long 0.667703491304
+longest 0.550098086576
+slowest 0.538742820179
+second-fastest 0.53258824415
+shortest 0.52451423321
+2
+1
+
+*slow slowest low lowest
+lowest 0.664572527333
+low 0.65841149194
+second-lowest 0.5748691769
+slowest 0.571914137336
+highest 0.569301044023
+1
+1
+
+*slow slowest lucky luckiest
+lucky 0.719360277589
+best-placed 0.519674898141
+slowest 0.517081971043
+highest-placed 0.506016527965
+luckiest 0.505347431128
+5
+3
+
+*slow slowest old oldest
+old 0.746640924013
+older 0.547956356226
+handsomest 0.513266980402
+ugliest 0.498532413485
+loneliest 0.493734383667
+13
+11
+
+*slow slowest quick quickest
+slowest 0.646594571053
+quickest 0.597200958032
+quick 0.595943732824
+fastest 0.528631361762
+second-fastest 0.504709783307
+2
+1
+
+*slow slowest sharp sharpest
+sharp 0.648689588326
+sharpest 0.569464317789
+slowest 0.530652173257
+leftmost 0.472930962515
+rightmost 0.460428578804
+2
+1
+
+*slow slowest simple simplest
+simple 0.638160223531
+simplest 0.565715455451
+slowest 0.552370486789
+smoothest 0.522602967787
+lightest 0.51392239451
+2
+1
+
+*slow slowest short shortest
+short 0.665820685665
+shortest 0.563925047162
+slowest 0.517493343178
+second-fastest 0.501876689164
+shorter 0.485440666686
+2
+1
+
+*small smallest smart smartest
+smart 0.690193742979
+smallest 0.534413294988
+smartest 0.514337337305
+cheapest 0.495373700462
+nicest 0.467944431851
+3
+1
+
+*small smallest strange strangest
+strange 0.64280000182
+strangest 0.559067958175
+craziest 0.54944492469
+smallest 0.532669724266
+weirdest 0.527763710591
+2
+1
+
+*small smallest strong strongest
+strongest 0.691668111692
+strong 0.634756490807
+stronger 0.515296676418
+weakest 0.485554524275
+smallest 0.464168241258
+1
+1
+
+*small smallest sweet sweetest
+sweet 0.67113446147
+weirdest 0.467152110131
+lightest 0.463400569728
+softest 0.460778513585
+freshest 0.44891336324
+7
+5
+
+*small smallest tall tallest
+tall 0.660752250187
+tallest 0.584922140136
+smallest 0.537918707264
+taller 0.48586633607
+lightest 0.476247741842
+2
+1
+
+*small smallest warm warmest
+warm 0.643057419898
+warmest 0.580436138527
+coldest 0.538564265697
+warmer 0.518747358522
+wettest 0.494861138125
+2
+1
+
+*small smallest weak weakest
+strongest 0.657395345994
+weak 0.644983263308
+weakest 0.589003143798
+weaker 0.55729809609
+smallest 0.5114820979
+3
+2
+
+*small smallest weird weirdest
+weird 0.66578341019
+weirdest 0.559694071561
+craziest 0.538743288256
+dumbest 0.533903284463
+smallest 0.519367131464
+2
+1
+
+*small smallest wide widest
+wide 0.64741058867
+widest 0.623938443666
+smallest 0.55344985253
+broadest 0.517064469021
+wider 0.440120041017
+2
+1
+
+*small smallest young youngest
+young 0.644994525538
+youngest 0.600977036803
+smartest 0.576392321302
+cleverest 0.573324941944
+meanest 0.553654004867
+2
+1
+
+*small smallest bad worst
+bad 0.677224085752
+worst 0.495822573576
+nicest 0.473434017015
+smartest 0.467039542906
+dumbest 0.463047105099
+2
+1
+
+*small smallest big biggest
+big 0.653959403673
+smallest 0.598911225672
+biggest 0.571184911347
+dumbest 0.510116706364
+weirdest 0.508998172023
+3
+1
+
+*small smallest bright brightest
+bright 0.658502705374
+brightest 0.614627185758
+lightest 0.538029203629
+brighter 0.518931156682
+smallest 0.502071052666
+2
+1
+
+*small smallest cold coldest
+cold 0.659201492233
+coldest 0.496322800883
+mildest 0.485141101992
+lightest 0.461954518227
+warmest 0.459226138181
+2
+1
+
+*small smallest cool coolest
+cool 0.687855429994
+hottest 0.522668264724
+coolest 0.500969438429
+lightest 0.484551015177
+smallest 0.475042618185
+3
+2
+
+*small smallest dark darkest
+dark 0.670310370579
+lightest 0.550266192973
+darkest 0.548949757951
+smallest 0.483034750259
+brightest 0.473623009505
+3
+2
+
+*small smallest easy easiest
+easy 0.691813293851
+easiest 0.608074574471
+easier 0.502768624072
+quickest 0.499289840226
+smallest 0.492963848736
+2
+1
+
+*small smallest fast fastest
+fast 0.655341257593
+fastest 0.63843547433
+slowest 0.62884268565
+quickest 0.514264842565
+smallest 0.50151267168
+2
+1
+
+*small smallest good best
+good 0.671797758255
+excellent 0.502385415061
+nicest 0.498669374523
+best 0.484104651169
+smartest 0.481985212268
+4
+3
+
+*small smallest great greatest
+great 0.664659992634
+greatest 0.592799436658
+smallest 0.51588946933
+finest 0.475756795244
+utmost 0.473391756207
+2
+1
+
+*small smallest high highest
+high 0.669955668287
+highest 0.611005354644
+lowest 0.567670635331
+second-highest 0.521212122952
+smallest 0.506257732604
+2
+1
+
+*small smallest hot hottest
+hot 0.688731292201
+hottest 0.567009849142
+coolest 0.503429761232
+smallest 0.482236843749
+lightest 0.476397336441
+2
+1
+
+*small smallest large largest
+smallest 0.82314257533
+largest 0.727791301614
+second-largest 0.574182829231
+densest 0.569959742761
+third-largest 0.558012934193
+2
+1
+
+*small smallest long longest
+long 0.644974763832
+longest 0.626536552133
+shortest 0.560638028648
+smallest 0.488041956358
+second-longest 0.466451926483
+2
+1
+
+*small smallest low lowest
+lowest 0.68939981587
+low 0.641262206892
+highest 0.63620282211
+smallest 0.544838148538
+second-lowest 0.539797156501
+1
+1
+
+*small smallest lucky luckiest
+lucky 0.699895002887
+smallest 0.512454228872
+smartest 0.496049331265
+weirdest 0.474061844713
+nicest 0.464037108858
+6
+4
+
+*small smallest old oldest
+old 0.718521605925
+oldest 0.532020024862
+smallest 0.502629757385
+older 0.470858075133
+ugliest 0.466905609558
+2
+1
+
+*small smallest quick quickest
+quick 0.611064176091
+quickest 0.564920646996
+slowest 0.512404903382
+fastest 0.502627582872
+simplest 0.499296433631
+2
+1
+
+*small smallest sharp sharpest
+sharp 0.64504378446
+sharpest 0.55209911589
+smallest 0.473925231659
+lightest 0.438266609738
+lowest 0.436890698401
+2
+1
+
+*small smallest simple simplest
+simplest 0.692202412501
+simple 0.609869571399
+smallest 0.581155516926
+easiest 0.522125042318
+lightest 0.520993235097
+1
+1
+
+*small smallest short shortest
+shortest 0.637649980316
+short 0.606681359487
+longest 0.575425553299
+smallest 0.50900046175
+simplest 0.461148246989
+1
+1
+
+*small smallest slow slowest
+slowest 0.657658982472
+slow 0.645796027623
+fastest 0.584915241365
+quickest 0.548155910113
+slower 0.519169878172
+1
+1
+
+*smart smartest strange strangest
+strange 0.683177692765
+strangest 0.602362498423
+dumbest 0.599868559365
+smartest 0.593581033556
+wretched 0.587031942444
+2
+1
+
+*smart smartest strong strongest
+strong 0.669273685096
+strongest 0.591796503143
+weakest 0.51851938456
+smartest 0.511891219548
+weak 0.491047151826
+2
+1
+
+*smart smartest sweet sweetest
+sweet 0.679915398603
+smartest 0.546086274299
+meanest 0.523043271181
+cutest 0.510765901066
+weirdest 0.500362307718
+11
+9
+
+*smart smartest tall tallest
+tall 0.663126979864
+smartest 0.57152542796
+tallest 0.539854669704
+handsomest 0.529852641816
+meanest 0.51008226693
+3
+1
+
+*smart smartest warm warmest
+warm 0.675033656928
+warmest 0.590752526646
+warmer 0.573778918255
+frigid 0.541656028838
+driest 0.540698004365
+2
+1
+
+*smart smartest weak weakest
+weak 0.700620847798
+weakest 0.597640884475
+smartest 0.565073621336
+weaker 0.558547396732
+strongest 0.543863346124
+2
+1
+
+*smart smartest weird weirdest
+weird 0.680058699632
+dumbest 0.627481871276
+smartest 0.609231353606
+weirdest 0.587180468221
+craziest 0.584799592871
+4
+2
+
+*smart smartest wide widest
+wide 0.64154165763
+widest 0.503573044553
+smartest 0.486412888964
+cleverest 0.448178558053
+wider 0.439951721926
+2
+1
+
+*smart smartest young youngest
+young 0.719958671854
+smartest 0.65774520898
+bravest 0.616033710761
+cleverest 0.608512873872
+meanest 0.599485608904
+19
+17
+
+*smart smartest bad worst
+bad 0.719291469652
+smartest 0.581224608336
+dumbest 0.535036525009
+meanest 0.516100304751
+wretched 0.503133711786
+30
+28
+
+*smart smartest big biggest
+big 0.705150317712
+smartest 0.614603025093
+dumbest 0.574141658749
+fattest 0.559928034249
+luckiest 0.534616806853
+8
+6
+
+*smart smartest bright brightest
+bright 0.662944537059
+brightest 0.635566162808
+smartest 0.612825726037
+luckiest 0.518110234809
+handsomest 0.515947148003
+2
+1
+
+*smart smartest cold coldest
+cold 0.686258361955
+frigid 0.538151578774
+smartest 0.527758226917
+meanest 0.516992154128
+coldest 0.502212243469
+5
+3
+
+*smart smartest cool coolest
+cool 0.692201097254
+smartest 0.598231435588
+coolest 0.558162243977
+dumbest 0.544393721621
+hottest 0.524808888362
+3
+1
+
+*smart smartest dark darkest
+dark 0.704835211663
+smartest 0.572269094968
+darkest 0.565066845021
+bravest 0.547539037283
+meanest 0.541792187966
+3
+1
+
+*smart smartest easy easiest
+easy 0.650438896045
+easiest 0.560044685737
+smartest 0.550571531603
+impossible 0.507411031671
+difficult 0.500228362969
+2
+1
+
+*smart smartest fast fastest
+fast 0.644956099201
+smartest 0.597738908097
+slowest 0.553261083862
+meanest 0.530556656853
+fastest 0.526678308978
+5
+3
+
+*smart smartest good best
+good 0.697398620182
+smartest 0.610233585314
+nicest 0.530918569191
+dumbest 0.530294434305
+wisest 0.530236161272
+61
+59
+
+*smart smartest great greatest
+great 0.735032634752
+smartest 0.522804133207
+dumbest 0.512873543987
+greatest 0.512772736423
+cleverest 0.504958783508
+4
+2
+
+*smart smartest high highest
+high 0.66016244188
+smartest 0.516188665921
+highest 0.508223718357
+second-highest 0.487594405851
+fifth-highest 0.471168483676
+3
+1
+
+*smart smartest hot hottest
+hot 0.71440791788
+smartest 0.564334873479
+hottest 0.55188429554
+coolest 0.543798283171
+dumbest 0.500547522264
+3
+1
+
+*smart smartest large largest
+large 0.628493011217
+huge 0.557812925891
+largest 0.537295080216
+sizeable 0.533788891841
+sizable 0.532417440225
+3
+2
+
+*smart smartest long longest
+long 0.671219283477
+longest 0.526824226584
+smartest 0.498107540819
+shortest 0.475715458301
+dumbest 0.466329635044
+2
+1
+
+*smart smartest low lowest
+low 0.658227706916
+lowest 0.54039701892
+highest 0.507630615456
+poorest 0.482343037807
+smartest 0.479867499105
+2
+1
+
+*smart smartest lucky luckiest
+lucky 0.705859705321
+smartest 0.636049798603
+luckiest 0.579922792111
+dumbest 0.558669820549
+bravest 0.554060014287
+3
+1
+
+*smart smartest old oldest
+old 0.716176094604
+smartest 0.587491673013
+handsomest 0.556663900958
+meanest 0.548931784306
+ugliest 0.537796680853
+14
+12
+
+*smart smartest quick quickest
+quick 0.615575114026
+smartest 0.55104402987
+wisest 0.500933246824
+dumbest 0.49832569115
+cleverest 0.477598481048
+7
+5
+
+*smart smartest sharp sharpest
+sharp 0.631258962688
+sharpest 0.588578324356
+smartest 0.516554208432
+kindest 0.475841936781
+cleverest 0.471973630614
+2
+1
+
+*smart smartest simple simplest
+simple 0.637036237396
+smartest 0.55574186951
+dumbest 0.54798593406
+kindest 0.530945005618
+silliest 0.528185387259
+8
+6
+
+*smart smartest short shortest
+short 0.657915708617
+shortest 0.523718101513
+smartest 0.470790660518
+cleverest 0.459568938902
+second-to-last 0.459230177337
+2
+1
+
+*smart smartest slow slowest
+slow 0.66881707245
+slowest 0.552372431379
+smartest 0.538204827103
+meanest 0.515343432083
+slower 0.474636195568
+2
+1
+
+*smart smartest small smallest
+small 0.640645939795
+tiny 0.559514789032
+smallish 0.523536403275
+smaller 0.510101781273
+smallest 0.501413401203
+5
+4
+
+*strange strangest strong strongest
+strong 0.672909027443
+strongest 0.624694462486
+strangest 0.512415667309
+fiercest 0.510075531103
+weakest 0.508223301596
+2
+1
+
+*strange strangest sweet sweetest
+sweet 0.671247914081
+strangest 0.566804607331
+weirdest 0.541868283368
+freshest 0.521298136646
+saddest 0.500872220811
+9
+7
+
+*strange strangest tall tallest
+tall 0.670342143647
+tallest 0.51681389823
+strangest 0.502778938473
+handsomest 0.476382801405
+5'7 0.468044041915
+2
+1
+
+*strange strangest warm warmest
+warm 0.674676535555
+warmest 0.626534933259
+driest 0.558225002426
+coldest 0.550728989014
+strangest 0.543732163167
+2
+1
+
+*strange strangest weak weakest
+weak 0.687751851976
+weakest 0.601490683411
+strongest 0.58935605073
+weaker 0.545194816363
+strangest 0.542539400859
+2
+1
+
+*strange strangest weird weirdest
+strangest 0.777379475141
+weirdest 0.693604839179
+craziest 0.664710069786
+dumbest 0.66155870279
+oddest 0.645001476089
+2
+1
+
+*strange strangest wide widest
+wide 0.6641326017
+widest 0.579048773825
+narrowest 0.488047880505
+broadest 0.482772839707
+strangest 0.466665568203
+2
+1
+
+*strange strangest young youngest
+young 0.693245807153
+cleverest 0.599106950058
+ablest 0.580207319912
+bravest 0.576251432473
+smartest 0.565941975111
+25
+23
+
+*strange strangest bad worst
+bad 0.658275184168
+strangest 0.612386725741
+weirdest 0.551289293106
+dumbest 0.54905240905
+saddest 0.539335290481
+15
+13
+
+*strange strangest big biggest
+big 0.719105430164
+biggest 0.584442705458
+dirtiest 0.57360676649
+strangest 0.567694828386
+weirdest 0.532703829006
+2
+1
+
+*strange strangest bright brightest
+bright 0.640539168326
+brightest 0.582607853501
+quietest 0.573492655471
+strangest 0.572838597462
+liveliest 0.554420060622
+2
+1
+
+*strange strangest cold coldest
+cold 0.695976313517
+strangest 0.555008579229
+quietest 0.508246389911
+coldest 0.506357620678
+warmest 0.506018956739
+4
+2
+
+*strange strangest cool coolest
+cool 0.679928871128
+coolest 0.574717043847
+strangest 0.560534913112
+hottest 0.548804107227
+cleanest 0.536866960079
+2
+1
+
+*strange strangest dark darkest
+dark 0.658887357398
+strangest 0.60733966601
+darkest 0.602945998049
+quietest 0.572297140181
+liveliest 0.558469698925
+3
+1
+
+*strange strangest easy easiest
+easy 0.701114117819
+easiest 0.592303678063
+strangest 0.518596357004
+hardest 0.495766800576
+quickest 0.485980965148
+2
+1
+
+*strange strangest fast fastest
+fast 0.690833999418
+slowest 0.577267352404
+fastest 0.537749540159
+strangest 0.524023727228
+quietest 0.507292936052
+3
+2
+
+*strange strangest good best
+good 0.671564606939
+strangest 0.566077171507
+nicest 0.531255420794
+dumbest 0.515820772104
+excellent 0.515128436803
+50
+48
+
+*strange strangest great greatest
+great 0.735964839538
+greatest 0.566147705107
+strangest 0.556373365696
+dirtiest 0.514365008911
+liveliest 0.4840316713
+2
+1
+
+*strange strangest high highest
+high 0.685646420694
+second-lowest 0.523910262323
+fifth-highest 0.513038763993
+fourth-highest 0.502245626483
+second-highest 0.491435713587
+6
+5
+
+*strange strangest hot hottest
+hot 0.722894711902
+hottest 0.559064788492
+coolest 0.543509291011
+strangest 0.523163448913
+best-performing 0.508409861703
+2
+1
+
+*strange strangest large largest
+large 0.647314628332
+largest 0.594560005632
+huge 0.566584253199
+biggest 0.531764795515
+sizable 0.524060574526
+2
+1
+
+*strange strangest long longest
+long 0.702530304115
+longest 0.589811026919
+shortest 0.502422656911
+strangest 0.499226447981
+second-longest 0.497181187012
+2
+1
+
+*strange strangest low lowest
+low 0.662456141036
+lowest 0.570608945518
+second-lowest 0.570230019317
+fourth-highest 0.512838677153
+fifth-highest 0.512459401981
+2
+1
+
+*strange strangest lucky luckiest
+lucky 0.699893306883
+strangest 0.595843393186
+weirdest 0.545796891438
+dumbest 0.529970609164
+smartest 0.525436454467
+12
+10
+
+*strange strangest old oldest
+old 0.731617635873
+strangest 0.540607192527
+ugliest 0.502713365218
+quietest 0.501350456967
+handsomest 0.501148751434
+10
+8
+
+*strange strangest quick quickest
+quick 0.680351745926
+strangest 0.526471929963
+quickest 0.500499246832
+briefest 0.486411284597
+boldest 0.470203820073
+3
+1
+
+*strange strangest sharp sharpest
+sharp 0.642029865261
+sharpest 0.637838582829
+strangest 0.549797799505
+quietest 0.508479148359
+boldest 0.478673800783
+2
+1
+
+*strange strangest simple simplest
+simple 0.656601133643
+strangest 0.588967962213
+simplest 0.569990360014
+silliest 0.568557458818
+straightforward 0.528947144851
+3
+1
+
+*strange strangest short shortest
+short 0.673866705036
+shortest 0.561268446622
+longest 0.533280260978
+briefest 0.527361693964
+strangest 0.507014562358
+2
+1
+
+*strange strangest slow slowest
+slow 0.682806045865
+slowest 0.602517974548
+strangest 0.549373067191
+quietest 0.520343629546
+quickest 0.511579647086
+2
+1
+
+*strange strangest small smallest
+small 0.645139798848
+smallest 0.550045584628
+smaller 0.538103815776
+quietest 0.529614193957
+strangest 0.529602968259
+2
+1
+
+*strange strangest smart smartest
+smart 0.684362537426
+strangest 0.56007909696
+smartest 0.548772618291
+dirtiest 0.529369364107
+weirdest 0.520795644961
+3
+1
+
+*strong strongest sweet sweetest
+sweet 0.660724122322
+weirdest 0.494282479667
+prettiest 0.485041978332
+fattest 0.470542166521
+freshest 0.470440846944
+13
+11
+
+*strong strongest tall tallest
+tall 0.656300349651
+tallest 0.596214906438
+ugliest 0.478379382053
+oldest 0.470882808158
+strongest 0.469641371739
+2
+1
+
+*strong strongest warm warmest
+warm 0.630800974289
+warmest 0.584627232365
+coldest 0.575798110144
+strongest 0.555910493617
+warmer 0.529341978657
+2
+1
+
+*strong strongest weak weakest
+strongest 0.769533448598
+weakest 0.672410517882
+weak 0.631003622164
+weaker 0.523746459465
+quietest 0.485848028221
+2
+1
+
+*strong strongest weird weirdest
+weird 0.693484302462
+weirdest 0.556173375457
+strangest 0.552933514144
+dumbest 0.546785552561
+craziest 0.541207063908
+2
+1
+
+*strong strongest wide widest
+wide 0.620969245731
+widest 0.613344944745
+strongest 0.510548029205
+broadest 0.503910682124
+smallest 0.485998429628
+2
+1
+
+*strong strongest young youngest
+young 0.677084438546
+bravest 0.574201156628
+cleverest 0.568918598482
+smartest 0.564844448496
+fattest 0.547480447939
+6
+5
+
+*strong strongest bad worst
+bad 0.678421871897
+strongest 0.53364112877
+worst 0.510375631178
+nicest 0.508084993651
+dumbest 0.497197856461
+3
+1
+
+*strong strongest big biggest
+big 0.703104395723
+biggest 0.602337965959
+dirtiest 0.546852116044
+fattest 0.523548154591
+ugliest 0.511736827892
+2
+1
+
+*strong strongest bright brightest
+bright 0.652417256296
+brightest 0.648377398707
+strongest 0.534837353242
+lightest 0.504324375168
+prettiest 0.496166557404
+2
+1
+
+*strong strongest cold coldest
+cold 0.670100078023
+coldest 0.513450160625
+strongest 0.507807031381
+mildest 0.485295951697
+roughest 0.484323978946
+2
+1
+
+*strong strongest cool coolest
+cool 0.671838444861
+hottest 0.559349321939
+coolest 0.555177661189
+strongest 0.522480434329
+nicest 0.513804725133
+3
+2
+
+*strong strongest dark darkest
+dark 0.679762555196
+darkest 0.586037047003
+mightiest 0.510411660051
+lightest 0.505449104358
+fattest 0.503762330314
+2
+1
+
+*strong strongest easy easiest
+easy 0.681609238288
+easiest 0.633385916038
+safest 0.522751891641
+hardest 0.516894692048
+easier 0.51038276032
+2
+1
+
+*strong strongest fast fastest
+fast 0.667962067109
+fastest 0.609958740932
+slowest 0.579574798196
+strongest 0.538140807063
+quickest 0.492485331013
+2
+1
+
+*strong strongest good best
+good 0.639895049963
+strongest 0.576711918084
+nicest 0.561154553507
+smartest 0.522701464258
+best 0.518975069003
+5
+3
+
+*strong strongest great greatest
+great 0.667910722775
+greatest 0.596278958143
+strongest 0.546163513233
+dirtiest 0.524867973117
+dumbest 0.493241795931
+2
+1
+
+*strong strongest high highest
+high 0.636377115304
+highest 0.570788007259
+lowest 0.538742447184
+strongest 0.503766343023
+second-highest 0.48315014299
+2
+1
+
+*strong strongest hot hottest
+hot 0.691487870754
+hottest 0.588281614045
+coolest 0.542486707115
+strongest 0.486959263705
+coldest 0.465083184082
+2
+1
+
+*strong strongest large largest
+largest 0.662129902558
+smallest 0.63448934499
+large 0.624032477948
+biggest 0.556781404349
+larger 0.519484897273
+1
+1
+
+*strong strongest long longest
+longest 0.649574098823
+long 0.637460283728
+shortest 0.584149168522
+second-longest 0.512983371653
+strongest 0.490598230978
+1
+1
+
+*strong strongest low lowest
+low 0.636582568509
+lowest 0.635605296064
+highest 0.568445899167
+strongest 0.513469978661
+second-lowest 0.48990667474
+2
+1
+
+*strong strongest lucky luckiest
+lucky 0.713987057082
+strongest 0.520874939938
+luckiest 0.512425513559
+fattest 0.506787432568
+smartest 0.501213487083
+3
+1
+
+*strong strongest old oldest
+old 0.721001595523
+oldest 0.539738429618
+ugliest 0.52701385236
+older 0.5102479848
+strongest 0.502003449173
+2
+1
+
+*strong strongest quick quickest
+quick 0.629834378218
+quickest 0.535292026657
+strongest 0.507320658007
+easiest 0.486218477716
+fastest 0.470240931355
+2
+1
+
+*strong strongest sharp sharpest
+sharp 0.619148625499
+sharpest 0.566596529637
+strongest 0.546060217342
+westernmost 0.459048918628
+weakest 0.457193801567
+2
+1
+
+*strong strongest simple simplest
+simplest 0.644687946615
+simple 0.632185740552
+cheapest 0.521953986114
+easiest 0.521169289564
+smoothest 0.501833275242
+1
+1
+
+*strong strongest short shortest
+short 0.655022651907
+shortest 0.607039879246
+longest 0.54819078471
+shorter 0.459580709812
+second-longest 0.450891171411
+2
+1
+
+*strong strongest slow slowest
+slow 0.660809768866
+slowest 0.604925957591
+fastest 0.555034370638
+quickest 0.523508393232
+strongest 0.505976906271
+2
+1
+
+*strong strongest small smallest
+smallest 0.669743827797
+small 0.636876247001
+largest 0.570110216313
+smaller 0.567880672191
+tiny 0.532918691717
+1
+1
+
+*strong strongest smart smartest
+smart 0.685124733375
+smartest 0.533727493182
+cheapest 0.521087052061
+nicest 0.506546261078
+dirtiest 0.487927133572
+2
+1
+
+*strong strongest strange strangest
+strange 0.666332456826
+strangest 0.599007750422
+craziest 0.555001417585
+oddest 0.553411148869
+mysterious 0.543747859578
+2
+1
+
+*sweet sweetest tall tallest
+tall 0.650813878665
+sweetest 0.492851292254
+ugliest 0.484186660648
+handsomest 0.458218752771
+luckiest 0.457252351557
+6
+4
+
+*sweet sweetest warm warmest
+warm 0.681273326095
+sweetest 0.635481595144
+warmest 0.564002850436
+coldest 0.527959857165
+warmer 0.527499848325
+3
+1
+
+*sweet sweetest weak weakest
+weak 0.71322549809
+sweetest 0.572267658884
+weaker 0.503901021155
+weakest 0.502937121839
+strongest 0.488958441305
+4
+2
+
+*sweet sweetest weird weirdest
+weird 0.726320620416
+sweetest 0.619712955556
+saddest 0.551831587031
+stupidest 0.54574462767
+craziest 0.543072755627
+9
+7
+
+*sweet sweetest wide widest
+wide 0.656423468501
+wider 0.487451454929
+widest 0.484894418868
+sweetest 0.450160977795
+broad 0.431342639368
+3
+2
+
+*sweet sweetest young youngest
+young 0.684016093454
+bravest 0.55361228375
+luckiest 0.545887777418
+cleverest 0.53972954731
+sweetest 0.53946203563
+271
+269
+
+*sweet sweetest bad worst
+bad 0.729558211764
+sweetest 0.610881056522
+saddest 0.511303323812
+stupidest 0.511171264545
+horrible 0.500052670352
+41
+39
+
+*sweet sweetest big biggest
+big 0.714684662714
+sweetest 0.576097435695
+dumbest 0.517668453526
+saddest 0.517598675246
+ugliest 0.505060867938
+12
+10
+
+*sweet sweetest bright brightest
+bright 0.687391412129
+sweetest 0.627780736099
+brightest 0.531081513419
+twinkling 0.519567766227
+blackest 0.505059040498
+3
+1
+
+*sweet sweetest cold coldest
+cold 0.684825591413
+sweetest 0.596151135844
+blackest 0.505137148121
+coldest 0.497256463585
+saddest 0.489878048626
+4
+2
+
+*sweet sweetest cool coolest
+cool 0.703185734046
+sweetest 0.598175983927
+saddest 0.51443313946
+coolest 0.511224783471
+stupidest 0.49453940818
+4
+2
+
+*sweet sweetest dark darkest
+dark 0.721899725597
+sweetest 0.586965970216
+blackest 0.556910960182
+darkest 0.537890169384
+saddest 0.507129145749
+4
+2
+
+*sweet sweetest easy easiest
+easy 0.665806284594
+easiest 0.568469533387
+sweetest 0.520944763671
+easier 0.481844517868
+surest 0.466953531772
+2
+1
+
+*sweet sweetest fast fastest
+fast 0.698019605508
+sweetest 0.537532541591
+slowest 0.508202101018
+slow 0.469832988411
+fastest 0.446693284234
+5
+3
+
+*sweet sweetest good best
+good 0.715471065371
+sweetest 0.597949928275
+decent 0.536971121535
+stupidest 0.507070077631
+excellent 0.499711978424
+3982
+3980
+
+*sweet sweetest great greatest
+great 0.748158815156
+sweetest 0.556512043191
+tremendous 0.496541657162
+sub-roman 0.473166845603
+greatest 0.472552595095
+5
+3
+
+*sweet sweetest high highest
+high 0.68034378342
+highest 0.490780434515
+sweetest 0.478161277536
+low 0.471012267909
+second-highest 0.445504372412
+2
+1
+
+*sweet sweetest hot hottest
+hot 0.68574990684
+sweetest 0.597732910285
+coolest 0.527334021516
+saddest 0.515878163927
+hottest 0.509183249352
+5
+3
+
+*sweet sweetest large largest
+large 0.683150012153
+huge 0.632468967805
+sizeable 0.553953510762
+massive 0.553179750997
+small 0.549811478828
+13
+12
+
+*sweet sweetest long longest
+long 0.691807455271
+sweetest 0.497552009007
+longest 0.494948978149
+saddest 0.458673171741
+shortest 0.457240799283
+3
+1
+
+*sweet sweetest low lowest
+low 0.697845895844
+lowest 0.516534737354
+sweetest 0.484800803505
+near-zero 0.481024828049
+highest 0.476503114322
+2
+1
+
+*sweet sweetest lucky luckiest
+lucky 0.709885633157
+sweetest 0.641115954495
+luckiest 0.546105667907
+stupidest 0.515816198103
+dumbest 0.506357685157
+3
+1
+
+*sweet sweetest old oldest
+old 0.740987711251
+sweetest 0.545031548275
+ugliest 0.514357614215
+loneliest 0.488598361558
+luckiest 0.488579589847
+249
+247
+
+*sweet sweetest quick quickest
+quick 0.680775274374
+sweetest 0.522625704309
+briefest 0.467029158052
+10-second 0.441926989164
+saddest 0.441011602358
+11
+9
+
+*sweet sweetest sharp sharpest
+sharp 0.668737931771
+sharpest 0.58239719156
+sweetest 0.527076671684
+sharper 0.424577854701
+quietest 0.420050402233
+2
+1
+
+*sweet sweetest simple simplest
+simple 0.697129855082
+sweetest 0.568193256475
+silliest 0.517053771513
+stupidest 0.502196969708
+abovementioned 0.492453936187
+12
+10
+
+*sweet sweetest short shortest
+short 0.695441473116
+briefest 0.492324137702
+shortest 0.491163647574
+sweetest 0.480115881924
+saddest 0.467791185052
+3
+2
+
+*sweet sweetest slow slowest
+slow 0.701054737663
+sweetest 0.559479553126
+slowest 0.523984807898
+saddest 0.511200442487
+slower 0.484101965589
+3
+1
+
+*sweet sweetest small smallest
+small 0.691813959295
+tiny 0.567509991234
+smaller 0.529214652839
+large 0.525706511681
+smallish 0.483350225567
+7
+6
+
+*sweet sweetest smart smartest
+smart 0.702773603714
+sweetest 0.557080401027
+stupidest 0.477444839452
+go-to 0.470756465353
+smartest 0.470719943058
+5
+3
+
+*sweet sweetest strange strangest
+strange 0.715519288212
+sweetest 0.637119466059
+mysterious 0.572415258297
+strangest 0.568747338211
+saddest 0.563356041669
+4
+2
+
+*sweet sweetest strong strongest
+strong 0.68664604733
+strongest 0.529777251464
+sweetest 0.526324631799
+weak 0.504577251939
+stronger 0.496286092838
+2
+1
+
+*tall tallest warm warmest
+warm 0.644767314559
+warmest 0.539248492186
+warmer 0.523125073303
+coldest 0.494472438839
+cleanest 0.479701684838
+2
+1
+
+*tall tallest weak weakest
+weak 0.672173687989
+weakest 0.569625153404
+strongest 0.565731597432
+weaker 0.509382345942
+tallest 0.494500913563
+2
+1
+
+*tall tallest weird weirdest
+weird 0.657814556434
+dumbest 0.504025010878
+strangest 0.501064891735
+weirdest 0.500161374928
+craziest 0.496461271647
+4
+3
+
+*tall tallest wide widest
+wide 0.58721333877
+widest 0.571426309534
+tallest 0.543900811264
+largest 0.488280116104
+wider 0.462711051561
+2
+1
+
+*tall tallest young youngest
+young 0.662432109406
+tallest 0.535457498373
+youngest 0.53459068485
+highest-paid 0.529878231589
+smartest 0.504298385746
+3
+1
+
+*tall tallest bad worst
+bad 0.674178548742
+worst 0.460168652835
+tallest 0.437064315205
+dumbest 0.4296750356
+good 0.417235360624
+2
+1
+
+*tall tallest big biggest
+big 0.678676734152
+biggest 0.602164668436
+tallest 0.549342768764
+second-biggest 0.487246811323
+largest 0.483751149759
+2
+1
+
+*tall tallest bright brightest
+bright 0.629236285395
+brightest 0.605506527529
+tallest 0.522157014543
+richest 0.462320623117
+greenest 0.456444420432
+2
+1
+
+*tall tallest cold coldest
+cold 0.67542232131
+tallest 0.467333341688
+post-cold 0.44590251677
+coldest 0.443675965217
+cleanest 0.437730826173
+4
+2
+
+*tall tallest cool coolest
+cool 0.669131250132
+tallest 0.528035131866
+hottest 0.501053992634
+coolest 0.465521670466
+cleanest 0.463629738527
+4
+2
+
+*tall tallest dark darkest
+dark 0.65716527042
+tallest 0.530212839029
+darkest 0.516164615022
+brightest 0.446991710891
+ugliest 0.439655062616
+3
+1
+
+*tall tallest easy easiest
+easy 0.686899946666
+easiest 0.553270959502
+easier 0.543493847422
+tallest 0.497043016193
+safest 0.496637294082
+2
+1
+
+*tall tallest fast fastest
+fast 0.643930411493
+fastest 0.556849283271
+tallest 0.512165177122
+slowest 0.509118532023
+quickest 0.488957662824
+2
+1
+
+*tall tallest good best
+good 0.686842024289
+excellent 0.492521330799
+tallest 0.478504496607
+finest 0.464000467115
+decent 0.437851151035
+11
+9
+
+*tall tallest great greatest
+great 0.70690948502
+greatest 0.542999756098
+tallest 0.499918595564
+finest 0.466359936071
+foremost 0.459169583366
+2
+1
+
+*tall tallest high highest
+high 0.655860253949
+highest 0.587951294017
+tallest 0.57570400104
+second-highest 0.530872550909
+third-highest 0.485627934166
+2
+1
+
+*tall tallest hot hottest
+hot 0.716669765866
+tallest 0.5203337656
+hottest 0.511069566534
+coolest 0.437619101238
+busiest 0.437573823259
+3
+1
+
+*tall tallest large largest
+largest 0.666906303623
+large 0.630150269966
+second-largest 0.567628889609
+huge 0.562739253922
+sizable 0.551096893245
+1
+1
+
+*tall tallest long longest
+long 0.62271248538
+longest 0.619989636294
+tallest 0.544640187154
+second-longest 0.51134327431
+shortest 0.501142466207
+2
+1
+
+*tall tallest low lowest
+low 0.652329666812
+highest 0.589027649044
+lowest 0.582101212635
+tallest 0.547140047833
+second-highest 0.518989506688
+3
+2
+
+*tall tallest lucky luckiest
+lucky 0.674430261323
+tallest 0.488790247476
+smartest 0.458870275437
+richest 0.452238898773
+luckiest 0.449703830394
+5
+3
+
+*tall tallest old oldest
+old 0.692152427767
+tallest 0.555178476703
+oldest 0.553617257462
+ugliest 0.491911799893
+richest 0.490016139579
+3
+1
+
+*tall tallest quick quickest
+quick 0.651923877584
+quickest 0.495515690072
+tallest 0.429475688564
+quicker 0.403268557667
+safest 0.391540602918
+2
+1
+
+*tall tallest sharp sharpest
+sharp 0.637953668589
+sharpest 0.524989584974
+tallest 0.475184497147
+steepest 0.402536474141
+westernmost 0.395992673238
+2
+1
+
+*tall tallest simple simplest
+simple 0.6318979293
+simplest 0.52995844135
+tallest 0.507284736466
+most-used 0.467504974946
+straightforward 0.463978507223
+2
+1
+
+*tall tallest short shortest
+short 0.619156263747
+shortest 0.544806969135
+longest 0.53471958361
+tallest 0.508316982632
+highest-grossing 0.485373314661
+2
+1
+
+*tall tallest slow slowest
+slow 0.667725938722
+tallest 0.514895214641
+slowest 0.509855747771
+quickest 0.496959351716
+slowing 0.49269928201
+3
+1
+
+*tall tallest small smallest
+small 0.630853310449
+largest 0.586745400657
+smallest 0.564075333433
+second-largest 0.539271801939
+tiny 0.525815854083
+3
+2
+
+*tall tallest smart smartest
+smart 0.648975679215
+tallest 0.534973816573
+smartest 0.488902702809
+greenest 0.482172370192
+fastest-growing 0.462241897685
+3
+1
+
+*tall tallest strange strangest
+strange 0.656313472086
+strangest 0.526113492742
+bizarre 0.507511571544
+tallest 0.49760249903
+oddest 0.491777556585
+2
+1
+
+*tall tallest strong strongest
+strong 0.63917378988
+strongest 0.618457340327
+weakest 0.486876591626
+tallest 0.470347363185
+stronger 0.456994001051
+2
+1
+
+*tall tallest sweet sweetest
+sweet 0.636912255022
+tallest 0.474398695337
+sweetest 0.439728669725
+biggest-selling 0.431425731342
+weirdest 0.423763686592
+3
+1
+
+*warm warmest weak weakest
+weak 0.671167202859
+weakest 0.564961751761
+warmest 0.554392326961
+strongest 0.534921662149
+weaker 0.520732419532
+2
+1
+
+*warm warmest weird weirdest
+weird 0.663135075942
+craziest 0.545598262295
+oddest 0.545160689807
+strangest 0.539992035516
+weirdest 0.533059825081
+5
+4
+
+*warm warmest wide widest
+wide 0.675406547512
+widest 0.572701541973
+broadest 0.486871893503
+warmest 0.473388315312
+narrowest 0.470789324832
+2
+1
+
+*warm warmest young youngest
+young 0.694912691098
+18-49 0.515131986421
+18-34 0.494237389114
+younger 0.489061155443
+bravest 0.474924638415
+13
+12
+
+*warm warmest bad worst
+bad 0.687429561606
+warmest 0.507997655454
+worst 0.479568616827
+coolest 0.46068586757
+wettest 0.456100509315
+3
+1
+
+*warm warmest big biggest
+big 0.700187935415
+biggest 0.56010982459
+coolest 0.492638306088
+mid-american 0.473160206418
+greatest 0.469520846603
+2
+1
+
+*warm warmest bright brightest
+bright 0.671374252053
+brightest 0.605810688381
+warmest 0.597131469593
+snowiest 0.512344612716
+wettest 0.506575118982
+2
+1
+
+*warm warmest cold coldest
+warmest 0.70780198753
+coldest 0.653332282408
+driest 0.619637654437
+cold 0.617401827744
+wettest 0.594887548365
+2
+1
+
+*warm warmest cool coolest
+warmest 0.72947547657
+coldest 0.640708278764
+coolest 0.636845791721
+wettest 0.627552965388
+driest 0.615263371654
+3
+2
+
+*warm warmest dark darkest
+dark 0.681664613457
+darkest 0.574725583871
+warmest 0.570105300827
+snowiest 0.517933083657
+coldest 0.510974170191
+2
+1
+
+*warm warmest easy easiest
+easy 0.677858360599
+easiest 0.553117255778
+easier 0.495087359287
+safest 0.458939665547
+quickest 0.453350252024
+2
+1
+
+*warm warmest fast fastest
+fast 0.666153770122
+slowest 0.545994292652
+fastest 0.539192617119
+warmest 0.48256713958
+quickest 0.448711531377
+3
+2
+
+*warm warmest good best
+good 0.676565726081
+warmest 0.543523013999
+excellent 0.51652858297
+coolest 0.46506033445
+likeliest 0.462826120809
+15
+13
+
+*warm warmest great greatest
+great 0.715243460023
+greatest 0.600555120927
+warmest 0.481814466247
+immense 0.452712945769
+utmost 0.450589463279
+2
+1
+
+*warm warmest high highest
+high 0.688483184655
+highest 0.555256794495
+second-highest 0.502002951744
+lowest 0.501479737464
+fourth-highest 0.493440428891
+2
+1
+
+*warm warmest hot hottest
+hot 0.65059527615
+warmest 0.649975468551
+coolest 0.596387318284
+hottest 0.591263640227
+coldest 0.585471409393
+4
+2
+
+*warm warmest large largest
+large 0.663002030892
+huge 0.560255152461
+largest 0.556588202913
+enormous 0.515460191039
+sizable 0.508613721507
+3
+2
+
+*warm warmest long longest
+long 0.701762918973
+warmest 0.499878261891
+longest 0.498314001815
+snowiest 0.454235255444
+driest 0.449800824935
+3
+1
+
+*warm warmest low lowest
+low 0.69428836567
+lowest 0.586258209573
+highest 0.548635567078
+warmest 0.540213422471
+second-lowest 0.507429262382
+2
+1
+
+*warm warmest lucky luckiest
+lucky 0.6862720188
+coolest 0.509826022374
+warmest 0.500053963483
+unlucky 0.467534578781
+scariest 0.46232850046
+7
+5
+
+*warm warmest old oldest
+old 0.733856690306
+warmest 0.48978392015
+rainiest 0.488104696214
+older 0.479966824993
+wettest 0.469774327945
+22
+20
+
+*warm warmest quick quickest
+quick 0.640600018139
+quickest 0.479385998562
+warmest 0.453898720541
+briefest 0.445323084496
+lamest 0.423705100368
+2
+1
+
+*warm warmest sharp sharpest
+sharp 0.648279914955
+sharpest 0.549288858155
+warmest 0.471613138955
+westernmost 0.438398995034
+narrowest 0.42733429199
+2
+1
+
+*warm warmest simple simplest
+simple 0.645838567689
+simplest 0.51121069317
+silliest 0.46672407068
+most-used 0.453610030944
+straightforward 0.449641532726
+2
+1
+
+*warm warmest short shortest
+short 0.659656624218
+shortest 0.503800013117
+shorter 0.478550551454
+briefest 0.469508961171
+longest 0.446744518093
+2
+1
+
+*warm warmest slow slowest
+slow 0.659320960314
+slowest 0.570773843297
+slower 0.527354860058
+warmest 0.520169214214
+fastest 0.483115275592
+2
+1
+
+*warm warmest small smallest
+small 0.654748160617
+smaller 0.556830006889
+smallest 0.548736698386
+tiny 0.548599655403
+large 0.514043226662
+3
+2
+
+*warm warmest smart smartest
+smart 0.650755494255
+coolest 0.509771255672
+greenest 0.493423220756
+smartest 0.466798061325
+fastest-growing 0.449086812713
+4
+3
+
+*warm warmest strange strangest
+strange 0.653544102263
+strangest 0.57192047456
+oddest 0.56879456717
+craziest 0.545184630671
+scariest 0.509356203234
+2
+1
+
+*warm warmest strong strongest
+strong 0.641235347647
+strongest 0.583332944672
+warmest 0.560314543378
+weakest 0.479536126507
+greatest 0.465005199193
+2
+1
+
+*warm warmest sweet sweetest
+sweet 0.650304460919
+warmest 0.566372444263
+wettest 0.485467944568
+coolest 0.474325126416
+sunniest 0.467774143383
+6
+4
+
+*warm warmest tall tallest
+tall 0.665725965461
+tallest 0.501605075755
+5'10 0.476524617828
+wettest 0.46568102152
+cubits 0.465433173687
+2
+1
+
+*weak weakest weird weirdest
+weird 0.684743555447
+craziest 0.558042776306
+weirdest 0.557137440054
+strangest 0.547358959349
+oddest 0.527479336948
+3
+2
+
+*weak weakest wide widest
+wide 0.656501570025
+widest 0.570567668058
+narrowest 0.482359416308
+broadest 0.453299429141
+wider 0.444825220897
+2
+1
+
+*weak weakest young youngest
+young 0.680198541837
+cleverest 0.539822696156
+highest-paid 0.525585910632
+weakest 0.513907697007
+smartest 0.507918962146
+13
+11
+
+*weak weakest bad worst
+bad 0.662536422332
+weakest 0.57119739596
+craziest 0.493997976876
+weirdest 0.485339702089
+saddest 0.478927080999
+8
+6
+
+*weak weakest big biggest
+big 0.709990845547
+biggest 0.568322267179
+ugliest 0.499819266936
+dirtiest 0.484165676618
+weirdest 0.48130956496
+2
+1
+
+*weak weakest bright brightest
+bright 0.658046795532
+brightest 0.590050364611
+weakest 0.530195376107
+quietest 0.478685047293
+twinkling 0.470901027095
+2
+1
+
+*weak weakest cold coldest
+cold 0.661412138152
+weakest 0.518220329031
+coldest 0.483632459458
+hottest 0.469148649065
+quietest 0.455661582676
+3
+1
+
+*weak weakest cool coolest
+cool 0.664706447634
+hottest 0.577188708222
+weakest 0.540956644974
+coolest 0.522343767009
+nicest 0.473181826671
+4
+2
+
+*weak weakest dark darkest
+dark 0.667059468794
+darkest 0.58805672636
+weakest 0.537191376001
+blackest 0.510521038552
+quietest 0.486811174108
+2
+1
+
+*weak weakest easy easiest
+easy 0.669322992363
+easiest 0.567801534275
+weakest 0.490912617991
+hardest 0.4771484004
+quickest 0.464112045101
+2
+1
+
+*weak weakest fast fastest
+fast 0.649696271575
+slowest 0.566278607883
+fastest 0.562886593889
+weakest 0.521837483762
+smoothest 0.476513753665
+3
+2
+
+*weak weakest good best
+good 0.65630708457
+weakest 0.592714166991
+excellent 0.508784565159
+nicest 0.500395732989
+finest 0.472889512958
+9
+7
+
+*weak weakest great greatest
+great 0.694566684765
+greatest 0.592857052523
+weakest 0.475154576099
+noblest 0.464446643701
+finest 0.462648132655
+2
+1
+
+*weak weakest high highest
+high 0.665603085375
+highest 0.537229037461
+weakest 0.509978696811
+lowest 0.498851181706
+second-highest 0.49819803657
+2
+1
+
+*weak weakest hot hottest
+hot 0.709882158313
+hottest 0.584122692921
+weakest 0.511647739407
+coolest 0.492107805813
+most-played 0.483656482786
+2
+1
+
+*weak weakest large largest
+large 0.669162843754
+largest 0.563680869608
+huge 0.520529890204
+larger 0.518340289806
+sizable 0.50677331667
+2
+1
+
+*weak weakest long longest
+long 0.651543204617
+longest 0.569632428038
+shortest 0.481533657475
+second-longest 0.476248321215
+weakest 0.455845590242
+2
+1
+
+*weak weakest low lowest
+low 0.639172107492
+lowest 0.616123214024
+weakest 0.579310116423
+highest 0.557295328992
+second-highest 0.503739434837
+2
+1
+
+*weak weakest lucky luckiest
+lucky 0.684499170757
+weakest 0.510344409689
+weirdest 0.497670084459
+luckiest 0.494542976145
+craziest 0.493081875419
+4
+2
+
+*weak weakest old oldest
+old 0.708618202842
+ugliest 0.529256118059
+weakest 0.497218222468
+older 0.483332087728
+original 0.471642071251
+7
+5
+
+*weak weakest quick quickest
+quick 0.613519342468
+weakest 0.526946809467
+quickest 0.505979619698
+slowest 0.438315152056
+briefest 0.430075871169
+3
+1
+
+*weak weakest sharp sharpest
+sharp 0.65158565848
+sharpest 0.562803900458
+weakest 0.539380996434
+westernmost 0.441974133829
+northernmost 0.434695360591
+2
+1
+
+*weak weakest simple simplest
+simple 0.619968105099
+simplest 0.571949784608
+weakest 0.538305797772
+most-used 0.498738321913
+smoothest 0.49402151286
+2
+1
+
+*weak weakest short shortest
+short 0.655997450956
+shortest 0.516759567648
+longest 0.481922344928
+weakest 0.474314776473
+shorter 0.442472267478
+2
+1
+
+*weak weakest slow slowest
+slow 0.633479918218
+slowest 0.600675871863
+weakest 0.566489313713
+fastest 0.513115167113
+quickest 0.503918773042
+2
+1
+
+*weak weakest small smallest
+small 0.640504442492
+smallest 0.567587315732
+smaller 0.563723868324
+large 0.538288343931
+tiny 0.52684870879
+2
+1
+
+*weak weakest smart smartest
+smart 0.666663879516
+smartest 0.49306444778
+ugliest 0.484382002411
+weakest 0.478210446537
+nicest 0.474572907548
+2
+1
+
+*weak weakest strange strangest
+strange 0.673403230375
+strangest 0.579872646802
+craziest 0.559268255142
+oddest 0.551534681142
+ugliest 0.521020828744
+2
+1
+
+*weak weakest strong strongest
+weakest 0.73183953626
+strongest 0.632710287329
+strong 0.575245221871
+fiercest 0.488610198026
+greatest 0.487467596054
+2
+1
+
+*weak weakest sweet sweetest
+sweet 0.67388778179
+weakest 0.501043097425
+weirdest 0.478392890503
+loveliest 0.465557608752
+freshest 0.452879403581
+24
+22
+
+*weak weakest tall tallest
+tall 0.654105894664
+tallest 0.517192897998
+ugliest 0.472436113228
+weakest 0.451728609449
+towering 0.447386906477
+2
+1
+
+*weak weakest warm warmest
+warm 0.634254455635
+warmest 0.551128183743
+coldest 0.534535299287
+weakest 0.527347371951
+warmer 0.518281807303
+2
+1
+
+*weird weirdest wide widest
+wide 0.690304022216
+widest 0.558405887369
+weirdest 0.464107994291
+fifth-highest 0.462451394281
+flattest 0.457827908701
+2
+1
+
+*weird weirdest young youngest
+young 0.721889574832
+cleverest 0.586546655878
+meanest 0.578752831729
+best-looking 0.573002757634
+smartest 0.564913204022
+53
+51
+
+*weird weirdest bad worst
+bad 0.671891780766
+weirdest 0.636774269468
+dumbest 0.558668590909
+craziest 0.554961227839
+stupidest 0.538697038877
+41
+39
+
+*weird weirdest big biggest
+big 0.723822225564
+weirdest 0.618955231263
+biggest 0.565921934002
+dirtiest 0.561126144679
+second-biggest 0.557212254664
+3
+1
+
+*weird weirdest bright brightest
+bright 0.693321699144
+brightest 0.603850587288
+weirdest 0.565842578298
+freshest 0.527494195313
+best-looking 0.517649842615
+2
+1
+
+*weird weirdest cold coldest
+cold 0.683544578873
+weirdest 0.564796666693
+freshest 0.540719544691
+best-looking 0.516253412282
+cleanest 0.503321092074
+19
+17
+
+*weird weirdest cool coolest
+cool 0.682575712103
+weirdest 0.611414997355
+coolest 0.602168309733
+hottest 0.553279225849
+freshest 0.549903583453
+3
+1
+
+*weird weirdest dark darkest
+dark 0.698136776172
+weirdest 0.586108135116
+best-looking 0.548298005674
+darkest 0.543388239157
+loneliest 0.53972644326
+4
+2
+
+*weird weirdest easy easiest
+easy 0.704736526204
+easiest 0.569429699639
+weirdest 0.535073801281
+smoothest 0.484264923402
+best-looking 0.476457564846
+2
+1
+
+*weird weirdest fast fastest
+fast 0.707875910654
+slowest 0.577428630812
+fastest 0.565645485139
+weirdest 0.529557107675
+smoothest 0.50803270767
+3
+2
+
+*weird weirdest good best
+good 0.695001554942
+weirdest 0.583290774984
+excellent 0.537709500504
+nicest 0.531664637152
+go-to 0.520282781622
+56
+54
+
+*weird weirdest great greatest
+great 0.716819432601
+weirdest 0.555504564633
+greatest 0.536479298871
+dirtiest 0.519274978634
+dumbest 0.512676417003
+3
+1
+
+*weird weirdest high highest
+high 0.687709786584
+second-lowest 0.569894106865
+fifth-highest 0.568681722003
+fourth-highest 0.544259699864
+third-highest 0.539070044837
+6
+5
+
+*weird weirdest hot hottest
+hot 0.735881015469
+weirdest 0.566459128341
+coolest 0.561447755327
+hottest 0.555323720955
+most-played 0.541556840002
+4
+2
+
+*weird weirdest large largest
+large 0.673517419753
+largest 0.569439632229
+huge 0.562875170429
+sizable 0.557068008902
+sizeable 0.545660658725
+2
+1
+
+*weird weirdest long longest
+long 0.701602677765
+longest 0.560293058336
+third-longest 0.50092965227
+second-longest 0.494265739547
+weirdest 0.490531331717
+2
+1
+
+*weird weirdest low lowest
+low 0.675675569636
+second-lowest 0.607476361475
+lowest 0.579611791497
+fifth-highest 0.560633961565
+third-highest 0.550281623231
+3
+2
+
+*weird weirdest lucky luckiest
+lucky 0.716591446588
+weirdest 0.623706758254
+best-looking 0.560025899037
+luckiest 0.55349861667
+dumbest 0.537070520099
+4
+2
+
+*weird weirdest old oldest
+old 0.744250292129
+ugliest 0.541663591197
+weirdest 0.537960552739
+handsomest 0.530269431052
+loneliest 0.517382117511
+37
+35
+
+*weird weirdest quick quickest
+quick 0.674394011811
+weirdest 0.513495220473
+quickest 0.495409291458
+best-looking 0.467857695867
+freshest 0.464816663628
+3
+1
+
+*weird weirdest sharp sharpest
+sharp 0.650846071837
+sharpest 0.595132404076
+weirdest 0.524292031964
+quietest 0.481646403281
+thinnest 0.471793588118
+2
+1
+
+*weird weirdest simple simplest
+simple 0.662561979329
+weirdest 0.580030982585
+silliest 0.5497413502
+simplest 0.545653429238
+smoothest 0.537779858785
+4
+2
+
+*weird weirdest short shortest
+short 0.670478359235
+shortest 0.535558632217
+weirdest 0.505565782378
+longest 0.504271014298
+best-looking 0.500090081557
+2
+1
+
+*weird weirdest slow slowest
+slow 0.678864966273
+slowest 0.62067545208
+weirdest 0.532705140205
+fastest 0.529928135201
+smoothest 0.524322620098
+2
+1
+
+*weird weirdest small smallest
+small 0.653704407231
+smallest 0.536980324895
+large 0.536363033507
+tiny 0.534750291713
+second-biggest 0.533317748381
+2
+1
+
+*weird weirdest smart smartest
+smart 0.700176443018
+weirdest 0.601785978631
+best-looking 0.568618501843
+smartest 0.55846990677
+go-to 0.51975151662
+4
+2
+
+*weird weirdest strange strangest
+weirdest 0.765640863095
+craziest 0.711383936063
+oddest 0.696748964287
+strangest 0.682122402277
+dumbest 0.674549202366
+4
+3
+
+*weird weirdest strong strongest
+strong 0.694948983413
+strongest 0.581989698432
+keenest 0.4957085129
+weirdest 0.485921336111
+weakest 0.479186863334
+2
+1
+
+*weird weirdest sweet sweetest
+sweet 0.719015050538
+weirdest 0.596192376649
+freshest 0.549435299658
+cutest 0.502183714276
+sweetest 0.496690603619
+5
+3
+
+*weird weirdest tall tallest
+tall 0.696945960189
+tallest 0.525451654002
+weirdest 0.508804866403
+handsomest 0.498379217836
+best-looking 0.490726296503
+2
+1
+
+*weird weirdest warm warmest
+warm 0.676618751245
+warmest 0.586447959499
+freshest 0.551845465428
+weirdest 0.540229771818
+sunniest 0.537425326115
+2
+1
+
+*weird weirdest weak weakest
+weak 0.697049825188
+weakest 0.580587918936
+strongest 0.558670711006
+weirdest 0.529679751758
+weaker 0.512165953558
+2
+1
+
+*wide widest young youngest
+young 0.666222474954
+meanest 0.485206516679
+younger 0.472968566057
+youngest 0.466776942973
+bravest 0.462766082412
+4
+3
+
+*wide widest bad worst
+bad 0.674300050392
+worst 0.487370311645
+nicest 0.46104431303
+truest 0.460524159617
+clearest 0.45586616138
+2
+1
+
+*wide widest big biggest
+big 0.676893594653
+biggest 0.561142760147
+widest 0.485125005055
+second-biggest 0.480449696826
+nicest 0.443627126183
+2
+1
+
+*wide widest bright brightest
+bright 0.684998007129
+brightest 0.560571093078
+brighter 0.515032516703
+widest 0.495032274339
+clearest 0.471240505933
+2
+1
+
+*wide widest cold coldest
+cold 0.703062191224
+coldest 0.501678434394
+mildest 0.499809975496
+colder 0.474385723248
+warmest 0.465619087356
+2
+1
+
+*wide widest cool coolest
+cool 0.692705575757
+coldest 0.487301430288
+warmest 0.47979981369
+cooler 0.476559696425
+mildest 0.473216199099
+15
+14
+
+*wide widest dark darkest
+dark 0.676951654351
+darkest 0.571800038601
+thickest 0.505590883446
+smoothest 0.503879866788
+thinnest 0.497056444863
+2
+1
+
+*wide widest easy easiest
+easy 0.721216047029
+easiest 0.574620249072
+easier 0.55063080039
+difficult 0.474201439961
+widest 0.467638969253
+2
+1
+
+*wide widest fast fastest
+fast 0.670913959235
+slowest 0.568186276053
+smoothest 0.510829696833
+slow 0.502337767991
+fastest 0.499524456496
+5
+4
+
+*wide widest good best
+good 0.69141479158
+excellent 0.499454942846
+truest 0.48794314534
+clearest 0.478334716341
+widest 0.474054468938
+33
+31
+
+*wide widest great greatest
+great 0.683350040808
+greatest 0.527552642877
+widest 0.509703287579
+truest 0.480670703871
+uttermost 0.47634820367
+2
+1
+
+*wide widest high highest
+high 0.682752486133
+highest 0.622126560847
+lowest 0.594574038581
+widest 0.539665743645
+second-highest 0.51605622089
+2
+1
+
+*wide widest hot hottest
+hot 0.715827591941
+hottest 0.484709955226
+coldest 0.46135065354
+warmest 0.437580093348
+bubbling 0.432690990218
+2
+1
+
+*wide widest large largest
+large 0.63571965102
+widest 0.608860420332
+largest 0.572877992987
+smallest 0.542007678957
+larger 0.535562925263
+3
+1
+
+*wide widest long longest
+long 0.657031451085
+longest 0.614057011287
+widest 0.5443448653
+shortest 0.543500660637
+smoothest 0.484625189612
+2
+1
+
+*wide widest low lowest
+low 0.68535596854
+lowest 0.682446512465
+highest 0.617758946565
+widest 0.550751494652
+second-lowest 0.508795756617
+2
+1
+
+*wide widest lucky luckiest
+lucky 0.715020106275
+unlucky 0.455889766343
+luckiest 0.442311716848
+nicest 0.440600949611
+truest 0.429732673637
+3
+2
+
+*wide widest old oldest
+old 0.70311588655
+older 0.481114915501
+nearest 0.462514129915
+oldest 0.457060927984
+original 0.455811955998
+4
+3
+
+*wide widest quick quickest
+quick 0.662160773958
+quickest 0.497707596624
+widest 0.477604728826
+fullest 0.447661129628
+quicker 0.442807180748
+2
+1
+
+*wide widest sharp sharpest
+sharp 0.692530802246
+sharpest 0.56860876751
+widest 0.529534060858
+narrowest 0.493441753987
+lowest 0.443946134477
+2
+1
+
+*wide widest simple simplest
+simple 0.664293553808
+simplest 0.603852257463
+clearest 0.527235819523
+smoothest 0.510935481079
+broadest 0.501588673457
+2
+1
+
+*wide widest short shortest
+short 0.651299824599
+shortest 0.587056820983
+longest 0.535013903318
+widest 0.487824807928
+shorter 0.466918725238
+2
+1
+
+*wide widest slow slowest
+slow 0.707495956716
+slowest 0.556626652463
+slower 0.505311461386
+slows 0.487504397681
+slowing 0.484193149627
+2
+1
+
+*wide widest small smallest
+small 0.649795634663
+smallest 0.577361388439
+smaller 0.545450250382
+widest 0.526516528305
+tiny 0.526282847102
+2
+1
+
+*wide widest smart smartest
+smart 0.660547918794
+cheapest 0.483629971499
+nicest 0.47420269474
+widest 0.459189276724
+friendliest 0.447079717361
+13
+11
+
+*wide widest strange strangest
+strange 0.673124532473
+strangest 0.546767966006
+bizarre 0.496361034546
+truest 0.495940553378
+mysterious 0.492418343058
+2
+1
+
+*wide widest strong strongest
+strong 0.650445263548
+strongest 0.624818279564
+widest 0.532402401005
+weakest 0.524372752093
+stronger 0.516341135398
+2
+1
+
+*wide widest sweet sweetest
+sweet 0.692158901111
+freshest 0.464963537908
+widest 0.458225978305
+softest 0.455515813646
+purest 0.455059750684
+6
+4
+
+*wide widest tall tallest
+tall 0.626427453298
+widest 0.561091715279
+tallest 0.549205209345
+thickest 0.483602010719
+narrowest 0.47420887399
+3
+1
+
+*wide widest warm warmest
+warm 0.687764608484
+warmest 0.578526985858
+warmer 0.558090594933
+coldest 0.540682307529
+colder 0.519027821519
+2
+1
+
+*wide widest weak weakest
+weak 0.702721318161
+weakest 0.587379443497
+strongest 0.556946619618
+weaker 0.525348368099
+widest 0.471893820491
+2
+1
+
+*wide widest weird weirdest
+weird 0.681152491634
+strangest 0.517292885492
+weirdest 0.497079153903
+truest 0.496186802973
+nicest 0.477699175441
+3
+2
+
+*young youngest bad worst
+bad 0.662221813864
+worst 0.476477969091
+youngest 0.47143380941
+oldest 0.426987441174
+atrocious 0.408466571318
+2
+1
+
+*young youngest big biggest
+big 0.703038731544
+biggest 0.556119896484
+youngest 0.547679108731
+largest 0.455254080857
+oldest 0.454610970293
+2
+1
+
+*young youngest bright brightest
+bright 0.651621844883
+youngest 0.533312862805
+brightest 0.508745709034
+brighter 0.481868783686
+bluer 0.446489067046
+3
+1
+
+*young youngest cold coldest
+cold 0.673573302772
+colder 0.479715386311
+coldest 0.470062446311
+cooler 0.453633322635
+youngest 0.453392121402
+3
+2
+
+*young youngest cool coolest
+cool 0.691352669494
+youngest 0.493474007431
+cooler 0.475387501376
+coldest 0.436053560264
+hotter 0.432180912355
+8
+6
+
+*young youngest dark darkest
+dark 0.66953637571
+darkest 0.505130100635
+youngest 0.501652340743
+darker 0.48016479942
+lightest 0.445824560139
+2
+1
+
+*young youngest easy easiest
+easy 0.672047871497
+easiest 0.571195474407
+easier 0.525950935766
+youngest 0.486172312335
+difficult 0.465974214013
+2
+1
+
+*young youngest fast fastest
+fast 0.678118233116
+fastest 0.553541054385
+slowest 0.527445098728
+youngest 0.471348998324
+faster 0.458192712705
+2
+1
+
+*young youngest good best
+good 0.659421549107
+excellent 0.478067534514
+youngest 0.462528884063
+oldest 0.442661563425
+decent 0.423474712501
+6
+4
+
+*young youngest great greatest
+great 0.685238451192
+youngest 0.519228631803
+greatest 0.490356217165
+second-youngest 0.427859398918
+plitvice 0.426817717746
+3
+1
+
+*young youngest high highest
+high 0.678260756687
+highest 0.540953258532
+second-highest 0.490052496868
+youngest 0.489801192582
+lowest 0.489443592415
+2
+1
+
+*young youngest hot hottest
+hot 0.703855020018
+youngest 0.490489758742
+hottest 0.457092131124
+oldest 0.434069373429
+coolest 0.422070259139
+3
+1
+
+*young youngest large largest
+large 0.654490977885
+largest 0.629499568774
+smallest 0.569360453571
+larger 0.548000605982
+huge 0.537632491003
+2
+1
+
+*young youngest long longest
+long 0.659401874714
+longest 0.63327022704
+second-longest 0.507948618619
+shortest 0.48027649121
+youngest 0.470188754439
+2
+1
+
+*young youngest low lowest
+low 0.659113757549
+lowest 0.597381353875
+highest 0.554583616739
+second-highest 0.489683942367
+youngest 0.473720207345
+2
+1
+
+*young youngest lucky luckiest
+lucky 0.675119807728
+youngest 0.592524231645
+unlucky 0.441535097813
+oldest 0.436421011038
+second-youngest 0.436333022113
+19
+17
+
+*young youngest old oldest
+old 0.681214443807
+oldest 0.579739913868
+youngest 0.563668390181
+older 0.468701994968
+second-oldest 0.467289038263
+2
+1
+
+*young youngest quick quickest
+quick 0.641999679512
+quickest 0.467828372213
+quicker 0.453979475506
+youngest 0.444071471803
+fastest 0.411387876588
+2
+1
+
+*young youngest sharp sharpest
+sharp 0.656379437056
+sharpest 0.477028362512
+youngest 0.438629047764
+westernmost 0.420916073763
+sharper 0.413334551772
+2
+1
+
+*young youngest simple simplest
+simple 0.645909972823
+simplest 0.576497932079
+simpler 0.48297282041
+straightforward 0.46551425525
+most-used 0.45257905081
+2
+1
+
+*young youngest short shortest
+short 0.634706966556
+longest 0.5712545887
+shortest 0.538749712096
+second-longest 0.477826292343
+shorter 0.471664787027
+3
+2
+
+*young youngest slow slowest
+slow 0.684806997087
+slowest 0.540702916236
+slower 0.516498258868
+fastest 0.488764156776
+youngest 0.47422002415
+2
+1
+
+*young youngest small smallest
+small 0.642431464689
+smallest 0.627682919508
+smaller 0.593893616147
+largest 0.563329941577
+tiny 0.530662211059
+2
+1
+
+*young youngest smart smartest
+smart 0.649081788415
+youngest 0.551892288136
+oldest 0.447971480851
+smallest 0.44528874914
+newest 0.434930455926
+14
+12
+
+*young youngest strange strangest
+strange 0.632685207668
+bizarre 0.487696844552
+youngest 0.481038377251
+mysterious 0.465976098915
+strangest 0.459876626447
+5
+3
+
+*young youngest strong strongest
+strong 0.637736695559
+strongest 0.564182778051
+stronger 0.509915839156
+youngest 0.485020284897
+weaker 0.434587929105
+2
+1
+
+*young youngest sweet sweetest
+sweet 0.645207387699
+youngest 0.496720976637
+sweeter 0.401512348626
+oldest 0.400636574552
+second-youngest 0.400568597481
+56
+54
+
+*young youngest tall tallest
+tall 0.656604121461
+tallest 0.548476302872
+youngest 0.538328987278
+taller 0.503007873326
+oldest 0.479460112124
+2
+1
+
+*young youngest warm warmest
+warm 0.671761057077
+warmer 0.557687436898
+warmest 0.520438521246
+cooler 0.516829453664
+colder 0.515912278458
+3
+2
+
+*young youngest weak weakest
+weak 0.662073893049
+weaker 0.532131614328
+strongest 0.520739809178
+youngest 0.518685547355
+weakest 0.513990063067
+5
+3
+
+*young youngest weird weirdest
+weird 0.653886373149
+youngest 0.470474845261
+dumbest 0.437271537754
+wierd 0.43598444418
+craziest 0.427744625255
+6
+4
+
+*young youngest wide widest
+wide 0.660452829961
+widest 0.555068391691
+wider 0.484146078874
+youngest 0.481890866662
+broadest 0.451322691217
+2
+1
+
