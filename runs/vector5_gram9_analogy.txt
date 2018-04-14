@@ -1,0 +1,7830 @@
+*decrease decreases describe describes
+describe 0.650436478558
+describes 0.601852661519
+relates 0.547621906603
+describing 0.540419943549
+define 0.523690972181
+2
+1
+
+*decrease decreases eat eats
+eat 0.68465326987
+eats 0.66869970356
+ate 0.632101603714
+greedily 0.514046243386
+eaten 0.500980093932
+2
+1
+
+*decrease decreases enhance enhances
+enhances 0.687690673668
+improves 0.649102221316
+enhance 0.645680577238
+decreases 0.560069767897
+enhancing 0.549048458038
+1
+1
+
+*decrease decreases estimate estimates
+estimate 0.668553754718
+estimates 0.574489474619
+estimating 0.529569896567
+calculates 0.528452501732
+estimations 0.491824811292
+2
+1
+
+*decrease decreases find finds
+find 0.671452217293
+finds 0.574158393788
+finding 0.45751522289
+gets 0.442850586694
+reveals 0.441344965749
+2
+1
+
+*decrease decreases generate generates
+generates 0.695271912575
+generate 0.644631114223
+decreases 0.49812362781
+creates 0.496370319447
+adjusts 0.486339127963
+1
+1
+
+*decrease decreases go goes
+go 0.671005353456
+goes 0.65380819098
+went 0.472293769502
+gone 0.466869593217
+stays 0.46363762001
+2
+1
+
+*decrease decreases implement implements
+implement 0.6371487349
+implements 0.516133824641
+executes 0.488846728753
+implementing 0.484399300367
+computes 0.474928276824
+2
+1
+
+*decrease decreases increase increases
+decreases 0.845693665213
+increases 0.793628867108
+diminishes 0.650473419991
+reduces 0.636089975913
+lowers 0.621886198539
+2
+1
+
+*decrease decreases listen listens
+listen 0.643466140849
+listens 0.55800108176
+hear 0.474981893141
+lets 0.445539146537
+listened 0.443045133819
+2
+1
+
+*decrease decreases play plays
+play 0.64542298899
+playing 0.508132213308
+played 0.485043378761
+plays 0.475732137854
+hide-and-seek 0.388611733605
+4
+3
+
+*decrease decreases predict predicts
+predict 0.659010048652
+determines 0.558451152958
+predicts 0.522714128268
+decreases 0.515659108812
+calculate 0.505862038635
+3
+2
+
+*decrease decreases provide provides
+provides 0.675766984841
+provide 0.673388143262
+providing 0.588973314677
+provided 0.501022459269
+furnishes 0.468465780468
+1
+1
+
+*decrease decreases say says
+say 0.672516038219
+says 0.59916857692
+suppose 0.542179349871
+think 0.539703071067
+presume 0.522754022298
+2
+1
+
+*decrease decreases scream screams
+scream 0.666548190784
+screams 0.525667421609
+shouts 0.499604561947
+screamed 0.464629878234
+roars 0.461971416424
+2
+1
+
+*decrease decreases search searches
+search 0.670197763517
+searches 0.604112045274
+searching 0.512504115894
+breadth-first 0.468678618341
+google 0.448404998979
+2
+1
+
+*decrease decreases see sees
+see 0.679662335862
+sees 0.449997355414
+vanishes 0.433837330224
+illustrates 0.430700144124
+know 0.425706680714
+2
+1
+
+*decrease decreases shuffle shuffles
+shuffle 0.698001985335
+shuffles 0.494135465944
+rotates 0.472431415855
+bounces 0.446212829417
+spacebar 0.431443440823
+2
+1
+
+*decrease decreases sing sings
+sing 0.668037750915
+sings 0.572868278283
+sang 0.542774079162
+singing 0.457192131463
+sung 0.441592426245
+2
+1
+
+*decrease decreases sit sits
+sit 0.672949489138
+sits 0.539741150008
+sat 0.536083753341
+stays 0.477388267143
+knelt 0.427488185077
+2
+1
+
+*decrease decreases slow slows
+slow 0.681685004084
+slows 0.632399844647
+fast 0.557468919662
+accelerates 0.523314140577
+slowed 0.50994740102
+2
+1
+
+*decrease decreases speak speaks
+speak 0.675497108143
+speaks 0.605643363197
+spoke 0.575104060722
+speaking 0.468348490691
+fluently 0.44888520536
+2
+1
+
+*decrease decreases swim swims
+swim 0.689744849714
+swims 0.620429700084
+swam 0.531160985534
+paddling 0.42936949203
+swimming 0.423364197309
+2
+1
+
+*decrease decreases talk talks
+talk 0.701844889859
+mid-class 0.488854238924
+no-class 0.469579283353
+start-class 0.468450141578
+low-class 0.463969323423
+349
+347
+
+*decrease decreases think thinks
+think 0.706234822861
+suppose 0.594157749998
+guess 0.543339235011
+thinks 0.49816742571
+reckon 0.490100838246
+4
+3
+
+*decrease decreases vanish vanishes
+vanish 0.698853853163
+vanishes 0.644570313123
+disappears 0.556699115477
+shrinks 0.479012641672
+deflects 0.466919673988
+2
+1
+
+*decrease decreases walk walks
+walk 0.686576549242
+walked 0.514672268323
+strolls 0.497363093291
+walking 0.487010184713
+wanders 0.461533107725
+7
+6
+
+*decrease decreases work works
+work 0.666672284038
+works 0.487000999518
+working 0.483587572166
+worked 0.412103561784
+focussing 0.390153011902
+2
+1
+
+*decrease decreases write writes
+write 0.657203734178
+writes 0.510324006725
+wrote 0.507353226208
+read 0.458305306084
+writing 0.442812487765
+2
+1
+
+*describe describes eat eats
+eats 0.722316626903
+eat 0.650508097082
+ate 0.623195254131
+consumes 0.514697919301
+eating 0.512846426009
+1
+1
+
+*describe describes enhance enhances
+enhances 0.712048204616
+improves 0.631380049864
+enhance 0.622144728396
+enhancing 0.580024464073
+facilitates 0.552108139082
+1
+1
+
+*describe describes estimate estimates
+estimate 0.644411194129
+estimates 0.604569937499
+estimating 0.537398694644
+describes 0.515226360954
+calculates 0.509768253792
+2
+1
+
+*describe describes find finds
+finds 0.634956203986
+find 0.624751291858
+sees 0.549859718191
+describes 0.500841772251
+reveals 0.500404189368
+1
+1
+
+*describe describes generate generates
+generates 0.724481857647
+generate 0.608432216079
+creates 0.602832192677
+produces 0.522995826771
+describes 0.50061607541
+1
+1
+
+*describe describes go goes
+go 0.654523525554
+goes 0.615843678438
+wanders 0.468984560453
+sends 0.461982473824
+sneaks 0.446800123235
+2
+1
+
+*describe describes implement implements
+implement 0.596356164361
+implementing 0.54069087813
+implements 0.527311067855
+supports 0.513740274891
+executes 0.511634830947
+3
+2
+
+*describe describes increase increases
+increases 0.694078031563
+increase 0.635538611909
+decreases 0.600469073351
+reduces 0.568375962355
+increased 0.566017908442
+1
+1
+
+*describe describes listen listens
+listen 0.61127568701
+listens 0.533285479082
+praises 0.488168874113
+sees 0.484536169806
+lets 0.46708543512
+2
+1
+
+*describe describes play plays
+play 0.641358250171
+plays 0.559365799661
+playing 0.50094564846
+played 0.49454021248
+two-act 0.441152635158
+2
+1
+
+*describe describes predict predicts
+predicts 0.664536168081
+describes 0.625695127789
+predict 0.575081610378
+predicting 0.57383570903
+examines 0.537425670745
+1
+1
+
+*describe describes provide provides
+provides 0.748486987358
+provide 0.643537854608
+providing 0.61764221798
+offers 0.525922423937
+provided 0.507611112172
+1
+1
+
+*describe describes say says
+says 0.741044886439
+thinks 0.60421721579
+say 0.604155453155
+saying 0.592814478156
+acknowledges 0.555814841049
+1
+1
+
+*describe describes scream screams
+scream 0.67386564894
+screams 0.53458990362
+roars 0.471988294782
+shouts 0.47135502803
+cries 0.45962624848
+2
+1
+
+*describe describes search searches
+search 0.66323014117
+searches 0.594345187663
+searching 0.492392584402
+locates 0.425164037034
+google 0.4177161927
+2
+1
+
+*describe describes see sees
+see 0.659059454547
+describes 0.586812023709
+sees 0.560998700753
+discusses 0.493247945614
+illustrates 0.489958455359
+3
+1
+
+*describe describes shuffle shuffles
+shuffle 0.671760653699
+shuffles 0.407854631784
+describes 0.388332071449
+croupier 0.38571022533
+replaces 0.371815561049
+2
+1
+
+*describe describes sing sings
+sing 0.66011421244
+sings 0.632671663458
+sang 0.612367366173
+singing 0.539947844482
+praises 0.515886065902
+2
+1
+
+*describe describes sit sits
+sit 0.649378085787
+sat 0.611128065936
+sits 0.574966283326
+stood 0.482324053948
+sitting 0.471377644012
+3
+2
+
+*describe describes slow slows
+slow 0.67869092711
+slows 0.564053580841
+fast 0.55798747382
+slowing 0.520031198608
+slowed 0.503655000495
+2
+1
+
+*describe describes speak speaks
+speaks 0.693254032504
+speak 0.628588864994
+spoke 0.595987657896
+speaking 0.503492377398
+writes 0.489049558591
+1
+1
+
+*describe describes swim swims
+swim 0.685590239104
+swims 0.561677619503
+swam 0.505623808829
+swimming 0.435399806972
+surfs 0.400056748623
+2
+1
+
+*describe describes talk talks
+talk 0.698175310418
+start-class 0.477052856115
+no-class 0.473719362397
+stub-class 0.459452822238
+low-class 0.457757852434
+70
+68
+
+*describe describes think thinks
+think 0.663210721177
+says 0.56895970545
+thinks 0.566000445212
+acknowledges 0.487181517782
+suppose 0.481421433652
+3
+2
+
+*describe describes vanish vanishes
+vanish 0.63126880289
+vanishes 0.604680531165
+disappears 0.573766240906
+sees 0.46469318794
+collapses 0.462620823424
+2
+1
+
+*describe describes walk walks
+walk 0.666255276122
+walks 0.496489127211
+strolls 0.490915547801
+walked 0.478242833862
+walking 0.477995177021
+2
+1
+
+*describe describes work works
+work 0.674290220906
+works 0.541611839966
+working 0.483110696342
+job 0.462828084447
+labors 0.462154740183
+2
+1
+
+*describe describes write writes
+write 0.66066240335
+writes 0.646346137727
+wrote 0.629979249952
+describes 0.556211237493
+writing 0.538073512846
+2
+1
+
+*describe describes decrease decreases
+increases 0.694636229725
+decreases 0.665603045905
+decrease 0.647667707922
+reduces 0.591052950107
+lowers 0.571809876934
+2
+2
+
+*eat eats enhance enhances
+enhances 0.682061238438
+enhance 0.654064858357
+improves 0.618723256131
+enhancing 0.578113272958
+strengthens 0.5402104654
+1
+1
+
+*eat eats estimate estimates
+estimate 0.660390354039
+estimating 0.572185829117
+calculates 0.569090667721
+estimates 0.553044870112
+estimation 0.491470825894
+4
+3
+
+*eat eats find finds
+finds 0.694454662823
+find 0.649179350506
+locates 0.545641236586
+reveals 0.545298050278
+sees 0.536747526034
+1
+1
+
+*eat eats generate generates
+generates 0.758702113161
+generate 0.664347597196
+creates 0.644945573173
+generated 0.535510228282
+generating 0.532256941962
+1
+1
+
+*eat eats go goes
+goes 0.714958657072
+go 0.610902011386
+wanders 0.571899448635
+sends 0.5455045269
+sneaks 0.542482528139
+1
+1
+
+*eat eats implement implements
+implement 0.640853976647
+implementing 0.577626452646
+implements 0.552661716663
+executes 0.547955857824
+adopts 0.528517700829
+3
+2
+
+*eat eats increase increases
+increases 0.6502175537
+increase 0.643925342207
+increasing 0.577090065011
+reduces 0.562280576976
+decreases 0.562272434471
+1
+1
+
+*eat eats listen listens
+listens 0.687475836354
+listen 0.572668780831
+eats 0.530728652053
+sees 0.525792624313
+responds 0.52078705433
+1
+1
+
+*eat eats play plays
+play 0.607184419704
+plays 0.58977269773
+played 0.529824697936
+playing 0.502504896535
+two-act 0.438888240915
+2
+1
+
+*eat eats predict predicts
+predict 0.639271078406
+predicts 0.607775143988
+predicting 0.564728630345
+analyzes 0.556679265389
+calculates 0.550705794256
+2
+1
+
+*eat eats provide provides
+provides 0.750358069446
+provide 0.635252456896
+providing 0.624918434669
+creates 0.551508046151
+delivers 0.536912897257
+1
+1
+
+*eat eats say says
+says 0.672932978575
+thinks 0.648767138209
+say 0.632374246229
+believes 0.582358447585
+knows 0.560166031819
+1
+1
+
+*eat eats scream screams
+scream 0.686999000738
+screams 0.564331049393
+shriek 0.520078559147
+utters 0.512833017358
+jailbird 0.50995871006
+2
+1
+
+*eat eats search searches
+search 0.7025460126
+searches 0.62345274555
+searching 0.521672742549
+seach 0.498325095179
+breadth-first 0.496063370494
+2
+1
+
+*eat eats see sees
+see 0.640560810151
+sees 0.58488020628
+illustrates 0.513051490373
+explains 0.511515409864
+discusses 0.496456307619
+2
+1
+
+*eat eats shuffle shuffles
+shuffle 0.682925980506
+shuffles 0.469697516798
+flips 0.429734549668
+shuffling 0.425276906884
+retrieves 0.416114682347
+2
+1
+
+*eat eats sing sings
+sings 0.6831995611
+sing 0.602126444405
+sang 0.53739925195
+singing 0.511212831022
+hears 0.492786202039
+1
+1
+
+*eat eats sit sits
+sits 0.619858063342
+sit 0.578300401074
+hangs 0.569298343103
+sat 0.558845137777
+sitting 0.552580036857
+1
+1
+
+*eat eats slow slows
+slow 0.665844907448
+slows 0.564834312706
+slowing 0.504082169018
+plodding 0.48885929467
+slowed 0.481077522232
+2
+1
+
+*eat eats speak speaks
+speaks 0.776106311474
+speak 0.611734022826
+spoke 0.597822370643
+speaking 0.524062048702
+understands 0.521976389841
+1
+1
+
+*eat eats swim swims
+swims 0.675268254121
+swim 0.656699477196
+swam 0.51859330863
+eats 0.491527162455
+drowns 0.48341015311
+1
+1
+
+*eat eats talk talks
+talk 0.700459975855
+mid-class 0.452761738034
+no-class 0.448044150918
+contribs 0.434509559915
+high-class 0.434122213365
+290
+288
+
+*eat eats think thinks
+think 0.688479535765
+thinks 0.610911502521
+suppose 0.538433591318
+understands 0.517601529914
+says 0.515889484053
+2
+1
+
+*eat eats vanish vanishes
+vanishes 0.676509873165
+vanish 0.654289629803
+disappears 0.604723763289
+transforms 0.540924565615
+destroys 0.508222577371
+1
+1
+
+*eat eats walk walks
+walk 0.618358538713
+walks 0.582621922563
+wanders 0.575816820949
+strolls 0.512053785051
+walked 0.507001435783
+2
+1
+
+*eat eats work works
+work 0.650015277784
+works 0.539581016458
+working 0.455384379967
+job 0.416760195317
+researches 0.413211002568
+2
+1
+
+*eat eats write writes
+writes 0.650777474607
+write 0.627488799878
+wrote 0.593194507574
+reads 0.498203208997
+speaks 0.492911452158
+1
+1
+
+*eat eats decrease decreases
+increases 0.663150168005
+decrease 0.644607582731
+decreases 0.638419091802
+reduces 0.595164814257
+lowers 0.586899932352
+3
+2
+
+*eat eats describe describes
+describes 0.668381490132
+describe 0.63943603061
+describing 0.596414812546
+discusses 0.592853225259
+characterizes 0.575296670418
+1
+1
+
+*enhance enhances estimate estimates
+estimate 0.690325052367
+estimates 0.584580137232
+estimating 0.560945177928
+calculates 0.532751291739
+quantifies 0.521742034563
+2
+1
+
+*enhance enhances find finds
+find 0.647727106659
+finds 0.586368334067
+finding 0.500709957146
+confirms 0.473016279552
+reveals 0.469800925342
+2
+1
+
+*enhance enhances generate generates
+generates 0.808592674616
+generate 0.649687264078
+detects 0.561869581092
+creates 0.553745659315
+produces 0.552770451744
+1
+1
+
+*enhance enhances go goes
+go 0.642923788476
+goes 0.58542043776
+gone 0.492462322386
+pushes 0.482944880976
+lets 0.45846444046
+2
+1
+
+*enhance enhances implement implements
+implement 0.593341755555
+simplifies 0.557759860625
+implementing 0.54930401907
+enforces 0.547307738511
+requires 0.538517541978
+8
+7
+
+*enhance enhances increase increases
+increases 0.776187217397
+decreases 0.714226130878
+enhances 0.683218309368
+reduces 0.68304727636
+diminishes 0.6354892082
+1
+1
+
+*enhance enhances listen listens
+listen 0.618195379339
+listens 0.501401279616
+reminds 0.483540428287
+excites 0.482945068213
+hear 0.478843422509
+2
+1
+
+*enhance enhances play plays
+play 0.641922893369
+playing 0.478770159664
+played 0.468992482586
+plays 0.467022506079
+seussical 0.375526259432
+4
+3
+
+*enhance enhances predict predicts
+predicts 0.658254054917
+predict 0.656774193273
+predicting 0.584376753901
+detects 0.563366141298
+affects 0.557717276558
+1
+1
+
+*enhance enhances provide provides
+provides 0.72850511195
+provide 0.62422182667
+providing 0.588072273914
+enhances 0.553329810336
+generates 0.54705792397
+1
+1
+
+*enhance enhances say says
+say 0.682850168859
+says 0.657160170278
+think 0.600784336762
+saying 0.58584147386
+presume 0.580912717712
+2
+1
+
+*enhance enhances scream screams
+scream 0.694714536308
+screams 0.553039242779
+shriek 0.500048085081
+shouts 0.491570640306
+roars 0.470034242765
+2
+1
+
+*enhance enhances search searches
+search 0.703464134855
+searches 0.632004849042
+searching 0.516744592195
+google 0.502211812557
+breadth-first 0.467776472122
+2
+1
+
+*enhance enhances see sees
+see 0.679845883852
+illustrates 0.50314554655
+sees 0.477097770089
+confirms 0.476613559088
+demonstrates 0.47529265779
+3
+2
+
+*enhance enhances shuffle shuffles
+shuffle 0.723723939803
+shuffles 0.45661598376
+shuffling 0.424898995372
+vibrates 0.421411822513
+toggles 0.393382979852
+2
+1
+
+*enhance enhances sing sings
+sing 0.658846219714
+sings 0.627588190869
+sang 0.575745626204
+singing 0.511516026357
+off-key 0.471832832338
+2
+1
+
+*enhance enhances sit sits
+sit 0.665923969552
+sat 0.535408102943
+sits 0.504386367749
+sitting 0.461565446184
+stood 0.437163504946
+3
+2
+
+*enhance enhances slow slows
+slow 0.695333828477
+slows 0.653328827554
+slowing 0.572875738322
+slowed 0.534321417819
+accelerates 0.516789912711
+2
+1
+
+*enhance enhances speak speaks
+speak 0.656655388303
+speaks 0.623015764938
+spoke 0.552764839415
+speaking 0.475401793514
+understands 0.436951298801
+2
+1
+
+*enhance enhances swim swims
+swim 0.643348173631
+swims 0.566099797904
+swam 0.483946127934
+surfs 0.42891692077
+eats 0.421062470847
+2
+1
+
+*enhance enhances talk talks
+talk 0.662671796182
+no-class 0.486379266916
+unassessed-class 0.465530359471
+stub-class 0.465490946323
+start-class 0.456577351317
+4141
+4139
+
+*enhance enhances think thinks
+think 0.738954896904
+suppose 0.60739404867
+guess 0.536668126478
+believe 0.526703839473
+thinks 0.523385334985
+5
+4
+
+*enhance enhances vanish vanishes
+vanish 0.67201568568
+vanishes 0.627248680909
+disappears 0.552223291393
+disappear 0.474910038486
+clears 0.474494039743
+2
+1
+
+*enhance enhances walk walks
+walk 0.679723044336
+walked 0.500697149761
+walking 0.478384426103
+walks 0.463192903166
+tumbles 0.4504606516
+4
+3
+
+*enhance enhances work works
+work 0.65294037482
+works 0.429061873196
+labors 0.398430947569
+working 0.383470755908
+labours 0.382786360439
+2
+1
+
+*enhance enhances write writes
+write 0.619095867327
+writes 0.577552535341
+wrote 0.556671870051
+writing 0.487517463614
+reads 0.469825384025
+2
+1
+
+*enhance enhances decrease decreases
+decreases 0.727865473813
+increases 0.724692557426
+decrease 0.678251319905
+reduces 0.6581586797
+lowers 0.622506013665
+1
+1
+
+*enhance enhances describe describes
+describes 0.670229770492
+characterizes 0.625078150401
+describe 0.620251015922
+describing 0.587276743812
+discusses 0.568916043713
+1
+1
+
+*enhance enhances eat eats
+eats 0.716529558618
+eat 0.687719756618
+ate 0.63647933408
+consumes 0.581308702921
+eating 0.528565196693
+1
+1
+
+*estimate estimates find finds
+find 0.614398950276
+finds 0.490294745538
+searches 0.415656964019
+finding 0.399766017709
+replies 0.363381420246
+2
+1
+
+*estimate estimates generate generates
+generate 0.626890791664
+generates 0.545689538478
+generated 0.46515766139
+indexes 0.435356399038
+schemas 0.417512053403
+2
+1
+
+*estimate estimates go goes
+go 0.687779712283
+goes 0.528782933881
+gone 0.460971236436
+went 0.435437773037
+going 0.393900325797
+2
+1
+
+*estimate estimates implement implements
+implement 0.646343514034
+implementing 0.533217718314
+implements 0.517787496179
+initiatives 0.516711785554
+directives 0.497882361791
+3
+2
+
+*estimate estimates increase increases
+increase 0.637712382373
+increases 0.592744504627
+reductions 0.579613548776
+decrease 0.577232398465
+increasing 0.554980534354
+2
+1
+
+*estimate estimates listen listens
+listen 0.627775271797
+replies 0.470491318
+listens 0.447281964934
+listened 0.433261553925
+shouts 0.40484304075
+3
+2
+
+*estimate estimates play plays
+play 0.645262217989
+playing 0.519183729288
+plays 0.509403049714
+played 0.490127120796
+extravaganzas 0.395888466738
+3
+2
+
+*estimate estimates predict predicts
+predict 0.588967936511
+estimates 0.563921151406
+predictions 0.560398982896
+predicts 0.5416344741
+predicting 0.512142525391
+4
+2
+
+*estimate estimates provide provides
+provide 0.662750912049
+providing 0.601862172732
+provides 0.600527495642
+provided 0.505508750804
+services 0.463061898413
+3
+2
+
+*estimate estimates say says
+say 0.645369671789
+says 0.586134401087
+saying 0.527719996308
+presume 0.493695371774
+believe 0.488467143326
+2
+1
+
+*estimate estimates scream screams
+scream 0.668282164524
+screams 0.502094065737
+shouts 0.494247899944
+cries 0.43725284817
+freaks 0.427212470168
+2
+1
+
+*estimate estimates search searches
+search 0.68430929502
+searches 0.671600311102
+searching 0.482982075835
+keywords 0.436429258158
+google 0.431177554674
+2
+1
+
+*estimate estimates see sees
+see 0.632764051246
+replies 0.386068249709
+cites 0.372219362191
+says 0.371634695083
+dabs 0.358727235638
+140
+138
+
+*estimate estimates shuffle shuffles
+shuffle 0.671119115828
+shuffles 0.409146142588
+reshuffles 0.378099017613
+combos 0.37400516323
+glitches 0.370851525437
+2
+1
+
+*estimate estimates sing sings
+sing 0.649750354454
+sang 0.52937313696
+sings 0.523306459055
+singing 0.519613599044
+sung 0.503998886014
+3
+2
+
+*estimate estimates sit sits
+sit 0.663610283317
+sat 0.457884313518
+sitting 0.44335542998
+chairs 0.397876808714
+sits 0.38759924132
+5
+4
+
+*estimate estimates slow slows
+slow 0.689080634794
+slowed 0.542104301878
+slowing 0.509664687323
+slows 0.470277455165
+fast 0.455870529368
+4
+3
+
+*estimate estimates speak speaks
+speak 0.657229900964
+speaks 0.556302087937
+spoke 0.532034858592
+speakers 0.485851196837
+dialects 0.48453050258
+2
+1
+
+*estimate estimates swim swims
+swim 0.664210579258
+swam 0.481066666982
+swims 0.47322515229
+swimming 0.433648333263
+regattas 0.430309573222
+3
+2
+
+*estimate estimates talk talks
+talk 0.69500282682
+no-class 0.466142859429
+start-class 0.463591437829
+low-class 0.459671038904
+unassessed-class 0.454182256326
+66
+65
+
+*estimate estimates think thinks
+think 0.666820167159
+suppose 0.553237298989
+believe 0.495794778126
+beleive 0.483801399616
+says 0.461754530854
+10
+9
+
+*estimate estimates vanish vanishes
+vanish 0.672395841025
+disappear 0.505686134646
+vanishes 0.419636130454
+vanished 0.408963645607
+disappears 0.394549545781
+3
+2
+
+*estimate estimates walk walks
+walk 0.659898234958
+walking 0.49142687573
+walked 0.449242519827
+strolls 0.439765781687
+treks 0.434056040162
+6
+5
+
+*estimate estimates work works
+work 0.693083397021
+works 0.557187517238
+projects 0.514522921669
+efforts 0.478246927069
+working 0.47757819183
+2
+1
+
+*estimate estimates write writes
+write 0.636271933561
+writing 0.494087048489
+writes 0.49318062924
+wrote 0.450274741782
+scripts 0.436640378601
+3
+2
+
+*estimate estimates decrease decreases
+decrease 0.66405132126
+increases 0.582455849135
+decreasing 0.579121308277
+reductions 0.575664620992
+decreases 0.558371932225
+5
+4
+
+*estimate estimates describe describes
+describe 0.592297925528
+definitions 0.528105899551
+refer 0.488168113579
+typologies 0.482505574854
+commonalities 0.473363902225
+15
+14
+
+*estimate estimates eat eats
+eat 0.661850281326
+omnivores 0.527684093585
+eats 0.52738618837
+ate 0.522430610868
+consume 0.503262184259
+3
+2
+
+*estimate estimates enhance enhances
+enhance 0.661387360223
+enhancing 0.561398947965
+enhances 0.519135421804
+improve 0.492169538072
+aims 0.477283132029
+3
+2
+
+*find finds generate generates
+generates 0.644430351565
+generate 0.60238626293
+creates 0.5365100813
+generated 0.49493251293
+produces 0.47766467554
+1
+1
+
+*find finds go goes
+goes 0.701830652477
+go 0.6170053498
+sneaks 0.614446624938
+drags 0.58817594765
+wanders 0.539882009553
+1
+1
+
+*find finds implement implements
+implement 0.608866545776
+implements 0.586327924839
+implementing 0.537120015797
+executes 0.510359904395
+implementation 0.478641601138
+2
+1
+
+*find finds increase increases
+increases 0.642151177934
+increase 0.632782411408
+increasing 0.589108005526
+increased 0.577848645478
+decreases 0.567245296123
+1
+1
+
+*find finds listen listens
+listens 0.686235926643
+listen 0.58228782728
+refuses 0.573672000852
+loves 0.559667852793
+slaps 0.547457168381
+1
+1
+
+*find finds play plays
+play 0.637344966403
+plays 0.527189721068
+playing 0.503629665037
+played 0.477861195247
+hide-and-seek 0.418914933724
+2
+1
+
+*find finds predict predicts
+predicts 0.593072920709
+predict 0.584054846234
+predicting 0.543320883528
+finds 0.499574218295
+prediction 0.494815221919
+1
+1
+
+*find finds provide provides
+provides 0.670303560973
+provide 0.563579423295
+providing 0.557526084341
+offers 0.47834807704
+delivers 0.477194558436
+1
+1
+
+*find finds say says
+says 0.696078459222
+thinks 0.684476302302
+believes 0.644401439697
+realizes 0.612497209842
+realises 0.601385584894
+1
+1
+
+*find finds scream screams
+scream 0.686992703703
+screams 0.60060024909
+shouts 0.550050567247
+kisses 0.540140966853
+cries 0.516645335748
+2
+1
+
+*find finds search searches
+search 0.643529727707
+searches 0.590964321149
+finds 0.565337073983
+locates 0.45298478728
+discovers 0.441712269427
+2
+1
+
+*find finds see sees
+sees 0.679634731075
+finds 0.595084005579
+remembers 0.566381723283
+see 0.557756743886
+explains 0.552916211523
+1
+1
+
+*find finds shuffle shuffles
+shuffle 0.681910601456
+shuffles 0.467315940444
+beats 0.414288628698
+snaps 0.409052619813
+flips 0.408715492874
+2
+1
+
+*find finds sing sings
+sings 0.655528679829
+sing 0.642148745736
+sang 0.580142493772
+singing 0.566267172716
+shouts 0.523689092
+1
+1
+
+*find finds sit sits
+sit 0.639520814741
+sat 0.548073257804
+sits 0.547931164741
+hangs 0.526951341319
+sitting 0.520444226148
+3
+2
+
+*find finds slow slows
+slow 0.67723209264
+slows 0.552506406782
+slowing 0.518322245861
+slowed 0.513493193457
+calms 0.473162837416
+2
+1
+
+*find finds speak speaks
+speaks 0.707020862938
+speak 0.614662189283
+spoke 0.604420680247
+mocks 0.509282168823
+confronts 0.497738217874
+1
+1
+
+*find finds swim swims
+swim 0.67746566033
+swims 0.583951070348
+swam 0.498671415553
+drowns 0.49133422423
+swimming 0.448035415698
+2
+1
+
+*find finds talk talks
+talk 0.677834927451
+no-class 0.484679676203
+mid-class 0.478325781631
+low-class 0.477610145485
+stub-class 0.470422030902
+170
+168
+
+*find finds think thinks
+thinks 0.686794168226
+think 0.605585832956
+believes 0.598338930825
+realizes 0.581154836104
+realises 0.571514831381
+1
+1
+
+*find finds vanish vanishes
+vanish 0.670134781655
+disappears 0.617728237115
+vanishes 0.600144716403
+recovers 0.526565702279
+awakens 0.508147894759
+3
+2
+
+*find finds walk walks
+walk 0.636979386248
+walks 0.628466124605
+walking 0.558243736175
+strolls 0.554968234918
+walked 0.554597347009
+2
+1
+
+*find finds work works
+work 0.646525678207
+works 0.539366927077
+researches 0.453709143671
+working 0.451547303279
+finds 0.439424213595
+2
+1
+
+*find finds write writes
+writes 0.648400624173
+write 0.591818726609
+wrote 0.577701907113
+writing 0.534155392887
+finds 0.508575379967
+1
+1
+
+*find finds decrease decreases
+decrease 0.649560599397
+increases 0.639081307052
+decreases 0.628749903358
+decreasing 0.582748337656
+decreased 0.563944421947
+3
+2
+
+*find finds describe describes
+describes 0.617456728552
+describe 0.60475017789
+considers 0.54140301822
+portrays 0.537071130266
+interprets 0.525785407733
+1
+1
+
+*find finds eat eats
+eats 0.731696682
+eat 0.643709215612
+ate 0.603272812669
+eating 0.570334296856
+vomits 0.541921874984
+1
+1
+
+*find finds enhance enhances
+enhance 0.643071605322
+enhances 0.640436068383
+enhancing 0.560785412553
+improves 0.543293169433
+promotes 0.502812008275
+2
+1
+
+*find finds estimate estimates
+estimate 0.631349308371
+estimates 0.605181610524
+estimating 0.530121327572
+estimation 0.476731958163
+estimations 0.455520525894
+2
+1
+
+*generate generates go goes
+goes 0.655716499897
+go 0.645354072582
+pushes 0.452025376204
+lets 0.449888452959
+gone 0.446422996376
+1
+1
+
+*generate generates implement implements
+implement 0.607934826906
+implements 0.596936749052
+implementing 0.591844766049
+enforces 0.569312430788
+executes 0.557620837389
+2
+1
+
+*generate generates increase increases
+increases 0.729354164308
+decreases 0.666911501443
+reduces 0.65944637093
+increase 0.631313298174
+increased 0.598224603203
+1
+1
+
+*generate generates listen listens
+listen 0.593876336464
+listens 0.533018184307
+lets 0.477416377445
+reminds 0.474234251419
+bothers 0.458419329141
+2
+1
+
+*generate generates play plays
+play 0.608921650072
+plays 0.543450311469
+playing 0.475365172946
+played 0.468239678527
+two-act 0.391660278248
+2
+1
+
+*generate generates predict predicts
+predicts 0.66449514369
+calculates 0.594303984004
+affects 0.592466652468
+predict 0.592464277311
+determines 0.588395265502
+1
+1
+
+*generate generates provide provides
+provides 0.793349956347
+providing 0.632951466412
+provide 0.625836227419
+generates 0.581449570961
+affords 0.560474955646
+1
+1
+
+*generate generates say says
+say 0.656372166816
+says 0.644663584618
+implies 0.579186640903
+think 0.540446858135
+saying 0.533193932491
+2
+1
+
+*generate generates scream screams
+scream 0.667162619173
+screams 0.467042334983
+shriek 0.452681675706
+shouts 0.444273078842
+screaming 0.42141714976
+2
+1
+
+*generate generates search searches
+search 0.710268715931
+searches 0.595078524341
+google 0.503455007676
+searching 0.483511385931
+breadth-first 0.450125725693
+2
+1
+
+*generate generates see sees
+see 0.670439724597
+illustrates 0.480465571335
+sees 0.461843879162
+discusses 0.44084142807
+explains 0.434744003742
+3
+2
+
+*generate generates shuffle shuffles
+shuffle 0.691970167553
+shuffles 0.414532652173
+replaces 0.403969815717
+rotates 0.395127453354
+shuffling 0.388801899432
+2
+1
+
+*generate generates sing sings
+sing 0.624940565536
+sings 0.612461015563
+sang 0.575391731502
+singing 0.491850615861
+performs 0.456175081656
+2
+1
+
+*generate generates sit sits
+sit 0.644051574753
+sits 0.611951144438
+sat 0.562614735111
+sitting 0.48473837721
+hangs 0.452160708366
+2
+1
+
+*generate generates slow slows
+slow 0.655695012998
+slows 0.631757224183
+slowing 0.564272555652
+slowed 0.507520360792
+accelerates 0.490041575036
+2
+1
+
+*generate generates speak speaks
+speaks 0.656081960686
+speak 0.6302984852
+spoke 0.596635246796
+speaking 0.510300931027
+spoken 0.459403636198
+1
+1
+
+*generate generates swim swims
+swim 0.63723152389
+swims 0.553275230524
+swam 0.478223355066
+competes 0.419198333287
+paddling 0.405148382049
+2
+1
+
+*generate generates talk talks
+talk 0.711703683936
+no-class 0.483117188836
+stub-class 0.470463410507
+contribs 0.46970245475
+mid-class 0.469075401307
+473
+471
+
+*generate generates think thinks
+think 0.70038769919
+suppose 0.567693667577
+implies 0.503957678882
+says 0.50368260566
+thinks 0.495740019806
+5
+4
+
+*generate generates vanish vanishes
+vanish 0.666370995838
+vanishes 0.605790807046
+disappears 0.544887447616
+removes 0.453271878881
+r-modules 0.449587229329
+2
+1
+
+*generate generates walk walks
+walk 0.640819779305
+runs 0.495141574439
+walked 0.491559941851
+walks 0.483246996577
+walking 0.476866768009
+4
+3
+
+*generate generates work works
+work 0.628366695209
+works 0.480716010667
+working 0.456266968286
+focuses 0.40489592918
+concentrates 0.400126555049
+2
+1
+
+*generate generates write writes
+write 0.601265485326
+writes 0.589095065423
+wrote 0.563182974062
+reads 0.492971892402
+gives 0.461485205572
+2
+1
+
+*generate generates decrease decreases
+decreases 0.71229215163
+increases 0.710373470368
+reduces 0.662938519541
+decrease 0.660541347037
+decreasing 0.607434267798
+1
+1
+
+*generate generates describe describes
+describes 0.672480975906
+characterizes 0.623286720085
+defines 0.614408161699
+describe 0.597716888681
+discusses 0.596668541346
+1
+1
+
+*generate generates eat eats
+eats 0.729048676097
+ate 0.667356160402
+eat 0.634303767129
+consumes 0.586617219158
+eating 0.514378899439
+1
+1
+
+*generate generates enhance enhances
+enhances 0.764838120625
+improves 0.69831257101
+facilitates 0.619210907879
+reduces 0.61700566769
+promotes 0.60076282558
+1
+1
+
+*generate generates estimate estimates
+estimate 0.672374610762
+estimates 0.610447210237
+calculates 0.559027028872
+estimating 0.544009582217
+estimation 0.494328271008
+2
+1
+
+*generate generates find finds
+find 0.617188702161
+finds 0.595326615211
+gives 0.489290069292
+finding 0.485019976214
+locates 0.462883359513
+2
+1
+
+*go goes implement implements
+implement 0.636569524263
+implementing 0.51807964772
+uses 0.504593318855
+implements 0.503724536209
+seeks 0.499324682782
+4
+3
+
+*go goes increase increases
+increases 0.687596601758
+increase 0.66815425313
+increasing 0.61714241175
+decreases 0.614029415147
+reduces 0.608719364505
+1
+1
+
+*go goes listen listens
+listens 0.71025846426
+listen 0.589767259019
+goes 0.567070321284
+wants 0.543536903101
+refuses 0.532767543366
+1
+1
+
+*go goes play plays
+play 0.602329873319
+plays 0.512175660943
+playing 0.484098887068
+played 0.453970003653
+goes 0.453705285089
+2
+1
+
+*go goes predict predicts
+predict 0.665270077588
+predicts 0.582356122346
+predicting 0.526959086158
+prediction 0.509058610416
+determines 0.508427641743
+2
+1
+
+*go goes provide provides
+provides 0.718777279191
+provide 0.634334944281
+providing 0.626173417466
+gives 0.537172765571
+furnishes 0.515279579541
+1
+1
+
+*go goes say says
+says 0.654048229804
+say 0.644523255004
+thinks 0.563816217988
+asserts 0.54331708617
+reveals 0.540658793866
+1
+1
+
+*go goes scream screams
+scream 0.677242101062
+screams 0.611486142879
+cries 0.517693373787
+shriek 0.515138566817
+moans 0.507290873254
+2
+1
+
+*go goes search searches
+search 0.697518836795
+searches 0.658763900917
+searching 0.506694806325
+google 0.471135171579
+seach 0.45662718956
+2
+1
+
+*go goes see sees
+see 0.650635070241
+sees 0.558946508385
+explains 0.530894437289
+relates 0.508784468122
+goes 0.50559373753
+2
+1
+
+*go goes shuffle shuffles
+shuffle 0.658909589121
+shuffles 0.498457429626
+goes 0.414028903168
+flips 0.412812756805
+gets 0.408917793033
+2
+1
+
+*go goes sing sings
+sings 0.643119111632
+sing 0.612721595723
+sang 0.529753584548
+seductively 0.51200595134
+hums 0.499412506781
+1
+1
+
+*go goes sit sits
+sits 0.612418326987
+goes 0.588599574513
+sit 0.568153458526
+hangs 0.552265162105
+sitting 0.51861596887
+1
+1
+
+*go goes slow slows
+slow 0.670168895639
+slows 0.58630610724
+slowing 0.520685815505
+slowed 0.476066996622
+fast 0.472838391018
+2
+1
+
+*go goes speak speaks
+speaks 0.734500788567
+speak 0.628279622485
+spoke 0.589393314822
+speaking 0.50275514714
+pronounces 0.478261339894
+1
+1
+
+*go goes swim swims
+swims 0.643241411837
+swim 0.620298861689
+swam 0.476376077617
+goes 0.464722910819
+crawls 0.451376630966
+1
+1
+
+*go goes talk talks
+talk 0.693990033338
+mid-class 0.452092438515
+start-class 0.44826976524
+no-class 0.446661478292
+stub-class 0.435312647697
+242
+240
+
+*go goes think thinks
+think 0.63945922868
+thinks 0.584445551687
+says 0.549187728709
+suppose 0.525676725133
+misunderstands 0.520204151733
+2
+1
+
+*go goes vanish vanishes
+vanish 0.650195595286
+vanishes 0.642272753483
+disappears 0.575482739721
+shrinks 0.51589812855
+collapses 0.513669254512
+2
+1
+
+*go goes walk walks
+walk 0.60511517185
+goes 0.601260089696
+walks 0.568212280951
+turns 0.545864807845
+wanders 0.531896151358
+3
+1
+
+*go goes work works
+work 0.642678462831
+works 0.546477112254
+working 0.452586108084
+goes 0.419604745375
+researches 0.408527575901
+2
+1
+
+*go goes write writes
+write 0.612092450288
+writes 0.605558516751
+wrote 0.562163300364
+reads 0.492178655053
+goes 0.48456263729
+2
+1
+
+*go goes decrease decreases
+increases 0.697375173004
+decreases 0.684765276016
+decrease 0.671375578077
+reduces 0.6379431806
+decreasing 0.611940257874
+2
+2
+
+*go goes describe describes
+describe 0.696408808373
+describes 0.624204952176
+refers 0.622481030331
+relates 0.620578788095
+describing 0.558245360275
+2
+1
+
+*go goes eat eats
+eats 0.743680461755
+eat 0.630084923655
+ate 0.595503855327
+consumes 0.556316393404
+greedily 0.544737818392
+1
+1
+
+*go goes enhance enhances
+enhance 0.674800324615
+enhances 0.641278373593
+enhancing 0.578664458399
+improves 0.57413812561
+contributes 0.539485882949
+2
+1
+
+*go goes estimate estimates
+estimate 0.694569671155
+estimates 0.595087000027
+estimating 0.54237709369
+estimation 0.502022497048
+calculates 0.474784473901
+2
+1
+
+*go goes find finds
+finds 0.702997126683
+find 0.648985436662
+reveals 0.576393888588
+proves 0.556314618273
+goes 0.54475772802
+1
+1
+
+*go goes generate generates
+generates 0.69936941968
+generate 0.664352100927
+creates 0.567131143277
+adds 0.495949237818
+generating 0.495536804126
+1
+1
+
+*implement implements increase increases
+increases 0.636000636836
+increase 0.619931028121
+decreases 0.573619796355
+decrease 0.571449415323
+increased 0.57089302244
+1
+1
+
+*implement implements listen listens
+listen 0.579491716026
+listens 0.483005919943
+hear 0.457328404741
+shouts 0.434284128966
+hums 0.428136859115
+2
+1
+
+*implement implements play plays
+play 0.628946181857
+plays 0.485309187213
+playing 0.467530065684
+wiffle 0.449019847844
+played 0.444969631764
+2
+1
+
+*implement implements predict predicts
+predict 0.607770302379
+predicts 0.581644617549
+implements 0.537761972521
+predicting 0.533687955621
+prediction 0.505011497596
+2
+1
+
+*implement implements provide provides
+provides 0.674366347412
+provide 0.638863111148
+implements 0.600642946692
+providing 0.581708682172
+provided 0.521777826648
+1
+1
+
+*implement implements say says
+say 0.646267501975
+says 0.599045730472
+implying 0.529814013716
+presume 0.524286401418
+suppose 0.506088988209
+2
+1
+
+*implement implements scream screams
+scream 0.710364320072
+screams 0.54628518222
+screaming 0.47279136661
+shriek 0.470595133168
+cries 0.466859742473
+2
+1
+
+*implement implements search searches
+search 0.714684357362
+searches 0.604358388784
+searching 0.49904022724
+metasearch 0.469739536355
+google 0.468056832027
+2
+1
+
+*implement implements see sees
+see 0.652901278558
+implements 0.415477828759
+indicates 0.411585322807
+sees 0.389464466641
+explains 0.375563734761
+4
+2
+
+*implement implements shuffle shuffles
+shuffle 0.677672628274
+shuffles 0.482154963182
+implements 0.43771400038
+hooks 0.422836365968
+tacks 0.415643211265
+2
+1
+
+*implement implements sing sings
+sing 0.644425688381
+sings 0.594076403385
+sang 0.543100445539
+singing 0.52997011398
+sung 0.479095428011
+2
+1
+
+*implement implements sit sits
+sit 0.645963603703
+sat 0.519625659196
+sitting 0.494771603766
+sits 0.478365827163
+benches 0.467495100685
+4
+3
+
+*implement implements slow slows
+slow 0.661919067382
+fast 0.526860778878
+slows 0.509347899821
+slowing 0.459798831819
+grinding 0.45792644992
+3
+2
+
+*implement implements speak speaks
+speak 0.642955973622
+speaks 0.594048124498
+spoke 0.534896181978
+fluently 0.446010546821
+speaking 0.43826526677
+2
+1
+
+*implement implements swim swims
+swim 0.665951643522
+swims 0.51213410749
+swam 0.490386859136
+crabbing 0.457850670582
+water-skiing 0.451723339832
+2
+1
+
+*implement implements talk talks
+talk 0.677752347547
+no-class 0.486204368417
+stub-class 0.481851998228
+unassessed-class 0.475047230866
+start-class 0.470367949115
+1549
+1547
+
+*implement implements think thinks
+think 0.677238955945
+suppose 0.564142756076
+presume 0.479139359712
+guess 0.476939723972
+thinks 0.474155889444
+5
+4
+
+*implement implements vanish vanishes
+vanish 0.67453066697
+vanishes 0.523624556017
+disappear 0.468949186476
+shards 0.451439194559
+disappears 0.440787783865
+2
+1
+
+*implement implements walk walks
+walk 0.66270460577
+walking 0.552119250739
+walks 0.504216781525
+walked 0.466642374013
+rides 0.460464973389
+3
+2
+
+*implement implements work works
+work 0.638686037792
+works 0.554826106056
+blacksmithing 0.466058574045
+craftwork 0.452735534294
+woodcutting 0.43978519523
+2
+1
+
+*implement implements write writes
+write 0.6077742364
+writes 0.550652153864
+wrote 0.524375928686
+writing 0.482459357138
+implements 0.465712796298
+2
+1
+
+*implement implements decrease decreases
+decrease 0.653540459971
+decreases 0.619813236778
+increases 0.616727837642
+decreasing 0.534071046699
+decreased 0.516197638759
+2
+1
+
+*implement implements describe describes
+describe 0.61095033832
+describes 0.547413727688
+implements 0.525708277161
+describing 0.511506261324
+characterizes 0.480429308885
+2
+1
+
+*implement implements eat eats
+eat 0.689749855893
+eats 0.670847546614
+ate 0.656124584677
+eating 0.568257838134
+offal 0.56533668285
+2
+1
+
+*implement implements enhance enhances
+enhances 0.638669069269
+enhance 0.63343995392
+implements 0.582524651828
+improves 0.562561216577
+enhancing 0.524364597267
+1
+1
+
+*implement implements estimate estimates
+estimate 0.648845735887
+estimates 0.616470462432
+estimating 0.525972414848
+estimations 0.463781438749
+calculates 0.427971113162
+2
+1
+
+*implement implements find finds
+find 0.621210025251
+finds 0.600213800769
+hides 0.453898922754
+finding 0.451876193809
+unearths 0.445833670869
+2
+1
+
+*implement implements generate generates
+generates 0.685119766709
+generate 0.6359873802
+implements 0.589166798437
+produces 0.553759634492
+generated 0.536866869117
+1
+1
+
+*implement implements go goes
+go 0.632587671052
+goes 0.547803395957
+drags 0.434078993584
+gone 0.431576788018
+smashes 0.424128729026
+2
+1
+
+*increase increases listen listens
+listen 0.63988653404
+listens 0.570993891892
+hear 0.479245320586
+pleases 0.471219593075
+responds 0.459354708254
+2
+1
+
+*increase increases play plays
+play 0.646554609823
+playing 0.499355387777
+plays 0.488443718324
+played 0.462515091337
+berimbau 0.377678930867
+3
+2
+
+*increase increases predict predicts
+predict 0.673725305781
+predicts 0.605491825046
+predicting 0.560660669782
+determines 0.555927796599
+affects 0.546262019125
+2
+1
+
+*increase increases provide provides
+provides 0.68313655252
+provide 0.629008066076
+providing 0.571611339519
+requires 0.49880367362
+provided 0.495201300511
+1
+1
+
+*increase increases say says
+say 0.671428846946
+says 0.635303392062
+saying 0.555879392802
+presume 0.532838291117
+think 0.532498891192
+2
+1
+
+*increase increases scream screams
+scream 0.697638219352
+screams 0.536755219375
+shouts 0.505446618657
+roars 0.469966392333
+cries 0.465191454295
+2
+1
+
+*increase increases search searches
+search 0.670170699233
+searches 0.631827943606
+breadth-first 0.506197305277
+searching 0.494232833099
+google 0.454443464445
+2
+1
+
+*increase increases see sees
+see 0.693927159142
+sees 0.47015572121
+treats 0.422673970123
+illustrates 0.421238424304
+explains 0.420816744747
+2
+1
+
+*increase increases shuffle shuffles
+shuffle 0.706747210186
+shuffles 0.505078455736
+shuffling 0.437816773032
+rotates 0.43614966337
+spacebar 0.43605457609
+2
+1
+
+*increase increases sing sings
+sing 0.674447948044
+sings 0.604538990452
+sang 0.558961966929
+singing 0.503017291403
+sung 0.485155609724
+2
+1
+
+*increase increases sit sits
+sit 0.679852164584
+sat 0.547969589707
+sits 0.510425546834
+sitting 0.47576676306
+settles 0.437218922602
+3
+2
+
+*increase increases slow slows
+slow 0.709566114924
+slows 0.670077311524
+slowing 0.563380549798
+accelerates 0.536225935204
+fast 0.529112797207
+2
+1
+
+*increase increases speak speaks
+speak 0.669575935381
+speaks 0.607223548152
+spoke 0.565024697246
+speaking 0.455900854804
+treats 0.437857962884
+2
+1
+
+*increase increases swim swims
+swim 0.680989562625
+swims 0.617697742781
+swam 0.502066226186
+recedes 0.421821519987
+shrinks 0.414097985215
+2
+1
+
+*increase increases talk talks
+talk 0.672237576547
+no-class 0.480779481156
+mid-class 0.470331627767
+start-class 0.465799229171
+stub-class 0.455030706646
+252
+250
+
+*increase increases think thinks
+think 0.702384346613
+suppose 0.578648419542
+guess 0.528169513049
+thinks 0.521564000497
+says 0.507122479463
+4
+3
+
+*increase increases vanish vanishes
+vanish 0.71274790552
+vanishes 0.625032410116
+disappears 0.55573106684
+disappear 0.509564978189
+shrinks 0.507323828659
+2
+1
+
+*increase increases walk walks
+walk 0.687215032019
+walking 0.495912802632
+strolls 0.495158725586
+walked 0.481230965085
+walks 0.46603435705
+5
+4
+
+*increase increases work works
+work 0.66493753862
+works 0.476244698317
+working 0.465448796293
+treats 0.394392122359
+interacts 0.384073262264
+2
+1
+
+*increase increases write writes
+write 0.631095271384
+writes 0.538655576159
+wrote 0.508387637569
+read 0.470332102637
+reads 0.45720753685
+2
+1
+
+*increase increases decrease decreases
+increases 0.847161498194
+decreases 0.842057507255
+reduces 0.670729950522
+lowers 0.662289234673
+decrease 0.661271886864
+2
+1
+
+*increase increases describe describes
+describe 0.646771213298
+describes 0.642736236163
+describing 0.571517093713
+characterizes 0.570872121437
+relates 0.552099349817
+2
+1
+
+*increase increases eat eats
+eat 0.702243000432
+eats 0.693017880308
+ate 0.643459310397
+eating 0.531916767224
+eaten 0.529262993239
+2
+1
+
+*increase increases enhance enhances
+enhances 0.742327519325
+improves 0.695687571474
+increases 0.656867093797
+reduces 0.636351884719
+decreases 0.631533297276
+1
+1
+
+*increase increases estimate estimates
+estimate 0.661025076704
+estimates 0.619395616369
+estimating 0.587903814162
+calculates 0.564364967512
+estimations 0.560173441578
+2
+1
+
+*increase increases find finds
+find 0.641722708434
+finds 0.571245327591
+finding 0.475241947057
+sees 0.467566273705
+pushes 0.461390742114
+2
+1
+
+*increase increases generate generates
+generates 0.718232651314
+generate 0.624212460921
+increases 0.534376159357
+decreases 0.526874798645
+creates 0.526655187452
+1
+1
+
+*increase increases go goes
+go 0.669295199606
+goes 0.652857266691
+pushes 0.497466342517
+moves 0.478393842977
+gone 0.464391697012
+2
+1
+
+*increase increases implement implements
+implement 0.608106348975
+implements 0.54123336394
+executes 0.532693580586
+implementing 0.523947781765
+computes 0.500137824351
+2
+1
+
+*listen listens play plays
+play 0.604695498482
+plays 0.543821586564
+played 0.51034984695
+listens 0.505324996409
+playing 0.501886701984
+2
+1
+
+*listen listens predict predicts
+predict 0.659629361975
+predicts 0.571215283101
+predicting 0.548476162523
+prediction 0.515617854276
+determines 0.505526011987
+2
+1
+
+*listen listens provide provides
+provides 0.674802671708
+provide 0.626549077109
+providing 0.586350145379
+furnishes 0.483145212093
+delivers 0.470915902121
+1
+1
+
+*listen listens say says
+says 0.644172577122
+thinks 0.633504296758
+say 0.628328519054
+listens 0.596805938824
+believes 0.578382026431
+1
+1
+
+*listen listens scream screams
+scream 0.676282136452
+screams 0.613485362875
+listens 0.551486454441
+shrieks 0.511332808614
+shouts 0.506223107548
+2
+1
+
+*listen listens search searches
+search 0.692512794781
+searches 0.663591463752
+searching 0.551884825119
+breadth-first 0.504690715344
+depth-first 0.475021308979
+2
+1
+
+*listen listens see sees
+see 0.61300240247
+sees 0.609102428805
+explains 0.551387580939
+listens 0.538235180784
+remembers 0.524916457111
+2
+1
+
+*listen listens shuffle shuffles
+shuffle 0.663748951642
+shuffles 0.500039849719
+listens 0.467219035911
+shuffling 0.436987633984
+skips 0.43648291442
+2
+1
+
+*listen listens sing sings
+listens 0.652076531179
+sings 0.651365840562
+sing 0.627817780796
+sang 0.560452697686
+seductively 0.5366619568
+2
+1
+
+*listen listens sit sits
+sit 0.59821431969
+sits 0.573466826564
+listens 0.567341039635
+sat 0.562512154695
+sitting 0.535921322524
+2
+1
+
+*listen listens slow slows
+slow 0.668151954828
+slows 0.542316019881
+slowing 0.500209086901
+fast 0.488190203698
+slowed 0.470151342085
+2
+1
+
+*listen listens speak speaks
+speaks 0.713984125968
+listens 0.636813697122
+spoke 0.61291792845
+speak 0.601378849985
+understands 0.497409680092
+1
+1
+
+*listen listens swim swims
+swim 0.671025091307
+swims 0.658879653805
+swam 0.566941061285
+drowns 0.473578273941
+listens 0.460981793302
+2
+1
+
+*listen listens talk talks
+talk 0.696296445408
+listens 0.454649465059
+mid-class 0.44852991437
+start-class 0.445040020783
+low-class 0.434403218728
+343
+341
+
+*listen listens think thinks
+thinks 0.64307321257
+think 0.635052504535
+believes 0.54157552326
+understands 0.529371986148
+suppose 0.527970132855
+1
+1
+
+*listen listens vanish vanishes
+vanish 0.669844641802
+vanishes 0.626079078427
+disappears 0.593377366876
+collapses 0.520288204989
+recovers 0.497571596055
+2
+1
+
+*listen listens walk walks
+walk 0.665055847467
+walks 0.589202997591
+walked 0.556122122455
+strolls 0.554520888454
+wanders 0.54913546861
+2
+1
+
+*listen listens work works
+work 0.653990247345
+works 0.505374531171
+researches 0.477965819911
+working 0.473478819426
+listens 0.436663454578
+2
+1
+
+*listen listens write writes
+write 0.628490248085
+listens 0.624220730094
+writes 0.602212257937
+wrote 0.558254475889
+forgets 0.478070059939
+3
+1
+
+*listen listens decrease decreases
+increases 0.675001701886
+decrease 0.671902275343
+decreases 0.648295139578
+decreasing 0.582177485306
+increase 0.557815353508
+3
+2
+
+*listen listens describe describes
+describe 0.668049635362
+describes 0.579859523144
+relates 0.556383876297
+describing 0.545214491672
+perceives 0.510665130699
+2
+1
+
+*listen listens eat eats
+eats 0.750774647236
+ate 0.640399974235
+eat 0.621224886033
+listens 0.588133046373
+greedily 0.560727440025
+1
+1
+
+*listen listens enhance enhances
+enhance 0.672750892579
+enhances 0.612785458302
+enhancing 0.573963540254
+improves 0.563495094101
+improve 0.489994723978
+2
+1
+
+*listen listens estimate estimates
+estimate 0.685086157224
+estimates 0.602373830725
+estimating 0.579609777517
+calculates 0.510546242912
+estimation 0.50849150778
+2
+1
+
+*listen listens find finds
+finds 0.726173163207
+find 0.643803025499
+reveals 0.604240840101
+listens 0.555430591838
+discovers 0.553586090478
+1
+1
+
+*listen listens generate generates
+generate 0.669375162557
+generates 0.665710857089
+creates 0.514843214172
+generating 0.509979438169
+generated 0.49203870663
+2
+1
+
+*listen listens go goes
+goes 0.755233903774
+go 0.631259828892
+listens 0.609998565088
+sneaks 0.58727331159
+wanders 0.567942095402
+1
+1
+
+*listen listens implement implements
+implement 0.653524300136
+implements 0.546201798053
+implementing 0.542042089353
+executes 0.508935716883
+implementation 0.493454501025
+2
+1
+
+*listen listens increase increases
+increase 0.669068990839
+increases 0.664737298301
+decreases 0.577104404639
+decrease 0.565856082909
+increasing 0.565372500333
+2
+1
+
+*play plays predict predicts
+predict 0.656199357496
+predicts 0.560704106315
+predicting 0.489671514569
+prediction 0.462135705824
+predicted 0.438082654654
+2
+1
+
+*play plays provide provides
+provides 0.699785577755
+provide 0.665628345578
+providing 0.579002022334
+furnishes 0.483828317103
+provided 0.479344008245
+1
+1
+
+*play plays say says
+say 0.648130280307
+says 0.566331886832
+think 0.512062153041
+presume 0.51126150055
+thinks 0.507463658722
+2
+1
+
+*play plays scream screams
+scream 0.652009033973
+screams 0.501098109191
+shriek 0.424034900621
+plays 0.422597441592
+cries 0.422553718429
+2
+1
+
+*play plays search searches
+search 0.68515469383
+searches 0.618285930717
+searching 0.535098823192
+searched 0.442739836635
+google 0.420658487477
+2
+1
+
+*play plays see sees
+see 0.668718576387
+sees 0.41769732066
+illustrates 0.398918738739
+plays 0.397957288771
+explains 0.386101459885
+2
+1
+
+*play plays shuffle shuffles
+shuffle 0.628644806617
+plays 0.520575673117
+shuffles 0.375605993332
+midfielder 0.358943380961
+footballer 0.35100312205
+3
+1
+
+*play plays sing sings
+sings 0.642431798232
+sing 0.606540400946
+plays 0.581358029457
+sang 0.568942368128
+sung 0.477466381272
+1
+1
+
+*play plays sit sits
+sit 0.622349437446
+sat 0.584855067818
+sits 0.533007686299
+sitting 0.475974992403
+plays 0.4638510313
+3
+2
+
+*play plays slow slows
+slow 0.671437591588
+fast 0.514090847157
+slows 0.507260705311
+slowing 0.498832780752
+slowed 0.479184690169
+3
+2
+
+*play plays speak speaks
+speaks 0.717339229607
+speak 0.661371455326
+spoke 0.565145291533
+fluently 0.508761696331
+plays 0.506010881092
+1
+1
+
+*play plays swim swims
+swim 0.624726304899
+swims 0.550137870876
+swam 0.466684011377
+plays 0.446286638451
+competes 0.42006426579
+2
+1
+
+*play plays talk talks
+talk 0.707581030398
+start-class 0.470609617528
+no-class 0.454580833784
+mid-class 0.449416765634
+stub-class 0.445445488548
+545
+543
+
+*play plays think thinks
+think 0.683879843714
+suppose 0.544159559997
+believe 0.501419195203
+thinks 0.496050591542
+beleive 0.492132924487
+4
+3
+
+*play plays vanish vanishes
+vanish 0.657409022922
+vanishes 0.507447905978
+disappears 0.420423218628
+vanished 0.392346342352
+positive-definite 0.390085514513
+2
+1
+
+*play plays walk walks
+walk 0.616651253512
+walks 0.433709866625
+walking 0.427331121842
+plays 0.425157864492
+walked 0.420704469061
+2
+1
+
+*play plays work works
+work 0.633367843148
+works 0.607664628349
+working 0.491832285137
+plays 0.489249464719
+worked 0.444205959305
+2
+1
+
+*play plays write writes
+write 0.655762458351
+writes 0.616739620964
+wrote 0.562442236722
+plays 0.535581423144
+speaks 0.471136256453
+2
+1
+
+*play plays decrease decreases
+decrease 0.674985572666
+increases 0.630355629587
+decreases 0.605618499342
+increase 0.562948695268
+decreasing 0.550751200836
+3
+2
+
+*play plays describe describes
+describe 0.64871512604
+describes 0.572211005223
+characterizes 0.532004686077
+characterize 0.523304288658
+describing 0.522308645555
+2
+1
+
+*play plays eat eats
+eats 0.671920473477
+eat 0.632699978271
+ate 0.603372727476
+consume 0.518333609298
+consumes 0.503519325802
+1
+1
+
+*play plays enhance enhances
+enhance 0.664673590652
+enhances 0.573709227378
+enhancing 0.547418274291
+improves 0.52457303405
+improve 0.487376945277
+2
+1
+
+*play plays estimate estimates
+estimate 0.672016382281
+estimates 0.636280879227
+estimating 0.543137671105
+estimation 0.468604561411
+estimations 0.467473196729
+2
+1
+
+*play plays find finds
+find 0.646768715164
+finds 0.540344884596
+finding 0.418363676215
+uncovers 0.413277763179
+locate 0.398116382027
+2
+1
+
+*play plays generate generates
+generates 0.673784921212
+generate 0.665689124955
+creates 0.539278143055
+produces 0.519027459291
+generating 0.493747655487
+1
+1
+
+*play plays go goes
+go 0.605724718378
+goes 0.56238180769
+plays 0.47711829962
+sends 0.423262119474
+gone 0.409559624285
+2
+1
+
+*play plays implement implements
+implement 0.639442030241
+implementing 0.53701457323
+implements 0.499053239624
+implementation 0.470290856962
+enforces 0.463858713296
+3
+2
+
+*play plays increase increases
+increase 0.67293250532
+increases 0.61923132902
+decrease 0.568778608587
+increased 0.559174239992
+increasing 0.537843704176
+2
+1
+
+*play plays listen listens
+listen 0.602480256224
+listens 0.562922619798
+plays 0.512510517167
+speaks 0.453699488413
+listened 0.437165129307
+2
+1
+
+*predict predicts provide provides
+provides 0.686176976229
+provide 0.652032215504
+providing 0.610364297793
+provided 0.54488128151
+furnishes 0.498872997552
+1
+1
+
+*predict predicts say says
+says 0.698704399234
+say 0.682079467738
+saying 0.620396654296
+implying 0.604416167107
+stating 0.603288780903
+1
+1
+
+*predict predicts scream screams
+scream 0.687959411501
+screams 0.516735112757
+shouts 0.478387566808
+utters 0.45573674905
+shriek 0.452344417707
+2
+1
+
+*predict predicts search searches
+search 0.684164240356
+searches 0.578912622162
+searching 0.470219606317
+google 0.451944004281
+seach 0.437376110913
+2
+1
+
+*predict predicts see sees
+see 0.631941140122
+predicts 0.531641583462
+says 0.527668817165
+explains 0.523349022881
+suggests 0.513337048564
+10
+8
+
+*predict predicts shuffle shuffles
+shuffle 0.67188003072
+shuffles 0.413795059817
+combo 0.379638713274
+accompanies 0.373386165293
+fills 0.363962068869
+2
+1
+
+*predict predicts sing sings
+sing 0.646352745879
+sings 0.64066984543
+sang 0.619663285612
+singing 0.507331597346
+sung 0.496737292601
+2
+1
+
+*predict predicts sit sits
+sit 0.671557394965
+sat 0.518017057565
+sits 0.506419708031
+sitting 0.476776959274
+hangs 0.41567876608
+3
+2
+
+*predict predicts slow slows
+slow 0.653200725058
+slows 0.519858100916
+slowing 0.492533441039
+slowed 0.480194689281
+fast 0.472522722301
+2
+1
+
+*predict predicts speak speaks
+speaks 0.669444496894
+speak 0.632150346656
+spoke 0.605081652994
+speaking 0.486206554043
+writes 0.461936151045
+1
+1
+
+*predict predicts swim swims
+swim 0.635165914757
+swims 0.540090753051
+swam 0.515154009696
+swimming 0.411441770448
+sharptooth 0.403008694582
+2
+1
+
+*predict predicts talk talks
+talk 0.682389298641
+no-class 0.476052777555
+low-class 0.47554491137
+start-class 0.47461228971
+mid-class 0.474502552606
+195
+193
+
+*predict predicts think thinks
+think 0.69261821781
+says 0.586478642472
+suppose 0.565071871505
+suggests 0.562683084497
+thinks 0.551945664864
+5
+4
+
+*predict predicts vanish vanishes
+vanish 0.671256229597
+vanishes 0.557402452331
+predicts 0.482165737083
+disappears 0.479651615225
+obeys 0.465043783781
+2
+1
+
+*predict predicts walk walks
+walk 0.642257211228
+walked 0.480302675912
+walking 0.475536266238
+walks 0.458712818998
+wanders 0.441398713204
+4
+3
+
+*predict predicts work works
+work 0.674358329965
+works 0.487643829504
+working 0.467945152718
+thesis 0.427496439973
+dissertation 0.391524474182
+2
+1
+
+*predict predicts write writes
+writes 0.648704178304
+write 0.634524329532
+wrote 0.628827665447
+says 0.489895573463
+writing 0.470926785906
+1
+1
+
+*predict predicts decrease decreases
+decrease 0.663764072379
+increases 0.62323861957
+decreases 0.597023283192
+predicts 0.564981237832
+reduction 0.558378558276
+3
+2
+
+*predict predicts describe describes
+describes 0.675206148257
+posits 0.648464641873
+predicts 0.638687700283
+characterizes 0.627845536529
+describe 0.600884502164
+1
+1
+
+*predict predicts eat eats
+eats 0.678709930915
+eat 0.668646419303
+ate 0.639262480006
+consume 0.528584635443
+consumes 0.520653939843
+1
+1
+
+*predict predicts enhance enhances
+enhances 0.655938432599
+enhance 0.618030503543
+promotes 0.584397270613
+emphasizes 0.582239713151
+improves 0.527741897393
+1
+1
+
+*predict predicts estimate estimates
+estimates 0.666365602377
+estimate 0.64944952084
+predicts 0.642264539357
+estimating 0.533674003866
+calculates 0.52169231539
+1
+1
+
+*predict predicts find finds
+find 0.619017238432
+finds 0.611100053565
+reveals 0.537475857908
+discovers 0.528021879802
+predicts 0.525442593232
+2
+1
+
+*predict predicts generate generates
+generates 0.733054231105
+generate 0.63309195739
+predicts 0.581015258398
+creates 0.580446900793
+produces 0.524922824512
+1
+1
+
+*predict predicts go goes
+go 0.667660957113
+goes 0.607831247534
+sends 0.45572192198
+insists 0.430229142851
+gone 0.428146133922
+2
+1
+
+*predict predicts implement implements
+implement 0.602105449954
+implementing 0.580673807109
+formulates 0.559006254595
+implements 0.555896878795
+proposes 0.547328652202
+4
+3
+
+*predict predicts increase increases
+increase 0.639678038433
+increases 0.632979895906
+decrease 0.574862372052
+decreases 0.542170071762
+increased 0.534742192064
+2
+1
+
+*predict predicts listen listens
+listen 0.610514428005
+listens 0.515240012465
+accompanies 0.484869928196
+instructs 0.472253557846
+warns 0.4718856109
+2
+1
+
+*predict predicts play plays
+play 0.6523698908
+plays 0.53336995402
+played 0.51333682503
+playing 0.481866877347
+two-act 0.412433505147
+2
+1
+
+*provide provides say says
+says 0.67814373777
+say 0.632257185699
+thinks 0.546419067886
+implies 0.529560008846
+confirms 0.526670342998
+1
+1
+
+*provide provides scream screams
+scream 0.691046133694
+screams 0.498418732369
+shriek 0.472482223078
+roars 0.452278208574
+utters 0.451899290979
+2
+1
+
+*provide provides search searches
+search 0.699041534035
+searches 0.599745845348
+searching 0.475833018462
+google 0.475705309526
+seach 0.459524597021
+2
+1
+
+*provide provides see sees
+see 0.644236430725
+sees 0.511424992233
+illustrates 0.508298956952
+explains 0.491683858913
+discusses 0.48496816688
+2
+1
+
+*provide provides shuffle shuffles
+shuffle 0.720532334297
+shuffles 0.428156423939
+utilizes 0.395522238866
+incorporates 0.394126758488
+includes 0.392324420063
+2
+1
+
+*provide provides sing sings
+sings 0.661946058356
+sing 0.63810146284
+sang 0.576885328786
+singing 0.516864262026
+performs 0.502220789688
+1
+1
+
+*provide provides sit sits
+sit 0.621818726215
+sits 0.616828395694
+sat 0.523259907917
+hangs 0.475154573776
+sitting 0.439735020398
+2
+1
+
+*provide provides slow slows
+slow 0.670439167723
+slows 0.597109160011
+slowing 0.501625272718
+slowed 0.486993841966
+fast 0.484485208677
+2
+1
+
+*provide provides speak speaks
+speaks 0.700368421243
+speak 0.630943547671
+spoke 0.579194953548
+speaking 0.501194413553
+teaches 0.483911982138
+1
+1
+
+*provide provides swim swims
+swim 0.664836461212
+swims 0.574290442834
+swam 0.446987720946
+crawls 0.397056551863
+eats 0.394643780131
+2
+1
+
+*provide provides talk talks
+talk 0.698504026436
+no-class 0.486238715119
+reassessed 0.47321898149
+contribs 0.466520263051
+stub-class 0.46602475133
+222
+220
+
+*provide provides think thinks
+think 0.669525373258
+suppose 0.550365820559
+says 0.535297290968
+thinks 0.531441874992
+guess 0.479351734561
+4
+3
+
+*provide provides vanish vanishes
+vanish 0.650793764797
+vanishes 0.55954686578
+disappears 0.526706767436
+transforms 0.447925049612
+obeys 0.435554807358
+2
+1
+
+*provide provides walk walks
+walk 0.661632882823
+runs 0.524134346692
+walks 0.523849987389
+walking 0.515251817673
+strolls 0.493166923895
+3
+2
+
+*provide provides work works
+work 0.628870749842
+works 0.536203495422
+researches 0.433874669522
+working 0.433735030568
+focuses 0.42850300644
+2
+1
+
+*provide provides write writes
+write 0.633575055029
+writes 0.620754403105
+wrote 0.586759669493
+publishes 0.533014246057
+reads 0.486291086221
+2
+1
+
+*provide provides decrease decreases
+increases 0.674401001575
+reduces 0.663542841983
+decrease 0.644127516946
+decreases 0.632891510036
+lowers 0.582482734747
+4
+3
+
+*provide provides describe describes
+describes 0.689585708186
+describe 0.635607323823
+characterizes 0.614202338472
+refers 0.60855300768
+relates 0.602824635132
+1
+1
+
+*provide provides eat eats
+eats 0.748777145269
+eat 0.646728254648
+ate 0.609610902822
+consumes 0.539587169056
+eating 0.501707832317
+1
+1
+
+*provide provides enhance enhances
+enhances 0.724292807027
+enhance 0.636435216344
+facilitates 0.620103421512
+promotes 0.61522714619
+improves 0.60911267191
+1
+1
+
+*provide provides estimate estimates
+estimate 0.659821072518
+estimates 0.589376196213
+calculates 0.539564939519
+estimating 0.525422098131
+estimation 0.496969308891
+2
+1
+
+*provide provides find finds
+finds 0.632203902557
+find 0.593399742278
+gives 0.525398477457
+reveals 0.519327621401
+makes 0.518233300696
+1
+1
+
+*provide provides generate generates
+generates 0.786668176155
+produces 0.642664716514
+creates 0.623719314381
+generate 0.62095364538
+utilizes 0.579712516377
+1
+1
+
+*provide provides go goes
+goes 0.698460045182
+go 0.646581287852
+went 0.501904708332
+lets 0.50030004005
+sends 0.496853213546
+1
+1
+
+*provide provides implement implements
+implement 0.637179607289
+implements 0.591517198788
+supports 0.567950844523
+utilizes 0.55085216379
+leverages 0.541680334936
+2
+1
+
+*provide provides increase increases
+increases 0.67713640378
+reduces 0.645643715163
+increase 0.628558993705
+decreases 0.569866190267
+increased 0.54985463187
+1
+1
+
+*provide provides listen listens
+listen 0.608062686472
+listens 0.596391980272
+lets 0.520791022263
+instructs 0.496973447706
+invites 0.491056394458
+2
+1
+
+*provide provides play plays
+play 0.625864042587
+plays 0.578763377618
+playing 0.487310650358
+played 0.474183146914
+performs 0.422116960912
+2
+1
+
+*provide provides predict predicts
+predict 0.648024436728
+predicts 0.620813133929
+analyzes 0.531219922175
+affects 0.522912519151
+determines 0.52203310382
+2
+1
+
+*say says scream screams
+scream 0.674764456631
+screams 0.544202918232
+shouts 0.482257058253
+kisses 0.46468406887
+says 0.449924200758
+2
+1
+
+*say says search searches
+search 0.695215293707
+searches 0.624877540909
+locates 0.495252158924
+searching 0.490131981745
+seach 0.464183801455
+2
+1
+
+*say says see sees
+see 0.652565455369
+says 0.602692886651
+explains 0.583211305423
+sees 0.557824690204
+discusses 0.521462977488
+4
+2
+
+*say says shuffle shuffles
+shuffle 0.674499662688
+shuffles 0.411159475959
+replaces 0.391923066069
+backtracks 0.389287014966
+skips 0.387474580146
+2
+1
+
+*say says sing sings
+sing 0.64083781419
+sings 0.630686943295
+sang 0.605453479614
+singing 0.511003697033
+praises 0.489891632139
+2
+1
+
+*say says sit sits
+sit 0.64061536856
+sat 0.58668521616
+sits 0.57283122327
+sitting 0.490991733658
+stays 0.447558561229
+3
+2
+
+*say says slow slows
+slow 0.671031440002
+slows 0.558465553304
+slowing 0.523941667192
+fast 0.51908281578
+slowed 0.517869307091
+2
+1
+
+*say says speak speaks
+speaks 0.698246340739
+speak 0.647021707628
+spoke 0.585227019876
+says 0.526675103493
+writes 0.504259050393
+1
+1
+
+*say says swim swims
+swim 0.675353047085
+swims 0.541002810939
+swam 0.491010488541
+surfs 0.42505939745
+unties 0.420680163339
+2
+1
+
+*say says talk talks
+talk 0.737052789086
+contribs 0.463699882226
+mid-class 0.455714548274
+no-class 0.452799150837
+low-class 0.449845449298
+90
+88
+
+*say says think thinks
+says 0.762316051666
+thinks 0.687264441814
+believes 0.61627272877
+think 0.611356294037
+explains 0.592330349397
+2
+1
+
+*say says vanish vanishes
+vanish 0.651330833093
+vanishes 0.611990366397
+disappears 0.568642766259
+accepts 0.47620164087
+recovers 0.475710482567
+2
+1
+
+*say says walk walks
+walk 0.637196982162
+walks 0.489145672487
+strolls 0.486140484871
+walked 0.475173060508
+unties 0.463190670007
+2
+1
+
+*say says work works
+work 0.67166044172
+works 0.546235498159
+working 0.484833453377
+job 0.422310691044
+worked 0.415090540781
+2
+1
+
+*say says write writes
+writes 0.681211696463
+write 0.654527865528
+wrote 0.616759188373
+says 0.566349584051
+writing 0.528164313083
+1
+1
+
+*say says decrease decreases
+decrease 0.631231743321
+increases 0.630522254004
+decreases 0.588148260214
+lowers 0.550344674095
+reduces 0.548532793509
+3
+2
+
+*say says describe describes
+describes 0.725083534161
+discusses 0.654104657651
+describe 0.613617376285
+explains 0.608230739197
+identifies 0.59217345524
+1
+1
+
+*say says eat eats
+eats 0.700580590833
+eat 0.647053894547
+ate 0.591848788177
+carrion 0.511976509415
+ingests 0.5108205003
+1
+1
+
+*say says enhance enhances
+enhance 0.660954259386
+enhances 0.649731911931
+improves 0.569471608871
+enhancing 0.547204487042
+promotes 0.50535999241
+2
+1
+
+*say says estimate estimates
+estimate 0.619941063983
+estimates 0.600632661493
+estimating 0.53807220519
+calculates 0.530396233333
+estimation 0.506446572748
+2
+1
+
+*say says find finds
+finds 0.696125278575
+find 0.627321743457
+locates 0.57739677089
+reveals 0.575884293074
+says 0.558386781054
+1
+1
+
+*say says generate generates
+generates 0.650364070328
+generate 0.637933861232
+creates 0.567691195753
+uses 0.489744783806
+produces 0.465518471715
+1
+1
+
+*say says go goes
+goes 0.645163276079
+go 0.639731605286
+sneaks 0.503307940765
+sends 0.48830233611
+decides 0.487303621125
+1
+1
+
+*say says implement implements
+implement 0.645953101689
+implements 0.549590662681
+implementing 0.527699689283
+formulates 0.502147461836
+implementation 0.499926973666
+2
+1
+
+*say says increase increases
+increase 0.624639078936
+increases 0.62312078881
+increasing 0.554707508261
+increased 0.522424535191
+decrease 0.521257179541
+2
+1
+
+*say says listen listens
+listen 0.600146097772
+listens 0.59254282713
+instructs 0.57881008655
+says 0.560741295838
+implores 0.54180392236
+2
+1
+
+*say says play plays
+play 0.639270236891
+played 0.506169166873
+plays 0.500833590255
+playing 0.466090417191
+pseudolus 0.387038278441
+3
+2
+
+*say says predict predicts
+predict 0.61057885542
+predicts 0.605363938199
+explains 0.54142632474
+analyzes 0.536035933467
+predicting 0.515858398352
+2
+1
+
+*say says provide provides
+provides 0.720059613682
+provide 0.645746365039
+providing 0.580015108596
+provided 0.536769398397
+gives 0.490286471711
+1
+1
+
+*scream screams search searches
+search 0.709948857884
+searches 0.681945409363
+searching 0.558500481863
+searched 0.488861101308
+googling 0.450404096851
+2
+1
+
+*scream screams see sees
+see 0.700647649055
+sees 0.490290231054
+explains 0.482532073349
+screams 0.462119075957
+tell 0.435101806072
+2
+1
+
+*scream screams shuffle shuffles
+shuffle 0.656290581523
+shuffles 0.489601605223
+shuffling 0.451812788795
+screams 0.436043444905
+beats 0.408955035904
+2
+1
+
+*scream screams sing sings
+sing 0.695946831459
+screams 0.571475145435
+sings 0.548733469342
+shouts 0.529271678857
+yells 0.524778334451
+3
+1
+
+*scream screams sit sits
+sit 0.698518201119
+sat 0.510800236399
+sitting 0.478592455171
+sits 0.475696693155
+yells 0.451042989144
+4
+3
+
+*scream screams slow slows
+slow 0.691952307842
+slows 0.5256480024
+slowing 0.501259287173
+fast 0.495570586537
+slowed 0.493627071916
+2
+1
+
+*scream screams speak speaks
+speak 0.700160063227
+speaks 0.640299587632
+spoke 0.545727844725
+fluently 0.49214607357
+screams 0.483767891175
+2
+1
+
+*scream screams swim swims
+swim 0.690096451373
+swims 0.604990710103
+swam 0.579915556772
+drowns 0.458363291899
+starves 0.414680276834
+2
+1
+
+*scream screams talk talks
+talk 0.707192967878
+usertalk 0.444410984998
+high-class 0.409968475218
+talkpage 0.40931207108
+contribs 0.408385475138
+312
+310
+
+*scream screams think thinks
+think 0.713302448638
+thinks 0.567285233978
+suppose 0.562332452762
+frankly 0.51729843327
+guess 0.507733018931
+2
+1
+
+*scream screams vanish vanishes
+vanish 0.698157006744
+vanishes 0.540137000379
+disappear 0.533514023531
+disappears 0.524388540267
+screams 0.46863570817
+2
+1
+
+*scream screams walk walks
+walk 0.692760409852
+walks 0.554879085604
+walked 0.554538333784
+strolls 0.522281839993
+walking 0.501032249549
+2
+1
+
+*scream screams work works
+work 0.665200950144
+labors 0.466870456973
+works 0.456620639837
+working 0.433070770895
+schoolwork 0.430928953208
+3
+2
+
+*scream screams write writes
+write 0.679485523281
+writes 0.514797728918
+complains 0.458515572707
+read 0.458325610556
+writing 0.44989204127
+2
+1
+
+*scream screams decrease decreases
+decrease 0.691166903374
+increases 0.615863557957
+decreases 0.613831333905
+increase 0.58894927305
+decreasing 0.56848554979
+3
+2
+
+*scream screams describe describes
+describe 0.671569458635
+explain 0.515447850118
+characterize 0.511763609507
+describes 0.501332175751
+explains 0.492461885805
+4
+3
+
+*scream screams eat eats
+eat 0.684027535695
+eats 0.604674715032
+ate 0.576593260011
+uneaten 0.543188738598
+consume 0.534274397624
+2
+1
+
+*scream screams enhance enhances
+enhance 0.697478013107
+enhances 0.598190452791
+improve 0.578684832574
+enhancing 0.53443209629
+enrich 0.516538119831
+2
+1
+
+*scream screams estimate estimates
+estimate 0.679219036842
+estimates 0.589905618496
+estimating 0.51442074528
+estimations 0.486172641832
+estimation 0.456106358426
+2
+1
+
+*scream screams find finds
+find 0.722457764983
+finds 0.612720088475
+discover 0.500492971355
+screams 0.489973175501
+locate 0.488057953679
+2
+1
+
+*scream screams generate generates
+generate 0.700773976976
+generates 0.572198677382
+generated 0.489696749987
+generating 0.469725116182
+amplify 0.467428543212
+2
+1
+
+*scream screams go goes
+go 0.674823320472
+goes 0.622244462005
+sneaks 0.520710408942
+drags 0.509170335614
+wanders 0.503307291915
+2
+1
+
+*scream screams implement implements
+implement 0.664393634241
+implementing 0.51802022812
+enforce 0.495055673561
+formulate 0.469486582168
+optimize 0.466643162522
+7
+6
+
+*scream screams increase increases
+increase 0.692761253649
+increases 0.601772169053
+decrease 0.584408808847
+increasing 0.583062907162
+increased 0.56513175262
+2
+1
+
+*scream screams listen listens
+listen 0.680875442362
+listens 0.610183152545
+screams 0.54939243072
+hear 0.524956243389
+listened 0.5224916323
+2
+1
+
+*scream screams play plays
+play 0.650528165081
+playing 0.496819365478
+played 0.462319602243
+plays 0.461598295037
+screams 0.402035289649
+4
+3
+
+*scream screams predict predicts
+predict 0.668179306037
+deduce 0.514778339761
+detect 0.498491617102
+extrapolate 0.495288956595
+infer 0.488893161769
+6
+5
+
+*scream screams provide provides
+provide 0.707899382516
+providing 0.618319173708
+provides 0.60581121726
+provided 0.500094243042
+furnishes 0.462907265475
+3
+2
+
+*scream screams say says
+say 0.696613229158
+says 0.591294785484
+thinks 0.566037927968
+complains 0.538895236887
+think 0.535435897236
+2
+1
+
+*search searches see sees
+see 0.693364010167
+replies 0.452585073907
+remember 0.449491185939
+know 0.428283827866
+tell 0.427188092172
+6
+5
+
+*search searches shuffle shuffles
+shuffle 0.673718244747
+shuffles 0.534086027712
+shuffling 0.449732297676
+beats 0.4384232714
+moves 0.400432483328
+2
+1
+
+*search searches sing sings
+sing 0.691448568858
+sings 0.552955914693
+sang 0.510307411197
+sung 0.505639753818
+singing 0.478277938966
+2
+1
+
+*search searches sit sits
+sit 0.680410058153
+stand 0.460966717727
+sat 0.459969278404
+kneel 0.426831363345
+sitting 0.423729206105
+7
+6
+
+*search searches slow slows
+slow 0.703545369481
+slowing 0.52768007484
+fast 0.50332311952
+slows 0.501228268339
+slowed 0.468405666024
+4
+3
+
+*search searches speak speaks
+speak 0.740214136763
+speaks 0.616928320525
+spoke 0.559725287861
+speaking 0.532489588479
+fluently 0.52480020901
+2
+1
+
+*search searches swim swims
+swim 0.707421386728
+swims 0.503131067912
+swam 0.46193621498
+bumps 0.412907738351
+paddling 0.399183606447
+2
+1
+
+*search searches talk talks
+talk 0.721122920264
+contribs 0.469853228667
+talkpage 0.434285841585
+start-class 0.415443980634
+stub-class 0.414962719758
+239
+237
+
+*search searches think thinks
+think 0.70965246723
+suppose 0.556835599499
+honestly 0.543917438987
+believe 0.537228122234
+beleive 0.537098601412
+7
+6
+
+*search searches vanish vanishes
+vanish 0.710309339296
+disappear 0.500395383264
+vanishes 0.464881506421
+restrains 0.426298066412
+determinable 0.418029607986
+3
+2
+
+*search searches walk walks
+walk 0.70314412086
+strolls 0.547110729609
+walked 0.508969920325
+walking 0.499865141786
+walks 0.469272655932
+5
+4
+
+*search searches work works
+work 0.689346870461
+works 0.527170574457
+writings 0.416912203593
+experiments 0.409026322961
+schoolwork 0.407832144969
+2
+1
+
+*search searches write writes
+write 0.684454155583
+read 0.525559531853
+writes 0.504863140153
+wrote 0.478057126499
+publish 0.469379546898
+3
+2
+
+*search searches decrease decreases
+decrease 0.683380937826
+increases 0.618350842831
+decreases 0.58564038959
+increase 0.558113953488
+decreasing 0.556628938057
+3
+2
+
+*search searches describe describes
+describe 0.662595107397
+characterize 0.54364694593
+refer 0.529761042758
+relate 0.503520333887
+define 0.491586374184
+11
+10
+
+*search searches eat eats
+eat 0.708506336546
+eats 0.581189272492
+ate 0.552149058908
+eating 0.527251318792
+defecate 0.508179564874
+2
+1
+
+*search searches enhance enhances
+enhance 0.667606384117
+enhances 0.537904694462
+enhancing 0.515687031093
+improve 0.510575782608
+stimulate 0.485082536901
+2
+1
+
+*search searches estimate estimates
+estimate 0.688301212791
+estimates 0.658416076547
+estimations 0.592137104619
+measurements 0.492450099383
+calculations 0.470460195078
+2
+1
+
+*search searches find finds
+find 0.687621896556
+finds 0.515620568422
+searches 0.513674782635
+locate 0.467836537475
+verify 0.446875888206
+2
+1
+
+*search searches generate generates
+generate 0.690292444574
+generates 0.526233661312
+elicit 0.477858622684
+generated 0.473189106691
+self-generated 0.454313576541
+2
+1
+
+*search searches go goes
+go 0.684360786029
+goes 0.573797151909
+going 0.468752100052
+gone 0.442446490242
+proceed 0.435217774725
+2
+1
+
+*search searches implement implements
+implement 0.686500350867
+implementing 0.508422937387
+enforce 0.502301313975
+implemented 0.492393033942
+enact 0.486709597142
+18
+17
+
+*search searches increase increases
+increase 0.673988387294
+increases 0.613941012441
+decrease 0.584807697514
+increasing 0.548296491047
+increased 0.543533467075
+2
+1
+
+*search searches listen listens
+listen 0.705796273894
+listens 0.58765643016
+listened 0.530992782067
+hear 0.519213278429
+replies 0.516974827688
+2
+1
+
+*search searches play plays
+play 0.678792859236
+played 0.477178908541
+plays 0.476308750476
+playing 0.47487228311
+charades 0.371720587828
+3
+2
+
+*search searches predict predicts
+predict 0.699619645983
+anticipate 0.500486590603
+quantify 0.481954065781
+predicts 0.477010028923
+detect 0.473856037422
+4
+3
+
+*search searches provide provides
+provide 0.68171962685
+provides 0.563381316519
+providing 0.545597420817
+provided 0.493490631271
+require 0.437289441205
+2
+1
+
+*search searches say says
+say 0.710851617271
+says 0.570514863376
+presume 0.54752639561
+saying 0.540440515278
+replies 0.529547674134
+2
+1
+
+*search searches scream screams
+scream 0.685198118624
+screams 0.573267433114
+shouts 0.520684110564
+screaming 0.51506363291
+moans 0.501899083863
+2
+1
+
+*see sees shuffle shuffles
+shuffle 0.698386506191
+shuffles 0.510897244394
+flips 0.462736791221
+sees 0.460710442229
+headlock 0.452625004963
+2
+1
+
+*see sees sing sings
+sing 0.676669852047
+sings 0.66188376118
+singing 0.566676137948
+seductively 0.564297875674
+sang 0.559710180066
+2
+1
+
+*see sees sit sits
+sit 0.66719233674
+sits 0.55396119279
+sat 0.550731400508
+sitting 0.546317204128
+kneels 0.521623882753
+2
+1
+
+*see sees slow slows
+slow 0.680847507201
+slows 0.54892218958
+slowing 0.517252468977
+calms 0.510979663664
+fast 0.49892917867
+2
+1
+
+*see sees speak speaks
+speaks 0.703831108484
+speak 0.6469416651
+spoke 0.61754997036
+sees 0.571538938602
+pities 0.542783997654
+1
+1
+
+*see sees swim swims
+swim 0.701283752025
+swims 0.632038693905
+swam 0.510494062953
+drowns 0.507034117569
+urinates 0.502320999234
+2
+1
+
+*see sees talk talks
+talk 0.660796127398
+sees 0.480327660595
+confronts 0.418606854866
+overhears 0.412152181084
+high-class 0.40907817146
+362
+360
+
+*see sees think thinks
+thinks 0.714403817904
+sees 0.644421354978
+think 0.608897174377
+believes 0.591514922704
+feels 0.569674271467
+1
+1
+
+*see sees vanish vanishes
+vanish 0.681701780449
+disappears 0.591494195018
+vanishes 0.572499911134
+sees 0.561421192874
+awakens 0.537853583989
+3
+2
+
+*see sees walk walks
+walk 0.685664076803
+walks 0.618773873211
+walked 0.593251502612
+strolls 0.585122705131
+wanders 0.583122899565
+2
+1
+
+*see sees work works
+work 0.664240265852
+working 0.500798133724
+works 0.476590281089
+sees 0.474097663198
+job 0.465564757457
+3
+2
+
+*see sees write writes
+write 0.6404379144
+writes 0.575157988034
+sees 0.527714972462
+wrote 0.502140603209
+writing 0.498495862555
+2
+1
+
+*see sees decrease decreases
+decrease 0.666951327216
+increases 0.63426772199
+decreases 0.62990184991
+decreasing 0.57339137784
+increase 0.541363368556
+3
+2
+
+*see sees describe describes
+describe 0.633388460748
+describes 0.628166742312
+sees 0.612406992994
+perceives 0.604581304313
+considers 0.545720486489
+2
+1
+
+*see sees eat eats
+eats 0.761634799266
+eat 0.692020644065
+ate 0.64762953159
+eating 0.595793711032
+sees 0.589415102029
+1
+1
+
+*see sees enhance enhances
+enhance 0.659625174727
+enhances 0.625731607311
+enhancing 0.564603657581
+improves 0.539761864231
+nurtures 0.520242552396
+2
+1
+
+*see sees estimate estimates
+estimate 0.634869048966
+estimates 0.545327399192
+estimating 0.520366356191
+estimator 0.471373832961
+sees 0.459046681029
+2
+1
+
+*see sees find finds
+finds 0.790117126356
+sees 0.694603379281
+find 0.623234922972
+befriends 0.598249882868
+discovers 0.594195575691
+1
+1
+
+*see sees generate generates
+generate 0.646653956028
+generates 0.621011795035
+creates 0.579429437543
+delivers 0.481034334239
+sees 0.472313269124
+2
+1
+
+*see sees go goes
+goes 0.681837840418
+go 0.650300843462
+sneaks 0.616645866679
+wanders 0.604550500062
+sees 0.586874597592
+1
+1
+
+*see sees implement implements
+implement 0.645804129233
+implementing 0.538055620719
+executes 0.518283688173
+adopts 0.510013968672
+implements 0.500863266952
+5
+4
+
+*see sees increase increases
+increase 0.658725228319
+increases 0.628859523172
+decrease 0.564678788097
+decreases 0.562670960704
+increasing 0.559709851247
+2
+1
+
+*see sees listen listens
+listens 0.715874242724
+listen 0.629912393455
+sees 0.612086217683
+hears 0.560298557619
+refuses 0.559940819435
+1
+1
+
+*see sees play plays
+play 0.658193977768
+plays 0.520280303226
+played 0.499326814359
+playing 0.490776268976
+hide-and-seek 0.45995182465
+2
+1
+
+*see sees predict predicts
+predict 0.620235942531
+predicts 0.583412838612
+sees 0.575024962894
+perceives 0.523053460131
+predicting 0.521878534741
+2
+1
+
+*see sees provide provides
+provides 0.67189777796
+provide 0.628219122438
+providing 0.610547282009
+delivers 0.53137297654
+offers 0.489220395854
+1
+1
+
+*see sees say says
+thinks 0.69680551797
+says 0.644460373122
+sees 0.635609482275
+believes 0.622958804346
+say 0.609441253678
+2
+2
+
+*see sees scream screams
+scream 0.701786204877
+screams 0.62617360273
+shouts 0.594006984088
+sees 0.557362989192
+kisses 0.555763151359
+2
+1
+
+*see sees search searches
+search 0.652317268099
+searches 0.608752305554
+finds 0.523472081881
+searching 0.490358585201
+sees 0.489056746794
+2
+1
+
+*shuffle shuffles sing sings
+sing 0.680324774323
+sings 0.514789609939
+recite 0.484629846393
+singing 0.475579737814
+shuffles 0.475119237691
+2
+1
+
+*shuffle shuffles sit sits
+sit 0.683385248754
+shuffles 0.494657717568
+sat 0.476620258226
+knelt 0.468123512631
+sitting 0.466384343189
+21
+19
+
+*shuffle shuffles slow slows
+slow 0.666633051589
+slows 0.515653791904
+shuffles 0.502325610141
+slowing 0.49201818654
+slowed 0.470247406441
+2
+1
+
+*shuffle shuffles speak speaks
+speak 0.724813983828
+speaks 0.584389494201
+fluently 0.5126497797
+spoke 0.505696215319
+speaking 0.489191093183
+2
+1
+
+*shuffle shuffles swim swims
+swim 0.689753832398
+swims 0.553091949355
+paddled 0.483576631254
+swam 0.463893357226
+shuffles 0.445169104855
+2
+1
+
+*shuffle shuffles talk talks
+talk 0.684734357689
+contribs 0.445931933897
+usertalk 0.436766881652
+user_talk 0.406539679585
+mid-class 0.400111968307
+1111
+1109
+
+*shuffle shuffles think thinks
+think 0.693087305268
+suppose 0.570758594125
+guess 0.539458341242
+honestly 0.517077753936
+realise 0.514410363385
+11
+10
+
+*shuffle shuffles vanish vanishes
+vanish 0.743398196002
+disappear 0.536368764694
+shuffles 0.508528230181
+vanishes 0.48499359613
+disappears 0.445338041278
+4
+2
+
+*shuffle shuffles walk walks
+walk 0.699750424827
+walks 0.554816033254
+walked 0.544565802579
+walking 0.515556864717
+strolls 0.514922098364
+2
+1
+
+*shuffle shuffles work works
+work 0.708870367413
+labors 0.474371394154
+works 0.471203450299
+working 0.426575719746
+shuffles 0.400978721144
+3
+2
+
+*shuffle shuffles write writes
+write 0.674358247478
+compose 0.456280492708
+publish 0.455958992378
+writes 0.451338670612
+read 0.447115682907
+4
+3
+
+*shuffle shuffles decrease decreases
+decrease 0.70644306454
+decreasing 0.613775443515
+increases 0.608370938824
+decreases 0.59920501629
+increase 0.591767630514
+4
+3
+
+*shuffle shuffles describe describes
+describe 0.701942812319
+refer 0.565067297801
+characterize 0.555621212404
+relate 0.511832489714
+identify 0.508377826158
+19
+18
+
+*shuffle shuffles eat eats
+eat 0.713931559776
+eats 0.589442256093
+ate 0.574060714965
+consume 0.567616516294
+uneaten 0.559682381437
+2
+1
+
+*shuffle shuffles enhance enhances
+enhance 0.701004205103
+maximize 0.570621256591
+enhancing 0.539877823985
+optimize 0.527943871018
+improve 0.526072633272
+6
+5
+
+*shuffle shuffles estimate estimates
+estimate 0.717225605554
+estimates 0.586615454157
+estimations 0.528201124363
+estimating 0.521166581305
+calculate 0.500456136835
+2
+1
+
+*shuffle shuffles find finds
+find 0.714159434542
+finds 0.505427731032
+discover 0.505153663122
+locate 0.468353973552
+ascertain 0.450896567111
+2
+1
+
+*shuffle shuffles generate generates
+generate 0.715075112626
+generates 0.54914862092
+generating 0.532531109005
+shuffles 0.459268472964
+manipulate 0.458129038971
+2
+1
+
+*shuffle shuffles go goes
+go 0.687734497426
+goes 0.577988480554
+shuffles 0.474260486585
+gone 0.453698744512
+sneaks 0.451751951932
+2
+1
+
+*shuffle shuffles implement implements
+implement 0.669271879824
+execute 0.52322626469
+optimize 0.513734959381
+prioritize 0.491460722821
+implementing 0.485324364585
+8
+7
+
+*shuffle shuffles increase increases
+increase 0.700646878003
+increasing 0.609981451107
+decrease 0.608303422963
+increases 0.600872390369
+increased 0.598304636293
+4
+3
+
+*shuffle shuffles listen listens
+listen 0.695392767563
+listens 0.557744258721
+shuffles 0.513911144231
+listened 0.494021918868
+listening 0.479315508041
+2
+1
+
+*shuffle shuffles play plays
+play 0.660768601862
+shuffles 0.551050724784
+playing 0.497071591299
+played 0.461027532391
+plays 0.41299935585
+5
+3
+
+*shuffle shuffles predict predicts
+predict 0.717940648289
+determine 0.532921586551
+quantify 0.518022888685
+calculate 0.514973705315
+evaluate 0.513141980716
+8
+7
+
+*shuffle shuffles provide provides
+provide 0.689930215937
+providing 0.565715708755
+provides 0.526801439689
+furnish 0.436557487827
+offer 0.429508725185
+3
+2
+
+*shuffle shuffles say says
+say 0.692866309482
+realise 0.519719271465
+presume 0.506499767768
+realize 0.504965177305
+says 0.497740523169
+5
+4
+
+*shuffle shuffles scream screams
+scream 0.6933844615
+screams 0.564118032778
+shouts 0.526114077076
+shrieks 0.509705545258
+shuffles 0.495222268116
+2
+1
+
+*shuffle shuffles search searches
+search 0.680307932691
+searches 0.652619844005
+searching 0.527496871863
+google 0.501555572961
+searched 0.468003846521
+2
+1
+
+*shuffle shuffles see sees
+see 0.706018004901
+explain 0.407681470933
+find 0.403241084638
+shuffles 0.39807822383
+compare 0.395262989636
+6
+4
+
+*sing sings sit sits
+sit 0.604427153785
+sits 0.550727934282
+sat 0.548511569846
+sitting 0.535029815937
+sings 0.517484187059
+2
+1
+
+*sing sings slow slows
+slow 0.679342535008
+slows 0.554932206044
+slowed 0.534513242089
+slowing 0.510618498595
+fast 0.501561979152
+2
+1
+
+*sing sings speak speaks
+speaks 0.739069750949
+speak 0.633126141537
+spoke 0.603985602622
+sings 0.578994480174
+speaking 0.510212684009
+1
+1
+
+*sing sings swim swims
+swim 0.646101872641
+swims 0.571766898715
+swam 0.498506780384
+surfs 0.447429366157
+drowns 0.425682699026
+2
+1
+
+*sing sings talk talks
+talk 0.693564086025
+start-class 0.461964306673
+mid-class 0.444233574536
+low-class 0.435788594961
+stub-class 0.43502349871
+973
+971
+
+*sing sings think thinks
+think 0.687428086199
+thinks 0.599233225157
+suppose 0.55438067585
+says 0.524856498634
+beleive 0.515874415474
+2
+1
+
+*sing sings vanish vanishes
+vanish 0.664068156907
+vanishes 0.594367520517
+disappears 0.509706219707
+undoes 0.451296457906
+recovers 0.446841160298
+2
+1
+
+*sing sings walk walks
+walk 0.642922686275
+walking 0.561566304656
+walks 0.537977523048
+walked 0.506559622118
+sings 0.503664237626
+3
+2
+
+*sing sings work works
+work 0.65949895198
+works 0.523522816913
+working 0.451661791543
+researches 0.415603031121
+sings 0.412233931582
+2
+1
+
+*sing sings write writes
+writes 0.68529499326
+wrote 0.64091900113
+write 0.62279951186
+sings 0.574175886341
+co-wrote 0.509455943498
+1
+1
+
+*sing sings decrease decreases
+decrease 0.677755785794
+increases 0.640262303739
+decreases 0.624446994243
+decreasing 0.567915289173
+reduces 0.564607083816
+3
+2
+
+*sing sings describe describes
+describe 0.665230006532
+describes 0.602355588415
+discusses 0.566635855796
+characterizes 0.555424839689
+portrays 0.520832557855
+2
+1
+
+*sing sings eat eats
+eats 0.74279565301
+eat 0.653634127282
+ate 0.614101048364
+sings 0.532910399087
+consumes 0.525238253895
+1
+1
+
+*sing sings enhance enhances
+enhance 0.651228506748
+enhances 0.640396459902
+improves 0.598162144588
+enhancing 0.583197909276
+contributes 0.523554282217
+2
+1
+
+*sing sings estimate estimates
+estimate 0.661313090158
+estimates 0.592175008738
+estimating 0.56741995962
+calculates 0.529398719818
+estimation 0.487627925711
+2
+1
+
+*sing sings find finds
+find 0.641887404059
+finds 0.62073031365
+sees 0.486517515619
+reveals 0.480772917265
+discovers 0.463429705909
+2
+1
+
+*sing sings generate generates
+generates 0.676843231231
+generate 0.660609574565
+creates 0.543188974288
+generated 0.54035122986
+generating 0.484804273238
+1
+1
+
+*sing sings go goes
+goes 0.651715323579
+go 0.621220267317
+sings 0.503709954664
+wanders 0.49416888913
+sneaks 0.492402054001
+1
+1
+
+*sing sings implement implements
+implement 0.637083297763
+implementing 0.551113016908
+implements 0.542461226807
+enforces 0.513426085576
+implementation 0.508707648623
+3
+2
+
+*sing sings increase increases
+increase 0.665205245903
+increases 0.639143207895
+decrease 0.581019164083
+decreases 0.561863045755
+increasing 0.558531357579
+2
+1
+
+*sing sings listen listens
+sings 0.626357763874
+listens 0.613438776252
+listen 0.607327705028
+understands 0.470182749928
+knows 0.461102839221
+2
+1
+
+*sing sings play plays
+plays 0.615443196835
+play 0.615262273946
+played 0.57553130053
+sings 0.567808975897
+playing 0.491826078567
+1
+1
+
+*sing sings predict predicts
+predict 0.646933701139
+predicts 0.622105459374
+predicting 0.555323980561
+analyzes 0.525938338093
+calculates 0.504420471829
+2
+1
+
+*sing sings provide provides
+provides 0.702055817001
+provide 0.641474448167
+providing 0.604745391419
+provided 0.515020302313
+supports 0.494193065663
+1
+1
+
+*sing sings say says
+say 0.659155554268
+says 0.654120606579
+thinks 0.6092542328
+believes 0.549451138365
+knows 0.532454410955
+2
+1
+
+*sing sings scream screams
+scream 0.690664004621
+sings 0.555734763682
+screams 0.526038668097
+weirdo 0.494450213947
+timebomb 0.488826765469
+3
+1
+
+*sing sings search searches
+search 0.674273734391
+searches 0.611910828335
+searching 0.492478333297
+seach 0.469404159554
+breadth-first 0.456991557544
+2
+1
+
+*sing sings see sees
+see 0.662831808825
+sees 0.510680672023
+discusses 0.476534033772
+explains 0.46407429412
+illustrates 0.45893224518
+2
+1
+
+*sing sings shuffle shuffles
+shuffle 0.690406960223
+shuffles 0.478393615088
+sings 0.45658867187
+mid-tempo 0.437750595254
+combo 0.432513924938
+2
+1
+
+*sit sits slow slows
+slow 0.641705010511
+slows 0.518670439092
+slowed 0.490541720676
+slowing 0.488027973401
+breakneck 0.465872257664
+2
+1
+
+*sit sits speak speaks
+speaks 0.673434098769
+speak 0.606245326649
+spoke 0.591598496813
+sits 0.515321524206
+speaking 0.494026873817
+1
+1
+
+*sit sits swim swims
+swim 0.640025472963
+swims 0.520716895506
+sits 0.502376992968
+shoreline 0.454982538555
+overlooks 0.449883655954
+2
+1
+
+*sit sits talk talks
+talk 0.719562725237
+start-class 0.478334619388
+stub-class 0.463742543886
+mid-class 0.460878160415
+unassessed-class 0.450969722228
+1332
+1330
+
+*sit sits think thinks
+think 0.661713344483
+thinks 0.538730604702
+suppose 0.511059129923
+says 0.498475149654
+believes 0.480681340506
+2
+1
+
+*sit sits vanish vanishes
+vanish 0.642595249638
+vanishes 0.557870086353
+sits 0.491890085996
+disappears 0.476497083818
+collapses 0.448373352702
+2
+1
+
+*sit sits walk walks
+walk 0.629282937724
+sits 0.619938233219
+lies 0.533652953481
+overlooks 0.501606032208
+stretches 0.488732510413
+36
+34
+
+*sit sits work works
+work 0.652457179966
+works 0.552167763996
+working 0.463299611131
+sits 0.455464468586
+focusses 0.446606030772
+2
+1
+
+*sit sits write writes
+write 0.603750451152
+writes 0.576176495284
+wrote 0.559001485558
+sits 0.510243345747
+describes 0.46395036236
+2
+1
+
+*sit sits decrease decreases
+decrease 0.6597485133
+increases 0.659483372956
+decreases 0.641589959779
+decreasing 0.598754259528
+reduces 0.598619274838
+3
+2
+
+*sit sits describe describes
+describe 0.672690017289
+describes 0.637246232016
+characterizes 0.58273449783
+refers 0.566217168856
+relates 0.5461247158
+2
+1
+
+*sit sits eat eats
+eats 0.703879431915
+ate 0.59799446611
+eat 0.591826058435
+sits 0.535804840044
+consumes 0.534949656633
+1
+1
+
+*sit sits enhance enhances
+enhance 0.698773789901
+enhances 0.648808037487
+enhancing 0.575186064482
+improves 0.552505686349
+improve 0.494878445797
+2
+1
+
+*sit sits estimate estimates
+estimate 0.706822395718
+estimates 0.605570027697
+calculates 0.504090575075
+estimating 0.498935213719
+estimated 0.474428167174
+2
+1
+
+*sit sits find finds
+find 0.644319986545
+finds 0.590342701998
+locates 0.507580884075
+sits 0.499598230145
+reveals 0.492168065583
+2
+1
+
+*sit sits generate generates
+generates 0.718366408197
+generate 0.664007817255
+creates 0.581451601004
+generating 0.55191775893
+produces 0.544396358287
+1
+1
+
+*sit sits go goes
+goes 0.662114364748
+sits 0.600827841505
+go 0.556549343463
+lies 0.465111721698
+wanders 0.457654159974
+1
+1
+
+*sit sits implement implements
+implement 0.652153780194
+implements 0.527390454342
+implementing 0.520630975472
+implementation 0.475560923307
+utilizes 0.469069960031
+2
+1
+
+*sit sits increase increases
+increase 0.672274259946
+increases 0.634135700626
+increasing 0.589236589329
+increased 0.560347099139
+decreases 0.556052383126
+2
+1
+
+*sit sits listen listens
+listens 0.584573628784
+listen 0.557167219826
+sits 0.546957504952
+reminds 0.446706217701
+understands 0.445900404612
+1
+1
+
+*sit sits play plays
+play 0.608391793719
+plays 0.553747159646
+playing 0.514285016524
+played 0.485352371422
+sits 0.463138276668
+2
+1
+
+*sit sits predict predicts
+predict 0.665363474824
+predicts 0.561602638433
+predicting 0.512680718602
+determines 0.499961508554
+calculates 0.499773161525
+2
+1
+
+*sit sits provide provides
+provides 0.736371314042
+provide 0.651651637112
+providing 0.600940023728
+affords 0.515576569584
+maintains 0.514469382079
+1
+1
+
+*sit sits say says
+says 0.636719043234
+say 0.62855633937
+asserts 0.551100990991
+thinks 0.550704480865
+believes 0.537037439585
+1
+1
+
+*sit sits scream screams
+scream 0.655863901233
+screams 0.501875240593
+sits 0.441778670579
+unleashes 0.44106149802
+roars 0.420279211809
+2
+1
+
+*sit sits search searches
+search 0.663432514047
+searches 0.574622460383
+locates 0.465967265694
+searching 0.445120895609
+google 0.432506665434
+2
+1
+
+*sit sits see sees
+see 0.652665454767
+illustrates 0.474668917415
+sees 0.468201476811
+explains 0.466628764211
+sits 0.463891873834
+3
+2
+
+*sit sits shuffle shuffles
+shuffle 0.650395155775
+sits 0.480385878549
+occupies 0.397541784768
+shuffles 0.397310377053
+straddles 0.388532116719
+4
+2
+
+*sit sits sing sings
+sings 0.617750472109
+sing 0.599192225529
+sang 0.557035329841
+sits 0.546047596154
+singing 0.488891871933
+1
+1
+
+*slow slows speak speaks
+speak 0.676844051265
+speaks 0.590043097831
+spoke 0.529124150598
+speaking 0.465183484793
+pronounces 0.43962220726
+2
+1
+
+*slow slows swim swims
+swim 0.701637591852
+swims 0.566994508328
+swam 0.500121975863
+shrinks 0.447435667352
+slows 0.431336343566
+2
+1
+
+*slow slows talk talks
+talk 0.70401620532
+mid-class 0.463719534595
+start-class 0.443179775266
+stub-class 0.441190952254
+no-class 0.441097727476
+2835
+2833
+
+*slow slows think thinks
+think 0.69146748199
+suppose 0.582623445165
+presume 0.550152402789
+believe 0.513668039708
+guess 0.512266345122
+6
+5
+
+*slow slows vanish vanishes
+vanish 0.7448047479
+vanishes 0.595525814036
+disappear 0.538798086643
+shrinks 0.528373745898
+disappears 0.526400082478
+2
+1
+
+*slow slows walk walks
+walk 0.68810426084
+tumbles 0.495193463693
+walked 0.48708610159
+walks 0.486749166725
+slows 0.480917486284
+4
+3
+
+*slow slows work works
+work 0.655188039712
+works 0.445879190233
+working 0.390221769953
+expands 0.383799123118
+diminishes 0.373825282368
+2
+1
+
+*slow slows write writes
+write 0.66878162121
+writes 0.476989996161
+wrote 0.467153776211
+gives 0.46442147675
+read 0.432847178126
+2
+1
+
+*slow slows decrease decreases
+decrease 0.751551227251
+decreases 0.74813018343
+increases 0.74503299855
+reduces 0.687947487779
+lowers 0.651545406923
+2
+1
+
+*slow slows describe describes
+describe 0.698624365747
+relates 0.576816809647
+refer 0.572845582064
+describes 0.559986781853
+characterize 0.557888129363
+4
+3
+
+*slow slows eat eats
+eat 0.690158376022
+eats 0.633581193232
+consume 0.599462741751
+ate 0.596846160856
+consumes 0.571540450455
+2
+1
+
+*slow slows enhance enhances
+enhance 0.75380144292
+enhances 0.744021306107
+improves 0.650439364739
+reduces 0.591287599494
+diminishes 0.581127238991
+2
+1
+
+*slow slows estimate estimates
+estimate 0.705457817947
+estimates 0.574322151152
+exceeds 0.544995816575
+calculates 0.543650755181
+estimating 0.543313503997
+2
+1
+
+*slow slows find finds
+find 0.69572573004
+finds 0.543401410726
+discover 0.500875073382
+gives 0.481663549906
+locates 0.468861353402
+2
+1
+
+*slow slows generate generates
+generates 0.734467068458
+generate 0.719757855604
+creates 0.552883150483
+reduces 0.515548723291
+displaces 0.510642172482
+1
+1
+
+*slow slows go goes
+go 0.712004844022
+goes 0.64679950679
+pushes 0.483602131978
+drags 0.469950889904
+shuts 0.446547142351
+2
+1
+
+*slow slows implement implements
+implement 0.682175121009
+enforces 0.529423256326
+allocates 0.522475992296
+modifies 0.51313767834
+implementing 0.504482280341
+6
+5
+
+*slow slows increase increases
+increases 0.746370644624
+increase 0.738440615749
+decreases 0.694422582953
+reduces 0.670936469174
+decrease 0.666232771372
+1
+1
+
+*slow slows listen listens
+listen 0.655144627277
+listens 0.517112771584
+instructs 0.475438571198
+hear 0.469763324929
+shuts 0.464642942395
+2
+1
+
+*slow slows play plays
+play 0.658750390643
+plays 0.45329305072
+playing 0.443164981006
+played 0.424266136544
+fills 0.376750178394
+2
+1
+
+*slow slows predict predicts
+predict 0.712084797093
+determines 0.600492253149
+predicts 0.580503493018
+affects 0.567272218945
+calculate 0.531573756998
+3
+2
+
+*slow slows provide provides
+provide 0.71264947053
+provides 0.703898794035
+providing 0.580021506682
+affords 0.525689267663
+gives 0.515974680912
+2
+1
+
+*slow slows say says
+say 0.68808259831
+says 0.599108909622
+presume 0.57369554306
+implies 0.522195017545
+suppose 0.505570962685
+2
+1
+
+*slow slows scream screams
+scream 0.678465117544
+screams 0.509346450489
+sneezes 0.484119066954
+shouts 0.457204590681
+sucks 0.453064198655
+2
+1
+
+*slow slows search searches
+search 0.693227701448
+searches 0.595076715795
+searching 0.476352210097
+metasearch 0.465223219468
+breadth-first 0.463111952211
+2
+1
+
+*slow slows see sees
+see 0.71355556655
+explains 0.441261130854
+sees 0.439963695725
+applies 0.423714446667
+relates 0.423001060851
+3
+2
+
+*slow slows shuffle shuffles
+shuffle 0.675150085087
+shuffles 0.496198884289
+slows 0.494054830238
+unlocks 0.473645798659
+fills 0.456775727145
+2
+1
+
+*slow slows sing sings
+sing 0.670242171803
+sings 0.559701921708
+sang 0.510101822344
+singing 0.420862405887
+relaxes 0.414035364076
+2
+1
+
+*slow slows sit sits
+sit 0.700798896684
+sits 0.51597378605
+sat 0.503399806274
+shuts 0.476996047124
+slows 0.459876106
+2
+1
+
+*speak speaks swim swims
+swim 0.635973313459
+swims 0.629845719654
+swam 0.54258118046
+swimming 0.450029527585
+drowns 0.450005167078
+2
+1
+
+*speak speaks talk talks
+talk 0.693026844009
+mid-class 0.45780453855
+start-class 0.448536427168
+no-class 0.445943885509
+high-class 0.432374644455
+89
+87
+
+*speak speaks think thinks
+think 0.664491530096
+thinks 0.623399684782
+says 0.535383304404
+believes 0.526875820025
+suppose 0.521440951096
+2
+1
+
+*speak speaks vanish vanishes
+vanish 0.622745312493
+vanishes 0.586549326973
+disappears 0.547837658925
+removes 0.483649022994
+erases 0.469631257166
+2
+1
+
+*speak speaks walk walks
+walk 0.594257494304
+wanders 0.517039331659
+walks 0.516952271959
+strolls 0.504843858275
+walking 0.502877921847
+3
+2
+
+*speak speaks work works
+work 0.641323886361
+works 0.551573535227
+researches 0.46226030108
+writings 0.442121933364
+working 0.420526102003
+2
+1
+
+*speak speaks write writes
+writes 0.689706286082
+write 0.644582882753
+wrote 0.644534940407
+speaks 0.587368843558
+writing 0.509753346632
+1
+1
+
+*speak speaks decrease decreases
+decrease 0.664176925151
+increases 0.639251867636
+decreases 0.607653928813
+reduces 0.60551985845
+reduction 0.57827405573
+3
+2
+
+*speak speaks describe describes
+describes 0.684197728925
+describe 0.666367666387
+discusses 0.632366142243
+describing 0.593895894902
+characterizes 0.58438492063
+1
+1
+
+*speak speaks eat eats
+eats 0.777934959073
+eat 0.613637342412
+ate 0.607672580339
+consumes 0.566433668982
+devours 0.554641411066
+1
+1
+
+*speak speaks enhance enhances
+enhance 0.677442121651
+enhances 0.643328966449
+improves 0.573917440943
+enhancing 0.572101800919
+promotes 0.536895469116
+2
+1
+
+*speak speaks estimate estimates
+estimate 0.664334195426
+estimates 0.590655133081
+estimating 0.577576687559
+calculates 0.530696741541
+estimation 0.523196422793
+2
+1
+
+*speak speaks find finds
+finds 0.687934991621
+find 0.640841605525
+reveals 0.549949750079
+sees 0.522154952561
+finding 0.520647674552
+1
+1
+
+*speak speaks generate generates
+generates 0.69692368187
+generate 0.665465839696
+creates 0.619103017931
+produces 0.524167181748
+generated 0.497693428098
+1
+1
+
+*speak speaks go goes
+goes 0.700468288747
+go 0.602961647319
+sends 0.520317244284
+drags 0.520208653417
+puts 0.50755787738
+1
+1
+
+*speak speaks implement implements
+implement 0.648788059601
+implementing 0.560884119228
+implements 0.528826514425
+implementation 0.505506132068
+enforces 0.501041656335
+3
+2
+
+*speak speaks increase increases
+increase 0.665900606845
+increases 0.624411916071
+reduces 0.571543672571
+increasing 0.57042274393
+decrease 0.553048119881
+2
+1
+
+*speak speaks listen listens
+listens 0.661993014182
+speaks 0.599559600356
+listen 0.57208560499
+responds 0.544230405664
+wants 0.535827520474
+1
+1
+
+*speak speaks play plays
+plays 0.600131574764
+play 0.5913923045
+played 0.5173942162
+playing 0.479518431379
+four-act 0.434258391601
+1
+1
+
+*speak speaks predict predicts
+predicts 0.642627344518
+predict 0.642191158097
+predicting 0.587666691618
+analyzes 0.55608823837
+calculates 0.511978852564
+1
+1
+
+*speak speaks provide provides
+provides 0.730981919654
+provide 0.647805740807
+providing 0.617690615148
+furnishes 0.544646397611
+creates 0.515387079968
+1
+1
+
+*speak speaks say says
+says 0.672600494247
+thinks 0.637533731197
+say 0.63354667054
+asserts 0.591442527669
+believes 0.583365940788
+1
+1
+
+*speak speaks scream screams
+scream 0.679228449361
+screams 0.577621696031
+utters 0.484959605838
+shouts 0.473037227816
+roars 0.465031113119
+2
+1
+
+*speak speaks search searches
+search 0.700004497925
+searches 0.620977128195
+searching 0.511441245774
+seach 0.492572110147
+breadth-first 0.489625068097
+2
+1
+
+*speak speaks see sees
+see 0.642263197638
+sees 0.561801684883
+discusses 0.560996011219
+explains 0.52977529467
+illustrates 0.509321789192
+2
+1
+
+*speak speaks shuffle shuffles
+shuffle 0.663410010098
+shuffles 0.422897781947
+keytar 0.405782908628
+combo 0.392422600236
+mini-game 0.387724122094
+2
+1
+
+*speak speaks sing sings
+sings 0.703403948905
+sang 0.608383484242
+sing 0.606203028779
+speaks 0.545693540986
+recites 0.506816443335
+1
+1
+
+*speak speaks sit sits
+sit 0.581195897419
+sat 0.565900359014
+sits 0.565480491061
+hangs 0.508475970145
+puts 0.502119632145
+3
+2
+
+*speak speaks slow slows
+slow 0.659707950382
+slows 0.525813035339
+fast 0.489485633939
+slowed 0.480433711562
+slowing 0.473660362299
+2
+1
+
+*swim swims talk talks
+talk 0.657808202536
+contribs 0.444606787874
+disambiguation 0.439225532059
+mid-class 0.420495817507
+dab 0.405307537299
+117
+115
+
+*swim swims think thinks
+think 0.733121056131
+suppose 0.624170168881
+guess 0.549641315597
+thinks 0.549573071582
+beleive 0.544139416793
+4
+3
+
+*swim swims vanish vanishes
+vanish 0.700737164881
+vanishes 0.61751773494
+disappears 0.536585552441
+drags 0.459303148487
+undoes 0.456597218003
+2
+1
+
+*swim swims walk walks
+walk 0.662642265201
+walks 0.593316850625
+swims 0.581465336945
+strolls 0.577880766044
+wanders 0.576430001174
+2
+1
+
+*swim swims work works
+work 0.701020285251
+works 0.49953194221
+working 0.468064718639
+labors 0.443180960641
+labours 0.401451671175
+2
+1
+
+*swim swims write writes
+write 0.673596784157
+writes 0.566285969816
+wrote 0.537619745046
+reads 0.483378912647
+writing 0.463174104321
+2
+1
+
+*swim swims decrease decreases
+decrease 0.670305812926
+decreases 0.650100061534
+increases 0.636079674802
+decreasing 0.565564638209
+reduces 0.5565016635
+2
+1
+
+*swim swims describe describes
+describe 0.692478867165
+describing 0.561294819389
+describes 0.543616586398
+relates 0.511433938947
+perceives 0.503548106969
+3
+2
+
+*swim swims eat eats
+eats 0.735094389388
+eat 0.689253028684
+ate 0.601813666906
+swims 0.552698070869
+greedily 0.541085282298
+1
+1
+
+*swim swims enhance enhances
+enhance 0.651952760386
+enhances 0.614243778574
+enhancing 0.534174970673
+improves 0.518989243637
+improve 0.491530873974
+2
+1
+
+*swim swims estimate estimates
+estimate 0.68130068237
+estimates 0.575705855251
+estimating 0.532591332618
+estimation 0.478785377694
+estimations 0.457122678612
+2
+1
+
+*swim swims find finds
+find 0.710913475804
+finds 0.595592803858
+finding 0.489909893068
+reveals 0.481471162968
+blurts 0.466453615832
+2
+1
+
+*swim swims generate generates
+generate 0.655221429401
+generates 0.6237364663
+creates 0.525992425262
+emits 0.484584593562
+yielding 0.447164608884
+2
+1
+
+*swim swims go goes
+goes 0.710274910169
+go 0.677927380558
+wanders 0.553569848311
+drags 0.541143627834
+swims 0.529847492236
+1
+1
+
+*swim swims implement implements
+implement 0.65310677015
+implementing 0.534282327087
+executes 0.479623999012
+formulates 0.465166759361
+implementation 0.462531390411
+6
+5
+
+*swim swims increase increases
+increase 0.650468585025
+increases 0.641980023491
+decreases 0.593875771049
+decrease 0.578742743694
+increasing 0.544383013334
+2
+1
+
+*swim swims listen listens
+listen 0.657934568963
+listens 0.640001566171
+shouts 0.484095583587
+yells 0.483487447708
+pleases 0.479441337746
+2
+1
+
+*swim swims play plays
+play 0.632048664004
+plays 0.528547382572
+playing 0.488723403652
+played 0.453013451407
+swims 0.439395882079
+2
+1
+
+*swim swims predict predicts
+predict 0.667619376546
+predicts 0.57006054138
+predicting 0.549073455317
+prediction 0.470511093627
+predicted 0.466582961242
+2
+1
+
+*swim swims provide provides
+provide 0.652580974542
+provides 0.631219463278
+providing 0.594724017384
+furnishes 0.507656139513
+gives 0.481749910708
+2
+1
+
+*swim swims say says
+say 0.715348714497
+says 0.611487303707
+suppose 0.562804825554
+think 0.561485358049
+thinks 0.548777323645
+2
+1
+
+*swim swims scream screams
+scream 0.716902503896
+screams 0.637019369501
+shouts 0.550493021608
+cries 0.531849048576
+whispers 0.525281472392
+2
+1
+
+*swim swims search searches
+search 0.733962666598
+searches 0.640678322138
+searching 0.570243488348
+seach 0.505099946538
+tineye 0.496387801925
+2
+1
+
+*swim swims see sees
+see 0.699459620388
+sees 0.499826983208
+explains 0.438550936547
+pleases 0.429526476464
+says 0.420768200551
+2
+1
+
+*swim swims shuffle shuffles
+shuffle 0.685430402024
+shuffles 0.521216217815
+bounces 0.448538469351
+swoops 0.436267161572
+shuffling 0.430589882165
+2
+1
+
+*swim swims sing sings
+sing 0.687271468955
+sings 0.632086357204
+sang 0.544536409562
+shouts 0.513705877129
+sung 0.503815323832
+2
+1
+
+*swim swims sit sits
+sit 0.659823220926
+sitting 0.51625787929
+swoops 0.498583847607
+stares 0.49665104012
+settles 0.492523509962
+8
+6
+
+*swim swims slow slows
+slow 0.699655439069
+slows 0.56657865751
+slowing 0.505111072504
+plodding 0.49908576175
+slowed 0.490588146419
+2
+1
+
+*swim swims speak speaks
+speaks 0.691516217959
+speak 0.666349990189
+spoke 0.590086321283
+speaking 0.499983131143
+pronounces 0.459572840201
+1
+1
+
+*talk talks think thinks
+think 0.72264483064
+suppose 0.591511461321
+say 0.560464850091
+believe 0.559610830753
+talks 0.532192756341
+9
+7
+
+*talk talks vanish vanishes
+vanish 0.692379553163
+talks 0.474314392873
+disappear 0.455894991527
+vanishes 0.430620110939
+gourry 0.417645202269
+4
+2
+
+*talk talks walk walks
+walk 0.714040140588
+strolls 0.532508012669
+talks 0.531787237352
+walking 0.509498207064
+walked 0.48202791116
+8
+6
+
+*talk talks work works
+work 0.7258703525
+talks 0.570835466256
+works 0.515879675717
+working 0.484113117169
+labors 0.455075996455
+3
+1
+
+*talk talks write writes
+write 0.750329390495
+talks 0.636239183279
+writing 0.521944019871
+writes 0.521160849367
+publish 0.521111692279
+4
+2
+
+*talk talks decrease decreases
+decrease 0.712347107594
+increases 0.597329589575
+increase 0.584749887305
+decreases 0.560016185599
+decreasing 0.548553739483
+4
+3
+
+*talk talks describe describes
+describe 0.713007891255
+define 0.521386490151
+refer 0.518222660502
+talks 0.511663383469
+describes 0.504770251123
+5
+3
+
+*talk talks eat eats
+eat 0.713087461242
+eats 0.568993007699
+ate 0.549206178608
+consume 0.514559075685
+talks 0.510668033368
+2
+1
+
+*talk talks enhance enhances
+enhance 0.69904580146
+improve 0.54448382426
+strengthen 0.542239993807
+enhances 0.531858651914
+facilitate 0.529744183362
+4
+3
+
+*talk talks estimate estimates
+estimate 0.704277573232
+estimates 0.604657708098
+estimating 0.517135401222
+estimations 0.497975588314
+talks 0.46292104891
+2
+1
+
+*talk talks find finds
+find 0.723628740082
+talks 0.541535486811
+finds 0.53421242819
+finding 0.485125532411
+discover 0.466699342049
+3
+1
+
+*talk talks generate generates
+generate 0.684147686435
+generates 0.507673585166
+produce 0.449090523796
+talks 0.444109837633
+deliver 0.435831931586
+2
+1
+
+*talk talks go goes
+go 0.70520166334
+talks 0.566423972672
+goes 0.525820027057
+proceed 0.456510408471
+agrees 0.431890180573
+3
+1
+
+*talk talks implement implements
+implement 0.707877066243
+implementing 0.529400246682
+talks 0.496800029563
+formulate 0.495518663099
+implementation 0.486230312732
+16
+14
+
+*talk talks increase increases
+increase 0.699571869179
+decrease 0.621212074963
+increases 0.595687102017
+increased 0.550970176425
+increasing 0.539725668262
+3
+2
+
+*talk talks listen listens
+listen 0.70658216357
+talks 0.590760657111
+hear 0.508319829443
+listens 0.489922812348
+speak 0.488796277709
+4
+2
+
+*talk talks play plays
+play 0.71003463893
+talks 0.521394604404
+playing 0.450175704674
+negotiations 0.428234283946
+plays 0.423352395886
+5
+3
+
+*talk talks predict predicts
+predict 0.723017340306
+predicting 0.536536991779
+predicts 0.52898393402
+predicted 0.500293119711
+anticipate 0.493521582146
+3
+2
+
+*talk talks provide provides
+provide 0.715665598808
+provides 0.606879012503
+providing 0.588097380612
+talks 0.50011929023
+provided 0.479273314113
+2
+1
+
+*talk talks say says
+say 0.735408512684
+talks 0.560180236136
+says 0.552554179859
+said 0.541088329071
+conclude 0.535947956414
+3
+1
+
+*talk talks scream screams
+scream 0.706455545332
+screams 0.505935608208
+talks 0.490857305706
+shouts 0.485017553317
+whispers 0.468514612404
+2
+1
+
+*talk talks search searches
+search 0.711963035991
+searches 0.614709494139
+searching 0.515905084712
+talks 0.485958189802
+seach 0.484619839937
+2
+1
+
+*talk talks see sees
+see 0.693632666004
+talks 0.564787923409
+tell 0.470703815364
+know 0.455948437132
+explains 0.449290558623
+15
+13
+
+*talk talks shuffle shuffles
+shuffle 0.72568316501
+talks 0.502219005319
+shuffles 0.478705919497
+negotiations 0.414276868896
+shuffling 0.402069164928
+3
+1
+
+*talk talks sing sings
+sing 0.746524262119
+talks 0.570440625457
+sings 0.559108966551
+singing 0.528175231507
+sang 0.503668822874
+3
+1
+
+*talk talks sit sits
+sit 0.723140158616
+talks 0.517529220306
+sitting 0.500843792647
+sat 0.448396281236
+kneel 0.433062364972
+8
+6
+
+*talk talks slow slows
+slow 0.731537831714
+slowing 0.502387039435
+fast 0.501855132549
+talks 0.487257454548
+slowed 0.486892684254
+6
+4
+
+*talk talks speak speaks
+speak 0.749661611467
+speaks 0.639637842481
+spoke 0.623832706565
+talks 0.618212064758
+speaking 0.581734480373
+2
+1
+
+*talk talks swim swims
+swim 0.691300810283
+swims 0.559444887717
+talks 0.482518346864
+swam 0.442178087464
+paddling 0.427254158159
+2
+1
+
+*think thinks vanish vanishes
+vanish 0.705948303607
+disappears 0.549204262222
+vanishes 0.548946333306
+abandons 0.511767999277
+disappear 0.506085000046
+3
+2
+
+*think thinks walk walks
+walk 0.67311603988
+wanders 0.542949016004
+walked 0.534447683108
+walks 0.533960079311
+whisks 0.52227878517
+4
+3
+
+*think thinks work works
+work 0.676668023731
+works 0.510801647443
+working 0.455329735901
+pities 0.447987290008
+thinks 0.441214349358
+2
+1
+
+*think thinks write writes
+write 0.676294442429
+writes 0.610279127467
+wrote 0.536122387425
+thinks 0.512567056478
+forgets 0.501304432957
+2
+1
+
+*think thinks decrease decreases
+decrease 0.677067578957
+increases 0.607729528553
+decreases 0.568247499218
+increase 0.565113261436
+decreasing 0.558652431828
+3
+2
+
+*think thinks describe describes
+describe 0.679087885788
+describes 0.591954552931
+perceives 0.566541399459
+considers 0.562063555912
+relates 0.539076956066
+2
+1
+
+*think thinks eat eats
+eat 0.715321791579
+eats 0.703672903019
+ate 0.595479463249
+hates 0.570149263344
+bathes 0.537083087996
+2
+1
+
+*think thinks enhance enhances
+enhance 0.689569289
+enhances 0.549233063093
+enhancing 0.525737044167
+improve 0.522007518796
+improves 0.491374446728
+2
+1
+
+*think thinks estimate estimates
+estimate 0.665370255666
+estimates 0.558165857746
+estimating 0.546177954842
+calculates 0.459043917
+estimation 0.449281526679
+2
+1
+
+*think thinks find finds
+finds 0.740668351487
+find 0.663269000148
+reveals 0.599705486207
+thinks 0.596212277584
+discovers 0.583465426719
+1
+1
+
+*think thinks generate generates
+generate 0.684261624953
+generates 0.576086395832
+creates 0.488222030769
+generating 0.469893805851
+generated 0.449059426231
+2
+1
+
+*think thinks go goes
+go 0.691587604071
+goes 0.680770398072
+decides 0.577101794665
+wants 0.540262596798
+agrees 0.528997917736
+2
+1
+
+*think thinks implement implements
+implement 0.669956950725
+execute 0.484965708563
+executes 0.473334987967
+implements 0.469825484601
+considers 0.456380468692
+4
+3
+
+*think thinks increase increases
+increase 0.674889455405
+increases 0.596681265832
+decrease 0.571300372421
+increasing 0.537227083643
+increased 0.536252181607
+2
+1
+
+*think thinks listen listens
+listens 0.698673101431
+listen 0.672696654834
+wants 0.60181445485
+loves 0.579579152519
+asks 0.568652253816
+1
+1
+
+*think thinks play plays
+play 0.687704325995
+plays 0.504896741422
+played 0.500452518842
+playing 0.442207072836
+pseudolus 0.43491622002
+2
+1
+
+*think thinks predict predicts
+predict 0.6645756439
+predicts 0.5455975718
+predicting 0.507749791172
+thinks 0.503069227592
+determine 0.496156273828
+2
+1
+
+*think thinks provide provides
+provide 0.651788085019
+provides 0.619309766151
+providing 0.555274156328
+provided 0.456508774848
+gives 0.443821311468
+2
+1
+
+*think thinks say says
+thinks 0.798389917784
+says 0.733744611285
+believes 0.695621614492
+knows 0.692974835407
+feels 0.645098009595
+2
+1
+
+*think thinks scream screams
+scream 0.69868596115
+screams 0.586058620951
+kisses 0.557276044948
+shouts 0.549896603575
+hears 0.516773314698
+2
+1
+
+*think thinks search searches
+search 0.669159561513
+searches 0.609352099967
+finds 0.508553816609
+searching 0.489189758125
+locates 0.475727960471
+2
+1
+
+*think thinks see sees
+sees 0.659042462931
+see 0.623996342598
+thinks 0.619527840803
+remembers 0.606366272431
+knows 0.594482694043
+1
+1
+
+*think thinks shuffle shuffles
+shuffle 0.678338515653
+shuffles 0.463607850085
+impersonates 0.420766735728
+cheats 0.420742615593
+spaz 0.412884222344
+2
+1
+
+*think thinks sing sings
+sing 0.68270414506
+sings 0.638277877731
+loves 0.551003704223
+sang 0.534046111067
+eun-young 0.522985162947
+2
+1
+
+*think thinks sit sits
+sit 0.674403986957
+sits 0.518540177519
+sat 0.510367380057
+sitting 0.480043838904
+kneels 0.479685149622
+2
+1
+
+*think thinks slow slows
+slow 0.672452471394
+slows 0.51573688598
+calms 0.508116766892
+slowing 0.492807951331
+fast 0.483327213953
+2
+1
+
+*think thinks speak speaks
+speaks 0.696642817365
+speak 0.67896603047
+spoke 0.578781660538
+knows 0.551014626853
+pities 0.544007037981
+1
+1
+
+*think thinks swim swims
+swim 0.706967933155
+swims 0.553691331102
+drowns 0.486397402129
+swam 0.476768746201
+unties 0.472456314842
+2
+1
+
+*think thinks talk talks
+talk 0.716158054636
+mid-class 0.429659756609
+low-class 0.423497065436
+no-class 0.415564359907
+reassessed 0.414578078718
+186
+184
+
+*vanish vanishes walk walks
+walk 0.653671978499
+walked 0.524436658701
+walking 0.489760026186
+vanishes 0.489357870255
+strolls 0.485541686377
+6
+4
+
+*vanish vanishes work works
+work 0.669306410924
+works 0.47053356413
+working 0.455714262824
+vanishes 0.406885222285
+fieldwork 0.395914535589
+2
+1
+
+*vanish vanishes write writes
+write 0.654401482015
+wrote 0.582617269834
+writes 0.538304699461
+read 0.455668195677
+writing 0.453643332421
+3
+2
+
+*vanish vanishes decrease decreases
+increases 0.656709550391
+decreases 0.655401587025
+decrease 0.647510228941
+reduces 0.56656462213
+decreasing 0.558057510441
+2
+2
+
+*vanish vanishes describe describes
+describe 0.664149333254
+describes 0.636197905148
+describing 0.581262208192
+discusses 0.517233618112
+characterizes 0.483796013234
+2
+1
+
+*vanish vanishes eat eats
+eats 0.697012634855
+eat 0.630079239934
+ate 0.602486024591
+consumes 0.522800381767
+vanishes 0.490755421343
+1
+1
+
+*vanish vanishes enhance enhances
+enhances 0.647463138188
+enhance 0.64207605007
+improves 0.600003518096
+enhancing 0.569909762835
+improve 0.500515488705
+1
+1
+
+*vanish vanishes estimate estimates
+estimate 0.693190786859
+estimating 0.570476615693
+estimates 0.561773914387
+estimation 0.515152063959
+calculates 0.506173744811
+3
+2
+
+*vanish vanishes find finds
+find 0.686668969933
+finds 0.613017389906
+vanishes 0.522266876414
+finding 0.504702538515
+locates 0.468631115385
+2
+1
+
+*vanish vanishes generate generates
+generates 0.655230193135
+generate 0.653431629278
+generating 0.492484965764
+generated 0.475939080216
+vanishes 0.468781361849
+1
+1
+
+*vanish vanishes go goes
+goes 0.647562842462
+go 0.625671045856
+sneaks 0.523909722943
+vanishes 0.506768401132
+stumbles 0.49773726011
+1
+1
+
+*vanish vanishes implement implements
+implement 0.644101058599
+implementing 0.515491564795
+implementation 0.513665374703
+implemented 0.487129060035
+implements 0.477699845282
+5
+4
+
+*vanish vanishes increase increases
+increase 0.65313051496
+increases 0.637615416479
+decreases 0.574021432654
+increasing 0.556868754835
+decrease 0.530389530713
+2
+1
+
+*vanish vanishes listen listens
+listen 0.620393676161
+listens 0.586351842929
+overhears 0.461768373177
+vanishes 0.441543203061
+greets 0.439748810127
+2
+1
+
+*vanish vanishes play plays
+play 0.652078256506
+plays 0.491797815689
+played 0.48271144259
+playing 0.455000317347
+othello 0.423104140946
+2
+1
+
+*vanish vanishes predict predicts
+predict 0.654657247418
+predicting 0.574052761439
+predicts 0.552700467933
+calculates 0.499655777409
+prediction 0.496296295142
+3
+2
+
+*vanish vanishes provide provides
+provide 0.674628216007
+provides 0.670584539169
+providing 0.619143672726
+provided 0.502084025518
+furnishes 0.480105390501
+2
+1
+
+*vanish vanishes say says
+say 0.628518149782
+says 0.625281687936
+saying 0.527848820038
+thinks 0.524761945517
+think 0.515516679372
+2
+1
+
+*vanish vanishes scream screams
+scream 0.705139938489
+screams 0.574039174747
+vanishes 0.494691139359
+shriek 0.475378664676
+cries 0.473271578659
+2
+1
+
+*vanish vanishes search searches
+search 0.682337091791
+searches 0.570940322342
+searching 0.498457373325
+breadth-first 0.467698552986
+depth-first 0.453628373437
+2
+1
+
+*vanish vanishes see sees
+see 0.702231291191
+vanishes 0.515421896313
+sees 0.481957923148
+explains 0.436959224417
+describes 0.417594088002
+3
+1
+
+*vanish vanishes shuffle shuffles
+shuffle 0.680730698398
+vanishes 0.431570448538
+shuffles 0.394719114301
+fadeout 0.378325830465
+keytar 0.372899603323
+3
+1
+
+*vanish vanishes sing sings
+sing 0.666042470575
+sings 0.63010778844
+sang 0.610612503958
+singing 0.476799935121
+sung 0.476241274117
+2
+1
+
+*vanish vanishes sit sits
+sit 0.624346831587
+sat 0.590666458498
+sitting 0.503004048244
+sits 0.48971645478
+stares 0.479351739156
+4
+3
+
+*vanish vanishes slow slows
+slow 0.679520882947
+slows 0.541826993837
+fast 0.538444525344
+slowing 0.496310160155
+plodding 0.457559241637
+2
+1
+
+*vanish vanishes speak speaks
+speaks 0.67296287907
+speak 0.656794415013
+spoke 0.618698985933
+fluently 0.541438521825
+speaking 0.494771249608
+1
+1
+
+*vanish vanishes swim swims
+swim 0.669814073414
+swims 0.60292657413
+swam 0.540663198081
+drowns 0.420937980884
+swimming 0.40769107699
+2
+1
+
+*vanish vanishes talk talks
+talk 0.702697052838
+low-class 0.486501458542
+mid-class 0.484058827391
+high-class 0.483227730445
+start-class 0.48055657773
+197
+195
+
+*vanish vanishes think thinks
+think 0.678100467006
+suppose 0.529521277143
+thinks 0.501634877527
+guess 0.477952138486
+says 0.475791969907
+3
+2
+
+*walk walks work works
+work 0.670890680218
+works 0.549432543261
+researches 0.484444953773
+working 0.456207919912
+labors 0.433896631499
+2
+1
+
+*walk walks write writes
+write 0.614745010316
+writes 0.54396054388
+wrote 0.503749941807
+writing 0.496583337556
+walks 0.439696781141
+2
+1
+
+*walk walks decrease decreases
+decrease 0.674820649774
+increases 0.600515590621
+decreases 0.569025274734
+increase 0.568118687127
+reduction 0.556472042292
+3
+2
+
+*walk walks describe describes
+describe 0.69011382011
+describes 0.555230241722
+describing 0.530291411429
+discusses 0.495745748447
+relates 0.492663401736
+2
+1
+
+*walk walks eat eats
+eats 0.680667997068
+eat 0.6410749924
+ate 0.558900405828
+walks 0.539835310447
+greedily 0.516424200598
+1
+1
+
+*walk walks enhance enhances
+enhance 0.690065707456
+enhances 0.582515927613
+enhancing 0.549602635375
+improve 0.501577876508
+improves 0.495764255453
+2
+1
+
+*walk walks estimate estimates
+estimate 0.683446818762
+estimates 0.600217775622
+estimating 0.55800408946
+estimations 0.497392973344
+estimation 0.466133204296
+2
+1
+
+*walk walks find finds
+finds 0.663970726711
+find 0.653232901287
+walks 0.524291955615
+reveals 0.519176548594
+uncovers 0.509064595816
+1
+1
+
+*walk walks generate generates
+generate 0.66676801271
+generates 0.621462653586
+creates 0.521324368946
+generated 0.503054968084
+generating 0.46192878155
+2
+1
+
+*walk walks go goes
+walks 0.654284500706
+goes 0.651067030354
+go 0.630424057029
+sneaks 0.520688505057
+hurries 0.505187487747
+2
+1
+
+*walk walks implement implements
+implement 0.661966691155
+implementing 0.555138145621
+implements 0.528630638778
+implementation 0.476177813852
+prioritizes 0.455061707308
+3
+2
+
+*walk walks increase increases
+increase 0.675451057335
+increases 0.586956302381
+decrease 0.566328227558
+increasing 0.541273700251
+increased 0.532519173433
+2
+1
+
+*walk walks listen listens
+listen 0.61688703772
+listens 0.578169703359
+walks 0.516566015341
+invites 0.493821070591
+belittles 0.461445162015
+2
+1
+
+*walk walks play plays
+play 0.649061650461
+plays 0.500789209072
+playing 0.477803665005
+walks 0.475942367937
+played 0.475617600463
+2
+1
+
+*walk walks predict predicts
+predict 0.659096586138
+predicting 0.552875051584
+predicts 0.530315854912
+analyzes 0.491158015346
+prediction 0.472556406537
+3
+2
+
+*walk walks provide provides
+provide 0.659116010275
+provides 0.642814232023
+providing 0.595268620087
+offers 0.452987268268
+provided 0.428669803412
+2
+1
+
+*walk walks say says
+say 0.649489024228
+says 0.581117425186
+thinks 0.5528250571
+believe 0.516783447305
+believes 0.514916538964
+2
+1
+
+*walk walks scream screams
+scream 0.667313176781
+screams 0.579663451282
+shouts 0.498404611437
+walks 0.493905239949
+shrieks 0.475832448525
+2
+1
+
+*walk walks search searches
+search 0.695718871303
+searches 0.622064625584
+google 0.507224508774
+searching 0.493441956461
+googlenews 0.462268548962
+2
+1
+
+*walk walks see sees
+see 0.64013171611
+sees 0.488435020337
+explains 0.483448868976
+discusses 0.439034227973
+walks 0.436152308901
+2
+1
+
+*walk walks shuffle shuffles
+shuffle 0.654670506922
+shuffles 0.529881039505
+walks 0.470954797661
+craps 0.416487054346
+tosses 0.401489265778
+2
+1
+
+*walk walks sing sings
+sing 0.624916203654
+sings 0.583997449709
+sang 0.525368915636
+walks 0.521490730495
+singing 0.501889045332
+2
+1
+
+*walk walks sit sits
+sit 0.615055857957
+walks 0.59877173844
+sat 0.487026779921
+sitting 0.458613971029
+throws 0.443090230233
+14
+12
+
+*walk walks slow slows
+slow 0.6459391256
+slows 0.496216973784
+slowing 0.483075273028
+slowed 0.468261167633
+walks 0.466625797846
+2
+1
+
+*walk walks speak speaks
+speaks 0.644415745594
+speak 0.63482568952
+spoke 0.528722216827
+fluently 0.510048312936
+speaking 0.472126380399
+1
+1
+
+*walk walks swim swims
+swim 0.636650395711
+swims 0.611475334321
+walks 0.586212749402
+swam 0.449815012145
+drowns 0.446703998865
+2
+1
+
+*walk walks talk talks
+talk 0.677801745336
+contribs 0.44318206281
+start-class 0.416653909287
+high-class 0.416015140315
+stub-class 0.404308780293
+522
+520
+
+*walk walks think thinks
+think 0.670644972333
+thinks 0.550798499637
+suppose 0.541365509329
+believe 0.52339056918
+misunderstands 0.510941137536
+2
+1
+
+*walk walks vanish vanishes
+vanish 0.680397810854
+vanishes 0.550767190913
+walks 0.538827610884
+disappears 0.479972056473
+disappear 0.433618823051
+2
+1
+
+*work works write writes
+write 0.656168846378
+wrote 0.528233593017
+works 0.516505214222
+written 0.49010583045
+writes 0.487311389757
+5
+3
+
+*work works decrease decreases
+decrease 0.653678476411
+increases 0.583409749888
+increase 0.567943555348
+decreases 0.542201309386
+decreased 0.538674627255
+4
+3
+
+*work works describe describes
+describe 0.657157243633
+relates 0.501350631615
+refer 0.498720189717
+describes 0.494392193814
+refers 0.485424078543
+4
+3
+
+*work works eat eats
+eat 0.639992866611
+eats 0.575587536035
+ate 0.531130754076
+consume 0.523694321918
+bloodworms 0.501087826539
+2
+1
+
+*work works enhance enhances
+enhance 0.680635119525
+enhances 0.520313805814
+improve 0.491391265998
+enhancing 0.476509151061
+improves 0.469859956446
+2
+1
+
+*work works estimate estimates
+estimate 0.667123243076
+estimates 0.599749559267
+estimating 0.43910685227
+estimated 0.425079821204
+estimations 0.423810781931
+2
+1
+
+*work works find finds
+find 0.639752536129
+finds 0.503032263238
+locate 0.476880883942
+works 0.416853959333
+discover 0.397752862898
+2
+1
+
+*work works generate generates
+generate 0.684962254698
+generates 0.607294676581
+generated 0.525487084401
+generating 0.491679078193
+creates 0.4689057727
+2
+1
+
+*work works go goes
+go 0.602024401196
+goes 0.519101792502
+went 0.400897650455
+gone 0.388763608161
+works 0.385608271423
+2
+1
+
+*work works implement implements
+implement 0.651160610809
+implements 0.541271545476
+implementing 0.484782935417
+implemented 0.479677394965
+utilities 0.47198538704
+2
+1
+
+*work works increase increases
+increase 0.666414576076
+increased 0.564314052072
+increases 0.559084905697
+increasing 0.544830218932
+decrease 0.531860577467
+3
+2
+
+*work works listen listens
+listen 0.627455944266
+listened 0.467967075298
+hear 0.46581361921
+listens 0.465631177366
+works 0.403814798883
+4
+3
+
+*work works play plays
+play 0.624731151928
+plays 0.573256453942
+played 0.473614197737
+works 0.465594807772
+players 0.430916873382
+2
+1
+
+*work works predict predicts
+predict 0.660495429708
+predicts 0.462340572246
+analyze 0.45636247232
+predicting 0.449598634823
+determine 0.443643545201
+2
+1
+
+*work works provide provides
+provide 0.654808365343
+provides 0.636720059572
+provided 0.548581725328
+providing 0.541711361908
+affords 0.44147953807
+2
+1
+
+*work works say says
+say 0.653287630009
+says 0.550108077899
+presume 0.526509951531
+believe 0.442699735069
+know 0.442264882388
+2
+1
+
+*work works scream screams
+scream 0.648673646902
+whispers 0.455020175853
+screams 0.43930766741
+razorblade 0.425294825841
+shriek 0.418515902156
+3
+2
+
+*work works search searches
+search 0.651699628804
+searches 0.58451241599
+metasearch 0.462236542675
+google 0.450412030772
+seach 0.443669958055
+2
+1
+
+*work works see sees
+see 0.67617200137
+works 0.411794041836
+explains 0.37106478877
+illustrates 0.370710016557
+remember 0.355790928292
+17
+15
+
+*work works shuffle shuffles
+shuffle 0.667843758027
+shuffles 0.383113103173
+2ndmix 0.362261335455
+euchre 0.360400798202
+combo 0.343804735188
+2
+1
+
+*work works sing sings
+sing 0.640809390741
+sung 0.55481867473
+sang 0.526477956185
+sings 0.520751169938
+singers 0.472963595827
+4
+3
+
+*work works sit sits
+sit 0.606298961495
+sat 0.495661920277
+sits 0.422576135232
+sitting 0.404371662544
+seated 0.387623369802
+3
+2
+
+*work works slow slows
+slow 0.666574888105
+fast 0.48744971868
+slows 0.464694771131
+slowing 0.457614926004
+slowed 0.44802850805
+3
+2
+
+*work works speak speaks
+speak 0.648646166935
+speaks 0.602696797824
+fluently 0.529207552087
+spoke 0.519321202434
+fluent 0.465326993017
+2
+1
+
+*work works swim swims
+swim 0.666652609117
+swims 0.456306107105
+swimming 0.427099347219
+swam 0.414452468096
+swimmers 0.398708069095
+2
+1
+
+*work works talk talks
+talk 0.677917426593
+start-class 0.453596425124
+reassessed 0.45343317875
+mid-class 0.438091845201
+stub-class 0.435769944452
+396
+394
+
+*work works think thinks
+think 0.646637951679
+suppose 0.52017812
+presume 0.50975204025
+believe 0.471012158808
+guess 0.470542218656
+10
+9
+
+*work works vanish vanishes
+vanish 0.635896611383
+disappear 0.414682386328
+vanishes 0.399494661015
+magically 0.386462965126
+vanished 0.382013979733
+3
+2
+
+*work works walk walks
+walk 0.627400990287
+walks 0.437941070777
+walking 0.418129867142
+runs 0.411294142043
+footpath 0.403333891764
+2
+1
+
+*write writes decrease decreases
+decrease 0.662887263519
+increases 0.628762708263
+decreases 0.610998493253
+decreased 0.551813845948
+decreasing 0.551276780003
+3
+2
+
+*write writes describe describes
+describe 0.648309038223
+describes 0.64087752471
+characterizes 0.617612036221
+discusses 0.584192069589
+observes 0.572289198377
+2
+1
+
+*write writes eat eats
+eats 0.728724347606
+eat 0.657334906568
+ate 0.652050351791
+eating 0.528943690137
+eaten 0.528814909921
+1
+1
+
+*write writes enhance enhances
+enhances 0.661414026807
+enhance 0.641452493547
+promotes 0.55097569323
+emphasizes 0.542849265974
+enhancing 0.534522901072
+1
+1
+
+*write writes estimate estimates
+estimate 0.680370888953
+estimates 0.644587203904
+estimating 0.535451025595
+predicts 0.508720763771
+argues 0.494811349054
+2
+1
+
+*write writes find finds
+finds 0.669864041135
+find 0.610688472892
+reveals 0.600980562053
+discovers 0.575688970253
+realises 0.567967100535
+1
+1
+
+*write writes generate generates
+generates 0.658882313559
+generate 0.604670598487
+creates 0.562432291048
+produces 0.520488510343
+predicts 0.490906104734
+1
+1
+
+*write writes go goes
+goes 0.621472039735
+go 0.586849155418
+writes 0.480618984224
+warns 0.47399678046
+sneaks 0.469632000514
+1
+1
+
+*write writes implement implements
+implement 0.59226899897
+implements 0.538506280994
+enforces 0.524619478874
+implementing 0.508701362783
+formulates 0.498119860451
+2
+1
+
+*write writes increase increases
+increase 0.63956669737
+increases 0.637961180204
+decrease 0.573143686788
+increased 0.559549780479
+increasing 0.559125920251
+2
+1
+
+*write writes listen listens
+writes 0.592282246998
+listen 0.576896416985
+listens 0.572595155908
+warns 0.533565328575
+mocks 0.53046253275
+3
+1
+
+*write writes play plays
+play 0.606182484582
+plays 0.567806356025
+played 0.555320770556
+writes 0.483939389217
+playing 0.480143217248
+2
+1
+
+*write writes predict predicts
+predicts 0.689505303352
+predict 0.656997609896
+predicting 0.592993911531
+predicted 0.565295460816
+observes 0.550392948598
+1
+1
+
+*write writes provide provides
+provides 0.680855152253
+provide 0.616274395835
+providing 0.552787038144
+provided 0.511383941917
+ensures 0.49052226531
+1
+1
+
+*write writes say says
+says 0.729352687105
+believes 0.684048888285
+argues 0.680576157974
+contends 0.67361128679
+say 0.667466271673
+1
+1
+
+*write writes scream screams
+scream 0.688029085632
+screams 0.564025726749
+shouts 0.499040674305
+cries 0.480167568414
+moans 0.465452931622
+2
+1
+
+*write writes search searches
+search 0.671216930619
+searches 0.621018907951
+searching 0.466558886246
+confirms 0.450794467824
+google 0.444018025479
+2
+1
+
+*write writes see sees
+see 0.669778109022
+explains 0.540993589654
+observes 0.539197609236
+argues 0.533006391933
+says 0.513158049445
+7
+5
+
+*write writes shuffle shuffles
+shuffle 0.657611516745
+shuffles 0.44097784859
+writes 0.400175003781
+flips 0.355330061834
+boombox 0.35326529795
+2
+1
+
+*write writes sing sings
+sings 0.695770076985
+sang 0.612455798461
+sing 0.59922796826
+writes 0.576925645265
+laments 0.524603328246
+1
+1
+
+*write writes sit sits
+sit 0.602507201692
+sat 0.577594177831
+sits 0.54405521955
+sitting 0.516157884805
+writes 0.495961862929
+3
+2
+
+*write writes slow slows
+slow 0.659942336573
+fast 0.509756913071
+slows 0.507451822495
+slowing 0.485611644051
+slowed 0.479332200725
+3
+2
+
+*write writes speak speaks
+speaks 0.723414731194
+spoke 0.647746571364
+speak 0.63139102933
+writes 0.621182310766
+argues 0.504437982955
+1
+1
+
+*write writes swim swims
+swim 0.653001839831
+swims 0.57579425981
+swam 0.544603578524
+swimming 0.427537594714
+drowns 0.422235801269
+2
+1
+
+*write writes talk talks
+talk 0.690955811045
+no-class 0.487866912252
+mid-class 0.474182188936
+start-class 0.465274363309
+low-class 0.464194689868
+465
+463
+
+*write writes think thinks
+think 0.688782367935
+argues 0.639506947384
+believes 0.634590186654
+thinks 0.62458033308
+contends 0.608620264372
+4
+3
+
+*write writes vanish vanishes
+vanish 0.659523538882
+vanishes 0.556685248051
+disappears 0.509605799068
+believes 0.46801210219
+realizes 0.465664576734
+2
+1
+
+*write writes walk walks
+walk 0.611964324421
+walked 0.532484695044
+walks 0.522397886776
+walking 0.5083458368
+strolls 0.498931941932
+3
+2
+
+*write writes work works
+work 0.638584503131
+writes 0.517040556882
+works 0.502688312679
+argues 0.467011933714
+researches 0.465270843556
+3
+1
+
