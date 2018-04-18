@@ -1,6 +1,10 @@
 # ULL-labs
+The code for all the tasks is in **ULL-Practical1-EceTakmaz_BasakEskili.ipynb**.
 
-Libraries
+In the **runs** folder, we provide the output files from the analogy task.
+
+
+## Libraries
 
 import numpy as np
 
