@@ -9,6 +9,8 @@ In the __[runs](https://github.com/ecekt/ULL-lab-1/tree/master/runs)__ folder, w
 
 import numpy as np
 
+import random
+
 
 from scipy.stats import pearsonr
 
