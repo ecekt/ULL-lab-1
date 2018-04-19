@@ -1,0 +1,7308 @@
+*acceptable unacceptable aware unaware
+aware 0.7193322381106153
+unaware 0.6087968245042092
+fearful 0.5614965095423557
+resentful 0.5587347316702916
+wary 0.5499300115433375
+2
+1
+
+*acceptable unacceptable certain uncertain
+certain 0.7107266608278078
+egregious 0.5514479119418692
+gravest 0.5417926345314404
+uncontrollable 0.5395842482941333
+drug-related 0.5353242741307677
+2401
+2399
+
+*acceptable unacceptable clear unclear
+clear 0.6933240014462385
+blatant 0.525169496808759
+obvious 0.5173093776830981
+unacceptable 0.5172615208080132
+egregious 0.5164758772500561
+445
+443
+
+*acceptable unacceptable comfortable uncomfortable
+comfortable 0.67660193779913
+uncomfortable 0.6729937717941833
+unhappy 0.5779741425483379
+unacceptable 0.5692540275715379
+uncontrollable 0.5621015523535714
+2
+1
+
+*acceptable unacceptable competitive uncompetitive
+competitive 0.7053081817808118
+uncontrollable 0.5638080935812947
+uncompetitive 0.5548688186410856
+unpredictable 0.5477902226666262
+unacceptable 0.5367097055523854
+3
+2
+
+*acceptable unacceptable consistent inconsistent
+consistent 0.7032509292746598
+inconsistent 0.621929618130346
+unacceptable 0.5921634947587118
+incompatible 0.5757606402365794
+concomitant 0.5549980290118304
+2
+1
+
+*acceptable unacceptable convincing unconvincing
+convincing 0.6915233351465725
+infuriating 0.5867962913847048
+shocking 0.58061167505433
+upsetting 0.5689830485514937
+sickening 0.5656107955306983
+14
+13
+
+*acceptable unacceptable convenient inconvenient
+convenient 0.6585804602815216
+unacceptable 0.6223668731819475
+inconvenient 0.6059467973806075
+illogical 0.5675385720785892
+unnecessary 0.5666543541389062
+3
+1
+
+*acceptable unacceptable decided undecided
+decided 0.7034843653932706
+retorted 0.5581110011525707
+demurred 0.5493173089526419
+despaired 0.5367186612762257
+concurred 0.5309863075156631
+606
+604
+
+*acceptable unacceptable efficient inefficient
+efficient 0.683951717646692
+inefficient 0.6327864647883983
+unacceptable 0.6161226962973397
+wasteful 0.6028885276207154
+unsustainable 0.6017815053737672
+2
+1
+
+*acceptable unacceptable ethical unethical
+ethical 0.6989222637183039
+vexatious 0.6337807790744009
+irrational 0.6266122046675954
+unacceptable 0.6152098235557416
+anti-muslim 0.6086722394698959
+44
+42
+
+*acceptable unacceptable fortunate unfortunate
+fortunate 0.7227579860068919
+unfortunate 0.5847947805136784
+unlucky 0.5784271785687123
+egregious 0.5470955896952031
+hopeless 0.5323498382564013
+2
+1
+
+*acceptable unacceptable honest dishonest
+honest 0.7029683810599446
+dishonest 0.6219988690011876
+inept 0.5936524139659735
+vindictive 0.5895821636416647
+irresponsible 0.5889801149669782
+2
+1
+
+*acceptable unacceptable impressive unimpressive
+impressive 0.7106696762444766
+remarkable 0.619512369509641
+incredible 0.6012701038313476
+unbelievable 0.5929604764440657
+egregious 0.5909113068726485
+9
+7
+
+*acceptable unacceptable informative uninformative
+informative 0.6759532564956324
+unacceptable 0.6570076864212588
+unmaintainable 0.6556937273802935
+unencyclopedic 0.6534678493390343
+slanderous 0.6471549025226503
+19
+17
+
+*acceptable unacceptable informed uninformed
+informed 0.6993741457659624
+forewarned 0.6080447368614544
+apprised 0.6075320877363147
+reassured 0.5908448026078316
+misinformed 0.5844994597879345
+11
+10
+
+*acceptable unacceptable known unknown
+known 0.6948519430774043
+alledged 0.506211579269782
+misidentified 0.49225705501620065
+unmentioned 0.48745884374649173
+unprovoked 0.48252423787101884
+24828
+24826
+
+*acceptable unacceptable likely unlikely
+likely 0.7091897297959752
+unlikely 0.6021086642360581
+unacceptable 0.5640705911759853
+egregious 0.5336784179960914
+untoward 0.5054966252935038
+2
+1
+
+*acceptable unacceptable logical illogical
+logical 0.6991389841955624
+irrational 0.6519479393089187
+illogical 0.6487313314267852
+unacceptable 0.630001819704133
+ludicrous 0.6162471729683889
+3
+2
+
+*acceptable unacceptable pleasant unpleasant
+pleasant 0.6868544387908738
+unpleasant 0.6091171598452577
+disgraceful 0.5585951322112681
+unacceptable 0.5582402286466825
+unproductive 0.5553176478008502
+2
+1
+
+*acceptable unacceptable possible impossible
+possible 0.7056610819960102
+unacceptable 0.5598538013378731
+unintentional 0.5206141100711139
+unwarranted 0.5062200897999324
+avoidable 0.5009879197702812
+14
+12
+
+*acceptable unacceptable possibly impossibly
+possibly 0.7210449424829317
+potentially 0.6239007987627421
+presumably 0.6071534228738028
+allegedly 0.5814024450618831
+arguably 0.5804266954660575
+465
+464
+
+*acceptable unacceptable productive unproductive
+productive 0.6853057480481702
+unproductive 0.6676548993615714
+tendentious 0.5789221287742107
+disruptive 0.5779137242935518
+unacceptable 0.5767224678297236
+2
+1
+
+*acceptable unacceptable rational irrational
+rational 0.6864887053672915
+irrational 0.6549462769850832
+vexatious 0.5715761702176372
+idiotic 0.5570634000799862
+bad-faith 0.5543000216751325
+2
+1
+
+*acceptable unacceptable reasonable unreasonable
+unacceptable 0.7189102460537845
+unreasonable 0.7126870577371576
+ridiculous 0.6734842642678565
+reasonable 0.6692680835635177
+unwarranted 0.6576283642155428
+2
+1
+
+*acceptable unacceptable responsible irresponsible
+responsible 0.7057506428262884
+unacceptable 0.526232812087535
+culpable 0.5167921561781099
+unprepared 0.5040637546715954
+liable 0.5003304116186403
+6
+4
+
+*acceptable unacceptable sure unsure
+sure 0.7175897035334038
+unsure 0.49286594280400653
+unacceptable 0.46591537192060795
+afraid 0.4565469679605668
+egregious 0.4553304410742183
+2
+1
+
+*acceptable unacceptable tasteful distasteful
+over-the-top 0.737975890342733
+scurrilous 0.733349512017389
+ill-considered 0.7255575169664575
+self-indulgent 0.7250688555805781
+capricious 0.7245939839336957
+459
+457
+
+*aware unaware certain uncertain
+certain 0.6604106219217308
+unaware 0.5626560390271395
+unspecified 0.4605859398945137
+unsure 0.4560755142169757
+certian 0.4559702498417767
+590
+588
+
+*aware unaware clear unclear
+clear 0.6490239243423596
+unaware 0.49977559934607396
+unsaid 0.4547185744044414
+unawares 0.4403330850187832
+off-the-air 0.43174109157326157
+9
+7
+
+*aware unaware comfortable uncomfortable
+comfortable 0.6713315472314622
+uncomfortable 0.5363328243443274
+unaware 0.5243622162388465
+asleep 0.49859591044704943
+speechless 0.49563745245864865
+2
+1
+
+*aware unaware competitive uncompetitive
+competitive 0.6305683460735017
+hitless 0.521210212482805
+uncompetitive 0.5089412685280533
+head-to-head 0.49746835719579674
+one-on-one 0.49647341001876244
+3
+2
+
+*aware unaware consistent inconsistent
+consistent 0.692810731935034
+inconsistent 0.6167750179781625
+replete 0.5564743337333339
+coincident 0.5305698774835511
+commensurate 0.5267492391401626
+2
+1
+
+*aware unaware convincing unconvincing
+convincing 0.7052316242434769
+unconvincing 0.5459058897218778
+compelling 0.5422497986345398
+shocking 0.5154696236106296
+baffling 0.5095684448536774
+2
+1
+
+*aware unaware convenient inconvenient
+convenient 0.7035175940390176
+inconvenient 0.5696728246599615
+quicker 0.5213771473902791
+nicer 0.4990181173350633
+clunky 0.49284184496425454
+2
+1
+
+*aware unaware decided undecided
+decided 0.6890660911751034
+decides 0.6033942200260393
+decide 0.5441419486444757
+demurred 0.5236445723018074
+elopes 0.5203900186100558
+633
+631
+
+*aware unaware efficient inefficient
+efficient 0.6332766403572001
+inefficient 0.6103029504631019
+quicker 0.5429128283797866
+quickest 0.5340951320614065
+cost-effective 0.532670567009107
+2
+1
+
+*aware unaware ethical unethical
+ethical 0.6533706159221614
+blameless 0.5272000516363843
+tactless 0.520377644111744
+groundless 0.5194277971958763
+selfless 0.5152285595951581
+760
+758
+
+*aware unaware fortunate unfortunate
+fortunate 0.7159938212620915
+unaware 0.5322449007994569
+childless 0.5280882208191301
+despondent 0.5242333881652872
+helpless 0.5239679720498115
+39
+37
+
+*aware unaware honest dishonest
+honest 0.7191705260152517
+clueless 0.5503575934334646
+blameless 0.5440918159743051
+dishonest 0.5311116406940694
+taciturn 0.510289319422675
+4
+3
+
+*aware unaware impressive unimpressive
+impressive 0.6583923850128944
+unimpressive 0.5506086742726067
+spectacular 0.547332973471
+stunning 0.5398526820516556
+splendid 0.5397708428954996
+2
+1
+
+*aware unaware informative uninformative
+informative 0.6717390181119116
+amusing 0.5588197846355288
+well-written 0.5571435075249632
+uninteresting 0.5570676003965277
+well-done 0.5464428693502658
+8
+7
+
+*aware unaware informed uninformed
+informed 0.6708768141473392
+unaware 0.6593136893119304
+apprised 0.5630652994641497
+forewarned 0.5626427691343063
+informs 0.5543617868793813
+247
+245
+
+*aware unaware known unknown
+known 0.6729409080545515
+referred 0.5149113530871127
+billed 0.5047877540753003
+misidentified 0.501697398792135
+memorialised 0.48539711391171614
+234
+232
+
+*aware unaware likely unlikely
+likely 0.6817739343936966
+unlikely 0.543016031820181
+unaware 0.5310597553161037
+thenceforth 0.4774570481248077
+likley 0.47494558081146176
+2
+1
+
+*aware unaware logical illogical
+logical 0.646735860676035
+illogical 0.5370328212286393
+tactless 0.518238395641703
+asinine 0.5112237091025252
+underhand 0.5090587622974431
+2
+1
+
+*aware unaware pleasant unpleasant
+pleasant 0.699359514636046
+blameless 0.49707100246100855
+carefree 0.4912093095187171
+despondent 0.49032551948619907
+laidback 0.4893117896481898
+6
+5
+
+*aware unaware possible impossible
+possible 0.6672478875820836
+unaware 0.4467273921332868
+usual 0.43572595605610487
+off-camera 0.41312277698502475
+head-on 0.41196643518109766
+9
+7
+
+*aware unaware possibly impossibly
+possibly 0.6866845213117283
+presumably 0.6055417882749314
+perhaps 0.5825896907280903
+probably 0.5798312195677253
+ironically 0.5587868644173908
+831
+829
+
+*aware unaware productive unproductive
+productive 0.6568381722329255
+unproductive 0.5274935072707484
+blameless 0.5128110769134226
+unaware 0.5016096154412146
+thankless 0.4835306071411659
+2
+1
+
+*aware unaware rational irrational
+rational 0.6751362861816124
+blameless 0.5138608028966462
+hellbent 0.48069250232580607
+tactless 0.4763798838212052
+groundless 0.471980182614818
+13
+12
+
+*aware unaware reasonable unreasonable
+reasonable 0.6538811172417843
+unreasonable 0.5290251171889513
+blameless 0.5088724158823333
+ludicrous 0.5034620979199138
+laughable 0.5022024248097223
+2
+1
+
+*aware unaware responsible irresponsible
+responsible 0.6707591165433359
+unaware 0.516104306171095
+blameless 0.4705659733026697
+accountable 0.46651728166171036
+unprepared 0.45723899206280527
+1362
+1360
+
+*aware unaware sure unsure
+sure 0.6944851737348927
+unaware 0.5976408186448339
+unsure 0.5487779292796015
+methinks 0.49022240644721227
+btw 0.4524192566141241
+3
+1
+
+*aware unaware tasteful distasteful
+tasteful 0.6721405385939424
+tasteless 0.6610035419927853
+humorless 0.6594931161240194
+morose 0.658187573234698
+tactless 0.6551534804593164
+1191
+1190
+
+*aware unaware acceptable unacceptable
+acceptable 0.6419636758733637
+unsatisfactory 0.5718349936131788
+unacceptable 0.5601546648498504
+inadmissible 0.5562735754187338
+abhorrent 0.5561498815789249
+3
+2
+
+*certain uncertain clear unclear
+clear 0.7072418870294611
+uncertain 0.6543816511968351
+unclear 0.6306789646788579
+doubtful 0.504868506741713
+untenable 0.4931660471764915
+3
+1
+
+*certain uncertain comfortable uncomfortable
+comfortable 0.7125590202163468
+uncomfortable 0.6558597882239521
+uncertain 0.6457204119912076
+uneasy 0.5920094077800794
+unhappy 0.5890891511067955
+2
+1
+
+*certain uncertain competitive uncompetitive
+competitive 0.7302627991543065
+uncertain 0.6187857815766328
+uncompetitive 0.5578071209501336
+unclear 0.507462024828847
+unpredictable 0.5015838000655041
+3
+1
+
+*certain uncertain consistent inconsistent
+consistent 0.7205843608034455
+inconsistent 0.6376836249382475
+uncertain 0.6069494383426857
+consistant 0.5688030172964893
+unclear 0.564864441134189
+2
+1
+
+*certain uncertain convincing unconvincing
+convincing 0.705768336496893
+uncertain 0.5948527408619816
+unconvincing 0.5824454530653121
+reassuring 0.5658019963712758
+compelling 0.5523366125801172
+3
+1
+
+*certain uncertain convenient inconvenient
+convenient 0.7129423436275042
+uncertain 0.6484417813559756
+inconvenient 0.596473925941043
+cumbersome 0.5630814493957755
+unclear 0.5543794580871493
+3
+1
+
+*certain uncertain decided undecided
+decided 0.7332911318622976
+uncertain 0.570888748871556
+agreed 0.5614772020664621
+demurred 0.5612343966261488
+balked 0.55733083101232
+64
+62
+
+*certain uncertain efficient inefficient
+efficient 0.7153190404200771
+inefficient 0.6363438873861617
+uncertain 0.6287471559919684
+cost-effective 0.6002262474485144
+economical 0.5773211739173397
+2
+1
+
+*certain uncertain ethical unethical
+ethical 0.6981761278410689
+uncertain 0.6484649017926923
+unclear 0.578154440218941
+materialistic 0.5735054198566105
+unscientific 0.5727032025637362
+146
+144
+
+*certain uncertain fortunate unfortunate
+fortunate 0.7058417370145055
+uncertain 0.6631982915263663
+unlucky 0.5390968095134213
+frail 0.5235175413001807
+apprehensive 0.516095892126438
+12
+10
+
+*certain uncertain honest dishonest
+honest 0.7257787814031676
+uncertain 0.5891500216936347
+optimistic 0.5571428811057831
+truthful 0.5536625213793079
+affable 0.5381875902598527
+55
+53
+
+*certain uncertain impressive unimpressive
+impressive 0.7056004753136922
+uncertain 0.6470207524399854
+disappointing 0.5972710802569368
+unimpressive 0.5946632263633779
+commendable 0.5594790988277875
+4
+2
+
+*certain uncertain informative uninformative
+informative 0.7262348105253846
+unclear 0.6381889489665217
+uncertain 0.6307612654989132
+unmaintainable 0.6106129321029324
+well-researched 0.6096755879174514
+7
+5
+
+*certain uncertain informed uninformed
+informed 0.7371298487634911
+uncertain 0.6164993522142772
+apprised 0.5682868256358201
+reassured 0.5582452926714515
+inform 0.5560632322607708
+347
+345
+
+*certain uncertain known unknown
+known 0.7027160172475878
+uncertain 0.5693795187424454
+referred 0.5112434698595469
+transliterated 0.48911105634278895
+unclear 0.4798293382031852
+93
+91
+
+*certain uncertain likely unlikely
+likely 0.7074855258525721
+uncertain 0.6776851413724614
+unlikely 0.6177999578591068
+unclear 0.5461381597923542
+probable 0.5258841201478679
+3
+1
+
+*certain uncertain logical illogical
+logical 0.7012130907902673
+uncertain 0.6831774139688208
+unclear 0.6335354640820061
+intuitive 0.5867782144666757
+illogical 0.5837917320280889
+5
+3
+
+*certain uncertain pleasant unpleasant
+pleasant 0.7189761232416769
+uncertain 0.6200502080112813
+agreeable 0.5386947545642337
+cheerful 0.5331990301217799
+unclear 0.5325500973840079
+6
+4
+
+*certain uncertain possible impossible
+possible 0.7032370494545871
+uncertain 0.6206936248203726
+unclear 0.5339525856239749
+practicable 0.498790570212687
+feasible 0.49699370762834316
+12
+10
+
+*certain uncertain possibly impossibly
+possibly 0.7091441398480561
+probably 0.6079373978229965
+presumably 0.6070440827246517
+preferably 0.5856062101776531
+perhaps 0.5812467108219164
+1232
+1230
+
+*certain uncertain productive unproductive
+productive 0.6948495434973416
+uncertain 0.631133718891086
+fruitful 0.6136413489951996
+unproductive 0.5614658452460677
+laborious 0.5372331246350255
+4
+2
+
+*certain uncertain rational irrational
+rational 0.7155008714669167
+uncertain 0.6213047898344402
+optimistic 0.5363248458965171
+unclear 0.5327989322425325
+pessimistic 0.5221900945729531
+8
+6
+
+*certain uncertain reasonable unreasonable
+reasonable 0.7078256543314972
+uncertain 0.6994719573733231
+unclear 0.6230798852444084
+plausible 0.5887377573871501
+doubtful 0.5681969400232356
+6
+4
+
+*certain uncertain responsible irresponsible
+responsible 0.6985605068856252
+accountable 0.5828770307631054
+uncertain 0.576771584772648
+unclear 0.4934017313259469
+liable 0.4917201030199976
+499
+497
+
+*certain uncertain sure unsure
+uncertain 0.7115562303081103
+sure 0.6722267360888129
+unsure 0.6438895216691759
+unclear 0.5680653403069524
+doubtful 0.5123681131522146
+3
+1
+
+*certain uncertain tasteful distasteful
+uncertain 0.7151841536295572
+tasteful 0.7128366211436606
+unoriginal 0.7089946090423341
+unpretentious 0.6938839356266084
+amateurish 0.6914176245155851
+321
+319
+
+*certain uncertain acceptable unacceptable
+acceptable 0.7174273525023627
+uncertain 0.6640083943607249
+unclear 0.6379115853920199
+untenable 0.6057877742732048
+unacceptable 0.6049366700991107
+5
+3
+
+*certain uncertain aware unaware
+aware 0.7358152700739287
+uncertain 0.7061800523677702
+unaware 0.6018190384294607
+wary 0.5892203910833318
+unsure 0.5885101334744862
+3
+1
+
+*clear unclear comfortable uncomfortable
+comfortable 0.7155444277795978
+uncomfortable 0.6817706529698864
+unclear 0.6275321650530163
+unhappy 0.6160594546484013
+uneasy 0.597739726885558
+2
+1
+
+*clear unclear competitive uncompetitive
+competitive 0.7339724275515183
+uncompetitive 0.6029061317266635
+unclear 0.5936362782775346
+non-competitive 0.5740110152671413
+unattainable 0.549633473872571
+2
+1
+
+*clear unclear consistent inconsistent
+inconsistent 0.733272748021052
+consistent 0.7313601776986116
+unclear 0.645597775469581
+incompatible 0.6310460749921717
+consistant 0.6251097240251795
+1
+1
+
+*clear unclear convincing unconvincing
+convincing 0.6939519055704921
+unconvincing 0.6174599649740066
+unclear 0.605656071072521
+compelling 0.5907986609842312
+unsatisfying 0.5739921689878686
+2
+1
+
+*clear unclear convenient inconvenient
+convenient 0.7444863602599141
+inconvenient 0.6866045391918015
+unclear 0.6183761532996586
+imprecise 0.6012542047598478
+infeasible 0.6001287109772355
+2
+1
+
+*clear unclear decided undecided
+decided 0.7342216205677544
+agreed 0.5604186575584299
+demurred 0.5500165500204296
+decides 0.5465334835106149
+endeavored 0.5374557381759986
+7
+6
+
+*clear unclear efficient inefficient
+efficient 0.7123966676162659
+inefficient 0.7032740840294367
+cost-effective 0.6384980674626495
+infeasible 0.6373699667819764
+error-prone 0.6348338783026397
+2
+1
+
+*clear unclear ethical unethical
+ethical 0.7358118290582676
+existential 0.6407300927579828
+epistemological 0.6394827777755465
+juridical 0.6379663732675894
+unclear 0.6370999097692498
+106
+104
+
+*clear unclear fortunate unfortunate
+fortunate 0.7299064467763718
+unlucky 0.611812329014121
+unclear 0.5739425041077343
+unfortunate 0.5737191437795769
+reticent 0.5685339240296632
+4
+2
+
+*clear unclear honest dishonest
+honest 0.7253471353661075
+ambivalent 0.6127556895211314
+unclear 0.6097802402775078
+fussy 0.5944185872017287
+impertinent 0.5934104810917916
+9
+7
+
+*clear unclear impressive unimpressive
+impressive 0.725293059399923
+unimpressive 0.6583101542475608
+unclear 0.6329421941469044
+remarkable 0.6181356652156429
+disappointing 0.611937791224847
+2
+1
+
+*clear unclear informative uninformative
+informative 0.746958097178539
+unclear 0.7076796596258653
+unencyclopedic 0.6859190964931379
+unencyclopaedic 0.6790488874058372
+non-encyclopedic 0.6732813136106315
+6
+4
+
+*clear unclear informed uninformed
+informed 0.7057925909188831
+unconvinced 0.5850601053519395
+apprised 0.5813444259691112
+unclear 0.5794981347829956
+misinformed 0.5768545001457402
+16
+14
+
+*clear unclear known unknown
+known 0.727233080790589
+unattested 0.569786219170457
+unclear 0.5532143595521042
+unmentioned 0.5517270994105085
+referred 0.544694951032469
+9
+7
+
+*clear unclear likely unlikely
+likely 0.7373978863841072
+unlikely 0.6587962990744471
+unclear 0.6123110372839345
+uncertain 0.5676745214437068
+implausible 0.5505322262017932
+2
+1
+
+*clear unclear logical illogical
+logical 0.745544485247383
+unclear 0.6832260079814725
+illogical 0.6618186051380823
+ambiguous 0.6362078719317049
+counterintuitive 0.624426391225853
+3
+1
+
+*clear unclear pleasant unpleasant
+pleasant 0.7163555428055078
+unclear 0.6254196404044001
+unpleasant 0.619015381318191
+counterintuitive 0.58183740258082
+counter-intuitive 0.5798467132957908
+3
+1
+
+*clear unclear possible impossible
+possible 0.7024175520040794
+unclear 0.6273010421503257
+plausible 0.5367148190710788
+questionable 0.5363967193593259
+feasible 0.5350970539797825
+8
+6
+
+*clear unclear possibly impossibly
+possibly 0.7387346477988929
+probably 0.6490374533666609
+perhaps 0.6456105863515451
+presumably 0.6384845780693662
+potentially 0.6229005476850304
+676
+675
+
+*clear unclear productive unproductive
+productive 0.7173623687955338
+unproductive 0.6181402559621988
+unclear 0.6085598207664284
+non-productive 0.605824457480101
+problematical 0.5993245850191918
+2
+1
+
+*clear unclear rational irrational
+rational 0.741537583856481
+unclear 0.6019251506428728
+irrational 0.5839531077812801
+pragmatic 0.5734764246390389
+unscientific 0.5722704371189732
+3
+1
+
+*clear unclear reasonable unreasonable
+reasonable 0.7436092347832428
+unclear 0.6806853994429446
+unreasonable 0.6415049664708035
+illogical 0.6368747108321096
+dubious 0.6254127496888685
+3
+1
+
+*clear unclear responsible irresponsible
+responsible 0.7293127769151129
+accountable 0.5935583014421171
+liable 0.5638738325290221
+unclear 0.5619029283988191
+answerable 0.5338618167660275
+237
+235
+
+*clear unclear sure unsure
+sure 0.699012917086713
+unsure 0.6516984010113342
+unclear 0.639474207424785
+uncertain 0.5972374411104435
+dubious 0.5108138609582967
+2
+1
+
+*clear unclear tasteful distasteful
+whimsical 0.7451808073661205
+tasteful 0.7449316328066565
+amateurish 0.7424794691730353
+capricious 0.7417128215022947
+self-contradictory 0.7380875774928926
+456
+454
+
+*clear unclear acceptable unacceptable
+acceptable 0.7597417987598911
+unclear 0.6881117272021733
+unacceptable 0.6549134591259157
+inapplicable 0.6536122794266692
+questionable 0.6474374198933507
+3
+1
+
+*clear unclear aware unaware
+aware 0.7183239549378787
+uncertain 0.6386639711240254
+unsure 0.6344499420757918
+unclear 0.6277947950183503
+skeptical 0.6248878290979303
+7
+5
+
+*clear unclear certain uncertain
+certain 0.711626964605535
+unclear 0.6487294436018006
+uncertain 0.6235152135495222
+certian 0.5961515475911141
+dubious 0.5946020177905377
+3
+1
+
+*comfortable uncomfortable competitive uncompetitive
+competitive 0.703530269241647
+uncomfortable 0.6107618691279807
+uncompetitive 0.5684581675635442
+acrimonious 0.5602284735738235
+farcical 0.5539193838194576
+3
+1
+
+*comfortable uncomfortable consistent inconsistent
+consistent 0.6881759977522769
+uncomfortable 0.6564005033475162
+inconsistent 0.652184625492589
+incompatible 0.6177705870432986
+consistant 0.610976735817611
+3
+1
+
+*comfortable uncomfortable convincing unconvincing
+convincing 0.7076761033108062
+compelling 0.6374542754224213
+shocking 0.6079527532996993
+infuriating 0.6054006256927051
+upsetting 0.5992940247037922
+9
+8
+
+*comfortable uncomfortable convenient inconvenient
+inconvenient 0.686541786547248
+convenient 0.6845914740058381
+unpleasant 0.6333281983238908
+uncomfortable 0.602693288453057
+pleasurable 0.5967358274878041
+1
+1
+
+*comfortable uncomfortable decided undecided
+decided 0.7290949665286446
+demurred 0.6009801830482924
+enquired 0.5815234162395356
+backtracked 0.58087069802484
+inquired 0.5768706684422472
+1081
+1079
+
+*comfortable uncomfortable efficient inefficient
+error-prone 0.6508820589621683
+efficient 0.648606682783599
+infeasible 0.6310572252897572
+unfeasible 0.6299875390225027
+laborious 0.6280653834577663
+6
+5
+
+*comfortable uncomfortable ethical unethical
+ethical 0.721541481321966
+philosophical 0.6233785070057689
+moralistic 0.6186388683780077
+epistemological 0.6108870901294873
+apologetic 0.6106743579803319
+29
+28
+
+*comfortable uncomfortable fortunate unfortunate
+fortunate 0.7180070883380089
+unlucky 0.590577328000058
+anxious 0.5881150514299778
+unfortunate 0.5859570154763002
+indignant 0.5724575310886466
+4
+3
+
+*comfortable uncomfortable honest dishonest
+honest 0.7028727165995741
+sarcastic 0.6158753355545808
+argumentative 0.6147104048621395
+cynical 0.6126896732564213
+obnoxious 0.6114241925422087
+40
+39
+
+*comfortable uncomfortable impressive unimpressive
+impressive 0.6930754420318146
+unbelievable 0.621923309770904
+regrettable 0.6173029453398036
+remarkable 0.6161273220457368
+hilarious 0.6145012588689283
+29
+27
+
+*comfortable uncomfortable informative uninformative
+informative 0.7261192678838815
+humorous 0.6600528598119192
+instructive 0.6463297305933948
+nonsensical 0.6400995689970679
+newsworthy 0.6379594455847142
+15
+14
+
+*comfortable uncomfortable informed uninformed
+informed 0.7360645670359713
+apprised 0.629501997935968
+forewarned 0.6175098610255829
+reassured 0.6155294181184442
+inquired 0.6099445799028493
+104
+103
+
+*comfortable uncomfortable known unknown
+known 0.7265545537926112
+referred 0.5466008853707767
+misreported 0.5347559133635075
+derided 0.5266166608130504
+alledged 0.5201798362042711
+5952
+5950
+
+*comfortable uncomfortable likely unlikely
+likely 0.6948766290590798
+unlikely 0.6307744068301713
+unpleasant 0.5554606885527551
+incredulous 0.5467448082301459
+untoward 0.5380105698770972
+2
+1
+
+*comfortable uncomfortable logical illogical
+logical 0.7089872105101082
+illogical 0.6754933828377702
+paradoxical 0.6424993076967699
+far-fetched 0.6315389749826364
+irrational 0.6261679407012289
+2
+1
+
+*comfortable uncomfortable pleasant unpleasant
+pleasant 0.7360477126898444
+unpleasant 0.6741302976083068
+uncomfortable 0.5923023464980378
+disagreeable 0.5889673752001273
+scary 0.576839126224636
+2
+1
+
+*comfortable uncomfortable possible impossible
+possible 0.7153654698341175
+unavoidable 0.4936913790302373
+avoidable 0.4832826690959686
+unpleasant 0.4799919236521356
+impossible 0.4798650096435837
+5
+4
+
+*comfortable uncomfortable possibly impossibly
+possibly 0.7119247792110792
+potentially 0.6002036246120119
+presumably 0.589717707267901
+purportedly 0.5815122933012324
+ostensibly 0.5805149184272371
+786
+785
+
+*comfortable uncomfortable productive unproductive
+productive 0.6731747279427509
+unproductive 0.6502397856056884
+unpleasant 0.6281851029785005
+counterproductive 0.6153593827427082
+contentious 0.6151681880568532
+2
+1
+
+*comfortable uncomfortable rational irrational
+rational 0.7156438561332519
+irrational 0.6116954118626664
+argumentative 0.5702443156132051
+pessimistic 0.5698537867164964
+paradoxical 0.5663180490748047
+2
+1
+
+*comfortable uncomfortable reasonable unreasonable
+reasonable 0.6935752593296665
+illogical 0.661913567591427
+unreasonable 0.659105478035517
+hypocritical 0.6440708497349156
+ludicrous 0.6432551337994836
+3
+2
+
+*comfortable uncomfortable responsible irresponsible
+responsible 0.707481462894387
+accountable 0.560129849502227
+liable 0.5426079049598037
+culpable 0.5288800148834174
+unprepared 0.5200271874689182
+132
+130
+
+*comfortable uncomfortable sure unsure
+sure 0.6861164648451458
+unsure 0.554861484315728
+apprehensive 0.5226656287869358
+incredulous 0.5174070298129338
+uncomfortable 0.51720228386505
+2
+1
+
+*comfortable uncomfortable tasteful distasteful
+melodramatic 0.7598764972353415
+farcical 0.7534525588649313
+scurrilous 0.7527665995045336
+mean-spirited 0.7485453560961989
+suspenseful 0.7481315440308751
+71
+71
+
+*comfortable uncomfortable acceptable unacceptable
+acceptable 0.6981023827807138
+unacceptable 0.6968257086421163
+objectionable 0.679615195064865
+counterproductive 0.6586498800000037
+distasteful 0.651847784218053
+2
+1
+
+*comfortable uncomfortable aware unaware
+aware 0.7353287018882337
+apprehensive 0.6336272824458076
+wary 0.6209975187559941
+resentful 0.616181637246322
+sceptical 0.6097103750162381
+12
+11
+
+*comfortable uncomfortable certain uncertain
+certain 0.7046750186095565
+incredulous 0.5666995989961402
+certian 0.5606628411851238
+unexplainable 0.5575171141877558
+drug-related 0.5552107829486181
+234
+232
+
+*comfortable uncomfortable clear unclear
+clear 0.7017143438759788
+unclear 0.5481738555617532
+incredulous 0.5230009781539379
+remorseful 0.5149945890294457
+doubtful 0.5127884855101187
+2
+1
+
+*competitive uncompetitive consistent inconsistent
+consistent 0.7359967922054954
+consistant 0.6654476332446292
+incongruous 0.6601339165150804
+inoperative 0.6592363185731768
+self-explanatory 0.658276904973656
+61
+59
+
+*competitive uncompetitive convincing unconvincing
+convincing 0.7619326676155387
+compelling 0.6752421214167509
+unconvincing 0.6254063786914404
+baffling 0.6147175741060552
+reassuring 0.6144042514751822
+3
+2
+
+*competitive uncompetitive convenient inconvenient
+convenient 0.7760212575474009
+inconvenient 0.7149724279711596
+cumbersome 0.6867622275711094
+impracticable 0.6856910220328374
+infeasible 0.6773478445098283
+2
+1
+
+*competitive uncompetitive decided undecided
+decided 0.7449526082786766
+readjusted 0.6160252255299983
+re-numbered 0.614130279591385
+re-enabled 0.6104073915274396
+countermanded 0.6088611289695398
+1319
+1318
+
+*competitive uncompetitive efficient inefficient
+efficient 0.7607218318954332
+inefficient 0.7398112745347388
+impracticable 0.7204951331537003
+uneconomical 0.7150029010031778
+uneconomic 0.7105229836769656
+2
+1
+
+*competitive uncompetitive ethical unethical
+ethical 0.7287003782587753
+unchangeable 0.7046190927457501
+self-defeating 0.7028853865738024
+ahistorical 0.6995027357275135
+un-islamic 0.6991922274763283
+1379
+1378
+
+*competitive uncompetitive fortunate unfortunate
+fortunate 0.7628375021427372
+overconfident 0.6514896717366834
+inconsolable 0.6502043595245897
+ungrateful 0.6433858511450393
+ill-prepared 0.6426667468025523
+194
+193
+
+*competitive uncompetitive honest dishonest
+honest 0.7398150833716556
+short-sighted 0.679483089224547
+overconfident 0.676289491792492
+deceitful 0.6739940904522138
+indiscreet 0.6725511110820636
+690
+689
+
+*competitive uncompetitive impressive unimpressive
+impressive 0.7610595501155246
+unimpressive 0.7206480222086963
+remarkable 0.6845832026111309
+ponderous 0.6820782280642202
+anemic 0.6792471185447462
+2
+1
+
+*competitive uncompetitive informative uninformative
+informative 0.7627967033558691
+uninformative 0.7516750172029044
+well-referenced 0.7279977103334613
+well-illustrated 0.7268118924612421
+unecessary 0.7242480001129927
+2
+1
+
+*competitive uncompetitive informed uninformed
+informed 0.7478961830986859
+forewarned 0.6833023976772584
+apprised 0.6832841443720701
+underwhelmed 0.6323834579383982
+misinformed 0.6273847580848854
+62
+61
+
+*competitive uncompetitive known unknown
+known 0.7470246495743538
+unattested 0.6517798622792852
+re-classified 0.6494713078718396
+so-named 0.646881499464779
+romanised 0.6313671032362559
+13284
+13282
+
+*competitive uncompetitive likely unlikely
+likely 0.7729220774182584
+unlikely 0.6458635614513504
+likelier 0.6313551708517267
+uneconomical 0.6075715440138195
+impracticable 0.6071530684475883
+2
+1
+
+*competitive uncompetitive logical illogical
+logical 0.7518888960646112
+tautological 0.7191579000631517
+unintuitive 0.7088043501750493
+illogical 0.7056327501400644
+unecessary 0.7040458054784697
+4
+3
+
+*competitive uncompetitive pleasant unpleasant
+pleasant 0.769046149588241
+nauseous 0.6509341263889685
+agreeable 0.6434348707992826
+insipid 0.640870148438886
+untidy 0.6364705316544946
+16
+15
+
+*competitive uncompetitive possible impossible
+possible 0.7692254546836027
+practicable 0.6000493784432942
+impracticable 0.5759944461855553
+feasible 0.5662852114122849
+unserviceable 0.5656488769561383
+22
+21
+
+*competitive uncompetitive possibly impossibly
+possibly 0.7612860938433907
+probably 0.6671550714806023
+perhaps 0.651646841032808
+presumably 0.6516186846634112
+weaselly 0.6369848569135768
+867
+866
+
+*competitive uncompetitive productive unproductive
+productive 0.7483266302696424
+impracticable 0.6921942200862805
+unproductive 0.6917391282537986
+labour-intensive 0.6851146683227579
+non-productive 0.6834260001647886
+3
+2
+
+*competitive uncompetitive rational irrational
+rational 0.7360917115345901
+overbroad 0.6548382913007877
+inelegant 0.6545242239357486
+wrong-headed 0.6544899545420595
+capricious 0.6543776352939057
+521
+520
+
+*competitive uncompetitive reasonable unreasonable
+reasonable 0.7574365433938053
+impracticable 0.7002906435456083
+rediculous 0.6974792035320482
+unneccessary 0.6939626425446824
+resonable 0.6926027703328106
+9
+8
+
+*competitive uncompetitive responsible irresponsible
+responsible 0.7452505365032465
+unserviceable 0.6331219584776447
+dispensable 0.6313527992787402
+impracticable 0.624068204654228
+ill-prepared 0.6225770989841717
+1391
+1389
+
+*competitive uncompetitive sure unsure
+sure 0.7675755825973781
+inconceivable 0.5605217645154803
+nauseous 0.5593097003186007
+likelier 0.5590517995916786
+incredulous 0.5587853010363159
+6
+5
+
+*competitive uncompetitive tasteful distasteful
+tasteful 0.8046201738877404
+self-indulgent 0.792207523240477
+insipid 0.7908563250245737
+ponderous 0.7904403127202362
+amateurish 0.7903752075973236
+924
+922
+
+*competitive uncompetitive acceptable unacceptable
+acceptable 0.7819124638557088
+impracticable 0.7243076349808049
+inadmissible 0.7110343810349918
+unworkable 0.7013503210525094
+unfeasible 0.6988344489404547
+12
+11
+
+*competitive uncompetitive aware unaware
+aware 0.7588932316311743
+unaware 0.6555345297457543
+mistrustful 0.6527015362354295
+unsupportive 0.6505858660645002
+wary 0.6440584539204157
+2
+1
+
+*competitive uncompetitive certain uncertain
+certain 0.764708360732158
+certian 0.6375088959708362
+uncountable 0.6262571001719205
+unchangeable 0.6253777312744485
+indecipherable 0.6222114542752089
+9502
+9500
+
+*competitive uncompetitive clear unclear
+clear 0.7598158597981839
+unecessary 0.6076781896719909
+unnavigable 0.6046803207385364
+crystal-clear 0.6032632388878983
+self-explanatory 0.6027740332446192
+773
+771
+
+*competitive uncompetitive comfortable uncomfortable
+comfortable 0.7322178603687407
+nauseous 0.6945816976184936
+top-heavy 0.6883581980738273
+unaffordable 0.6735749067127011
+impracticable 0.6727883000403346
+58
+56
+
+*consistent inconsistent convincing unconvincing
+convincing 0.7325754561283769
+shocking 0.5887246730372379
+embarrassing 0.5708729337059727
+compelling 0.5698195605025643
+unconvincing 0.5555271216403932
+5
+4
+
+*consistent inconsistent convenient inconvenient
+convenient 0.7352884622362486
+inconvenient 0.6976523863633741
+imprecise 0.6156059236391037
+cumbersome 0.5975310224654946
+clunky 0.5927195990758143
+2
+1
+
+*consistent inconsistent decided undecided
+decided 0.7280987361867212
+decides 0.5537014901762302
+demurred 0.5355200061196879
+motioned 0.5329706001117235
+backtracked 0.5211262600590113
+193
+192
+
+*consistent inconsistent efficient inefficient
+inefficient 0.7075500737067301
+efficient 0.6562812104825867
+cost-effective 0.6134579903989832
+error-prone 0.6125662499704138
+time-consuming 0.6109297118597061
+1
+1
+
+*consistent inconsistent ethical unethical
+ethical 0.704191053657715
+pseudoscientific 0.6253375436260121
+unscientific 0.6153964416248752
+discriminatory 0.6142473110064591
+halachic 0.6101660427837736
+33
+32
+
+*consistent inconsistent fortunate unfortunate
+fortunate 0.7316416101516398
+inconvenient 0.5541306307306196
+imprudent 0.5396967050138389
+unlucky 0.5395278446497792
+frail 0.5337083574597302
+14
+13
+
+*consistent inconsistent honest dishonest
+honest 0.696782625390776
+dishonest 0.6549802122624722
+intemperate 0.6020336727615409
+impolite 0.597356436157309
+inconsiderate 0.5927715821919022
+2
+1
+
+*consistent inconsistent impressive unimpressive
+impressive 0.6990707315509213
+unimpressive 0.5926606756079387
+inconsistent 0.569414855761975
+unsatisfactory 0.566011350211985
+unorthodox 0.5640962912262593
+2
+1
+
+*consistent inconsistent informative uninformative
+informative 0.695345116455347
+incoherent 0.6750171680923811
+inaccurate 0.6648900056858371
+crufty 0.6584340536275325
+unencyclopaedic 0.6513010265403828
+7
+6
+
+*consistent inconsistent informed uninformed
+informed 0.6912456404768272
+misinformed 0.5854492501245214
+briefed 0.5812479305265985
+misled 0.5801116395770001
+advised 0.5710274543051116
+116
+115
+
+*consistent inconsistent known unknown
+known 0.6876920702568096
+misspelt 0.5397693829030545
+mistranslated 0.5396904289687459
+misreported 0.5280483647506572
+misattributed 0.5254507426199135
+28044
+28042
+
+*consistent inconsistent likely unlikely
+likely 0.6704794571936774
+unlikely 0.6042064369321074
+impolite 0.5577718921303371
+unwise 0.5335802518347421
+loath 0.5271070806817739
+2
+1
+
+*consistent inconsistent logical illogical
+logical 0.6887567050732548
+illogical 0.6520028395195095
+impolite 0.6216130523081392
+imprecise 0.6197760837416721
+unscientific 0.6149461730090542
+2
+1
+
+*consistent inconsistent pleasant unpleasant
+pleasant 0.6944437118477528
+inconvenient 0.5888001700929175
+brusque 0.5693611995380298
+flowery 0.5648671665628137
+unpleasant 0.5612875544551775
+5
+4
+
+*consistent inconsistent possible impossible
+possible 0.6600264133296215
+necessary 0.4824565312196286
+contradictory 0.47824555823791615
+inconvenient 0.4755220446451355
+inaccurate 0.47508160535738564
+13
+12
+
+*consistent inconsistent possibly impossibly
+possibly 0.6846866337334806
+potentially 0.5712785849920325
+presumably 0.5635679167985125
+arguably 0.5466402633136557
+apparently 0.5464079060441724
+564
+563
+
+*consistent inconsistent productive unproductive
+productive 0.692070330119019
+unproductive 0.6031856390490016
+imprudent 0.5876301219517216
+impolite 0.5821273325036459
+counterproductive 0.5717017902537345
+2
+1
+
+*consistent inconsistent rational irrational
+rational 0.7093893066919195
+irrational 0.5711910764891658
+eurocentric 0.5644949295352203
+contradictory 0.5564095723802069
+inane 0.5557734535997348
+2
+1
+
+*consistent inconsistent reasonable unreasonable
+reasonable 0.682483419342301
+impolite 0.633429486091768
+unfair 0.6330199481245966
+unrealistic 0.6326642118199138
+unreasonable 0.6298680649132982
+5
+4
+
+*consistent inconsistent responsible irresponsible
+responsible 0.6821681784257323
+liable 0.49987484130927484
+unprepared 0.48898789176034163
+counterproductive 0.4780600240202679
+ill-suited 0.4749947974723694
+29
+28
+
+*consistent inconsistent sure unsure
+sure 0.6801045595516397
+unsure 0.5672357848230232
+afraid 0.4950878197940525
+iffy 0.4779306812801394
+impolite 0.4761850103726959
+2
+1
+
+*consistent inconsistent tasteful distasteful
+tasteless 0.7230977082946657
+flippant 0.7165775137483406
+clichéd 0.7153798517900033
+self-contradictory 0.7129054965264806
+self-indulgent 0.7123851990986177
+569
+568
+
+*consistent inconsistent acceptable unacceptable
+acceptable 0.7088681891328097
+inappropriate 0.6531625193701277
+unacceptable 0.6291976163281147
+unsatisfactory 0.6266092100727514
+impolite 0.6257639152677326
+3
+2
+
+*consistent inconsistent aware unaware
+aware 0.6781594632457469
+apprehensive 0.576300415797323
+unsure 0.5691502600317331
+unaware 0.5618235989785113
+violative 0.5553298523105383
+4
+3
+
+*consistent inconsistent certain uncertain
+certain 0.7078880633293316
+contradictory 0.5271393615645685
+diffrent 0.5250067816069333
+inconvenient 0.5201665112551014
+diferent 0.5118381306886903
+112
+110
+
+*consistent inconsistent clear unclear
+clear 0.6367971294564905
+innapropriate 0.5278417571115072
+iffy 0.5268688245057126
+innacurate 0.525043550696407
+unclear 0.5240626472582781
+5
+4
+
+*consistent inconsistent comfortable uncomfortable
+comfortable 0.6678225741429039
+inconsistent 0.6476190160357078
+uncomfortable 0.6287493575123632
+inconvenient 0.5621735413626529
+lenient 0.5546016517054021
+3
+1
+
+*consistent inconsistent competitive uncompetitive
+competitive 0.7014440856669041
+inconsistent 0.5851530941617084
+uncompetitive 0.5475806395079132
+unfair 0.5319743749089779
+risky 0.5232632021779574
+3
+1
+
+*convincing unconvincing convenient inconvenient
+convenient 0.7323147015503091
+inconvenient 0.6662411370352427
+unappealing 0.6383596457003886
+unsatisfactory 0.6361623139865186
+cumbersome 0.6346294702223262
+2
+1
+
+*convincing unconvincing decided undecided
+decided 0.7008245179240441
+marvelled 0.6152419600291402
+snowballed 0.6128818118497636
+overreacted 0.6121422129116293
+bristled 0.6101813313300942
+896
+894
+
+*convincing unconvincing efficient inefficient
+efficient 0.741065733718751
+inefficient 0.7057066601886222
+tractable 0.6522082282584196
+error-prone 0.6501294079141396
+uncompetitive 0.6491000032965446
+2
+1
+
+*convincing unconvincing ethical unethical
+ethical 0.7583255738346508
+ethnocentric 0.649503637696932
+unscientific 0.6494995690368451
+materialistic 0.6479567912862146
+epistemological 0.6479475098907452
+638
+637
+
+*convincing unconvincing fortunate unfortunate
+fortunate 0.715669545071717
+unconvincing 0.6076865122174965
+deplorable 0.6011692325344037
+regrettable 0.601035510314022
+foolhardy 0.5982361214293438
+55
+53
+
+*convincing unconvincing honest dishonest
+honest 0.7416423954574609
+unprofessional 0.6439597040496882
+unfunny 0.6423941899064181
+impertinent 0.6406388866640493
+argumentative 0.6394897986331622
+267
+265
+
+*convincing unconvincing impressive unimpressive
+impressive 0.7467276883182671
+unimpressive 0.6984473641459856
+amateurish 0.668631702423381
+well-done 0.6612708270009692
+eye-catching 0.6598624084714406
+2
+1
+
+*convincing unconvincing informative uninformative
+informative 0.7778083924520197
+non-encyclopedic 0.7197692132576322
+well-researched 0.7135635905580872
+unencyclopedic 0.7087314078808232
+unencyclopaedic 0.7086250415048224
+6
+5
+
+*convincing unconvincing informed uninformed
+misinformed 0.6652866720681374
+informed 0.6637458804299252
+underreported 0.6368069380724647
+longwinded 0.6335824978192162
+shortsighted 0.6335695233503719
+24
+23
+
+*convincing unconvincing known unknown
+known 0.710516037659441
+mislabeled 0.6382799812096461
+unattested 0.6258235486791826
+misattributed 0.6068000008875971
+unmentioned 0.6060708353254922
+7040
+7038
+
+*convincing unconvincing likely unlikely
+likely 0.7113727386303557
+unlikely 0.6297177567353962
+implausible 0.5986012426142999
+allready 0.5938141331313194
+inappropiate 0.5782048732084535
+2
+1
+
+*convincing unconvincing logical illogical
+logical 0.7425752386003023
+illogical 0.6866430040384305
+fallacious 0.6819303213730149
+unecessary 0.6731080559581223
+ungrammatical 0.66697430078301
+2
+1
+
+*convincing unconvincing pleasant unpleasant
+pleasant 0.7455686604584041
+unpleasant 0.6473186439297455
+untidy 0.63830090618533
+dreary 0.6316397928621804
+monotonous 0.6276828920971589
+2
+1
+
+*convincing unconvincing possible impossible
+possible 0.7487273340807108
+appropriate 0.5551048089904213
+unavoidable 0.5347027254040218
+unjustifiable 0.5296839993807096
+unecessary 0.5285975971998728
+443
+441
+
+*convincing unconvincing possibly impossibly
+possibly 0.704105757473909
+preferably 0.6338259341730041
+admittedly 0.630435822222139
+subconsciously 0.6296368112612175
+weaselly 0.6282736077725604
+676
+675
+
+*convincing unconvincing productive unproductive
+productive 0.7364255259469584
+unproductive 0.682419998921634
+unconstructive 0.6434949014858503
+non-productive 0.6421422715892035
+fruitful 0.6278476415057997
+2
+1
+
+*convincing unconvincing rational irrational
+rational 0.7462138394255525
+fallacious 0.6217841595264312
+non-npov 0.6064039749777781
+argumentative 0.6034482223642329
+unscientific 0.6028657034859125
+33
+32
+
+*convincing unconvincing reasonable unreasonable
+reasonable 0.7515329288137792
+resonable 0.6646034838410485
+unreasonable 0.6644510105641013
+unconstructive 0.6641076581755565
+unecessary 0.6585519120596997
+3
+2
+
+*convincing unconvincing responsible irresponsible
+responsible 0.7348820202755281
+accountable 0.6000097485361208
+unsuitable 0.588375115117403
+tailor-made 0.5487344127764245
+unaffordable 0.546429822539105
+181
+180
+
+*convincing unconvincing sure unsure
+sure 0.6951469814618355
+laughable 0.5647624478986888
+uninformative 0.5537162914280024
+not-notable 0.5531924790447601
+speedyable 0.5513184993960359
+300
+298
+
+*convincing unconvincing tasteful distasteful
+amateurish 0.7876733071877996
+tasteful 0.7865522901167122
+insipid 0.7657971015098681
+monotonous 0.7612894143944252
+unfunny 0.7592502341424449
+95
+94
+
+*convincing unconvincing acceptable unacceptable
+acceptable 0.7670309773761036
+unacceptable 0.6918151757981135
+unsatisfactory 0.69036234779008
+inapplicable 0.6782520012187497
+objectionable 0.6734676092249422
+2
+1
+
+*convincing unconvincing aware unaware
+aware 0.6943753215184997
+mistrustful 0.6244861239568843
+unsupportive 0.6124325566597041
+unrepresentative 0.5995848776366499
+wary 0.5985579042538176
+41
+40
+
+*convincing unconvincing certain uncertain
+certain 0.7024933317419468
+certian 0.6362514956064322
+arbitary 0.6200302924739226
+non-contentious 0.6197242754326401
+non-controversial 0.6179524297101157
+6078
+6076
+
+*convincing unconvincing clear unclear
+clear 0.7287258613208217
+unclear 0.5938589115846507
+unecessary 0.5930799233330588
+unconvincing 0.5841663832853482
+unsupportable 0.5782646759268693
+2
+1
+
+*convincing unconvincing comfortable uncomfortable
+comfortable 0.7262288441184259
+uncomfortable 0.6652325229646665
+monotonous 0.6308488096905149
+incongruous 0.6303034147131363
+untidy 0.6258490112779869
+2
+1
+
+*convincing unconvincing competitive uncompetitive
+competitive 0.7606110815702312
+uncompetitive 0.6523912686886583
+non-competitive 0.6014072711708429
+unimpressive 0.5882284478932386
+unspectacular 0.5870649903016788
+2
+1
+
+*convincing unconvincing consistent inconsistent
+consistent 0.7780394622006008
+inconsistent 0.6781431459191966
+consistant 0.6740013096628689
+incongruous 0.606976816615674
+replete 0.6005466114715742
+2
+1
+
+*convenient inconvenient decided undecided
+decided 0.7215558252324206
+decides 0.5805632506628182
+demurred 0.5745306552877446
+enquired 0.561468517630985
+vowed 0.5604698511667492
+36
+35
+
+*convenient inconvenient efficient inefficient
+inefficient 0.6992448030774199
+ineffectual 0.6796613629563691
+unviable 0.6721499710213352
+impracticable 0.6712928809309661
+unsustainable 0.6710070009187238
+1
+1
+
+*convenient inconvenient ethical unethical
+ethical 0.7515718808171724
+immoral 0.6540084276716641
+altruistic 0.6307462615561715
+materialistic 0.6267125423054758
+vexatious 0.6245666164865333
+40
+39
+
+*convenient inconvenient fortunate unfortunate
+fortunate 0.7530055916946693
+unlucky 0.6247428924497557
+impotent 0.6126681592570613
+repentant 0.6048608783113527
+helpless 0.5999142870605946
+13
+11
+
+*convenient inconvenient honest dishonest
+honest 0.7478713189710501
+obstinate 0.6410722306712948
+unrepentant 0.6315973275541465
+ill-informed 0.6219456988633328
+repentant 0.6206280732132631
+46
+45
+
+*convenient inconvenient impressive unimpressive
+impressive 0.7227243090114409
+unbelievable 0.6627118958433449
+unimpressive 0.6611187934636652
+remarkable 0.6540974859925562
+admirable 0.6357488684637044
+3
+2
+
+*convenient inconvenient informative uninformative
+informative 0.7137479294054879
+unencyclopaedic 0.6859572770833454
+newsworthy 0.6841565621024166
+unsalvageable 0.6829986506654345
+instructive 0.6747873922775944
+7
+6
+
+*convenient inconvenient informed uninformed
+informed 0.7402390400482867
+apprised 0.6648746424703907
+misinformed 0.6173473187559858
+reassured 0.6149912555897193
+misled 0.6060021146135386
+11
+10
+
+*convenient inconvenient known unknown
+known 0.722502925916642
+unappreciated 0.5584735342311548
+reviled 0.5543130567835809
+unmentioned 0.5531728232574947
+stigmatized 0.5456792144541908
+4336
+4334
+
+*convenient inconvenient likely unlikely
+likely 0.7291197145943658
+unlikely 0.5940029970780742
+unwise 0.5562102526392745
+incredulous 0.5507563307857797
+sinful 0.5398822425269517
+2
+1
+
+*convenient inconvenient logical illogical
+logical 0.706111956739458
+illogical 0.6886385616866945
+deplorable 0.6705103880542413
+paradoxical 0.6681633043704597
+unjustifiable 0.661329526928783
+2
+1
+
+*convenient inconvenient pleasant unpleasant
+pleasant 0.7236976046447904
+unpleasant 0.6632065783388145
+disagreeable 0.6412596018958114
+inconvenient 0.6246476327589708
+deplorable 0.619846801005636
+2
+1
+
+*convenient inconvenient possible impossible
+possible 0.7213473008746142
+avoidable 0.5384154421959245
+unavoidable 0.5319523839368051
+unjustifiable 0.5301726310070456
+intolerable 0.5201594041348362
+50
+48
+
+*convenient inconvenient possibly impossibly
+possibly 0.7253190794362943
+perhaps 0.6466022324419539
+presumably 0.6173312231546861
+potentially 0.6005717773695368
+maybe 0.5924205013548496
+384
+383
+
+*convenient inconvenient productive unproductive
+productive 0.7362899817172309
+unproductive 0.676727809067012
+uncooperative 0.6080942401132151
+counterproductive 0.6008283390494329
+disagreeable 0.6000893336906776
+2
+1
+
+*convenient inconvenient rational irrational
+rational 0.7227449922225277
+irrational 0.6140345180482678
+delusional 0.6059702609603143
+unrepentant 0.6019747196224224
+sinful 0.5983550861305561
+2
+1
+
+*convenient inconvenient reasonable unreasonable
+reasonable 0.7122901540727475
+unreasonable 0.6918327781088155
+hypocritical 0.6664217209803327
+unjustifiable 0.6646500491784558
+deplorable 0.6645113620108891
+2
+1
+
+*convenient inconvenient responsible irresponsible
+responsible 0.7392342698188046
+culpable 0.5832860362821294
+accountable 0.5513799804298922
+unrepentant 0.5456368844373797
+liable 0.538077199329638
+19
+18
+
+*convenient inconvenient sure unsure
+sure 0.7375405341107429
+unsure 0.5584874251503634
+incredulous 0.510681886861259
+apprehensive 0.5072387143479273
+doubtful 0.5034389089387257
+2
+1
+
+*convenient inconvenient tasteful distasteful
+self-indulgent 0.7694407269993853
+unfunny 0.7687673799364468
+mean-spirited 0.7644781243732064
+disagreeable 0.7622138727912406
+misogynistic 0.7595140459205545
+199
+198
+
+*convenient inconvenient acceptable unacceptable
+acceptable 0.7372693180884512
+inadmissible 0.6972150094490188
+unacceptable 0.6957927558432724
+abhorrent 0.6731247519981322
+objectionable 0.6700111237265749
+3
+2
+
+*convenient inconvenient aware unaware
+aware 0.7424892415160961
+apprehensive 0.6483918135719767
+sceptical 0.6423657440051643
+envious 0.6365732819584374
+distrustful 0.6238243807489564
+18
+17
+
+*convenient inconvenient certain uncertain
+certain 0.7464433000786483
+certian 0.5728172879716235
+deplorable 0.568058834442216
+incredulous 0.5639894682413499
+unquestionable 0.5608452870503747
+1155
+1153
+
+*convenient inconvenient clear unclear
+clear 0.7213373702360505
+clear-cut 0.5623967728668362
+unsupportable 0.5464945079506315
+deplorable 0.543741462835756
+incredulous 0.5387831182511322
+8
+7
+
+*convenient inconvenient comfortable uncomfortable
+uncomfortable 0.6930716083185644
+comfortable 0.6888640000213189
+uneasy 0.6381059923858459
+unhappy 0.6374018402615527
+miserable 0.6248451149048448
+1
+1
+
+*convenient inconvenient competitive uncompetitive
+competitive 0.7095250836997427
+uncompetitive 0.6154649640949443
+uncooperative 0.591016698469793
+impotent 0.5907239780178353
+unattainable 0.5824360328075753
+2
+1
+
+*convenient inconvenient consistent inconsistent
+consistent 0.7045997437701178
+inconsistent 0.6700269679423334
+consistant 0.623835080409005
+irreconcilable 0.6091881507707448
+abhorrent 0.6034398720961724
+2
+1
+
+*convenient inconvenient convincing unconvincing
+convincing 0.737143888842134
+compelling 0.6289958565478119
+unconvincing 0.6174743851625961
+damning 0.6112760110004037
+shocking 0.6082859785114998
+3
+2
+
+*decided undecided efficient inefficient
+efficient 0.7272684843303668
+dependable 0.6590677025443948
+inefficient 0.6536154454857068
+cost-efficient 0.648311665732654
+survivable 0.6470571082011918
+3
+2
+
+*decided undecided ethical unethical
+ethical 0.7424727426129843
+self-interested 0.6726054812245599
+anti-israel 0.6699785283625592
+essentialist 0.6606896811810478
+ill-informed 0.6602163906268959
+2325
+2323
+
+*decided undecided fortunate unfortunate
+fortunate 0.7531429161949209
+indignant 0.6328399157084218
+undecided 0.618688302099627
+disobedient 0.6179614599647725
+repentant 0.6165081076145289
+17
+15
+
+*decided undecided honest dishonest
+honest 0.777624981230603
+well-informed 0.6676322916456711
+unapologetic 0.6396694051287369
+uninformed 0.6367809260670857
+impartial 0.6354818319660407
+234
+232
+
+*decided undecided impressive unimpressive
+impressive 0.7683366513951184
+unimpressive 0.6586723828919324
+creditable 0.6504276499365794
+remarkable 0.6408171745351056
+admirable 0.639558291489596
+2
+1
+
+*decided undecided informative uninformative
+informative 0.7758080851478224
+on-topic 0.698174243074616
+well-researched 0.6841126851584127
+crufty 0.683652166144784
+uninformative 0.6759115021109069
+5
+4
+
+*decided undecided informed uninformed
+informed 0.7329291711989635
+undecided 0.7022111816104762
+uninformed 0.6539384981920524
+well-informed 0.6492594501745572
+apprised 0.6372286957476991
+3
+1
+
+*decided undecided known unknown
+known 0.7536193688652162
+undecided 0.6137046084533954
+wellknown 0.587531133379808
+unattested 0.5704233009779303
+unmentioned 0.5654880102838016
+1237
+1235
+
+*decided undecided likely unlikely
+likely 0.7247954543617035
+undecided 0.6175842183295782
+probable 0.6113281699038354
+unlikely 0.6060296193072084
+likelier 0.5959009826366687
+4
+2
+
+*decided undecided logical illogical
+logical 0.7634045764298325
+nuetral 0.6476904357726224
+specious 0.6458273060042043
+tautological 0.645137493643743
+well-reasoned 0.6408757857367865
+108
+106
+
+*decided undecided pleasant unpleasant
+pleasant 0.7458819030567233
+hazy 0.6459860935583767
+gloomy 0.623514862892206
+dreary 0.6211788434139233
+nuetral 0.618451437658067
+219
+218
+
+*decided undecided possible impossible
+possible 0.7508217670667688
+undecided 0.5428843865529959
+practicable 0.5400167742871591
+hypothetical 0.5371848233041817
+out-of-process 0.5334238712067605
+1457
+1455
+
+*decided undecided possibly impossibly
+possibly 0.6963582246128998
+measly 0.6029277993805853
+potentially 0.594818695251651
+ungodly 0.5924737955337431
+oppose- 0.5898230994863515
+688
+686
+
+*decided undecided productive unproductive
+productive 0.7482442227973688
+well-informed 0.6378392077062546
+unproductive 0.6351063519452185
+level-headed 0.6282227646525087
+nuetral 0.6260629476466937
+3
+2
+
+*decided undecided rational irrational
+rational 0.7680309740104371
+well-informed 0.6181690020478398
+undecided 0.6168429983416683
+on-topic 0.6115214516973203
+well-thought-out 0.6043650072832428
+217
+215
+
+*decided undecided reasonable unreasonable
+reasonable 0.755090281062804
+resonable 0.6689398924624164
+nuetral 0.6655259559264783
+non-biased 0.6507858520872035
+well-informed 0.6484214974962139
+16
+14
+
+*decided undecided responsible irresponsible
+responsible 0.7432590542750324
+accountable 0.6140809477056264
+culpable 0.5803198397121095
+unaccountable 0.5747445210083186
+brain-dead 0.5605876147145165
+237
+235
+
+*decided undecided sure unsure
+sure 0.7567520679896261
+unsure 0.5941058734084538
+undecided 0.5801862400938725
+it- 0.5393564668023088
+delete- 0.5382504372415623
+2
+1
+
+*decided undecided tasteful distasteful
+tasteful 0.7731990573391179
+self-indulgent 0.7610722100427922
+inoffensive 0.7602133441160808
+ponderous 0.7593017137143078
+unapologetic 0.7565095460470541
+1037
+1036
+
+*decided undecided acceptable unacceptable
+acceptable 0.7520500846999074
+admissible 0.6700790417577187
+on-topic 0.6687380240469969
+keepable 0.6674640611223183
+nuetral 0.6639821483536648
+17
+16
+
+*decided undecided aware unaware
+aware 0.7433846050313134
+sceptical 0.6661249032559683
+skeptical 0.6375342064787859
+mindful 0.6192407872001233
+mistrustful 0.618911842238413
+11
+9
+
+*decided undecided certain uncertain
+certain 0.760058489606829
+certian 0.6362223862294157
+nuetral 0.6008107615075587
+undecided 0.5983423528025218
+incredulous 0.5883190787590373
+2167
+2165
+
+*decided undecided clear unclear
+clear 0.7597273897347548
+clear-cut 0.5746482287956105
+unclear 0.5740797643935046
+crystal-clear 0.5699287367539839
+undecided 0.5618792983228724
+3
+2
+
+*decided undecided comfortable uncomfortable
+comfortable 0.7360004467391204
+nauseous 0.6187126613554241
+undecided 0.6104143482281092
+uncomfortable 0.6099337567919051
+indignant 0.6047334038712114
+4
+2
+
+*decided undecided competitive uncompetitive
+competitive 0.7303097128005874
+uncompetitive 0.6070298311573954
+non-competitive 0.6044698988529059
+anemic 0.6018856181081346
+unfixed 0.6001817261205322
+2
+1
+
+*decided undecided consistent inconsistent
+consistent 0.7481926827960986
+consistant 0.6712246197675333
+inconsistent 0.6366535125918491
+on-topic 0.632084690566341
+nuetral 0.6160246640144912
+3
+2
+
+*decided undecided convincing unconvincing
+convincing 0.7374109566021468
+undecided 0.6368736237006603
+compelling 0.6368087238131381
+unconvincing 0.6286922152222448
+reassuring 0.6262421330405549
+4
+2
+
+*decided undecided convenient inconvenient
+convenient 0.7371162553429335
+inconvenient 0.6746324658119631
+apropriate 0.653589346177262
+approriate 0.6371202941345709
+appropiate 0.6292204034960575
+2
+1
+
+*efficient inefficient ethical unethical
+ethical 0.7135346181721932
+unscientific 0.669837839263529
+pseudoscientific 0.6496362090684623
+self-defeating 0.6486892785327157
+ethnocentric 0.6479255226048485
+25
+24
+
+*efficient inefficient fortunate unfortunate
+fortunate 0.7288858743027743
+impotent 0.6085239751944245
+frail 0.6059938774758689
+imprudent 0.5879610418062777
+inconvenient 0.5877967447013859
+12
+11
+
+*efficient inefficient honest dishonest
+honest 0.7269815879289441
+dishonest 0.654746754154567
+insecure 0.6185014462334458
+obstinate 0.6179693652065158
+inconsiderate 0.6167672325393126
+2
+1
+
+*efficient inefficient impressive unimpressive
+impressive 0.6845709438008354
+untidy 0.6550852589395969
+unimpressive 0.6508261324376742
+well-done 0.63307028449142
+anemic 0.6312211532563619
+3
+2
+
+*efficient inefficient informative uninformative
+incoherent 0.7133001635139129
+informative 0.7092982368178637
+unencyclopaedic 0.7069979742544974
+uninformative 0.706659409480938
+unencyclopedic 0.7060080717159873
+4
+3
+
+*efficient inefficient informed uninformed
+informed 0.6842958684050093
+misinformed 0.6368858090087316
+apprised 0.6306216897642005
+unconvinced 0.6212874741648283
+misled 0.6146568459719286
+7
+6
+
+*efficient inefficient known unknown
+known 0.7030029122953909
+unattested 0.5410165287351415
+misattributed 0.5267558574623652
+mistranslated 0.5264535442166355
+wellknown 0.5254806500480858
+6758
+6756
+
+*efficient inefficient likely unlikely
+likely 0.6948465408641751
+unlikely 0.6347310968810211
+unwise 0.5889779134840871
+impolite 0.5618261984900853
+loath 0.5603530416533895
+2
+1
+
+*efficient inefficient logical illogical
+logical 0.7128338533163386
+illogical 0.6801796320135116
+unscientific 0.6567366518471579
+incoherent 0.6422820174563858
+self-defeating 0.6411924898631902
+2
+1
+
+*efficient inefficient pleasant unpleasant
+pleasant 0.7304962607935206
+unpleasant 0.6032922790169882
+untidy 0.602962883157165
+hazy 0.5915069490473379
+inconvenient 0.5912423048663522
+2
+1
+
+*efficient inefficient possible impossible
+possible 0.6982716103306102
+unavoidable 0.5111486300106433
+inefficient 0.509366316154377
+unjustifiable 0.509203100277151
+avoidable 0.5067973362477572
+534
+532
+
+*efficient inefficient possibly impossibly
+possibly 0.7095205777738798
+perhaps 0.5867273408013245
+presumably 0.5742207894107062
+probably 0.5571218274895073
+ironically 0.5493637633300779
+616
+615
+
+*efficient inefficient productive unproductive
+unproductive 0.7014357757897975
+productive 0.689749646917301
+inefficient 0.6722967571877082
+counterproductive 0.6469859437233784
+counter-productive 0.6407623218257634
+1
+1
+
+*efficient inefficient rational irrational
+rational 0.7191607984120871
+unscientific 0.6052708736325598
+self-defeating 0.5975940806226634
+eurocentric 0.5928225601369088
+incoherent 0.592627032863165
+7
+6
+
+*efficient inefficient reasonable unreasonable
+reasonable 0.6981471641661887
+unreasonable 0.6876634268246746
+unwise 0.6728601195027064
+illogical 0.6660856005491779
+hypocritical 0.6656093745012223
+2
+1
+
+*efficient inefficient responsible irresponsible
+responsible 0.6926795817264211
+inefficient 0.5505245082767294
+ill-suited 0.5463525770980707
+counterproductive 0.5438558104430679
+inadmissible 0.5415145910646422
+107
+105
+
+*efficient inefficient sure unsure
+sure 0.707097867716035
+unsure 0.5614268941128935
+iffy 0.5027538170703895
+afraid 0.5024015063230458
+off-topic 0.49848913596236843
+2
+1
+
+*efficient inefficient tasteful distasteful
+tasteless 0.7690001173966268
+untidy 0.7603750276011654
+amateurish 0.7556696691436771
+repetitious 0.7498670343537972
+self-indulgent 0.7480738520273943
+471
+469
+
+*efficient inefficient acceptable unacceptable
+acceptable 0.7235548723990082
+inapplicable 0.6875669294923669
+inadmissible 0.6803113131206329
+counterproductive 0.6797259068885358
+unacceptable 0.6737639893662806
+5
+4
+
+*efficient inefficient aware unaware
+aware 0.6905389369283907
+unaware 0.6375805551167466
+apprehensive 0.633922625747208
+sceptical 0.6237443822575267
+wary 0.6150185593067047
+2
+1
+
+*efficient inefficient certain uncertain
+certain 0.7126459807434037
+certian 0.5640504984813919
+inconsequential 0.5521096972978831
+inconvenient 0.5489841970692523
+insignificant 0.5433557972026121
+1242
+1240
+
+*efficient inefficient clear unclear
+clear 0.6897394366145025
+unclear 0.5658737460497074
+clear-cut 0.55596308622369
+unecessary 0.550935854775457
+us-centric 0.544092287120642
+2
+1
+
+*efficient inefficient comfortable uncomfortable
+comfortable 0.6771951415884141
+uncomfortable 0.653446958732134
+inefficient 0.622854665581338
+untidy 0.6188387338687966
+uneasy 0.605299812703082
+2
+1
+
+*efficient inefficient competitive uncompetitive
+competitive 0.6805600515662366
+inefficient 0.6278290912211997
+uncompetitive 0.6265786619956545
+exploitative 0.5990687066306163
+unsustainable 0.5954204371151118
+3
+1
+
+*efficient inefficient consistent inconsistent
+inconsistent 0.7487691070068883
+consistent 0.7020171784263577
+consistant 0.663302319542782
+incompatible 0.6282410732001739
+incongruent 0.6235681784526631
+1
+1
+
+*efficient inefficient convincing unconvincing
+convincing 0.7225997858668505
+unconvincing 0.6296220238447134
+compelling 0.6103620071480442
+baffling 0.6068530083288864
+patronizing 0.580467152943547
+2
+1
+
+*efficient inefficient convenient inconvenient
+inconvenient 0.7513635150794906
+convenient 0.713353066604208
+inefficient 0.6654309546866641
+cumbersome 0.6502159922218396
+imprecise 0.6396859119344426
+1
+1
+
+*efficient inefficient decided undecided
+decided 0.7144645110602024
+decides 0.5486644307361369
+contrived 0.5418456021145606
+disinclined 0.5376348997499805
+stonewalled 0.5355265875647629
+100
+99
+
+*ethical unethical fortunate unfortunate
+fortunate 0.7604360420850471
+unlucky 0.6564968652428417
+foolhardy 0.6084052040142223
+unethical 0.602713919375313
+loath 0.5911986203529673
+28
+26
+
+*ethical unethical honest dishonest
+honest 0.7243598980296626
+unethical 0.688928328159206
+inept 0.680306127967933
+irresponsible 0.653710518809362
+dishonest 0.6531265375885296
+5
+3
+
+*ethical unethical impressive unimpressive
+impressive 0.76392205628485
+unimpressive 0.6349602572102467
+disappointing 0.6274115667661406
+amateurish 0.6131183163886684
+commendable 0.6044440538365173
+2
+1
+
+*ethical unethical informative uninformative
+informative 0.7336156733875292
+unethical 0.6961282137456795
+usefull 0.6959504849722127
+disingenuous 0.6886653072518887
+uninformative 0.6826890209087421
+5
+3
+
+*ethical unethical informed uninformed
+informed 0.7042393777782546
+forewarned 0.6696715014635358
+reassured 0.6445042786602568
+apprised 0.6405258619080253
+embarrassed 0.6244447983234578
+127
+126
+
+*ethical unethical known unknown
+known 0.7408904649441177
+billed 0.5401315412901642
+misidentified 0.5373320829180465
+indisposed 0.5369000592705571
+mislabeled 0.5367581120763995
+10024
+10022
+
+*ethical unethical likely unlikely
+likely 0.7604182041901671
+unlikely 0.6627169698249034
+loath 0.5916847292390504
+unethical 0.5843066234825752
+inadvisable 0.5771669287345691
+2
+1
+
+*ethical unethical logical illogical
+unethical 0.7475599029669958
+illogical 0.7296057026168711
+disingenuous 0.7171191564427121
+logical 0.6945232079028072
+implausible 0.6934101002447101
+2
+1
+
+*ethical unethical pleasant unpleasant
+pleasant 0.7245613991244261
+unpleasant 0.6329264392934651
+presumptuous 0.6180669148616096
+unethical 0.6162352355632212
+nauseous 0.6139202761222146
+2
+1
+
+*ethical unethical possible impossible
+possible 0.7256057828317379
+feasible 0.5651845078598323
+unethical 0.5536426170565013
+practicable 0.5485100120208228
+unfeasible 0.5312835096900209
+35
+33
+
+*ethical unethical possibly impossibly
+possibly 0.7234843363898924
+perhaps 0.6155994925006473
+apparently 0.6020081338879354
+probably 0.5937794175639871
+presumably 0.5829628326694299
+1021
+1020
+
+*ethical unethical productive unproductive
+productive 0.750580464984475
+unethical 0.6651482543059176
+unproductive 0.6559433266406589
+counterproductive 0.6261781119691372
+counter-productive 0.6221136427468692
+3
+1
+
+*ethical unethical rational irrational
+unethical 0.7180033141975289
+rational 0.6728011136511876
+disingenuous 0.656729791528074
+untrustworthy 0.6483172390604496
+reprehensible 0.6432587063796513
+130
+128
+
+*ethical unethical reasonable unreasonable
+reasonable 0.7462884536548834
+unethical 0.7097095068485101
+disingenuous 0.6901886900818016
+unreasonable 0.6815505092322746
+ill-advised 0.6610062797866758
+4
+2
+
+*ethical unethical responsible irresponsible
+responsible 0.7250985212793696
+liable 0.6024525657336226
+unethical 0.5996661053919103
+incompetent 0.5714988744431725
+ill-suited 0.5680477507276259
+9
+7
+
+*ethical unethical sure unsure
+sure 0.7362777599878382
+afraid 0.5569588351493842
+unsure 0.5466604351413927
+loath 0.5439031186652734
+unethical 0.5209348596415384
+3
+2
+
+*ethical unethical tasteful distasteful
+amateurish 0.7798928823925263
+unethical 0.7698402397373987
+unprofessional 0.7638116357324622
+uninspired 0.7607971844582115
+pretentious 0.7592702943496682
+59
+57
+
+*ethical unethical acceptable unacceptable
+acceptable 0.7548189900278086
+unethical 0.7116187510625973
+unacceptable 0.7068498523038418
+unfeasible 0.6852800758818854
+counterproductive 0.6830216659059516
+3
+1
+
+*ethical unethical aware unaware
+aware 0.7456776563837488
+wary 0.635279855102978
+apprehensive 0.6184206572933972
+suspicious 0.6129643671404654
+afraid 0.6028273040994669
+7
+6
+
+*ethical unethical certain uncertain
+certain 0.7134336396085836
+unethical 0.6029707218149203
+ill-advised 0.5823580481752506
+churlish 0.5809432780522656
+ludicrous 0.5797776806223202
+3357
+3355
+
+*ethical unethical clear unclear
+clear 0.7028330007113489
+disingenuous 0.5754171387341361
+laughable 0.5705971590827394
+nauseous 0.5672115784404378
+presumptuous 0.5630549436375875
+432
+430
+
+*ethical unethical comfortable uncomfortable
+comfortable 0.7299903713165138
+uncomfortable 0.6624763736176295
+nauseous 0.620295407935061
+unfeasible 0.6073950773336277
+unethical 0.6026175833088643
+2
+1
+
+*ethical unethical competitive uncompetitive
+competitive 0.7151324604109878
+uncompetitive 0.6429332960735074
+unethical 0.6380326530071233
+unfeasible 0.6115336605440945
+unviable 0.6024794410442064
+2
+1
+
+*ethical unethical consistent inconsistent
+consistent 0.716269785787079
+inconsistent 0.6560967721885649
+consistant 0.616123945377464
+incongruous 0.609242755604832
+unethical 0.6002881708255602
+2
+1
+
+*ethical unethical convincing unconvincing
+convincing 0.7478364899534643
+compelling 0.62265960700049
+infuriating 0.590571935268523
+persuading 0.5851653623617816
+obliging 0.5787849742558033
+6
+5
+
+*ethical unethical convenient inconvenient
+convenient 0.7292012446021262
+infeasible 0.6608116924284364
+advisable 0.6597595590872113
+unfeasible 0.6508956260002321
+inadvisable 0.6403380026089772
+7
+6
+
+*ethical unethical decided undecided
+decided 0.7443660844207117
+schemed 0.6064516240303497
+motioned 0.5833716404042045
+vowed 0.5785037658492498
+disinclined 0.5781576964801122
+568
+566
+
+*ethical unethical efficient inefficient
+efficient 0.735699907891836
+inefficient 0.7039422667136292
+unethical 0.6919788499271411
+ineffective 0.6766881171482336
+unfeasible 0.6749893238726016
+2
+1
+
+*fortunate unfortunate honest dishonest
+honest 0.7364999794720033
+sarcastic 0.6485773123827607
+unfortunate 0.6113699255945966
+irreverent 0.6047170964659964
+argumentative 0.598805084266658
+621
+619
+
+*fortunate unfortunate impressive unimpressive
+impressive 0.738706487852935
+unfortunate 0.6464170451715233
+remarkable 0.6460651507043483
+comical 0.6242620508309243
+hilarious 0.6193900672154046
+8
+6
+
+*fortunate unfortunate informative uninformative
+informative 0.770972206141436
+humorous 0.6761027971132767
+unencyclopedic 0.6705399927944576
+non-encyclopedic 0.6678927414138233
+well-researched 0.6582368591474117
+10
+9
+
+*fortunate unfortunate informed uninformed
+informed 0.7065913919902451
+apprised 0.5741536069795198
+misinformed 0.5668412036870064
+notified 0.5632214390441209
+forewarned 0.5531814014421932
+48
+47
+
+*fortunate unfortunate known unknown
+known 0.7092011481078196
+self-admitted 0.5423935671718195
+unattested 0.5338613304639406
+mislabeled 0.526556560533016
+misnamed 0.5187280206277313
+9261
+9259
+
+*fortunate unfortunate likely unlikely
+likely 0.6960033292986839
+unfortunate 0.6482061214074579
+unlikely 0.6241796115257375
+probable 0.6028677587438088
+implausible 0.5671938149317747
+3
+1
+
+*fortunate unfortunate logical illogical
+logical 0.7714327534439366
+illogical 0.6498597652458951
+arithmetical 0.6320472482805494
+unambiguous 0.6302734893802486
+metaphorical 0.6285057896294324
+2
+1
+
+*fortunate unfortunate pleasant unpleasant
+pleasant 0.7420006234637151
+unfortunate 0.6074149827061864
+unpleasant 0.6060529039659072
+comical 0.5904414785036782
+eerie 0.5881417806005407
+3
+1
+
+*fortunate unfortunate possible impossible
+possible 0.7708989019466971
+unintentional 0.5406698881098191
+hypothetical 0.5285025145680734
+unfortunate 0.5088541615114389
+plausible 0.5077657031652326
+556
+554
+
+*fortunate unfortunate possibly impossibly
+possibly 0.7405522805653194
+perhaps 0.6202373554192225
+potentially 0.5871142029169857
+lastly 0.5870653343582068
+putatively 0.5826777604795913
+754
+753
+
+*fortunate unfortunate productive unproductive
+productive 0.6904880474945405
+unproductive 0.6305865707400861
+non-productive 0.6078368927537919
+unfortunate 0.6073262308401826
+unhelpful 0.6042372670481426
+2
+1
+
+*fortunate unfortunate rational irrational
+rational 0.7411218744667335
+common-sense 0.622320810287991
+hypothetical 0.6051303015569608
+counterfactual 0.5923368886742278
+ontological 0.5856675984648337
+12
+11
+
+*fortunate unfortunate reasonable unreasonable
+reasonable 0.7599803456643488
+unreasonable 0.6419609634132708
+illogical 0.6335608754658199
+resonable 0.6315534339982198
+unfortunate 0.6287697373106921
+2
+1
+
+*fortunate unfortunate responsible irresponsible
+responsible 0.7015128514129823
+unfortunate 0.5234155596347961
+unaccountable 0.5136198830000168
+unintentional 0.5122303045249894
+unavoidable 0.4999092540988277
+761
+759
+
+*fortunate unfortunate sure unsure
+sure 0.7105168268370823
+unfortunate 0.5653504429000916
+delete- 0.5303563316076692
+ironic 0.5033423778341639
+it- 0.49902312378076075
+88
+86
+
+*fortunate unfortunate tasteful distasteful
+tasteful 0.7693242717936948
+comical 0.7505610660092373
+whimsical 0.7494626654221989
+idiosyncratic 0.7450685157963919
+self-deprecating 0.7442734305248012
+781
+779
+
+*fortunate unfortunate acceptable unacceptable
+acceptable 0.7454452817442421
+unacceptable 0.6776345111780663
+implausible 0.6265839160345306
+plausible 0.6257751890321853
+spurious 0.6249239696664859
+2
+1
+
+*fortunate unfortunate aware unaware
+aware 0.7021987554674302
+suspicious 0.5715989219143666
+unfortunate 0.5473377543397905
+conscious 0.5417316461425666
+sceptical 0.5403489380457017
+168
+166
+
+*fortunate unfortunate certain uncertain
+certain 0.7351999928407157
+unfortunate 0.6271440172826229
+certian 0.5989971382936083
+occassional 0.5774485440349946
+one-word 0.5723563662407302
+5392
+5390
+
+*fortunate unfortunate clear unclear
+clear 0.7503581952685017
+unambiguous 0.5843818255114102
+obvious 0.5426221063116854
+unfortunate 0.53883599053932
+unclear 0.5284398671116108
+5
+3
+
+*fortunate unfortunate comfortable uncomfortable
+comfortable 0.6887440128035381
+uncomfortable 0.6177125535764594
+incongruous 0.5997931409076344
+monotonous 0.5856783415680709
+unfortunate 0.5852230538126948
+2
+1
+
+*fortunate unfortunate competitive uncompetitive
+competitive 0.7063863869424369
+non-competitive 0.6073941378140489
+farcical 0.5818199169277435
+ignominious 0.5793894354527823
+high-stakes 0.5754815890726585
+52
+51
+
+*fortunate unfortunate consistent inconsistent
+consistent 0.7436476366284568
+inconsistent 0.6113711714143614
+consistant 0.6056663287857726
+unambiguous 0.5894008052123079
+incongruous 0.575018744517692
+2
+1
+
+*fortunate unfortunate convincing unconvincing
+convincing 0.707834999737605
+compelling 0.6259364136507519
+reassuring 0.6115766935588741
+startling 0.60965702787142
+unfortunate 0.605186939688211
+15
+13
+
+*fortunate unfortunate convenient inconvenient
+convenient 0.7105247042418984
+unfortunate 0.6291774898850249
+inconvenient 0.6018963138230176
+illogical 0.5932792420825537
+unambiguous 0.5922318177613459
+3
+1
+
+*fortunate unfortunate decided undecided
+decided 0.6926375627741198
+agreed 0.5485960173726584
+relented 0.546471881511908
+decides 0.5322550637983855
+demurred 0.527297912665001
+754
+752
+
+*fortunate unfortunate efficient inefficient
+efficient 0.7067039345341016
+unambiguous 0.6283515305376381
+inefficient 0.6233530888558496
+non-invasive 0.6181824424515935
+repeatable 0.6181255502827028
+3
+2
+
+*fortunate unfortunate ethical unethical
+ethical 0.7530376816775666
+epistemological 0.6710592218178982
+methodological 0.6673152520524549
+existential 0.6622338396582166
+aesthetical 0.6606695547522426
+1137
+1135
+
+*honest dishonest impressive unimpressive
+impressive 0.7017393083750615
+remarkable 0.5895866878038596
+mind-boggling 0.5878658588545513
+unimpressive 0.5856357809320323
+innappropriate 0.5809997587838996
+4
+3
+
+*honest dishonest informative uninformative
+defamatory 0.7031083663734274
+self-promotional 0.6840340761236319
+unencyclopaedic 0.6839932791552773
+non-encyclopedic 0.6834530080354386
+libelous 0.6832073214497069
+38
+36
+
+*honest dishonest informed uninformed
+informed 0.6845848258290491
+apprised 0.5948855437911156
+advised 0.5739220929753078
+warned 0.5739063712736914
+misinformed 0.5712226273823042
+97
+95
+
+*honest dishonest known unknown
+known 0.7220503123027304
+wellknown 0.5408688534219623
+mistranslated 0.5192702102483343
+referred 0.5163836198326354
+stigmatised 0.509001313495113
+15297
+15295
+
+*honest dishonest likely unlikely
+likely 0.767183961368416
+unlikely 0.5918859788712215
+dishonest 0.5093458661773117
+untoward 0.5059552922340155
+unwise 0.4980194111409362
+2
+1
+
+*honest dishonest logical illogical
+logical 0.7016944984062514
+illogical 0.6613200436988934
+dishonest 0.6576878425670915
+unethical 0.6295832474753652
+improper 0.6251658397174692
+2
+1
+
+*honest dishonest pleasant unpleasant
+pleasant 0.6974051808573584
+dishonest 0.6118253946484158
+unpleasant 0.6039795096419043
+inconsiderate 0.5643092279049762
+impolite 0.563716309143174
+3
+1
+
+*honest dishonest possible impossible
+possible 0.7077000453195927
+necessary 0.48767147958432355
+feasible 0.48524190243044574
+sanctionable 0.47870816792726933
+undesirable 0.4784026520543807
+416
+414
+
+*honest dishonest possibly impossibly
+possibly 0.758482204356288
+potentially 0.6407286333622056
+probably 0.6299174847376299
+presumably 0.6287450271188348
+arguably 0.6260870931413121
+1024
+1023
+
+*honest dishonest productive unproductive
+productive 0.6973563498383967
+dishonest 0.6389546565562554
+disruptive 0.6275680935042832
+unproductive 0.6065696326125424
+unethical 0.6048911510339565
+4
+2
+
+*honest dishonest rational irrational
+rational 0.6999952839292657
+dishonest 0.6608804506540463
+reductionist 0.5915450757460393
+pseudoscientific 0.5895202844989863
+eurocentric 0.5886595448840161
+14
+12
+
+*honest dishonest reasonable unreasonable
+unreasonable 0.683293006097764
+reasonable 0.6785219216571151
+unethical 0.6664860708402466
+dishonest 0.664304224116539
+illogical 0.6546808986573036
+1
+1
+
+*honest dishonest responsible irresponsible
+responsible 0.7317618581397924
+liable 0.5531204447232474
+dishonest 0.5325296621420174
+accountable 0.5287120388806187
+culpable 0.509829921496058
+24
+22
+
+*honest dishonest sure unsure
+sure 0.698734947987204
+dishonest 0.5218973083161624
+unsure 0.5153458552682731
+untoward 0.4961412969997183
+unseemly 0.4812367457291241
+3
+1
+
+*honest dishonest tasteful distasteful
+puerile 0.7392915063880305
+dishonest 0.7383511370898599
+tasteless 0.7294989589987361
+sacrilegious 0.726779181588868
+capricious 0.724252022087889
+397
+395
+
+*honest dishonest acceptable unacceptable
+acceptable 0.7191712628319181
+unacceptable 0.6964477622559129
+inadmissible 0.6501801537906448
+undesirable 0.6445965890764287
+objectionable 0.642209070669731
+2
+1
+
+*honest dishonest aware unaware
+aware 0.7222197246037024
+unaware 0.5717060938879706
+incapable 0.5413241058540068
+cognizant 0.5395877612081796
+violative 0.5372584688193339
+2
+1
+
+*honest dishonest certain uncertain
+certain 0.7177480105132008
+certian 0.5426916782184039
+diffrent 0.5278190892446957
+fat-soluble 0.5254446055653813
+fda-approved 0.5220083144606393
+8717
+8715
+
+*honest dishonest clear unclear
+clear 0.6758828802180685
+innapropriate 0.5238639475650028
+clear-cut 0.5225499550975994
+innappropriate 0.5183111787871186
+dishonest 0.5149812967126592
+346
+344
+
+*honest dishonest comfortable uncomfortable
+comfortable 0.6623396590071745
+uncomfortable 0.6011440157710817
+dishonest 0.5828522028972034
+uneconomical 0.5732007003851041
+unfeasible 0.5649863201179977
+2
+1
+
+*honest dishonest competitive uncompetitive
+competitive 0.6882667573907517
+uncompetitive 0.5818118335094672
+dishonest 0.5758876787385052
+discriminatory 0.5668113519902671
+non-competitive 0.5663672677231923
+2
+1
+
+*honest dishonest consistent inconsistent
+inconsistent 0.674045534007328
+consistent 0.6665374141545728
+dishonest 0.5942229888602907
+consistant 0.58769505504334
+incongruent 0.5836961939442612
+1
+1
+
+*honest dishonest convincing unconvincing
+convincing 0.7243755493372566
+compelling 0.6172952326860676
+dishonest 0.6092495155834752
+unconvincing 0.5685983715694072
+baffling 0.5638115133932482
+4
+2
+
+*honest dishonest convenient inconvenient
+convenient 0.7411250950176377
+inconvenient 0.6510591298571028
+dishonest 0.6064311923240423
+cumbersome 0.5937263685774804
+appropiate 0.5803579019674647
+2
+1
+
+*honest dishonest decided undecided
+decided 0.7117871590308672
+motioned 0.5632253510022976
+countersued 0.5580960808078098
+demurred 0.5545128455236107
+schemed 0.5490985386056589
+2220
+2218
+
+*honest dishonest efficient inefficient
+efficient 0.6931752267906233
+inefficient 0.6758195953406405
+cost-effective 0.6332200039317879
+uneconomical 0.6248400537999531
+dishonest 0.6239503286738712
+2
+1
+
+*honest dishonest ethical unethical
+ethical 0.7149246008668845
+dishonest 0.6841157337269718
+pseudoscientific 0.6507442301882341
+unethical 0.6443138228713422
+discriminatory 0.6388477906950587
+4
+2
+
+*honest dishonest fortunate unfortunate
+fortunate 0.7395781026872033
+dishonest 0.6148707928923799
+imprudent 0.547874581392426
+foolhardy 0.5430584228249548
+unwise 0.539194737654972
+8
+6
+
+*impressive unimpressive informative uninformative
+uninformative 0.7633044962692914
+self-contradictory 0.7475386845783656
+informative 0.743929799279593
+unencyclopaedic 0.7427707766956507
+humourous 0.7400953064379545
+1
+1
+
+*impressive unimpressive informed uninformed
+informed 0.7632035901880305
+apprised 0.6768047407383304
+misinformed 0.6442074877240211
+misled 0.6337497637741436
+forewarned 0.6287025880153863
+27
+26
+
+*impressive unimpressive known unknown
+known 0.7420322309192589
+unattested 0.6648796850186571
+habituated 0.6276727193417166
+trilled 0.6207112612065578
+unrevealed 0.6189780883624434
+9876
+9874
+
+*impressive unimpressive likely unlikely
+likely 0.7464286084049938
+unlikely 0.6145898792849098
+likelier 0.6104462672454812
+unproblematic 0.605592291609477
+excusable 0.6054921553879378
+2
+1
+
+*impressive unimpressive logical illogical
+logical 0.7456043317338014
+tautological 0.7231338355815089
+fallacious 0.7154619833208776
+unprovable 0.7147778969557187
+ahistorical 0.7099477385277456
+48
+47
+
+*impressive unimpressive pleasant unpleasant
+pleasant 0.7636722614423593
+carefree 0.6521514022013942
+disagreeable 0.6486294650164212
+salubrious 0.6484807671065762
+listless 0.6469360824458329
+43
+42
+
+*impressive unimpressive possible impossible
+possible 0.7514983599710119
+voidable 0.5928426704012915
+unactionable 0.5777232443003454
+unenforceable 0.5727176126451018
+non-viable 0.5719823703186933
+2592
+2590
+
+*impressive unimpressive possibly impossibly
+possibly 0.7371464127772269
+secondarily 0.6547874973104053
+self-evidently 0.6492722261599806
+questionably 0.6468340428248344
+potentially 0.6450645732778858
+660
+659
+
+*impressive unimpressive productive unproductive
+unproductive 0.7322559216404925
+productive 0.7294234063489609
+non-productive 0.7233076595586061
+unproblematic 0.6996622941255489
+uncommunicative 0.6887401432745499
+1
+1
+
+*impressive unimpressive rational irrational
+rational 0.7618843295285116
+facetious 0.6509838867498056
+self-defeating 0.6486489958638844
+fallacious 0.6445216272273914
+unprovable 0.6434422757319177
+388
+387
+
+*impressive unimpressive reasonable unreasonable
+reasonable 0.7544709442556341
+unproblematic 0.6933550222706084
+resonable 0.6917083525228712
+ill-founded 0.6913855148578172
+unactionable 0.6911124992478932
+224
+223
+
+*impressive unimpressive responsible irresponsible
+responsible 0.7638817888370321
+culpable 0.6125358941758394
+voidable 0.6070301440819323
+liable 0.6003244349712601
+accountable 0.6002631469872843
+695
+694
+
+*impressive unimpressive sure unsure
+sure 0.7439804140266476
+queasy 0.5623703926930436
+unsure 0.5562550138763706
+excusable 0.5557433541190495
+unsourcable 0.5542388008609341
+3
+2
+
+*impressive unimpressive tasteful distasteful
+self-centred 0.8068143076634079
+inoffensive 0.8055412466748696
+facetious 0.8023620968874641
+unemotional 0.8009270820878505
+businesslike 0.7991244368170677
+1219
+1217
+
+*impressive unimpressive acceptable unacceptable
+acceptable 0.7758175653159383
+inapplicable 0.7251007052248106
+inadmissible 0.7230009601337771
+unenforceable 0.7192710908741086
+admissible 0.7012109366423359
+24
+23
+
+*impressive unimpressive aware unaware
+aware 0.7441265720889135
+unsupportive 0.6616362517879398
+mistrustful 0.6508409625033652
+disdainful 0.6429723253688002
+violative 0.6365966638400359
+6
+5
+
+*impressive unimpressive certain uncertain
+certain 0.7494038388453447
+certian 0.6477664114247103
+impermissible 0.6401713491642091
+non-contentious 0.6380580881461914
+non-productive 0.6379688670856855
+5044
+5042
+
+*impressive unimpressive clear unclear
+clear 0.7364775775519543
+unsupportable 0.6213992243250842
+unobjectionable 0.6187660711974792
+unpersuasive 0.6186030382158781
+ill-founded 0.6180566711000982
+252
+251
+
+*impressive unimpressive comfortable uncomfortable
+comfortable 0.7337995366624301
+uncomfortable 0.6594137824585988
+inattentive 0.6591726764381179
+nauseous 0.6585006086033452
+self-centred 0.6555483978420935
+2
+1
+
+*impressive unimpressive competitive uncompetitive
+competitive 0.7531401674311798
+uncompetitive 0.7043930944465433
+non-competitive 0.6779127483213856
+noncompetitive 0.6549372452728005
+voidable 0.6446624851717674
+2
+1
+
+*impressive unimpressive consistent inconsistent
+consistent 0.7564749556817197
+consistant 0.7046421116391298
+inconsistent 0.6812723858419186
+incongruent 0.6659709213632424
+inconsistant 0.6481331511423034
+3
+2
+
+*impressive unimpressive convincing unconvincing
+convincing 0.7169361355232314
+infuriating 0.6475431556634794
+compelling 0.6344234494323611
+unconvincing 0.6330599796592028
+deceiving 0.632768223447639
+4
+3
+
+*impressive unimpressive convenient inconvenient
+convenient 0.7438209438759368
+inconvenient 0.6991188206017217
+inappropiate 0.6634012048624849
+error-prone 0.6613825061011886
+unproblematic 0.6611701115963431
+2
+1
+
+*impressive unimpressive decided undecided
+decided 0.7510557996510867
+wrongheaded 0.6040975799909135
+underwhelmed 0.6033997477194942
+unheeded 0.5999669225105273
+backtracked 0.5994506648597528
+972
+971
+
+*impressive unimpressive efficient inefficient
+efficient 0.7273040682310753
+cost-efficient 0.7205253625028424
+non-toxic 0.718429009725845
+error-prone 0.7174956454913811
+unreactive 0.7166566772868225
+8
+7
+
+*impressive unimpressive ethical unethical
+ethical 0.7848831008176358
+consensual 0.6811505766772109
+materialistic 0.6793183925516024
+non-discriminatory 0.6755987919687411
+non-criminal 0.6736944047761788
+601
+600
+
+*impressive unimpressive fortunate unfortunate
+fortunate 0.7357768059473058
+disobedient 0.6631854413234807
+underweight 0.6621278947259616
+inconsolable 0.6541415583202167
+ungrateful 0.6526224355783411
+1004
+1002
+
+*impressive unimpressive honest dishonest
+honest 0.7741563410422408
+even-handed 0.6676576182378225
+deceitful 0.6601638712081752
+judgemental 0.6596729246457774
+self-centred 0.6573038311809943
+140
+139
+
+*informative uninformative informed uninformed
+informed 0.7306465121357584
+underwhelmed 0.6549611768630278
+apprised 0.6496802282121564
+unconvinced 0.6494717447883179
+misinformed 0.646363935714682
+109
+108
+
+*informative uninformative known unknown
+known 0.7528485895495775
+unattested 0.6748532091195756
+romanised 0.6211494555027778
+unmentioned 0.6179435127411294
+so-named 0.6138360537536235
+8645
+8643
+
+*informative uninformative likely unlikely
+likely 0.7379958768598238
+unlikely 0.613635958699578
+likelier 0.6040759978267191
+unsupportable 0.5983392299589251
+ungrounded 0.5960492017648543
+2
+1
+
+*informative uninformative logical illogical
+tautological 0.7270391958845094
+logical 0.7254416900294537
+fallacious 0.7175464527123276
+arbitary 0.7128281279002462
+unprovable 0.7113879081257422
+13
+12
+
+*informative uninformative pleasant unpleasant
+pleasant 0.7116308628870823
+bashful 0.6735599029523528
+moronic 0.6671293261050715
+nondescript 0.6667896217934665
+woeful 0.6655790212578955
+852
+850
+
+*informative uninformative possible impossible
+possible 0.7309824142653611
+avoidable 0.5912588938776764
+unwinnable 0.5781553702980585
+unactionable 0.5757389854484207
+cognizable 0.5756541167608862
+4016
+4014
+
+*informative uninformative possibly impossibly
+possibly 0.7594574461840047
+presumably 0.6409508175035076
+congenitally 0.6336646265394197
+unavoidably 0.6320055207324132
+inescapably 0.6317002891228204
+510
+509
+
+*informative uninformative productive unproductive
+unproductive 0.7132692287487241
+non-productive 0.7125391281310101
+productive 0.7118386202065151
+uncommunicative 0.6930806475516051
+uncooperative 0.6792267675643666
+1
+1
+
+*informative uninformative rational irrational
+rational 0.7355088605852628
+moronic 0.6604494156204279
+wrong-headed 0.6527659540020445
+facetious 0.6515449966502265
+fallacious 0.6500771245932551
+13
+12
+
+*informative uninformative reasonable unreasonable
+reasonable 0.74158815129045
+resonable 0.708445080352936
+rediculous 0.6981173918128413
+unreasonable 0.6976974542607719
+unsupportable 0.6920608995624246
+4
+3
+
+*informative uninformative responsible irresponsible
+responsible 0.7328472236862523
+culpable 0.6095359234279074
+unaccountable 0.6085337214420712
+dispensable 0.6027648059258213
+unwinnable 0.6022916937320874
+480
+479
+
+*informative uninformative sure unsure
+sure 0.7291491340792985
+unsure 0.5633381300463108
+regretful 0.5587658586451386
+queasy 0.5583426883688456
+incredulous 0.5562145454752725
+2
+1
+
+*informative uninformative tasteful distasteful
+unimaginative 0.8113452283582093
+capricious 0.8063588096872751
+moronic 0.8001496876900552
+mendacious 0.7998837585296737
+facetious 0.7993004645867642
+2711
+2709
+
+*informative uninformative acceptable unacceptable
+acceptable 0.7286656357673882
+unconscionable 0.7284223422490944
+unsupportable 0.7279291308749101
+unenforceable 0.7185257656168133
+unjustifiable 0.7164619250093547
+34
+33
+
+*informative uninformative aware unaware
+aware 0.7451860584417207
+unsupportive 0.6298953921829132
+mistrustful 0.6261626975965986
+disdainful 0.6254211788999262
+incredulous 0.6205496334924856
+13
+12
+
+*informative uninformative certain uncertain
+certain 0.7670507227480464
+certian 0.6527937186714869
+unheard-of 0.6311369706706863
+uncountable 0.615033019196014
+unidentifiable 0.613884195365915
+5849
+5847
+
+*informative uninformative clear unclear
+clear 0.724340181496988
+unsupportable 0.6262391190056704
+ungrounded 0.6145484072925178
+undisputable 0.6135062775603439
+clear-cut 0.6099715463589902
+1410
+1408
+
+*informative uninformative comfortable uncomfortable
+comfortable 0.7343200479162544
+uncomfortable 0.6501375017263717
+nauseous 0.6462703867195698
+uncommunicative 0.6367335609243078
+trigger-happy 0.6306965655950527
+2
+1
+
+*informative uninformative competitive uncompetitive
+competitive 0.7291402695731304
+uncompetitive 0.702407805920556
+unwinnable 0.6422405562673771
+unheard-of 0.6403258721232472
+unbeatable 0.6380292777782045
+2
+1
+
+*informative uninformative consistent inconsistent
+consistent 0.7296073556985397
+consistant 0.6982963711563872
+inconsistent 0.6907344570574635
+incongruent 0.6543607892914055
+ungrounded 0.6439523644300178
+3
+2
+
+*informative uninformative convincing unconvincing
+convincing 0.7264720542825719
+moronic 0.6120273661090692
+unconvincing 0.5990793169438009
+unsupportable 0.5988683492632916
+demoralizing 0.5952823969582723
+3
+2
+
+*informative uninformative convenient inconvenient
+convenient 0.7055518434613992
+overbroad 0.6723291297117231
+inconvenient 0.670045417383646
+unspecific 0.6638129050527269
+unintuitive 0.6617412712360239
+3
+2
+
+*informative uninformative decided undecided
+decided 0.7646306748110863
+nixed 0.6102926410900547
+countermanded 0.6081740784397364
+reimposed 0.6007791729555765
+refiled 0.6004805113018978
+470
+469
+
+*informative uninformative efficient inefficient
+ineffectual 0.715438249740709
+inefficient 0.7136968540448025
+efficient 0.7063553865489436
+non-viable 0.7042048489711991
+uncompetitive 0.7035602306407531
+2
+2
+
+*informative uninformative ethical unethical
+ethical 0.7193949205479853
+exclusionary 0.7132168714186509
+anti-intellectual 0.7098288214791908
+anti-democratic 0.7097015570276388
+vexatious 0.707534434917924
+1645
+1643
+
+*informative uninformative fortunate unfortunate
+fortunate 0.7491568135321165
+grief-stricken 0.6374274829002705
+unlucky 0.6353882757567958
+ungrateful 0.6318930762951183
+shell-shocked 0.6273933636461221
+521
+520
+
+*informative uninformative honest dishonest
+honest 0.7207506243814911
+deceitful 0.6984641398247181
+unrepentant 0.695016013121012
+obstinate 0.6947627800910677
+stingy 0.6905087441135778
+103
+101
+
+*informative uninformative impressive unimpressive
+unimpressive 0.7282659446306158
+abysmal 0.721946602950137
+woeful 0.7159475687770891
+impressive 0.714614714364503
+atrocious 0.7091680414455004
+1
+1
+
+*informed uninformed known unknown
+known 0.724745437595981
+wellknown 0.5930501685530888
+untalented 0.5861857888706157
+unattested 0.584725955145933
+uninformed 0.5846428679628287
+6714
+6712
+
+*informed uninformed likely unlikely
+likely 0.7593466022795015
+unlikely 0.655633355019959
+illogical 0.6134375984799291
+unseemly 0.6125023813889354
+ludicrous 0.6092604338855583
+2
+1
+
+*informed uninformed logical illogical
+logical 0.7921597447905995
+illogical 0.7366217940078641
+irrational 0.6963830344325895
+idiotic 0.6960592455491963
+pedantic 0.6955688508130103
+2
+1
+
+*informed uninformed pleasant unpleasant
+pleasant 0.7678275198528742
+unpleasant 0.692952282364588
+untidy 0.6750661752192453
+tacky 0.6713442542842871
+pathetic 0.6703871057944171
+2
+1
+
+*informed uninformed possible impossible
+possible 0.7516354827420418
+unjustifiable 0.5806439553859798
+unavoidable 0.5761927364134621
+idiotic 0.5748229453220204
+non-sense 0.5736236049402567
+571
+569
+
+*informed uninformed possibly impossibly
+possibly 0.7403127251703404
+potentially 0.6591135890701012
+smelly 0.6558094025255158
+cuddly 0.6368029599432085
+weaselly 0.6333974809864286
+498
+497
+
+*informed uninformed productive unproductive
+productive 0.7813509041427409
+unproductive 0.7150233658301206
+clueful 0.6614931482788399
+counterproductive 0.6592504454391733
+praiseworthy 0.659232594783534
+2
+1
+
+*informed uninformed rational irrational
+rational 0.7864991868483439
+irrational 0.6935259663194177
+elitist 0.6615460997656026
+pedantic 0.6574541538718237
+common-sense 0.6573187643343074
+2
+1
+
+*informed uninformed reasonable unreasonable
+reasonable 0.7825622710008375
+unreasonable 0.7254461518175436
+illogical 0.7203169106368854
+idiotic 0.7051579362227302
+disingenuous 0.7050356167142986
+2
+1
+
+*informed uninformed responsible irresponsible
+responsible 0.7285898367990633
+uncooperative 0.6233394883665521
+untrustworthy 0.6181048188484911
+accountable 0.6178262027965963
+culpable 0.617409130793783
+10
+9
+
+*informed uninformed sure unsure
+sure 0.7293450461507659
+pathetic 0.5994532119938649
+squeamish 0.5948836397347017
+laughable 0.594734389560905
+dumber 0.5920814179030374
+758
+756
+
+*informed uninformed tasteful distasteful
+amateurish 0.8154749771532568
+tasteful 0.8067232946435291
+insipid 0.7993910276226904
+pretentious 0.7988477742379787
+tasteless 0.7963573257655656
+438
+437
+
+*informed uninformed acceptable unacceptable
+acceptable 0.7774967156916351
+unacceptable 0.7295785616993444
+counterproductive 0.7211176405844729
+counter-productive 0.7101256866294449
+justifiable 0.7083923648578025
+2
+1
+
+*informed uninformed aware unaware
+gullible 0.7071907957861882
+uninformed 0.696864583610664
+squeamish 0.6963480259975835
+credulous 0.6937715910029979
+unrepentant 0.6892142866353956
+3188
+3186
+
+*informed uninformed certain uncertain
+certain 0.7543015707443255
+idiotic 0.6487865702344744
+moronic 0.6477477560355178
+certian 0.643756751400699
+credulous 0.6410415133399024
+18835
+18833
+
+*informed uninformed clear unclear
+clear 0.7185770325749499
+clear-cut 0.6600229842113031
+pedantic 0.6325230399313148
+laughable 0.6320557877436572
+specious 0.6319742726628389
+1328
+1326
+
+*informed uninformed comfortable uncomfortable
+comfortable 0.7577481674486987
+uncomfortable 0.659613420799043
+untidy 0.6558205758351728
+incongruous 0.6484524245664937
+gullible 0.6401693078750772
+2
+1
+
+*informed uninformed competitive uncompetitive
+competitive 0.7506970319572118
+uncompetitive 0.6581985547125876
+uncooperative 0.6439456169261938
+praiseworthy 0.6331285659133963
+unpredictable 0.6315217805788703
+2
+1
+
+*informed uninformed consistent inconsistent
+consistent 0.7711306706372604
+consistant 0.7160436218967211
+inconsistent 0.6947191919196427
+incongruent 0.6600744101502268
+incongruous 0.6560120759193077
+3
+2
+
+*informed uninformed convincing unconvincing
+convincing 0.7085376834462558
+unconvincing 0.6881841494355444
+compelling 0.6759164183611319
+illogical 0.6684272465327429
+perverse 0.6676469677494464
+2
+1
+
+*informed uninformed convenient inconvenient
+convenient 0.7685403214348404
+inconvenient 0.7037487853754543
+clunky 0.6763948869546035
+cumbersome 0.663017919348208
+illogical 0.6554484758398927
+2
+1
+
+*informed uninformed decided undecided
+decided 0.6666831919547095
+illogical 0.6178196808412317
+uninformed 0.6113581365248963
+churlish 0.607416733439579
+wrongheaded 0.6029718698726193
+249
+247
+
+*informed uninformed efficient inefficient
+efficient 0.7598412299156936
+inefficient 0.7585303718414763
+cost-efficient 0.6791680720796937
+error-prone 0.6768928483134429
+untrustworthy 0.6742530481310797
+2
+1
+
+*informed uninformed ethical unethical
+ethical 0.774659886683608
+ethnocentric 0.7140296710580838
+altruistic 0.708657363658213
+elitist 0.7076187336380487
+unscientific 0.7060964066215074
+57
+56
+
+*informed uninformed fortunate unfortunate
+fortunate 0.7942423442339382
+gullible 0.6766615938654504
+well-off 0.6525039224789732
+unlucky 0.6498633493731636
+infirm 0.6475807723936983
+8
+7
+
+*informed uninformed honest dishonest
+honest 0.7967965955200906
+pedantic 0.6796103412631656
+uninformed 0.6794402461005201
+idiotic 0.673421546859911
+pathetic 0.672594847001638
+7
+5
+
+*informed uninformed impressive unimpressive
+impressive 0.7779305293637648
+amateurish 0.6910671349569814
+unimpressive 0.6876447147516506
+pathetic 0.6850258525258962
+praiseworthy 0.6844151807719641
+3
+2
+
+*informed uninformed informative uninformative
+informative 0.7782808568275251
+well-done 0.7352151923271738
+crufty 0.7306552174226635
+uninformative 0.7267245810381839
+incoherent 0.7253560514018129
+4
+3
+
+*known unknown likely unlikely
+likely 0.7106363562954512
+unknown 0.6194911574700787
+unlikely 0.5751736834198845
+probable 0.5025700253170267
+one-by-one 0.4917750439387256
+3
+1
+
+*known unknown logical illogical
+logical 0.7049477419432157
+unknown 0.6209175307835458
+intuitive 0.5746896404758223
+unknowable 0.5619946276202196
+self-consistent 0.5576849880333238
+7
+5
+
+*known unknown pleasant unpleasant
+pleasant 0.7279893592051603
+unknown 0.5773082987387339
+agreeable 0.5416606463022194
+carefree 0.5404151164283642
+gloomy 0.5333264994026157
+27
+25
+
+*known unknown possible impossible
+possible 0.7138303183929287
+unknown 0.5833450051438795
+impossible 0.48461072497894175
+practicable 0.4844920893163417
+feasible 0.47406376418007445
+3
+1
+
+*known unknown possibly impossibly
+possibly 0.7275884604989324
+presumably 0.6443635728614342
+probably 0.6207680291276095
+preferably 0.590926358683249
+potentially 0.5888588960261353
+775
+773
+
+*known unknown productive unproductive
+productive 0.7059392168022074
+unknown 0.60258648543032
+unproductive 0.5478792434593812
+fruitful 0.5345024799678265
+congenial 0.5266403083766477
+3
+1
+
+*known unknown rational irrational
+rational 0.729325074916709
+unknown 0.5962315036118443
+transcendental 0.5280142351299679
+irrational 0.5244741129266609
+ageless 0.5121326886441776
+4
+2
+
+*known unknown reasonable unreasonable
+reasonable 0.7190316763321806
+unknown 0.6012003632861612
+sensible 0.5814506511115327
+unreasonable 0.5701207234434313
+agreeable 0.5655890207744042
+4
+2
+
+*known unknown responsible irresponsible
+responsible 0.6789199779576179
+unknown 0.6291267179555795
+accountable 0.5361756820033743
+answerable 0.49748409666097315
+liable 0.4856296283766396
+945
+943
+
+*known unknown sure unsure
+sure 0.7049319872372791
+unknown 0.541520484585551
+unsure 0.5109903406689723
+uncertain 0.48520476973664617
+unclear 0.45236035024098786
+3
+1
+
+*known unknown tasteful distasteful
+tasteful 0.7096478422067478
+amateurish 0.7045345676051803
+sensuous 0.6922730466448034
+untidy 0.6916785961872083
+inscrutable 0.690034119411037
+894
+892
+
+*known unknown acceptable unacceptable
+acceptable 0.7235715806748327
+unknown 0.6529462318390542
+unsatisfactory 0.5980738993176342
+satisfactory 0.5863307544945047
+unacceptable 0.5847724084167873
+5
+3
+
+*known unknown aware unaware
+aware 0.6894734165017283
+unaware 0.6057383915795609
+unknown 0.5754512006986066
+uncertain 0.5559711180780829
+wary 0.547403401477766
+2
+1
+
+*known unknown certain uncertain
+certain 0.7167914535322829
+unknown 0.6247039570495533
+certian 0.5317690672392014
+unspecified 0.529304023557656
+uncertain 0.5137755390808042
+5
+3
+
+*known unknown clear unclear
+clear 0.6891534067909247
+unclear 0.5558372756451745
+unknown 0.5531502856708582
+clear-cut 0.4836331200281283
+uncertain 0.47379197565620035
+2
+1
+
+*known unknown comfortable uncomfortable
+comfortable 0.6908426518926216
+uncomfortable 0.5571593106571345
+agreeable 0.5489237331776684
+happier 0.5457883023894563
+miserable 0.5438192218107488
+2
+1
+
+*known unknown competitive uncompetitive
+competitive 0.7046331391787175
+unknown 0.5859765730744266
+uncompetitive 0.5538082792010468
+non-competitive 0.513701239379187
+unbeatable 0.5108350039505445
+3
+1
+
+*known unknown consistent inconsistent
+consistent 0.7291445344989377
+unknown 0.6014503880204548
+inconsistent 0.5941718900218931
+consistant 0.5634391280377062
+incompatible 0.527648518522223
+3
+1
+
+*known unknown convincing unconvincing
+convincing 0.6761961149222052
+compelling 0.5710353352309656
+unknown 0.5622979759031153
+unconvincing 0.5366496156249444
+baffling 0.5329125209571808
+4
+2
+
+*known unknown convenient inconvenient
+convenient 0.7112820897188182
+inconvenient 0.6049218262794411
+unknown 0.5951146341748857
+painless 0.5398958373228407
+quieter 0.5239662389298053
+2
+1
+
+*known unknown decided undecided
+decided 0.6616127395834223
+unknown 0.5406042855866746
+decides 0.4936206671210457
+agreed 0.48582032358702054
+decide 0.47864505321179307
+30
+28
+
+*known unknown efficient inefficient
+efficient 0.7090036241932303
+inefficient 0.6130115566804295
+unknown 0.5888615678760033
+cost-efficient 0.5656142603038686
+manageable 0.562126721040689
+2
+1
+
+*known unknown ethical unethical
+ethical 0.707395014115231
+unknown 0.5813664955377787
+metaphysical 0.5742795972355348
+existential 0.5739182662912985
+altruistic 0.5691685270954909
+2282
+2280
+
+*known unknown fortunate unfortunate
+fortunate 0.7115169198713106
+unknown 0.6115370419972974
+unlucky 0.5769359328595316
+helpless 0.5451993127575165
+unfortunate 0.5404759139339502
+5
+3
+
+*known unknown honest dishonest
+honest 0.7342338432160072
+unknown 0.5759240083632676
+truthful 0.55531049749009
+aimless 0.5456237117500586
+emotionless 0.5382768862138908
+31
+29
+
+*known unknown impressive unimpressive
+impressive 0.7127454475851542
+unknown 0.608031314978591
+incredible 0.597434099128403
+unimpressive 0.5912756203907074
+remarkable 0.5856901341839198
+4
+2
+
+*known unknown informative uninformative
+informative 0.7070534788626868
+truthful 0.6046730187943745
+unencyclopedic 0.6032268570635918
+unreadable 0.5983202714563574
+non-encyclopedic 0.5976008132753761
+14
+12
+
+*known unknown informed uninformed
+informed 0.6496575828208003
+unknown 0.5654377423723222
+inform 0.49866191524613623
+informs 0.4911117368704393
+told 0.4898046285970039
+14
+12
+
+*likely unlikely logical illogical
+logical 0.7314770287786344
+illogical 0.6192423561917298
+implausible 0.6156673733950868
+improbable 0.5879596081325598
+instructive 0.5865455165077017
+2
+1
+
+*likely unlikely pleasant unpleasant
+pleasant 0.7341111049811319
+unpleasant 0.5674338451231891
+agreeable 0.5589866808733431
+gloomy 0.5495873117099397
+delightful 0.5468430054993112
+2
+1
+
+*likely unlikely possible impossible
+possible 0.7214466129150635
+unlikely 0.516435632443587
+improbable 0.5103477977476357
+necessary 0.5091065208327409
+feasible 0.5063686022110334
+6
+4
+
+*likely unlikely possibly impossibly
+possibly 0.6386867051494558
+unlikely 0.5872746928920853
+arguably 0.5412845577453905
+potentially 0.5341861243166702
+ironically 0.5303149119899934
+614
+612
+
+*likely unlikely productive unproductive
+productive 0.714653462219628
+fruitful 0.6002357949742082
+unproductive 0.563199066650333
+instructive 0.5491340581603428
+imprudent 0.5447729426148108
+3
+2
+
+*likely unlikely rational irrational
+rational 0.7061951625469277
+pragmatic 0.5594146192964375
+common-sense 0.5378978931995383
+cogent 0.5372578607810389
+unscientific 0.5359441773645636
+11
+10
+
+*likely unlikely reasonable unreasonable
+reasonable 0.7374408445410817
+implausible 0.6066267767002884
+unreasonable 0.5983754736176324
+unlikely 0.5922230395959683
+unrealistic 0.5896651937318617
+3
+2
+
+*likely unlikely responsible irresponsible
+responsible 0.7095096117448441
+accountable 0.5576721790888044
+unsuitable 0.5171056311529927
+ill-suited 0.5165575551834476
+liable 0.5003074266655329
+50
+48
+
+*likely unlikely sure unsure
+sure 0.7076035375231503
+unlikely 0.5883236515932747
+unsure 0.5055220137002394
+confident 0.48657156473273944
+implausible 0.46746999240107856
+3
+1
+
+*likely unlikely tasteful distasteful
+tasteful 0.7420563019811597
+amateurish 0.7161859989710795
+melodramatic 0.7147548540636063
+whimsical 0.708834808593785
+suspenseful 0.7056423232979815
+278
+277
+
+*likely unlikely acceptable unacceptable
+acceptable 0.7286660931590782
+unsatisfactory 0.6477767112771781
+unacceptable 0.6420309211263043
+implausible 0.6356481426970075
+impractical 0.6128649903192794
+3
+2
+
+*likely unlikely aware unaware
+aware 0.7071187274762352
+wary 0.5683975130975698
+mindful 0.5636157589549943
+skeptical 0.5581226920213146
+sceptical 0.5497684445624792
+6
+5
+
+*likely unlikely certain uncertain
+certain 0.7119622161300079
+unlikely 0.5761765085894239
+improbable 0.5470710070029766
+certian 0.5443095134222288
+implausible 0.5347739888487228
+38
+36
+
+*likely unlikely clear unclear
+clear 0.7187071092267248
+unclear 0.5189075890586273
+unambiguous 0.49717895988582117
+unlikely 0.4936854765463441
+implausible 0.49338802400572945
+2
+1
+
+*likely unlikely comfortable uncomfortable
+comfortable 0.7228204668514167
+uncomfortable 0.67311100040733
+uneasy 0.5739043569808518
+agreeable 0.5468232967924095
+unhappy 0.5410880866599507
+2
+1
+
+*likely unlikely competitive uncompetitive
+competitive 0.7366528024424607
+uncompetitive 0.5822402713552988
+non-competitive 0.5637202069196788
+unremarkable 0.5112336388326385
+fast-paced 0.5111691354924714
+2
+1
+
+*likely unlikely consistent inconsistent
+consistent 0.711516547948595
+inconsistent 0.6631632908810909
+consistant 0.614250712064157
+incompatible 0.568149992820863
+incongruous 0.5675190101537253
+2
+1
+
+*likely unlikely convincing unconvincing
+convincing 0.7360779134408225
+unconvincing 0.6117939895687763
+compelling 0.6071470173790655
+shocking 0.5731199791220852
+baffling 0.5717873928463779
+2
+1
+
+*likely unlikely convenient inconvenient
+convenient 0.7593227575137285
+inconvenient 0.6410072019283106
+impractical 0.5648431195836052
+unlikely 0.5576794351197694
+cumbersome 0.5488987550993564
+2
+1
+
+*likely unlikely decided undecided
+decided 0.7073112782602028
+relented 0.5586588996395042
+agreed 0.5463869317070215
+balked 0.5393039914697542
+motioned 0.5326701505918551
+291
+289
+
+*likely unlikely efficient inefficient
+efficient 0.7051528374170185
+inefficient 0.6621613988029679
+impractical 0.6118618402275556
+cost-effective 0.6084795528694243
+unworkable 0.5931559224642754
+2
+1
+
+*likely unlikely ethical unethical
+ethical 0.7115032926996838
+philosophic 0.5973980469317114
+pragmatic 0.5930924619034049
+materialistic 0.5923834981544481
+unscientific 0.591910946737986
+77
+76
+
+*likely unlikely fortunate unfortunate
+fortunate 0.7153492057114315
+unlikely 0.6154161603803747
+unfortunate 0.5965533313583324
+unlucky 0.5901497427249514
+improbable 0.5644605646127548
+3
+1
+
+*likely unlikely honest dishonest
+honest 0.7491055937728421
+courteous 0.5496581709739611
+affectionate 0.5486841994807478
+affable 0.546462955181846
+truthful 0.5461547530221732
+124
+123
+
+*likely unlikely impressive unimpressive
+impressive 0.7426436771499102
+remarkable 0.6428180660805521
+improbable 0.6189326349871177
+unimpressive 0.600919057449177
+incredible 0.5946168194082524
+4
+3
+
+*likely unlikely informative uninformative
+informative 0.7419761877218332
+well-written 0.6466661888330784
+well-researched 0.642107153095333
+instructive 0.6407691058456095
+usefull 0.6371078443047322
+10
+9
+
+*likely unlikely informed uninformed
+informed 0.6866698978199945
+apprised 0.6231583493188041
+forewarned 0.5859684733664192
+briefed 0.5721551256063776
+reassured 0.5638526926429891
+149
+148
+
+*likely unlikely known unknown
+known 0.7070747536387592
+best-remembered 0.5023409013100965
+well-known 0.5016292428946686
+unattested 0.4944969176507008
+renowned 0.4894098562106214
+6241
+6239
+
+*logical illogical pleasant unpleasant
+pleasant 0.7596811994338559
+unpleasant 0.6782504250397983
+gloomy 0.6480534204400711
+disagreeable 0.6414713070054003
+distasteful 0.6350358249327964
+2
+1
+
+*logical illogical possible impossible
+possible 0.7245012337543002
+avoidable 0.5790305113945852
+unjustifiable 0.558573184163892
+frivolous 0.5512359839858452
+untrue 0.5475675951995501
+11
+10
+
+*logical illogical possibly impossibly
+possibly 0.7302929945350507
+unintentionally 0.6488298450372176
+ironically 0.6416899217767368
+predictably 0.639689599280998
+paradoxically 0.6348304602726135
+627
+626
+
+*logical illogical productive unproductive
+productive 0.7399877411351524
+unproductive 0.7115849960695692
+counter-productive 0.6646126981345888
+counterproductive 0.6570073634079714
+uncooperative 0.6491342886464321
+2
+1
+
+*logical illogical rational irrational
+illogical 0.7004330558058264
+deceitful 0.6970630680192805
+trollish 0.6877256348817502
+unrealistic 0.6828376958020024
+capricious 0.6826703705521593
+69
+67
+
+*logical illogical reasonable unreasonable
+unreasonable 0.7334785870060656
+illogical 0.7334280057587839
+disingenuous 0.7275463895688167
+reasonable 0.7262574792137156
+unrealistic 0.7259800738165817
+1
+1
+
+*logical illogical responsible irresponsible
+responsible 0.7323110890659139
+liable 0.5991798413786918
+culpable 0.5901218874809917
+accountable 0.5814983894610649
+unenforceable 0.5792954323277533
+22
+21
+
+*logical illogical sure unsure
+sure 0.7566134080896336
+unsure 0.5392724274430855
+laughable 0.5381743400960433
+incredulous 0.5328925576375575
+afraid 0.5321730898719846
+2
+1
+
+*logical illogical tasteful distasteful
+amateurish 0.7915091175558554
+self-indulgent 0.786268441687201
+tasteful 0.7826087923926505
+outlandish 0.7786761316008249
+over-the-top 0.7781801718482269
+37
+36
+
+*logical illogical acceptable unacceptable
+acceptable 0.7565403471284289
+unacceptable 0.7266102568909188
+counter-productive 0.70970370360532
+counterproductive 0.7028548607580185
+distasteful 0.7012200268054428
+2
+1
+
+*logical illogical aware unaware
+aware 0.7433934639796698
+resentful 0.6375432988719788
+wary 0.6368263873183269
+unaware 0.6321095332282121
+envious 0.631169694730952
+4
+3
+
+*logical illogical certain uncertain
+certain 0.7278678305552964
+incredulous 0.6148523175226372
+atrocious 0.6091987549072357
+outlandish 0.6089383408253133
+ludicrous 0.6085610099542514
+3132
+3130
+
+*logical illogical clear unclear
+clear 0.7220835140575912
+unpersuasive 0.5980822170946345
+distasteful 0.5927804432469677
+laughable 0.5921809664100246
+unsupportable 0.5920442565770938
+336
+334
+
+*logical illogical comfortable uncomfortable
+comfortable 0.7467478423965809
+uncomfortable 0.7282042872937629
+nauseous 0.6362568013119595
+miserable 0.6240427762520864
+monotonous 0.6169079521602863
+2
+1
+
+*logical illogical competitive uncompetitive
+competitive 0.7315499588455071
+uncompetitive 0.6728148450403264
+unpredictable 0.6230277609607444
+uncooperative 0.6178100155681847
+confrontational 0.6111001923773184
+2
+1
+
+*logical illogical consistent inconsistent
+consistent 0.7156253839851466
+inconsistent 0.6959415757687368
+consistant 0.6527201305507452
+incongruous 0.6512674863096147
+unpersuasive 0.6303744874835787
+2
+1
+
+*logical illogical convincing unconvincing
+convincing 0.7502054570625526
+unconvincing 0.6585917608340017
+compelling 0.6552776663740868
+infuriating 0.6319238187187183
+unnerving 0.6314950369648203
+2
+1
+
+*logical illogical convenient inconvenient
+convenient 0.7034260834454384
+inconvenient 0.6964373225514553
+impractical 0.6748898081605821
+distasteful 0.672020433921783
+illogical 0.6720014094578507
+2
+1
+
+*logical illogical decided undecided
+decided 0.7500473556270779
+demurred 0.6032785141884008
+motioned 0.5916396197349368
+schemed 0.5913180606890199
+backtracked 0.5862577008840724
+1734
+1732
+
+*logical illogical efficient inefficient
+efficient 0.7211457952430327
+inefficient 0.7060974211095492
+ineffectual 0.6879138562674207
+ineffective 0.6869239453017943
+wasteful 0.6828319445832441
+2
+1
+
+*logical illogical ethical unethical
+immoral 0.7167882976931431
+unethical 0.7160987643110165
+illogical 0.7152616439371872
+deceitful 0.7112391767304873
+vexatious 0.7102449606636063
+2
+2
+
+*logical illogical fortunate unfortunate
+fortunate 0.7512723430308836
+unlucky 0.6582328209832917
+gullible 0.6291798965447557
+foolish 0.6245416172165257
+sinful 0.6226847469350867
+74
+73
+
+*logical illogical honest dishonest
+honest 0.7321066484832974
+deceitful 0.69732813159761
+unprofessional 0.676947240300704
+hypocritical 0.6764269655940706
+obnoxious 0.6758751680566453
+27
+26
+
+*logical illogical impressive unimpressive
+impressive 0.7516020243391777
+unimpressive 0.6927767486836761
+amateurish 0.664156748315837
+unbelievable 0.6596085537873072
+unnerving 0.6577186295209835
+2
+1
+
+*logical illogical informative uninformative
+informative 0.7407808697277257
+unencyclopaedic 0.7284844018640084
+non-encyclopedic 0.7259510245839197
+uninformative 0.7253860848941979
+distasteful 0.7204131857219431
+4
+3
+
+*logical illogical informed uninformed
+informed 0.7209507997814725
+misinformed 0.6381486374180496
+reassured 0.6252678743923155
+apprised 0.6233528980500097
+forewarned 0.6149880195869343
+30
+29
+
+*logical illogical known unknown
+known 0.71950233369728
+mislabeled 0.5979338729109241
+misidentified 0.5903107384164094
+unattested 0.5863541686699253
+billed 0.5815128280319882
+15006
+15004
+
+*logical illogical likely unlikely
+likely 0.7530181857013452
+unlikely 0.6487994608341265
+inadvisable 0.5847833515175782
+illogical 0.5773784771613202
+ill-advised 0.5767981935255327
+2
+1
+
+*pleasant unpleasant possible impossible
+possible 0.7460297555791611
+unavoidable 0.5637231984870538
+unintentional 0.5390129123541214
+necessary 0.5343742311483373
+avoidable 0.5299250263327379
+103
+101
+
+*pleasant unpleasant possibly impossibly
+possibly 0.7622142097686085
+potentially 0.6840551855674897
+presumably 0.6594654531300274
+perhaps 0.6535512448116545
+unintentionally 0.6468963606370379
+757
+756
+
+*pleasant unpleasant productive unproductive
+productive 0.7220680063450917
+unproductive 0.6854145930720142
+unpleasant 0.6502318406242715
+undesirable 0.639313305617567
+unhelpful 0.6353166659481503
+2
+1
+
+*pleasant unpleasant rational irrational
+rational 0.7371895952346482
+irrational 0.6365633353279527
+fallacious 0.6015286390272953
+idiotic 0.5986576204703971
+impersonal 0.5949516991181313
+2
+1
+
+*pleasant unpleasant reasonable unreasonable
+reasonable 0.7318935842984365
+unreasonable 0.6913704698784333
+unhelpful 0.6836271341335314
+illogical 0.6789971600308933
+disingenuous 0.67307663248632
+2
+1
+
+*pleasant unpleasant responsible irresponsible
+responsible 0.7518603353584103
+liable 0.5835462730486916
+culpable 0.5702197460466073
+accountable 0.5658102762431263
+undesirable 0.5628515016200024
+47
+45
+
+*pleasant unpleasant sure unsure
+sure 0.7445892188244115
+egregious 0.5157874759518684
+unseemly 0.5138617990344476
+laughable 0.5088058586928629
+untoward 0.5043399298106833
+6
+5
+
+*pleasant unpleasant tasteful distasteful
+scurrilous 0.7741982797073953
+idiosyncratic 0.7620185821375381
+over-the-top 0.75938748540766
+mean-spirited 0.7580613180887115
+amateurish 0.7568610717090455
+36
+34
+
+*pleasant unpleasant acceptable unacceptable
+acceptable 0.7604827152329823
+unacceptable 0.7324161939443627
+objectionable 0.6823441804550803
+undesirable 0.678343785313482
+inadmissible 0.6768629049702715
+2
+1
+
+*pleasant unpleasant aware unaware
+aware 0.7360209767815186
+fearful 0.5936810107060185
+suspicious 0.5903930897774959
+resentful 0.587882173424373
+sceptical 0.5811892491569843
+15
+14
+
+*pleasant unpleasant certain uncertain
+certain 0.7346929347594904
+egregious 0.6114637413795181
+gravest 0.5897888669572865
+drug-related 0.5872180577225966
+certian 0.5852597716280905
+5937
+5935
+
+*pleasant unpleasant clear unclear
+clear 0.7057242333524516
+egregious 0.5886073622134618
+obvious 0.5860602982932559
+unambiguous 0.5856970725091758
+clear-cut 0.5781689264599978
+108
+106
+
+*pleasant unpleasant comfortable uncomfortable
+comfortable 0.7212476765176857
+uncomfortable 0.6981113252397285
+unpleasant 0.6340358987496133
+stressful 0.6105424670743173
+unbearable 0.6013335853764735
+2
+1
+
+*pleasant unpleasant competitive uncompetitive
+competitive 0.7344640025749494
+uncompetitive 0.6098595222952451
+stressful 0.5873693714863831
+aggressive 0.5831474177418036
+pleasurable 0.5826098477490188
+2
+1
+
+*pleasant unpleasant consistent inconsistent
+consistent 0.7230307112932588
+inconsistent 0.6482121211035375
+incompatible 0.6341751500589141
+consistant 0.6305348689323521
+irreconcilable 0.6241535395625808
+2
+1
+
+*pleasant unpleasant convincing unconvincing
+convincing 0.7265794353162542
+infuriating 0.6317536334689167
+reassuring 0.6286335182480292
+compelling 0.6282792393558613
+demoralising 0.6194799012890049
+6
+5
+
+*pleasant unpleasant convenient inconvenient
+convenient 0.7192634971539588
+inconvenient 0.6955921828938971
+unpleasant 0.6676334330138254
+impractical 0.6479245985518606
+advantageous 0.6383014817293433
+2
+1
+
+*pleasant unpleasant decided undecided
+decided 0.7226901967897585
+decides 0.5863473737974497
+motioned 0.5714578793645527
+schemed 0.5697794663929456
+endeavored 0.5455082696025786
+1832
+1830
+
+*pleasant unpleasant efficient inefficient
+efficient 0.7406206560046649
+inefficient 0.6695950651099063
+efficacious 0.6523373893560203
+ineffective 0.6398298167923648
+error-prone 0.6355275151261304
+2
+1
+
+*pleasant unpleasant ethical unethical
+ethical 0.749990370229984
+epistemological 0.655601460506509
+unethical 0.6491091669779684
+altruistic 0.6448090710086365
+legalistic 0.6428538878792454
+3
+2
+
+*pleasant unpleasant fortunate unfortunate
+fortunate 0.7560990812620413
+unfortunate 0.6078349318579845
+unlucky 0.6078296275578972
+unpleasant 0.6044797098175523
+egregious 0.5987668486303743
+2
+1
+
+*pleasant unpleasant honest dishonest
+honest 0.7187889005928104
+obnoxious 0.6532894518479508
+deceitful 0.6502598897416112
+hateful 0.6446450892829979
+idiotic 0.6432437576455209
+44
+42
+
+*pleasant unpleasant impressive unimpressive
+impressive 0.7441561206971865
+egregious 0.6413333055373988
+unpleasant 0.6321007423768807
+freakish 0.6307491091498759
+unimpressive 0.6303451613136195
+5
+3
+
+*pleasant unpleasant informative uninformative
+informative 0.736422667744403
+unhelpful 0.7010751608078742
+instructive 0.6960821586944437
+usefull 0.6905295681434885
+objectionable 0.6871130651408882
+20
+18
+
+*pleasant unpleasant informed uninformed
+informed 0.7113766774721392
+apprised 0.618071900659585
+misinformed 0.608527245246803
+forewarned 0.5916056181440782
+uninformed 0.5873594292970407
+5
+4
+
+*pleasant unpleasant known unknown
+known 0.743683465590677
+mislabeled 0.5628580090713888
+alledged 0.5550652532459159
+best-remembered 0.544130263363138
+mistranslated 0.5387744484589002
+15932
+15930
+
+*pleasant unpleasant likely unlikely
+likely 0.773471145992809
+unlikely 0.6547578289152665
+egregious 0.56341935040828
+unpleasant 0.5593097119446975
+unseemly 0.5518995605159345
+2
+1
+
+*pleasant unpleasant logical illogical
+logical 0.7471273151886058
+illogical 0.6916933025975064
+paradoxical 0.651846120254649
+fallacious 0.6502791026079314
+unhelpful 0.6463105556342119
+2
+1
+
+*possible impossible possibly impossibly
+possibly 0.6959083057555246
+presumably 0.6207019369926946
+apparently 0.6127860119754515
+manifestly 0.6103932994140487
+probably 0.6075926533338717
+105
+104
+
+*possible impossible productive unproductive
+productive 0.7142125612132456
+impossible 0.5922654530937878
+unproductive 0.5753848927769623
+fruitful 0.5658114354304736
+infeasible 0.5638569869715407
+3
+1
+
+*possible impossible rational irrational
+rational 0.6974050005163109
+irrational 0.5587684300551137
+impossible 0.5564199977787042
+illogical 0.5353415599389958
+pedantic 0.5328710723995078
+2
+1
+
+*possible impossible reasonable unreasonable
+reasonable 0.6957043511263538
+impossible 0.6621584220590662
+unreasonable 0.6310059654995246
+illogical 0.6208275867322188
+laughable 0.6152394853377283
+3
+1
+
+*possible impossible responsible irresponsible
+responsible 0.700273537144543
+liable 0.5401258604628709
+accountable 0.5358300652713684
+impossible 0.5240250607879444
+ill-suited 0.5046994406522994
+137
+135
+
+*possible impossible sure unsure
+sure 0.740837002839299
+impossible 0.6144224181891965
+unsure 0.5378847341206923
+afraid 0.5096561966831988
+confident 0.48946992020279945
+3
+1
+
+*possible impossible tasteful distasteful
+tasteful 0.7243114712066674
+amateurish 0.716440340561569
+monotonous 0.7164047050286361
+uninspired 0.7069536381439483
+pretentious 0.7061545826268246
+407
+405
+
+*possible impossible acceptable unacceptable
+acceptable 0.7058460484875175
+impossible 0.6734167447752157
+unfeasible 0.6378156624526213
+infeasible 0.6376148662331793
+impracticable 0.6319969686638517
+6
+4
+
+*possible impossible aware unaware
+aware 0.7119193331937949
+afraid 0.5857554326194082
+unaware 0.5778520550239304
+impossible 0.5628227666711398
+unsure 0.5600071341801423
+3
+2
+
+*possible impossible certain uncertain
+certain 0.7138644968111031
+impossible 0.6254360547561638
+inconceivable 0.5469792456953303
+certian 0.5083380928956436
+unthinkable 0.5073443025360779
+663
+661
+
+*possible impossible clear unclear
+clear 0.663436996272237
+impossible 0.5904868394026342
+laughable 0.5315930461568645
+inconceivable 0.5263917217061679
+untenable 0.5108587443021422
+31
+29
+
+*possible impossible comfortable uncomfortable
+comfortable 0.7289082537772398
+uncomfortable 0.6427581599834986
+impossible 0.5857948830883991
+happier 0.5424112418786939
+miserable 0.5374167394364538
+2
+1
+
+*possible impossible competitive uncompetitive
+competitive 0.7096411649164455
+uncompetitive 0.5863337743321575
+unplayable 0.5508455042729951
+impossible 0.5469908245685302
+unbeatable 0.5396855671232894
+2
+1
+
+*possible impossible consistent inconsistent
+consistent 0.6856679483807314
+inconsistent 0.6345501455126535
+consistant 0.611393624444933
+impossible 0.5706650415625971
+incongruent 0.5543639108703646
+2
+1
+
+*possible impossible convincing unconvincing
+convincing 0.7278926147525758
+compelling 0.5899171239955557
+infuriating 0.5592656468929701
+persuading 0.5455128673095099
+reassuring 0.5409475828992928
+8
+7
+
+*possible impossible convenient inconvenient
+convenient 0.7361667833240193
+inconvenient 0.6452207321577078
+impossible 0.624673275611836
+cumbersome 0.6033565300900449
+infeasible 0.5861772378813157
+2
+1
+
+*possible impossible decided undecided
+decided 0.7275019762997061
+motioned 0.5264681553072931
+decides 0.5239265077580236
+decide 0.5233189389874847
+insisted 0.5232461447145319
+810
+808
+
+*possible impossible efficient inefficient
+efficient 0.731411360248355
+impossible 0.655036375149528
+inefficient 0.6325138616937444
+cost-effective 0.6079390007655785
+infeasible 0.5999316337814401
+3
+1
+
+*possible impossible ethical unethical
+ethical 0.7089957455084561
+impossible 0.5928471690342303
+illogical 0.5726185341766842
+materialistic 0.569714635182337
+immoral 0.5644165857079281
+16
+14
+
+*possible impossible fortunate unfortunate
+fortunate 0.7492640207464206
+unlucky 0.5780506450154853
+impossible 0.5495864772826793
+unthinkable 0.5450278570374264
+lucky 0.5311201864850139
+35
+33
+
+*possible impossible honest dishonest
+honest 0.724172371093689
+clueless 0.5525515326620288
+insolent 0.54861256732255
+emotionless 0.5469414220447353
+obstinate 0.5469155026763884
+45
+43
+
+*possible impossible impressive unimpressive
+impressive 0.7350804863996698
+impossible 0.6105280745749806
+remarkable 0.5902877439002779
+unbelievable 0.5895783566487458
+incredible 0.5882114866252593
+6
+4
+
+*possible impossible informative uninformative
+informative 0.7289732598092876
+unmaintainable 0.6321291096222068
+impossible 0.6281717458414147
+instructive 0.6229622234267402
+unreadable 0.6126320458735874
+10
+8
+
+*possible impossible informed uninformed
+informed 0.6947905377664972
+reassured 0.5753392198060638
+apprised 0.5706397662345682
+informing 0.5669004122979537
+told 0.5629873334209193
+111
+110
+
+*possible impossible known unknown
+known 0.6763970955672123
+re-classified 0.5139653151021665
+mislabeled 0.5044508458482717
+unattested 0.5031139477450308
+mistranslated 0.5024274540262887
+4659
+4657
+
+*possible impossible likely unlikely
+likely 0.7175554206290772
+unlikely 0.6247488953697625
+impossible 0.615501331306376
+inconceivable 0.5200656547111046
+loath 0.5145656551384702
+2
+1
+
+*possible impossible logical illogical
+logical 0.7074548979537645
+illogical 0.6385449441591702
+impossible 0.6163316216012318
+intuitive 0.6003218268676155
+laughable 0.5939279482334465
+2
+1
+
+*possible impossible pleasant unpleasant
+pleasant 0.7313119019280789
+impossible 0.5811212475142679
+unpleasant 0.5586237088186721
+gloomy 0.5463225653537286
+scary 0.5372102136875543
+3
+1
+
+*possibly impossibly productive unproductive
+productive 0.7481389458936926
+unproductive 0.6479194919548018
+fruitful 0.6224051473839887
+non-productive 0.6201592953376815
+error-prone 0.6104774464381776
+2
+1
+
+*possibly impossibly rational irrational
+rational 0.7793451860601404
+irrational 0.593740068663217
+self-consistent 0.591444926840309
+deductive 0.5859484110522574
+purposive 0.5859318662432148
+2
+1
+
+*possibly impossibly reasonable unreasonable
+reasonable 0.7558292154194468
+resonable 0.6728873403854406
+unbelievable 0.6452537079660086
+ludicrous 0.6420706590694604
+illogical 0.6402873138316718
+8
+7
+
+*possibly impossibly responsible irresponsible
+responsible 0.734713547656443
+accountable 0.5591430809949847
+unaccountable 0.5412722762807829
+non-committal 0.539347179726481
+inaudible 0.5320005669930902
+1485
+1484
+
+*possibly impossibly sure unsure
+sure 0.7457475720625936
+impossibly 0.56350263369525
+confident 0.5568580867436694
+blindingly 0.5510050471011215
+unbelievably 0.5478911131754417
+18
+16
+
+*possibly impossibly tasteful distasteful
+tasteful 0.7977515809927673
+tuneful 0.7682221221628461
+light-hearted 0.7649018144886641
+wistful 0.7613181840767999
+sensuous 0.7604663881917573
+2158
+2157
+
+*possibly impossibly acceptable unacceptable
+acceptable 0.7452681422170518
+tolerable 0.6518783666607172
+unconscionable 0.6498576600673024
+unobjectionable 0.6494333752773377
+counter-productive 0.6491049746389633
+46
+45
+
+*possibly impossibly aware unaware
+aware 0.7467817473100049
+mindful 0.5891692665465983
+incredulous 0.5820958426220467
+sceptical 0.5814890252656675
+mistrustful 0.5706591006016264
+10
+9
+
+*possibly impossibly certain uncertain
+certain 0.7609096939327894
+certian 0.6374964746070736
+mind-numbing 0.595251263509157
+unimaginable 0.5845158557423302
+voyeuristic 0.581502314446983
+10062
+10060
+
+*possibly impossibly clear unclear
+clear 0.7486252902431931
+crystal-clear 0.5731959341054765
+clear-cut 0.5556157149825115
+spot-on 0.5528506730647802
+unmistakable 0.5523734495195168
+1186
+1184
+
+*possibly impossibly comfortable uncomfortable
+comfortable 0.7629259451016338
+uncomfortable 0.6543209026445114
+monotonous 0.593441500813432
+joyful 0.5887974721021334
+unbearable 0.5818725196640626
+2
+1
+
+*possibly impossibly competitive uncompetitive
+competitive 0.7619189243774427
+non-competitive 0.6289019169215038
+fast-paced 0.6194731004346588
+frenetic 0.6135311229082787
+uncompetitive 0.5948978007672903
+5
+4
+
+*possibly impossibly consistent inconsistent
+consistent 0.74260013545834
+consistant 0.6632398234487467
+inconsistent 0.6205479220617148
+incongruent 0.6101773619933013
+incongruous 0.6054644533150859
+3
+2
+
+*possibly impossibly convincing unconvincing
+convincing 0.7294741532280934
+compelling 0.6345067761428889
+reassuring 0.610347120259616
+unconvincing 0.6088727519961128
+baffling 0.6080354415851991
+4
+3
+
+*possibly impossibly convenient inconvenient
+convenient 0.7457441284636275
+inconvenient 0.6216593110202818
+cumbersome 0.6190274084653384
+error-prone 0.6167956972101283
+unobtrusive 0.6134597922978775
+2
+1
+
+*possibly impossibly decided undecided
+decided 0.7339758555054899
+marveled 0.5647926331189176
+motioned 0.561940899928446
+relented 0.5580140002762621
+agonized 0.557382960030825
+711
+709
+
+*possibly impossibly efficient inefficient
+efficient 0.7482494733873888
+cost-effective 0.663367061608158
+cost-efficient 0.6594548611510985
+error-prone 0.6546735133553692
+expeditious 0.6454209938926766
+99
+98
+
+*possibly impossibly ethical unethical
+ethical 0.770642983832813
+epistemological 0.6795826724671123
+materialistic 0.660597497106928
+ontological 0.6554944480775339
+discursive 0.6482739184913875
+1697
+1696
+
+*possibly impossibly fortunate unfortunate
+fortunate 0.7410274113394124
+unbelievable 0.5940433620819465
+unlucky 0.5908250814245085
+joyful 0.5810630513842228
+ungrateful 0.5803174247279362
+807
+806
+
+*possibly impossibly honest dishonest
+honest 0.7795319900742214
+truthful 0.6167793072343966
+thoughtful 0.6113295403061998
+unapologetic 0.6083152633664629
+candid 0.606705208412931
+761
+760
+
+*possibly impossibly impressive unimpressive
+impressive 0.75904381666586
+unbelievable 0.6811460022875668
+unimpressive 0.6552068209563932
+frenetic 0.654548305986633
+awe-inspiring 0.6542022649608585
+3
+2
+
+*possibly impossibly informative uninformative
+informative 0.7722185587633844
+thought-provoking 0.682303963386365
+well-researched 0.676525544615139
+well-referenced 0.674405656295888
+non-encyclopedic 0.6720320214727636
+14
+13
+
+*possibly impossibly informed uninformed
+informed 0.7470743313837801
+reassured 0.5941663039394
+forewarned 0.5922047740609424
+apprised 0.5916839483818535
+enthused 0.5773047198702689
+31
+30
+
+*possibly impossibly known unknown
+known 0.7290858767000863
+unequaled 0.5630441452237056
+unattested 0.5624269234446789
+unmentioned 0.5573413032271232
+best-remembered 0.5544150334146221
+35508
+35506
+
+*possibly impossibly likely unlikely
+likely 0.6898649726867131
+impossibly 0.6504776106779822
+unbelievably 0.6352746702882455
+unbearably 0.6348437247176877
+extraordinarily 0.633429970052329
+98
+96
+
+*possibly impossibly logical illogical
+logical 0.7669101066694134
+illogical 0.656892051096318
+arithmetical 0.6496145093995229
+deductive 0.6482718789322284
+intuitive 0.6472834972521717
+2
+1
+
+*possibly impossibly pleasant unpleasant
+pleasant 0.7571100642004163
+joyful 0.6419023764740075
+gloomy 0.628808687000329
+carefree 0.6245671389564462
+dreary 0.6183896414384018
+124
+123
+
+*possibly impossibly possible impossible
+possible 0.7177727075774286
+mind-numbing 0.5359666774766508
+indescribable 0.5348559465101664
+usual 0.5325938882464634
+unneccessary 0.5317452945148795
+16
+15
+
+*productive unproductive rational irrational
+rational 0.7276847410523274
+specious 0.671958479850256
+vexatious 0.6664545811076497
+fallacious 0.665470729932759
+irrational 0.6607255357902015
+5
+4
+
+*productive unproductive reasonable unreasonable
+reasonable 0.7516870805510865
+unreasonable 0.7248127105361049
+illogical 0.702251631618523
+specious 0.6982456860707388
+ludicrous 0.6969740548997786
+2
+1
+
+*productive unproductive responsible irresponsible
+responsible 0.7060942036352447
+culpable 0.6284509256929626
+unaccountable 0.6060540059379632
+non-responsive 0.5905653432681935
+unwinnable 0.5897235243813207
+122
+120
+
+*productive unproductive sure unsure
+sure 0.7242487160692644
+incredulous 0.5610828564961127
+ludicrous 0.5576100912632237
+laughable 0.55606229600478
+regretful 0.556000981487879
+83
+82
+
+*productive unproductive tasteful distasteful
+gratuitous 0.8026088949070971
+repetitious 0.801701691550156
+ill-considered 0.7976809691206551
+amateurish 0.7929402193819222
+over-the-top 0.7898989585920557
+235
+234
+
+*productive unproductive acceptable unacceptable
+unacceptable 0.7581672983071622
+acceptable 0.7532583396747385
+unjustifiable 0.70809811026232
+unsupportable 0.7025738553640339
+inapplicable 0.6951380704879593
+1
+1
+
+*productive unproductive aware unaware
+aware 0.7227503641506928
+incredulous 0.6409199395205205
+resentful 0.6324507295333461
+fearful 0.6218896542568421
+disdainful 0.6159716471988149
+12
+11
+
+*productive unproductive certain uncertain
+certain 0.7321909521482962
+certian 0.6396430890360788
+drug-related 0.6393773835130985
+unexplainable 0.6388536382049592
+gratuitous 0.6347076967273924
+6683
+6681
+
+*productive unproductive clear unclear
+clear 0.7418551760960399
+unsupportable 0.6098398239258949
+unecessary 0.6088923639629689
+unambiguous 0.6020767657126574
+specious 0.6011364886286844
+179
+178
+
+*productive unproductive comfortable uncomfortable
+comfortable 0.7309570467284129
+uncomfortable 0.7299156619026241
+incongruous 0.638862922709966
+nauseous 0.6339751759800085
+monotonous 0.6318749340899342
+2
+1
+
+*productive unproductive competitive uncompetitive
+competitive 0.7114646649843908
+uncontrollable 0.6557424725886896
+uncompetitive 0.6500629766170148
+avoidable 0.6487780664387739
+non-competitive 0.6465727193633604
+3
+2
+
+*productive unproductive consistent inconsistent
+consistent 0.7354479371180199
+inconsistent 0.6806473903522101
+consistant 0.6668267282574315
+incongruous 0.6546877441685878
+incompatible 0.6524529060093585
+2
+1
+
+*productive unproductive convincing unconvincing
+convincing 0.7382805715584712
+unconvincing 0.658482474463731
+shocking 0.6530845275179814
+compelling 0.6513489177817303
+infuriating 0.6427958207734525
+2
+1
+
+*productive unproductive convenient inconvenient
+convenient 0.72903286516727
+inconvenient 0.6905419017529705
+illogical 0.641835568762526
+unecessary 0.6386065577946123
+unneccessary 0.6379399947703867
+2
+1
+
+*productive unproductive decided undecided
+decided 0.7466444119109383
+demurred 0.6014704462145707
+relented 0.5941837074431382
+motioned 0.5938473062527801
+backtracked 0.5936841062824537
+327
+326
+
+*productive unproductive efficient inefficient
+error-prone 0.7186137553751275
+inefficient 0.7176576996319711
+unjustifiable 0.7077056460865728
+ineffectual 0.7068341010962478
+unproductive 0.7013081285962447
+2
+2
+
+*productive unproductive ethical unethical
+ethical 0.7570226615623692
+vexatious 0.7074447941512013
+anti-muslim 0.6930067535242509
+gratuitous 0.691534846679587
+specious 0.6895648758893088
+237
+235
+
+*productive unproductive fortunate unfortunate
+fortunate 0.73091051280813
+deplorable 0.6526049434796402
+unlucky 0.646227380129094
+shameful 0.6444874071634814
+unfortunate 0.6441952318308555
+5
+4
+
+*productive unproductive honest dishonest
+honest 0.7407846459155678
+deceitful 0.6809622334146627
+ill-informed 0.6796777030048906
+vexatious 0.6775390517078079
+spiteful 0.6741830950652785
+168
+166
+
+*productive unproductive impressive unimpressive
+unimpressive 0.722536365275942
+horrendous 0.7184480516199344
+impressive 0.7145958919635073
+atrocious 0.7130469105655879
+ill-considered 0.7053266121948218
+1
+1
+
+*productive unproductive informative uninformative
+uninformative 0.7554699105686858
+unencyclopaedic 0.7476397918423053
+non-encyclopedic 0.7454935951173118
+informative 0.7426386814033625
+nonsensical 0.7408714868037295
+1
+1
+
+*productive unproductive informed uninformed
+informed 0.7394485071888035
+forewarned 0.6519034214904916
+misinformed 0.6467838208803841
+reassured 0.6466336723729443
+apprised 0.6233421657755094
+16
+15
+
+*productive unproductive known unknown
+known 0.7176579280573018
+unattested 0.6105515954662383
+untainted 0.5950006781715201
+unmentioned 0.5943312086323002
+alledged 0.5927891710181109
+19262
+19260
+
+*productive unproductive likely unlikely
+likely 0.7418694878541695
+unlikely 0.6141216411720551
+regrettable 0.6020311283781518
+unsupportable 0.5936011181626674
+ludicrous 0.5912695556862416
+2
+1
+
+*productive unproductive logical illogical
+logical 0.7501336557401969
+illogical 0.7301402483578315
+specious 0.713222819232124
+gratuitous 0.7069163014576542
+nonsensical 0.7024726872480689
+2
+1
+
+*productive unproductive pleasant unpleasant
+pleasant 0.7384716204875477
+unpleasant 0.6866924277753306
+dreary 0.6570004949999192
+deplorable 0.6497651235501201
+disagreeable 0.6431617021371474
+2
+1
+
+*productive unproductive possible impossible
+possible 0.7371507275312016
+avoidable 0.6099720166011023
+unintentional 0.592406861897549
+unavoidable 0.5865185542891479
+unwarranted 0.585258518135946
+834
+832
+
+*productive unproductive possibly impossibly
+possibly 0.7300768689503311
+potentially 0.6396514164338054
+unintentionally 0.6376229755845926
+laughably 0.6367669866214096
+hilariously 0.6327727591904185
+209
+208
+
+*rational irrational reasonable unreasonable
+reasonable 0.7198713628189717
+unreasonable 0.715431314491938
+irrational 0.7139840778981666
+ridiculous 0.7082764498084511
+ludicrous 0.6963640153912528
+2
+1
+
+*rational irrational responsible irresponsible
+responsible 0.6771869714039886
+uncontrollable 0.5716228106983999
+undesirable 0.5643349149767944
+culpable 0.5528897233919292
+counter-productive 0.5508056777351612
+33
+31
+
+*rational irrational sure unsure
+sure 0.7478504807996722
+afraid 0.5629407577390099
+ludicrous 0.509773708358547
+unsure 0.5083067799077141
+ridiculous 0.5065137739978506
+4
+3
+
+*rational irrational tasteful distasteful
+over-the-top 0.7672843464624147
+insipid 0.7624574351767653
+melodramatic 0.7617221122943071
+monotonous 0.7590458983568535
+capricious 0.7584376261902227
+225
+223
+
+*rational irrational acceptable unacceptable
+unacceptable 0.7505959860482279
+acceptable 0.7346466622849026
+ludicrous 0.6675342262050757
+unjustifiable 0.6657762086131792
+counter-productive 0.6648393856931931
+1
+1
+
+*rational irrational aware unaware
+aware 0.7399202325464033
+fearful 0.6261281854945171
+afraid 0.6222751370483346
+resentful 0.6076358285697174
+apprehensive 0.6013145798597721
+11
+10
+
+*rational irrational certain uncertain
+certain 0.7558856020833783
+irrational 0.5962912143872646
+uncontrollable 0.5885046994423473
+unbearable 0.5806428491785328
+outrageous 0.5798531246259966
+2142
+2140
+
+*rational irrational clear unclear
+clear 0.7216476296462069
+obvious 0.5699218618932235
+unbearable 0.5572991136230024
+unmistakable 0.5471388964618219
+laughable 0.5452889712820344
+187
+185
+
+*rational irrational comfortable uncomfortable
+comfortable 0.7456578333517493
+uncomfortable 0.7034494491294576
+unbearable 0.6226173370627259
+unpredictable 0.6004048280807959
+uncontrollable 0.5923149973742773
+2
+1
+
+*rational irrational competitive uncompetitive
+competitive 0.7290317845327047
+uncompetitive 0.6305295559833967
+uncontrollable 0.629607362994261
+unpredictable 0.6294641364381837
+addictive 0.5972675835951123
+2
+1
+
+*rational irrational consistent inconsistent
+consistent 0.7257155415302009
+inconsistent 0.6586689682781379
+unpredictable 0.6200774183857299
+irreconcilable 0.6199393030915331
+incongruous 0.6106832668838192
+2
+1
+
+*rational irrational convincing unconvincing
+convincing 0.7297656250176416
+shocking 0.6258956822816009
+compelling 0.6231195126939972
+infuriating 0.6215612099947556
+upsetting 0.6214712949627518
+27
+25
+
+*rational irrational convenient inconvenient
+convenient 0.7169971055064078
+inconvenient 0.6655090511327678
+infeasible 0.6146667610044098
+unbearable 0.6135396581326666
+illogical 0.6112847488009027
+2
+1
+
+*rational irrational decided undecided
+decided 0.7339861909048339
+schemed 0.5701341051469344
+decides 0.565058610170674
+vowed 0.5620864646202859
+retorted 0.5483247841245107
+1755
+1753
+
+*rational irrational efficient inefficient
+efficient 0.7184139535045939
+unpredictable 0.6731644300335818
+inefficient 0.6576684950126526
+uncontrollable 0.6485001801714313
+unsustainable 0.6398950396789423
+3
+2
+
+*rational irrational ethical unethical
+irrational 0.740999848518491
+ethical 0.7090014664053752
+immoral 0.6810765451457468
+anti-muslim 0.6789144780256897
+anti-christian 0.6694821234802253
+83
+81
+
+*rational irrational fortunate unfortunate
+fortunate 0.754586212942063
+unlucky 0.6424405365964473
+unfortunate 0.598066012949952
+unbearable 0.5894042320800861
+irrational 0.5834212786788932
+3
+2
+
+*rational irrational honest dishonest
+honest 0.7122004883693333
+irrational 0.6701603934028538
+obstinate 0.6557046476843288
+insolent 0.6402199699569475
+obsessive 0.639607811847306
+150
+148
+
+*rational irrational impressive unimpressive
+impressive 0.7501432648696515
+unbelievable 0.6543431370708527
+incredible 0.6307098156874051
+unimpressive 0.630664300099605
+outrageous 0.6265992843997129
+4
+3
+
+*rational irrational informative uninformative
+informative 0.7113424003795207
+slanderous 0.6882567957601285
+nonsensical 0.6857326664049412
+illogical 0.6796930523092013
+hurtful 0.6778892575433253
+17
+16
+
+*rational irrational informed uninformed
+informed 0.6914397513695556
+forewarned 0.6088737113381089
+awed 0.6028248969847473
+told 0.5958368266082207
+reassured 0.5949486162333801
+59
+58
+
+*rational irrational known unknown
+known 0.7160182224191484
+unattested 0.5423376324100482
+unequaled 0.5385605804975867
+mispronounced 0.5359916627882576
+mistranslated 0.532224635796218
+16070
+16068
+
+*rational irrational likely unlikely
+likely 0.7617423060804717
+unlikely 0.6532801096859195
+ludicrous 0.5461570919327107
+irrational 0.53974317596636
+unseemly 0.5341503126284443
+2
+1
+
+*rational irrational logical illogical
+irrational 0.7589708800115739
+illogical 0.723837521960561
+logical 0.7157309891448261
+ludicrous 0.6891810528189752
+ridiculous 0.6743624441697846
+2
+1
+
+*rational irrational pleasant unpleasant
+pleasant 0.7439494201168394
+unpleasant 0.6590810973431952
+unhealthy 0.623112108129457
+unbearable 0.6148927156181292
+gloomy 0.6058804276506525
+2
+1
+
+*rational irrational possible impossible
+possible 0.7235929269938678
+unavoidable 0.5708620193804296
+uncontrollable 0.5439651306687565
+unacceptable 0.5374672498470608
+unjustifiable 0.5333931301288586
+12
+10
+
+*rational irrational possibly impossibly
+possibly 0.7421951622858927
+potentially 0.6251984740969793
+presumably 0.6227962049092683
+allegedly 0.6195230746024976
+unintentionally 0.6107858926520597
+193
+192
+
+*rational irrational productive unproductive
+productive 0.7212745187399827
+unproductive 0.6837435611894259
+irrational 0.634476582544275
+unpredictable 0.6243025827013733
+destructive 0.6192771000388833
+2
+1
+
+*reasonable unreasonable responsible irresponsible
+responsible 0.7211000286893758
+culpable 0.6123366536980844
+accountable 0.5863770178123382
+liable 0.585904517354902
+negligent 0.5340126906411578
+13
+11
+
+*reasonable unreasonable sure unsure
+sure 0.7195734707939476
+unreasonable 0.5282745984619597
+afraid 0.5012698350125055
+unsure 0.4867079318121714
+inconceivable 0.48460823701164246
+4
+2
+
+*reasonable unreasonable tasteful distasteful
+capricious 0.7606377363016942
+repetitious 0.752904535999504
+puerile 0.7487513876939397
+over-the-top 0.7478834218254008
+unjustifiable 0.7466284684159704
+484
+482
+
+*reasonable unreasonable acceptable unacceptable
+unacceptable 0.7394280598771603
+unreasonable 0.7373028628615926
+unjustifiable 0.7135137330343342
+reprehensible 0.7012068532405916
+objectionable 0.6948741434670084
+1
+1
+
+*reasonable unreasonable aware unaware
+aware 0.7296845500927597
+resentful 0.6023346270184143
+unaware 0.5931995753436445
+apprehensive 0.589855279425125
+distrustful 0.5848631729957015
+3
+2
+
+*reasonable unreasonable certain uncertain
+certain 0.7128256134888215
+unreasonable 0.5960566816952536
+unjustifiable 0.5830743335856907
+treasonous 0.5758808408564042
+uncontrollable 0.5748107698756244
+7999
+7997
+
+*reasonable unreasonable clear unclear
+clear 0.7096446139212107
+unreasonable 0.5502205264494308
+unjustifiable 0.5464305473022771
+unsupportable 0.5462383426410048
+inexcusable 0.546075366668076
+392
+390
+
+*reasonable unreasonable comfortable uncomfortable
+comfortable 0.6852740677476666
+uncomfortable 0.6597944983622028
+unreasonable 0.6099107235909265
+nauseous 0.6062658488629424
+uncontrollable 0.593283690932303
+2
+1
+
+*reasonable unreasonable competitive uncompetitive
+competitive 0.7141006193757646
+uncompetitive 0.6164143828245969
+uncontrollable 0.5936157713725035
+exploitative 0.581097586667445
+unsustainable 0.5791812142039494
+2
+1
+
+*reasonable unreasonable consistent inconsistent
+consistent 0.7136432479770178
+inconsistent 0.6750609095323854
+consistant 0.6294299978273248
+incompatible 0.6239432875041443
+unreasonable 0.6070974109902683
+2
+1
+
+*reasonable unreasonable convincing unconvincing
+convincing 0.7195563975571767
+shocking 0.6075776060198913
+infuriating 0.5984196774233851
+demoralizing 0.5960933318960535
+demoralising 0.5954046531935412
+12
+11
+
+*reasonable unreasonable convenient inconvenient
+convenient 0.684802996477781
+inconvenient 0.6697523519221891
+unreasonable 0.6436809445785071
+burdensome 0.6203956302191624
+impracticable 0.6197045463177601
+2
+1
+
+*reasonable unreasonable decided undecided
+decided 0.7240123298829642
+reneged 0.5754774255962395
+demurred 0.5656006515849857
+backtracked 0.5543548742531034
+desisted 0.5537163370182826
+648
+646
+
+*reasonable unreasonable efficient inefficient
+inefficient 0.7060012776227854
+efficient 0.7050996847499258
+unreasonable 0.6471607484536603
+unsustainable 0.6416920457199969
+ineffectual 0.6398593872604902
+1
+1
+
+*reasonable unreasonable ethical unethical
+ethical 0.7350369199184785
+vexatious 0.6551852681373096
+unreasonable 0.650682180729209
+immoral 0.6450414776221544
+discriminatory 0.6432313379448367
+22
+20
+
+*reasonable unreasonable fortunate unfortunate
+fortunate 0.7324544551704825
+impotent 0.6011082044904696
+unlucky 0.5839047236452638
+overconfident 0.5802676046634206
+foolhardy 0.5781681418950626
+30
+28
+
+*reasonable unreasonable honest dishonest
+honest 0.7036649332040961
+dishonest 0.6701351706919643
+obstinate 0.6507120164269228
+inconsiderate 0.6472036616326963
+impulsive 0.6447850546577467
+2
+1
+
+*reasonable unreasonable impressive unimpressive
+impressive 0.7270885566825206
+unjustifiable 0.6167746024081635
+unreasonable 0.6158462653240558
+unimpressive 0.6050976041939312
+inexcusable 0.6049803761554281
+4
+2
+
+*reasonable unreasonable informative uninformative
+informative 0.7059743164811255
+self-serving 0.6786212939060624
+unmaintainable 0.678012650727742
+libelous 0.6756470137649168
+slanderous 0.6693715106182656
+12
+11
+
+*reasonable unreasonable informed uninformed
+informed 0.7127786393120573
+apprised 0.6473756287419716
+forewarned 0.6276648070877019
+misinformed 0.6067135788254381
+misled 0.6060469357974483
+14
+13
+
+*reasonable unreasonable known unknown
+known 0.7259709278206179
+alledged 0.5299911503636754
+stigmatised 0.5269762217103818
+referred 0.5218768205616641
+misreported 0.5181544734492811
+11490
+11488
+
+*reasonable unreasonable likely unlikely
+likely 0.7227111342027135
+unreasonable 0.5818496444602879
+unlikely 0.5784683161024055
+sanctionable 0.545016954920472
+unjustifiable 0.5399214759138194
+3
+1
+
+*reasonable unreasonable logical illogical
+unreasonable 0.7140117253976362
+illogical 0.6932029109178593
+logical 0.6899116010178867
+unjustifiable 0.6867815091390339
+paradoxical 0.6680059369265395
+2
+1
+
+*reasonable unreasonable pleasant unpleasant
+pleasant 0.6971175718086782
+unpleasant 0.6209725991204442
+disagreeable 0.6168554469244444
+insolent 0.6055057630744256
+unreasonable 0.6051158658787912
+2
+1
+
+*reasonable unreasonable possible impossible
+possible 0.7014862429787408
+unreasonable 0.5709664087024526
+avoidable 0.5665200497230758
+unavoidable 0.5553367533398988
+unjustifiable 0.5549423733982533
+14
+12
+
+*reasonable unreasonable possibly impossibly
+possibly 0.7240390705428891
+presumably 0.63467002665262
+potentially 0.6344654904027086
+manifestly 0.605580094406163
+apparently 0.6001528184844639
+533
+532
+
+*reasonable unreasonable productive unproductive
+productive 0.710308077703393
+unproductive 0.6677487272424081
+destructive 0.6236318202878315
+unjustifiable 0.6193772886645057
+unreasonable 0.6147283115944925
+2
+1
+
+*reasonable unreasonable rational irrational
+rational 0.685909959291935
+unreasonable 0.6483368939189335
+irrational 0.6394630073474314
+vexatious 0.6283659304381642
+unjustifiable 0.6232542683530884
+3
+1
+
+*responsible irresponsible sure unsure
+sure 0.7409140334620299
+ludicrous 0.6078209109561352
+stupid 0.6063446318800954
+laughable 0.6010692420197351
+fishy 0.5977548514219645
+94
+92
+
+*responsible irresponsible tasteful distasteful
+tasteful 0.8225717308873537
+over-the-top 0.8167449417121027
+pretentious 0.808584993353635
+amateurish 0.8072443654852811
+self-indulgent 0.8036160987839889
+535
+533
+
+*responsible irresponsible acceptable unacceptable
+acceptable 0.7625183789174975
+ludicrous 0.7337663413449669
+disingenuous 0.7299033437310096
+preposterous 0.726978141627541
+unprofessional 0.7250085845846959
+9
+7
+
+*responsible irresponsible aware unaware
+aware 0.7286112141832628
+irresponsible 0.6648164304847676
+envious 0.6590378116520593
+mistrustful 0.651040213720387
+mindful 0.6508983004581439
+252
+250
+
+*responsible irresponsible certain uncertain
+certain 0.7444919777978993
+outrageous 0.6666165879199333
+ludicrous 0.6658663638246269
+over-the-top 0.6567058152366945
+idiotic 0.6564581954163646
+7799
+7797
+
+*responsible irresponsible clear unclear
+clear 0.7394616761129837
+laughable 0.6298566147741355
+preposterous 0.6280996945124631
+gratuitous 0.6234378984674258
+hypocritical 0.6195142923317933
+1210
+1208
+
+*responsible irresponsible comfortable uncomfortable
+comfortable 0.7601045381055097
+uncomfortable 0.684749668031097
+irresponsible 0.6733447417036938
+monotonous 0.6551381226521561
+unprofessional 0.6507227573325693
+2
+1
+
+*responsible irresponsible competitive uncompetitive
+competitive 0.7382880765549997
+irresponsible 0.6744568520125102
+over-the-top 0.6736589401994407
+promiscuous 0.6578956194860391
+fast-paced 0.6520113927093454
+19
+17
+
+*responsible irresponsible consistent inconsistent
+consistent 0.7649117014931729
+inconsistent 0.71384634818921
+consistant 0.6920532434432742
+over-the-top 0.6504131248110382
+irresponsible 0.6480669622957205
+2
+1
+
+*responsible irresponsible convincing unconvincing
+convincing 0.7746922371229615
+compelling 0.6925997337484125
+baffling 0.6581519913387697
+unconvincing 0.6571969975976033
+sickening 0.6494757211936037
+4
+3
+
+*responsible irresponsible convenient inconvenient
+convenient 0.7574716846737277
+inconvenient 0.6947123963053279
+clunky 0.6942860503052111
+impolite 0.6738261964279745
+wordy 0.6703523479956593
+2
+1
+
+*responsible irresponsible decided undecided
+decided 0.7360091292917432
+wrongheaded 0.585229538054882
+farfetched 0.5801461808974693
+anguished 0.5751591870147832
+shortsighted 0.5745917538179455
+204
+202
+
+*responsible irresponsible efficient inefficient
+efficient 0.745669692669797
+irresponsible 0.7340307271256591
+inefficient 0.7086627185488312
+heavy-handed 0.6906805061422437
+wasteful 0.6884685322642291
+3
+1
+
+*responsible irresponsible ethical unethical
+ethical 0.7656209580885115
+irresponsible 0.7229295032889284
+unscientific 0.7209203526024485
+materialistic 0.7150941202669198
+dogmatic 0.7137300732670077
+22
+20
+
+*responsible irresponsible fortunate unfortunate
+fortunate 0.7645758447898605
+foolish 0.6782775514695065
+irresponsible 0.6685836080642982
+pathetic 0.6630706592285411
+shameful 0.6626858588569089
+22
+20
+
+*responsible irresponsible honest dishonest
+honest 0.8055180456277856
+irresponsible 0.6991614832535662
+sneaky 0.6848384706579036
+thoughtless 0.6777910051467255
+smug 0.6772975755819078
+20
+18
+
+*responsible irresponsible impressive unimpressive
+impressive 0.7772077644682018
+over-the-top 0.7124457719374101
+amateurish 0.6996275406395469
+unbelievable 0.6959552281116298
+pretentious 0.6893556474571173
+10
+9
+
+*responsible irresponsible informative uninformative
+informative 0.7720108210236564
+unprofessional 0.739958304666981
+thought-provoking 0.7353991181815608
+unfunny 0.7300809905024601
+unencyclopaedic 0.7292726573531425
+16
+15
+
+*responsible irresponsible informed uninformed
+informed 0.7405144531614827
+uninformed 0.6752625303344065
+misinformed 0.6689740855459697
+bemused 0.6459552727279884
+reassured 0.6441368714519192
+2
+1
+
+*responsible irresponsible known unknown
+known 0.6871639733713184
+farfetched 0.6404312713266261
+conceited 0.6396790157348768
+unashamed 0.6322173867785303
+scatterbrained 0.6217423528360143
+30067
+30065
+
+*responsible irresponsible likely unlikely
+likely 0.7373883429014187
+ludicrous 0.6579158691962016
+unlikely 0.6366952487396478
+shameful 0.6363758420230746
+impolite 0.63612396316012
+3
+2
+
+*responsible irresponsible logical illogical
+logical 0.781657115573472
+illogical 0.7396649707005355
+ludicrous 0.7194673409778889
+preposterous 0.7100534878733863
+idiotic 0.7045765138986972
+2
+1
+
+*responsible irresponsible pleasant unpleasant
+pleasant 0.7830808225777204
+carefree 0.672492262511867
+gloomy 0.6701524958587776
+pathetic 0.6597382820722238
+snappy 0.6587990585862725
+13
+12
+
+*responsible irresponsible possible impossible
+possible 0.7371575271907866
+gratuitous 0.5973457326318142
+ludicrous 0.5904266097386309
+irresponsible 0.5896396185453109
+preposterous 0.5894891385513111
+498
+496
+
+*responsible irresponsible possibly impossibly
+possibly 0.740790667235009
+smelly 0.6638873179302494
+suspiciously 0.6453705760391377
+frilly 0.6418317894596012
+cuddly 0.6413769858778046
+675
+674
+
+*responsible irresponsible productive unproductive
+productive 0.7572095387934605
+unproductive 0.7257740595158326
+irresponsible 0.7170062951783823
+unprofessional 0.6742993093417579
+hypocritical 0.6673596781312874
+2
+1
+
+*responsible irresponsible rational irrational
+rational 0.7517335119076672
+irrational 0.7007078336675266
+thoughtless 0.698452046294145
+irresponsible 0.6926308152669092
+perverse 0.6870846885038853
+2
+1
+
+*responsible irresponsible reasonable unreasonable
+reasonable 0.7787175944674628
+ludicrous 0.7324876780676229
+hypocritical 0.7254864971913441
+unreasonable 0.7251837088699689
+disingenuous 0.7205149538565074
+4
+3
+
+*sure unsure tasteful distasteful
+diffident 0.7299066480360843
+tasteful 0.7227214745484645
+indulgent 0.7160914540225732
+personable 0.7157463489007964
+self-confident 0.7136506186365464
+1776
+1775
+
+*sure unsure acceptable unacceptable
+acceptable 0.7136866826739745
+inapplicable 0.601384920930667
+tenable 0.5985571407394992
+inadmissible 0.5956834913357384
+agreeable 0.5950761262966543
+14
+13
+
+*sure unsure aware unaware
+aware 0.7724196473537143
+unsure 0.6911687999721539
+unaware 0.6803436114442823
+wary 0.6357463431357399
+sceptical 0.6262049494838949
+3
+1
+
+*sure unsure certain uncertain
+certain 0.6758234914875593
+unsure 0.6714125117447183
+sceptical 0.6101755254194001
+uncertain 0.5913702346160091
+apprehensive 0.5798776273668155
+4
+2
+
+*sure unsure clear unclear
+clear 0.664059737783434
+unsure 0.5720941530241643
+unclear 0.5667717952471216
+distrustful 0.5465542148477769
+sceptical 0.5444695088738928
+3
+1
+
+*sure unsure comfortable uncomfortable
+comfortable 0.7154383601574897
+uncomfortable 0.6611227886136748
+unhappy 0.6137120547302831
+unsure 0.6028045016276121
+impatient 0.5818963811252101
+2
+1
+
+*sure unsure competitive uncompetitive
+competitive 0.7356257293595816
+uncompetitive 0.5708166336222946
+remunerative 0.517215018752098
+insecure 0.515812208398189
+sociable 0.5156882201013927
+2
+1
+
+*sure unsure consistent inconsistent
+consistent 0.715918523889218
+inconsistent 0.677896145067572
+consistant 0.5937351175791252
+incompatible 0.5888763853174037
+rife 0.5788463229676588
+2
+1
+
+*sure unsure convincing unconvincing
+convincing 0.7277700372841265
+compelling 0.5791666049894836
+infuriating 0.5640181352944845
+reassuring 0.5630225694917237
+unsure 0.5596640916940777
+7
+5
+
+*sure unsure convenient inconvenient
+convenient 0.745578235564365
+inconvenient 0.6462698981842917
+insecure 0.5950737289650117
+cumbersome 0.5807017257335624
+reticent 0.5739190780642681
+2
+1
+
+*sure unsure decided undecided
+decided 0.7494730912737394
+demurred 0.5732133686778752
+insisted 0.5716812578887847
+enquired 0.5560772063922949
+balked 0.5518193361044071
+25
+23
+
+*sure unsure efficient inefficient
+efficient 0.7192345402554352
+inefficient 0.655915142829024
+maneuverable 0.5920871856748671
+cost-effective 0.5917747120573448
+cost-efficient 0.5891822618366452
+2
+1
+
+*sure unsure ethical unethical
+ethical 0.7068062622387067
+pragmatic 0.6177153283836351
+eurocentric 0.6073127875338086
+judgmental 0.602456164115401
+materialistic 0.6003836223988743
+664
+663
+
+*sure unsure fortunate unfortunate
+fortunate 0.7350531527608424
+reticent 0.6153123946709974
+despondent 0.5990228573126153
+unsure 0.5957510716318641
+insecure 0.589106584862271
+124
+122
+
+*sure unsure honest dishonest
+honest 0.7283279485280378
+considerate 0.64019509762243
+insecure 0.6315237328273908
+reticent 0.6286742444082911
+complacent 0.6056389686308263
+46
+45
+
+*sure unsure impressive unimpressive
+impressive 0.7206602725008756
+unimpressive 0.5891130175506419
+remarkable 0.5608757326904493
+unassuming 0.5603695469741389
+reticent 0.5598183578638155
+2
+1
+
+*sure unsure informative uninformative
+informative 0.7045652994214783
+reticent 0.6215226456250358
+thought-provoking 0.6157387672856869
+on-topic 0.6128717868252663
+insightful 0.6119530334009355
+9
+8
+
+*sure unsure informed uninformed
+informed 0.7537142478220397
+apprised 0.6491968486294847
+briefed 0.6092419000410125
+unconvinced 0.6043869891326802
+notified 0.5853252743443147
+77
+75
+
+*sure unsure known unknown
+known 0.7222247159256628
+remembered 0.5130284023087904
+jockeyed 0.5109176630929425
+referred 0.5070418966077124
+regarded 0.5067690499211202
+1867
+1865
+
+*sure unsure likely unlikely
+likely 0.6988350458719539
+unsure 0.6353929323818469
+unlikely 0.5686182454963479
+reticent 0.5391174996583291
+uncertain 0.5359686129016918
+3
+1
+
+*sure unsure logical illogical
+logical 0.7263899139417219
+reductionist 0.5771800398916542
+pragmatic 0.5738550253937202
+reticent 0.5737136165939297
+axiomatic 0.5720886035983255
+6
+5
+
+*sure unsure pleasant unpleasant
+pleasant 0.7399213255507052
+reticent 0.5786611618071431
+carefree 0.5642834774889973
+calmer 0.5602727773006098
+complacent 0.5597704956711554
+26
+25
+
+*sure unsure possible impossible
+possible 0.6785748315984229
+unsure 0.5071211750156742
+practicable 0.48886445331016826
+uncertain 0.4886653018497049
+feasible 0.482433538159017
+1037
+1035
+
+*sure unsure possibly impossibly
+possibly 0.6753270406456241
+probably 0.5674306968795938
+potentially 0.5464725918813227
+presumably 0.5357685506743873
+perhaps 0.5250401454949877
+652
+650
+
+*sure unsure productive unproductive
+productive 0.7344674194939897
+unproductive 0.5862835179993361
+reticent 0.5785513170668847
+considerate 0.5673229189447876
+self-aware 0.5565852685079863
+2
+1
+
+*sure unsure rational irrational
+rational 0.7472977715950713
+reticent 0.5488837394849494
+pragmatic 0.5482068011436819
+considerate 0.5444692499785565
+ambivalent 0.5443348874758265
+23
+22
+
+*sure unsure reasonable unreasonable
+reasonable 0.7165078133558969
+sensible 0.6065073461649398
+reticent 0.6004016881117628
+unsure 0.584121488601376
+hypocritical 0.5761995072912055
+14
+12
+
+*sure unsure responsible irresponsible
+responsible 0.7310329026242736
+accountable 0.5774126982012623
+unprepared 0.5251875140127032
+answerable 0.5146155341867956
+distrustful 0.5021377709691337
+361
+359
+
+*tasteful distasteful acceptable unacceptable
+acceptable 0.7458195124378939
+unacceptable 0.6908782672766105
+distasteful 0.6698098967850472
+objectionable 0.6523578110866419
+inadmissible 0.6308502671287292
+2
+1
+
+*tasteful distasteful aware unaware
+aware 0.7104956661416156
+wary 0.5577086715751032
+unaware 0.5562447399456307
+apprehensive 0.5455853752596969
+fearful 0.5447921895887482
+3
+2
+
+*tasteful distasteful certain uncertain
+certain 0.6810915198445666
+distasteful 0.5725988172493783
+objectionable 0.5497894878815831
+repugnant 0.5125231719570119
+problematic 0.5011896827321963
+171
+169
+
+*tasteful distasteful clear unclear
+clear 0.7005024243447909
+distasteful 0.5668688927797679
+untenable 0.5060623198446124
+objectionable 0.4927112220835812
+unclear 0.4833385203318623
+5
+3
+
+*tasteful distasteful comfortable uncomfortable
+comfortable 0.6687377647868782
+uncomfortable 0.6631714449727946
+distasteful 0.6254986988573895
+untenable 0.5421692461514565
+objectionable 0.5389693762799433
+2
+1
+
+*tasteful distasteful competitive uncompetitive
+competitive 0.6660437440350598
+distasteful 0.6001855705405416
+unpalatable 0.5401819558538304
+untenable 0.5347756880571676
+advantageous 0.5266737164266284
+17
+15
+
+*tasteful distasteful consistent inconsistent
+consistent 0.6755414653413041
+distasteful 0.6139495766676236
+inconsistent 0.5962131583145743
+incompatible 0.5707159270899482
+abhorrent 0.5686641815750072
+3
+1
+
+*tasteful distasteful convincing unconvincing
+convincing 0.6884829261058265
+distasteful 0.5650385610927247
+upsetting 0.5621322044841439
+troubling 0.5584288529239546
+insulting 0.5578413586048596
+9
+7
+
+*tasteful distasteful convenient inconvenient
+convenient 0.6916230135486339
+inconvenient 0.6654775644983333
+distasteful 0.6387479035952258
+preferable 0.6008914228099326
+advantageous 0.5989492282862133
+2
+1
+
+*tasteful distasteful decided undecided
+decided 0.6831653819784125
+demurred 0.5732421267095223
+resorted 0.5633062504902359
+acquiesced 0.5601030448930907
+decides 0.5596812177541038
+693
+691
+
+*tasteful distasteful efficient inefficient
+distasteful 0.6734119553575305
+efficient 0.6571065287259176
+untenable 0.603415467085629
+inefficient 0.5999178462926648
+infeasible 0.5875878009155047
+4
+2
+
+*tasteful distasteful ethical unethical
+ethical 0.6637419421334992
+distasteful 0.6632331254129143
+abhorrent 0.6201653935518162
+hurtful 0.6023749406869459
+unjust 0.5941901117183434
+23
+21
+
+*tasteful distasteful fortunate unfortunate
+fortunate 0.7192216049219824
+distasteful 0.5611538958101079
+unfit 0.5324803214680053
+unlucky 0.5248115825204098
+abhorrent 0.5188334306692131
+9
+7
+
+*tasteful distasteful honest dishonest
+honest 0.6748408758298919
+distasteful 0.6532711278982276
+abhorrent 0.6040707791289402
+hurtful 0.580054588577152
+repugnant 0.57109694976197
+11
+9
+
+*tasteful distasteful impressive unimpressive
+distasteful 0.7014688213232868
+objectionable 0.6478744420073108
+impressive 0.6352042298491201
+laughable 0.5952609435014954
+problematic 0.588487853858297
+83
+81
+
+*tasteful distasteful informative uninformative
+distasteful 0.7375722506824989
+objectionable 0.6948950624825821
+informative 0.6815933679320401
+hurtful 0.6296682377205562
+unhelpful 0.6281943311640084
+56
+54
+
+*tasteful distasteful informed uninformed
+informed 0.6773264845313278
+apprised 0.6020589776756509
+notified 0.5787235636338103
+reassured 0.5712358626866312
+informing 0.5657185623063695
+127
+125
+
+*tasteful distasteful known unknown
+known 0.690125252239641
+referred 0.5529802279356943
+refered 0.5488533538682002
+appertaining 0.5017947065496239
+distasteful 0.4989434501810508
+1183
+1181
+
+*tasteful distasteful likely unlikely
+likely 0.7312632121303747
+unlikely 0.6135812973985313
+distasteful 0.5403193577750627
+liable 0.5372968057407008
+susceptible 0.5114878042068004
+2
+1
+
+*tasteful distasteful logical illogical
+distasteful 0.6828159766076507
+logical 0.6621188384729456
+objectionable 0.6127783449702419
+counterproductive 0.6104408968142191
+repugnant 0.6102750333081058
+7
+5
+
+*tasteful distasteful pleasant unpleasant
+pleasant 0.6854286484441589
+distasteful 0.6586839145791817
+unpleasant 0.6174055482724279
+repugnant 0.5565648057732312
+objectionable 0.5560012839975935
+3
+1
+
+*tasteful distasteful possible impossible
+possible 0.7054897200335427
+distasteful 0.5157537786678084
+necessary 0.5071514768129777
+applicable 0.501000882627581
+unacceptable 0.5000145955958211
+8
+6
+
+*tasteful distasteful possibly impossibly
+possibly 0.7323200738599416
+perhaps 0.6275779713170018
+potentially 0.6256316709144679
+presumably 0.6213172294078111
+necessarily 0.5990736741771147
+753
+751
+
+*tasteful distasteful productive unproductive
+productive 0.6720782192470333
+distasteful 0.6516757092966363
+counterproductive 0.5948585067235269
+unproductive 0.5913618018522703
+harmful 0.5901191876744565
+4
+2
+
+*tasteful distasteful rational irrational
+rational 0.6611042800637017
+distasteful 0.6148151924316481
+abhorrent 0.5853320094650607
+repugnant 0.5810741500866095
+counterproductive 0.546958042814377
+9
+7
+
+*tasteful distasteful reasonable unreasonable
+reasonable 0.7039165868481546
+distasteful 0.666396369830188
+unreasonable 0.6251159578416919
+unacceptable 0.6234144906904449
+justifiable 0.5973332374749909
+3
+1
+
+*tasteful distasteful responsible irresponsible
+responsible 0.7184577775787129
+liable 0.6424877805896054
+accountable 0.6133934941649826
+answerable 0.5658912779414917
+culpable 0.5198322280986124
+177
+175
+
+*tasteful distasteful sure unsure
+sure 0.7152829165622167
+distasteful 0.4954204654111587
+unsure 0.4894334754563161
+afraid 0.4653894679847066
+methinks 0.45301111348995127
+3
+1
+

@@ -1,0 +1,8928 @@
+*amazing amazingly apparent apparently
+apparent 0.7172426408648628
+frustratingly 0.6885740225213623
+laughably 0.6854564740055333
+hilariously 0.6836605338875671
+lethally 0.6836000277906311
+927
+925
+
+*amazing amazingly calm calmly
+calm 0.698634703443084
+cautiously 0.5966258062802371
+predictably 0.5883392531920051
+rhythmically 0.5873240169858044
+harmonically 0.5870195837142856
+1466
+1464
+
+*amazing amazingly cheerful cheerfully
+sonically 0.7738828937811495
+cognitively 0.7703568413806986
+wickedly 0.7690472852892737
+rhythmically 0.7687823930811719
+philosophically 0.7680533983503164
+494
+493
+
+*amazing amazingly complete completely
+complete 0.6834184119699904
+ritually 0.6246946030306143
+commendably 0.621612590264545
+psychically 0.621603500431381
+scrupulously 0.6210905255958844
+1337
+1335
+
+*amazing amazingly efficient efficiently
+efficient 0.7178089578646888
+cognitively 0.7083030181022422
+aerodynamically 0.6987748074781789
+tactically 0.6981861479291814
+neurologically 0.6967599908145583
+702
+700
+
+*amazing amazingly fortunate fortunately
+lethally 0.6789932756209763
+amazingly 0.6777538999340985
+wickedly 0.6771133284037287
+horrifically 0.6762790069949453
+fortunate 0.6751139592558467
+932
+930
+
+*amazing amazingly free freely
+free 0.7204027991470567
+determinedly 0.610159972118769
+psychically 0.6093468839097471
+commendably 0.6072988187484879
+monetarily 0.6069675166815373
+982
+980
+
+*amazing amazingly furious furiously
+furious 0.704942305011963
+ferociously 0.676012637012703
+sweetly 0.6721332772836596
+stubbornly 0.6698919587771609
+gloriously 0.6698000793076434
+16
+15
+
+*amazing amazingly happy happily
+happy 0.6961588373990594
+hilariously 0.6681397372570608
+amazingly 0.6662022205532697
+blissfully 0.6616683935030008
+wickedly 0.6598163977050111
+965
+963
+
+*amazing amazingly immediate immediately
+immediate 0.7250993553535552
+developmentally 0.6934760308604767
+perceptually 0.690763690052448
+directionally 0.6866816682814709
+cognitively 0.6858542020844676
+1442
+1440
+
+*amazing amazingly infrequent infrequently
+minorly 0.7395103812183217
+lethally 0.737698112131728
+metabolically 0.7360898922274646
+perceptually 0.7311520821647144
+tactically 0.7289052114745499
+274
+272
+
+*amazing amazingly lucky luckily
+amazingly 0.6820884579509149
+lucky 0.6796184509178382
+horrifically 0.6771535894862443
+lethally 0.6752468767322456
+hilariously 0.6749312110540547
+332
+330
+
+*amazing amazingly most mostly
+most 0.7946036013595681
+stunningly 0.7399482340766484
+hauntingly 0.728169753194927
+supremely 0.7281268151267264
+eminently 0.7262444624920886
+1103
+1101
+
+*amazing amazingly obvious obviously
+laughably 0.7246709508465905
+hilariously 0.7239378937868821
+obnoxiously 0.7229736158228698
+wickedly 0.7169468236232716
+needlessly 0.715697785229169
+986
+984
+
+*amazing amazingly occasional occasionally
+lethally 0.7330160862717451
+catalytically 0.7299675331982244
+minorly 0.728402889987369
+monumentally 0.7256996215001245
+supernaturally 0.7252895809094816
+1009
+1007
+
+*amazing amazingly possible possibly
+possible 0.7287624305644664
+monumentally 0.6078751904266538
+lethally 0.6061303654971635
+laughably 0.605512308367034
+hilariously 0.6042318450232699
+1346
+1344
+
+*amazing amazingly precise precisely
+precise 0.7128782061436443
+perceptually 0.7058222123705119
+cognitively 0.7046540672232123
+scrupulously 0.7033099814045337
+tactically 0.7031607595381661
+1322
+1320
+
+*amazing amazingly professional professionally
+professional 0.7157811835624449
+exuberantly 0.6351420649292958
+monetarily 0.6281793024453091
+unapologetically 0.6279478111284702
+commendably 0.6279046006955457
+978
+976
+
+*amazing amazingly quick quickly
+quick 0.730034832960564
+amazingly 0.6760642431850461
+hilariously 0.6724600656966692
+shamefully 0.6646592579054595
+pathetically 0.6642461769374887
+1581
+1579
+
+*amazing amazingly quiet quietly
+quiet 0.69987956625571
+sweetly 0.6707079134678801
+commendably 0.670657037899514
+amazingly 0.6671905565272336
+pleasantly 0.6657860449886043
+556
+554
+
+*amazing amazingly rapid rapidly
+rapid 0.7162103868956498
+tactically 0.6772552036880797
+thermally 0.6746804912485359
+energetically 0.672484973314935
+sterically 0.6722736152279304
+1467
+1465
+
+*amazing amazingly rare rarely
+lethally 0.6914812479934311
+rare 0.690171114612765
+sweetly 0.6786324837349414
+pleasantly 0.6777706418294391
+wickedly 0.6776216624683851
+1202
+1200
+
+*amazing amazingly reluctant reluctantly
+reluctant 0.7296420429521713
+supernaturally 0.6637031343828474
+hilariously 0.6631462845042239
+wickedly 0.6614760948607947
+amazingly 0.6608870681931349
+1381
+1379
+
+*amazing amazingly safe safely
+safe 0.7154019425600119
+precariously 0.633320395969446
+determinedly 0.6266954736710372
+commendably 0.6241021438503515
+irresistibly 0.6219630325224493
+1300
+1298
+
+*amazing amazingly serious seriously
+serious 0.7394776936044987
+lethally 0.6898550363212338
+acutely 0.687541857914721
+hilariously 0.6856432625373617
+cognitively 0.6815493732539835
+1168
+1166
+
+*amazing amazingly slow slowly
+slow 0.6959316993966168
+psychically 0.6667021849060593
+unpredictably 0.6643166074009783
+rhythmically 0.6623882416650118
+predictably 0.662256154278109
+1361
+1359
+
+*amazing amazingly sudden suddenly
+needlessly 0.7097768026439143
+sudden 0.7077078736083072
+irresistibly 0.7017217022999921
+lethally 0.701303099602945
+irretrievably 0.6997046702486854
+1328
+1326
+
+*amazing amazingly swift swiftly
+swift 0.7031249847057204
+amazingly 0.6085894391302119
+horrifically 0.6058184953118423
+mightily 0.6057358574827523
+pathetically 0.6050689363953521
+1452
+1450
+
+*amazing amazingly typical typically
+typical 0.7077535976261359
+monumentally 0.667394120130675
+stunningly 0.6670097216667957
+exaggeratedly 0.6665759970793521
+unfailingly 0.6632606547237148
+938
+936
+
+*amazing amazingly unfortunate unfortunately
+wickedly 0.7639165798428206
+hilariously 0.7571814245177574
+lethally 0.7533261605730798
+obnoxiously 0.7516755673950731
+embarrassingly 0.7475264867837038
+1316
+1314
+
+*amazing amazingly usual usually
+usual 0.7245341409307035
+lethally 0.6303474227481536
+unfailingly 0.62965836363785
+monumentally 0.6259119734371403
+frustratingly 0.6253083572983413
+1393
+1391
+
+*apparent apparently calm calmly
+calm 0.6682691066745317
+apparently 0.5292207805585121
+sadly 0.5131051151435838
+madly 0.51081181823131
+regretfully 0.5095176432088994
+616
+614
+
+*apparent apparently cheerful cheerfully
+sonically 0.6863365905030637
+apparently 0.6834063894912098
+portly 0.6746406967026931
+melodically 0.67282424977373
+bubbly 0.6715631510352903
+221
+219
+
+*apparent apparently complete completely
+complete 0.6849449676406755
+apparently 0.6085896026348898
+reputedly 0.5513888514698227
+seemingly 0.5450843843778838
+supposedly 0.541892503167199
+35
+33
+
+*apparent apparently efficient efficiently
+efficient 0.6725725826135354
+apparently 0.6436225440073431
+ergonomically 0.6292880644126299
+analytically 0.6269704124273028
+inexpensively 0.6261650889927574
+128
+126
+
+*apparent apparently fortunate fortunately
+fortunate 0.6733442018700707
+apparently 0.6585709231495162
+evidently 0.6057410226314279
+reputedly 0.5971678465935653
+presumably 0.5864375876112652
+8
+6
+
+*apparent apparently free freely
+free 0.7046977230566074
+apparently 0.5929080860480638
+supposedly 0.5285706982692954
+reputedly 0.5273822733482236
+evidently 0.5269004279123234
+813
+811
+
+*apparent apparently furious furiously
+furious 0.6727749428946118
+apparently 0.6543793833075366
+evidently 0.6041015372449448
+tearfully 0.5942235597736681
+defiantly 0.5926262733518115
+6
+4
+
+*apparent apparently happy happily
+happy 0.6868992809863024
+apparently 0.6403521951833003
+evidently 0.6044095951516352
+seemingly 0.5704905296240105
+regrettably 0.5700993167099798
+342
+340
+
+*apparent apparently immediate immediately
+apparently 0.695961911830878
+evidently 0.6530012345989529
+immediate 0.6481113689738168
+devoutly 0.6437759561905516
+wilfully 0.6429453271060434
+1469
+1467
+
+*apparent apparently infrequent infrequently
+apparently 0.6861005386034856
+infrequent 0.6725109854573613
+evidently 0.657231930716977
+minorly 0.6523532077821836
+perversely 0.6451193281353951
+62
+60
+
+*apparent apparently lucky luckily
+lucky 0.6910070504919247
+apparently 0.6520627764508283
+unhappily 0.5867898023661247
+evidently 0.58258678523676
+seemingly 0.5696561464734321
+17
+15
+
+*apparent apparently most mostly
+most 0.7703245790050683
+apparently 0.6743688330726625
+eminently 0.639692127221138
+hauntingly 0.6276899177454274
+marvelously 0.6275653526883369
+350
+348
+
+*apparent apparently obvious obviously
+apparently 0.7814308891049468
+evidently 0.7540855493287786
+obviously 0.7358021998298107
+understandably 0.7331772058527761
+blatently 0.7311446568896371
+3
+2
+
+*apparent apparently occasional occasionally
+apparently 0.6864141475606588
+occasional 0.6653700882224026
+evidently 0.647661871500099
+minorly 0.6470975230746642
+purportedly 0.6464075066025187
+590
+588
+
+*apparent apparently possible possibly
+apparently 0.6404150629367473
+possible 0.6168395301196065
+apparantly 0.5863386164272312
+aparently 0.5859126914317208
+evidently 0.5854460650464125
+516
+514
+
+*apparent apparently precise precisely
+apparently 0.6718056874193208
+evidently 0.6686911989538187
+verifiably 0.6579269554467283
+straightforwardly 0.6548362178050748
+rightfully 0.6532176711521794
+997
+995
+
+*apparent apparently professional professionally
+professional 0.692761187725522
+apparently 0.5977869629154994
+apparantly 0.5529307829495993
+pseudonymously 0.5512270536235631
+operationally 0.5502491702305871
+482
+480
+
+*apparent apparently quick quickly
+quick 0.6699053148685926
+apparently 0.6456447179584932
+evidently 0.6100055001071368
+stupidly 0.6067842451037593
+handedly 0.6027668113553816
+1509
+1507
+
+*apparent apparently quiet quietly
+quiet 0.6699199357662962
+apparently 0.6267462469649844
+evidently 0.606782067262414
+mightily 0.5854811588558242
+madly 0.5832940051367272
+142
+140
+
+*apparent apparently rapid rapidly
+rapid 0.6526389542739335
+apparently 0.6402611694832855
+institutionally 0.6143066051608136
+artfully 0.6085633445532155
+evidently 0.6084527101314764
+1301
+1299
+
+*apparent apparently rare rarely
+rare 0.6727401414525405
+apparently 0.6271898379049377
+evidently 0.5857823121763095
+curiously 0.5751518515204473
+bizarrely 0.573222021381406
+1056
+1054
+
+*apparent apparently reluctant reluctantly
+reluctant 0.703121014728475
+apparently 0.6821091205093663
+evidently 0.6299955645802766
+reputedly 0.6037673032035918
+regrettably 0.5906295982403525
+1248
+1246
+
+*apparent apparently safe safely
+safe 0.6868398469553575
+apparently 0.5846454832598621
+evidently 0.5477287690242539
+repetitively 0.5400671278741008
+handedly 0.5394206341848502
+1344
+1342
+
+*apparent apparently serious seriously
+apparently 0.6882856494935833
+evidently 0.6568571976467978
+serious 0.6543886645416133
+neurologically 0.6361745796354803
+brazenly 0.6355654906053316
+1221
+1219
+
+*apparent apparently slow slowly
+slow 0.6888659911606014
+apparently 0.6057710640256933
+recklessly 0.5715226191925679
+clumsily 0.5644792585501519
+reputedly 0.5633437819379975
+329
+327
+
+*apparent apparently sudden suddenly
+apparently 0.6794312480018003
+irretrievably 0.6537746029931465
+wilfully 0.6483969537428463
+sudden 0.6443502705890757
+irrevocably 0.6430044651172329
+1039
+1037
+
+*apparent apparently swift swiftly
+swift 0.661660158579095
+apparently 0.5903024545373652
+quitely 0.5742926803554035
+mcnelly 0.5479451686399307
+powderly 0.5470250130038443
+1464
+1462
+
+*apparent apparently typical typically
+apparently 0.6659747547793925
+typical 0.6602288608638647
+evidently 0.6108919952155981
+predominately 0.5938668453912886
+independantly 0.5928638235398377
+613
+611
+
+*apparent apparently unfortunate unfortunately
+apparently 0.699703363500692
+evidently 0.6660163984011339
+regrettably 0.6538926134152693
+apparantly 0.64779992402659
+ironically 0.6437396970908813
+67
+65
+
+*apparent apparently usual usually
+apparently 0.6492225184296824
+usual 0.6459283637874508
+evidently 0.5884716754510201
+undoubtedly 0.5773101625314117
+surely 0.5710194061757365
+1197
+1195
+
+*apparent apparently amazing amazingly
+amazing 0.6691497922847304
+apparently 0.6069651084356705
+evidently 0.5943630678514529
+reputedly 0.577581160888096
+amazingly 0.5726468717978813
+5
+3
+
+*calm calmly cheerful cheerfully
+calmly 0.745142933717132
+rashly 0.7205172215785384
+cleverly 0.6984144122426537
+wisely 0.6947571396102942
+grimly 0.6924377525901647
+162
+160
+
+*calm calmly complete completely
+complete 0.7027491949693851
+calmly 0.6016518085600497
+completes 0.5609348874086486
+covertly 0.5306419671780763
+systematically 0.5283965104389776
+1001
+999
+
+*calm calmly efficient efficiently
+efficient 0.693650983782314
+efficiently 0.6330375277020307
+profitably 0.62442650296684
+wisely 0.619741792350444
+succinctly 0.6173094896257253
+2
+1
+
+*calm calmly fortunate fortunately
+fortunate 0.6839543623587192
+calmly 0.6023782298133102
+foolishly 0.5651422344717771
+rashly 0.5603047794475197
+cleverly 0.5581533111972861
+944
+942
+
+*calm calmly free freely
+free 0.679437974500168
+calmly 0.5908147050245306
+willingly 0.5544306760484043
+covertly 0.5494036154096087
+foolishly 0.5471001824038935
+155
+153
+
+*calm calmly furious furiously
+furious 0.7309433896916545
+calmly 0.663981878862097
+foolishly 0.5914796119798068
+angrily 0.5836225804666428
+rashly 0.5696520351636668
+8
+6
+
+*calm calmly happy happily
+happy 0.6847859456079874
+calmly 0.6270606168744449
+rashly 0.572970319846367
+foolishly 0.5719740304656022
+happily 0.5718530219584408
+5
+3
+
+*calm calmly immediate immediately
+immediate 0.7046671597602637
+calmly 0.6049856878733397
+wisely 0.5901426181269228
+unlawfully 0.5873707702689734
+forcefully 0.5871458517474987
+973
+971
+
+*calm calmly infrequent infrequently
+infrequent 0.6889679388672536
+infrequently 0.6275046142297059
+calmly 0.6274719754530665
+wisely 0.625239223700902
+recklessly 0.6179982046959277
+2
+1
+
+*calm calmly lucky luckily
+lucky 0.7157059259377233
+calmly 0.5836594923823945
+cleverly 0.5627068627810448
+foolishly 0.5619157340255427
+unhappily 0.5480349883330714
+212
+210
+
+*calm calmly most mostly
+most 0.7195731735815859
+grimly 0.6028408229890845
+superbly 0.5997861808334194
+approvingly 0.5944792660259425
+endlessly 0.5935989653360803
+1201
+1199
+
+*calm calmly obvious obviously
+obvious 0.7248406302555966
+calmly 0.6131799305440316
+rashly 0.5842430939756306
+cleverly 0.5796130773162924
+foolishly 0.5744033966022826
+1250
+1248
+
+*calm calmly occasional occasionally
+occasional 0.7088460396545073
+periodically 0.614910050323809
+calmly 0.6007567258353363
+mercilessly 0.5981458689783092
+cleverly 0.5974851511190117
+524
+522
+
+*calm calmly possible possibly
+possible 0.6774509207083
+calmly 0.5334048321719649
+selectively 0.5281006886094628
+foolishly 0.5182180402344108
+surreptitiously 0.5171170583513909
+1394
+1392
+
+*calm calmly precise precisely
+precise 0.6981046752697715
+calmly 0.6448439945113479
+succinctly 0.6375380852799526
+concisely 0.6199255627538389
+confidently 0.6125203566204587
+981
+979
+
+*calm calmly professional professionally
+professional 0.6896513975490538
+calmly 0.5584972254244609
+wisely 0.5422048808708796
+validly 0.5337941986035757
+unlawfully 0.5328410855286063
+175
+173
+
+*calm calmly quick quickly
+quick 0.7198671845797217
+calmly 0.6539000566455423
+cleverly 0.6200101036730957
+foolishly 0.5839414698030556
+rashly 0.5837261168043953
+919
+917
+
+*calm calmly quiet quietly
+calmly 0.7937826304139041
+rashly 0.6768199004223722
+foolishly 0.6645539719240149
+meekly 0.6610258585462843
+grimly 0.6580915135008104
+11
+10
+
+*calm calmly rapid rapidly
+rapid 0.7069036816283802
+calmly 0.6049797589508157
+wisely 0.5942137426491415
+cleverly 0.5920256920630094
+forcefully 0.5895520972017629
+774
+772
+
+*calm calmly rare rarely
+rare 0.6745771572385183
+cleverly 0.5682312094795474
+infrequently 0.567069517910595
+wisely 0.5622967618432111
+casually 0.5591414000679366
+1050
+1048
+
+*calm calmly reluctant reluctantly
+reluctant 0.699906352314646
+calmly 0.6126305027303873
+foolishly 0.6103458739848532
+rashly 0.5982385896878402
+validly 0.5702271913064898
+279
+277
+
+*calm calmly safe safely
+safe 0.6875898173395151
+calmly 0.6089233545628171
+patiently 0.5566444892642856
+wisely 0.55433867453076
+silently 0.5461620215177119
+266
+264
+
+*calm calmly serious seriously
+serious 0.7121206877648233
+calmly 0.6449545388783816
+constructively 0.5914144201334436
+civilly 0.5897666343966015
+rashly 0.5877646932913787
+53
+51
+
+*calm calmly slow slowly
+calmly 0.7071916314101231
+slow 0.6513962085265846
+rashly 0.6443332452531951
+foolishly 0.622883627612158
+clumsily 0.6186472040615981
+14
+12
+
+*calm calmly sudden suddenly
+sudden 0.6897646028172385
+calmly 0.6563721168506452
+forcefully 0.62651692309732
+cleverly 0.62044625172965
+swiftly 0.6110552092115785
+1164
+1162
+
+*calm calmly swift swiftly
+swift 0.6997343760704207
+calmly 0.6479973855767227
+cleverly 0.5586802473892359
+lattimore 0.551931195530054
+quitely 0.531523946929269
+35
+33
+
+*calm calmly typical typically
+typical 0.6423341588631681
+attentively 0.5659847061239949
+stylishly 0.5594726866177779
+co-operatively 0.5565072058805443
+approvingly 0.55287096511519
+656
+655
+
+*calm calmly unfortunate unfortunately
+unfortunate 0.685630114111229
+calmly 0.6303881085837326
+rashly 0.6043694492926208
+foolishly 0.5990005848254413
+cleverly 0.5877979153202035
+2969
+2967
+
+*calm calmly usual usually
+usual 0.6865514205849158
+calmly 0.5206038749475412
+attentively 0.5191272708114739
+foolishly 0.5163014156740676
+surreptitiously 0.5121124237049294
+1571
+1569
+
+*calm calmly amazing amazingly
+amazing 0.6973086214856625
+astonishing 0.5806665151244444
+calmly 0.5767465163789092
+slyly 0.552530344284353
+incredible 0.5389383258439501
+714
+712
+
+*calm calmly apparent apparently
+apparent 0.6925224385000536
+foolishly 0.5699623472239792
+stubbornly 0.5691012568035622
+forcefully 0.5653553009935152
+rashly 0.5652312492996256
+1330
+1328
+
+*cheerful cheerfully complete completely
+complete 0.6794330226421073
+compulsorily 0.6611673689276933
+recursively 0.6335421948751355
+retroactively 0.6331296612904163
+unknowingly 0.6297331926803484
+949
+947
+
+*cheerful cheerfully efficient efficiently
+usefully 0.7266238220021983
+optimally 0.7243261122920613
+ordinarily 0.7238196240769591
+preferentially 0.7236125816258213
+inductively 0.7234797053865117
+10
+10
+
+*cheerful cheerfully fortunate fortunately
+handedly 0.6614424817527054
+unjustly 0.6601770202227973
+treacherously 0.6576174013807552
+wrongfully 0.657017903249469
+cheerfully 0.6552600571241559
+119
+117
+
+*cheerful cheerfully free freely
+free 0.6847838475461027
+compulsorily 0.6269526737691394
+surreptitiously 0.6253225279023717
+preferentially 0.6238313322526801
+telekinetically 0.623108930000048
+762
+760
+
+*cheerful cheerfully furious furiously
+tearfully 0.7361256428785963
+drunkenly 0.7164008380792165
+furiously 0.7158005883590777
+wrongfully 0.7131184093184116
+gleefully 0.708723069989379
+3
+3
+
+*cheerful cheerfully happy happily
+cheerfully 0.7155100234666082
+preemptively 0.7040263991533477
+perpetually 0.7013841593591267
+thankfully 0.7011811907205987
+blissfully 0.6984784458276704
+264
+263
+
+*cheerful cheerfully immediate immediately
+preemptively 0.7151589269108669
+preferentially 0.7137492779081698
+irrevocably 0.710823814432469
+gleefully 0.7095695023478691
+telekinetically 0.7072432269253677
+966
+964
+
+*cheerful cheerfully infrequent infrequently
+periodically 0.7518995625848686
+irreversibly 0.74615510234123
+transiently 0.7452172509847542
+irrevocably 0.7447815210230713
+preferentially 0.7431942198159499
+188
+187
+
+*cheerful cheerfully lucky luckily
+wrongfully 0.6781313078196509
+accidently 0.6725049351528495
+treacherously 0.6705272602135304
+handedly 0.6705059531211364
+luckily 0.6694472570697345
+5
+5
+
+*cheerful cheerfully most mostly
+most 0.7681780824550634
+perennially 0.6646702755212314
+marvelously 0.6643115918116292
+imminently 0.6636858255403213
+notionally 0.6633803991565285
+792
+790
+
+*cheerful cheerfully obvious obviously
+automagically 0.7020011440101405
+continously 0.6987813552511917
+pointlessly 0.6986487894574936
+shamelessly 0.6984509521684282
+cheerfully 0.6980355990080395
+975
+973
+
+*cheerful cheerfully occasional occasionally
+periodically 0.750076218255374
+irrevocably 0.7354475415420683
+adaptively 0.7309819914414377
+cheerfully 0.7304510668821682
+mercilessly 0.7301900884854714
+324
+323
+
+*cheerful cheerfully possible possibly
+possible 0.6831591618120791
+preemptively 0.6148451662800919
+optionally 0.6132334546771389
+telekinetically 0.6107729901158255
+parenthetically 0.6085084398884949
+912
+910
+
+*cheerful cheerfully precise precisely
+credibly 0.728686654420511
+recursively 0.724253795451211
+parenthetically 0.7209640180395654
+categorically 0.7161781049857897
+retrospectively 0.7147351905416354
+1101
+1099
+
+*cheerful cheerfully professional professionally
+professional 0.6649689460699824
+illegitimately 0.6477888326116759
+telekinetically 0.6471201323608262
+treacherously 0.6449883197292522
+cumulatively 0.6431674270001403
+1176
+1174
+
+*cheerful cheerfully quick quickly
+accidently 0.7115973183276696
+preemptively 0.7088609089932915
+repetitively 0.7082533117326653
+continously 0.7080922313690063
+telekinetically 0.7067474862348874
+1394
+1392
+
+*cheerful cheerfully quiet quietly
+cheerfully 0.7542863249456675
+repetitively 0.7477100172806517
+continously 0.7434955712058825
+gleefully 0.7412169956398399
+smugly 0.7392999834887086
+692
+691
+
+*cheerful cheerfully rapid rapidly
+preferentially 0.6857251846289723
+telekinetically 0.6837752375723465
+irreversibly 0.6796415165782014
+surgically 0.6788228371206487
+differentially 0.6787135932944787
+1138
+1136
+
+*cheerful cheerfully rare rarely
+fraudulently 0.6806844744904856
+periodically 0.6777516876422908
+playfully 0.6737341101840926
+shamelessly 0.6705269822336464
+prenatally 0.6697312527683124
+823
+821
+
+*cheerful cheerfully reluctant reluctantly
+accidently 0.7035443333347045
+cheerfully 0.7033322643100282
+preemptively 0.7016497199823428
+treacherously 0.7001494601084862
+illegitimately 0.6997835810270341
+877
+875
+
+*cheerful cheerfully safe safely
+telekinetically 0.6725647636604712
+repetitively 0.6702650880857962
+surreptitiously 0.6669065581609284
+accidently 0.6654087926758383
+anxiously 0.6647397281559349
+568
+566
+
+*cheerful cheerfully serious seriously
+cheerfully 0.7188674436418646
+gleefully 0.7128350667418737
+shamelessly 0.7115233298015263
+adaptively 0.7104504644776731
+affirmatively 0.708729747811359
+1166
+1164
+
+*cheerful cheerfully slow slowly
+reversibly 0.7006685779727672
+covertly 0.6880678647095506
+momentarily 0.6827460186673929
+reflexively 0.6808951527591838
+involuntarily 0.6806150046377328
+815
+813
+
+*cheerful cheerfully sudden suddenly
+irreversibly 0.7292420565829629
+irrevocably 0.726678616605317
+surgically 0.7200594714934011
+preferentially 0.7199732120804707
+preemptively 0.7170381917732994
+1335
+1333
+
+*cheerful cheerfully swift swiftly
+swift 0.6367920943597377
+smugly 0.6347496932569856
+ruefully 0.6316201226891102
+wrongfully 0.6300085851608491
+irrevocably 0.6298800831807899
+877
+875
+
+*cheerful cheerfully typical typically
+purportedly 0.6721669992960603
+imminently 0.6703749366711848
+cumulatively 0.6661555238929584
+sardonically 0.6647293510252488
+ordinarily 0.6646960044238338
+54
+54
+
+*cheerful cheerfully unfortunate unfortunately
+preemptively 0.7323331439092972
+automagically 0.7238221960132915
+wrongfully 0.7227552706360816
+unjustly 0.7220396098032713
+imminently 0.7204144993718775
+1174
+1172
+
+*cheerful cheerfully usual usually
+usual 0.6751980362285556
+gleefully 0.6212369855999844
+impatiently 0.6189520107037887
+playfully 0.6189204926401738
+continously 0.6183510508353605
+1047
+1045
+
+*cheerful cheerfully amazing amazingly
+cheerfully 0.6664004604346735
+regrettably 0.6594062076510012
+thankfully 0.6589858578080152
+shamelessly 0.6584203784935968
+continously 0.6581754820993968
+351
+349
+
+*cheerful cheerfully apparent apparently
+apparent 0.6805927703315091
+gleefully 0.6716592322225906
+preferentially 0.6715739283758299
+unconstitutionally 0.6683453474553138
+impatiently 0.6672228842904417
+682
+680
+
+*cheerful cheerfully calm calmly
+momentarily 0.6868964324835457
+reflexively 0.6805348673288761
+regretfully 0.6754013882570409
+reversibly 0.6736223923590438
+stealthily 0.6717419956079033
+1037
+1035
+
+*complete completely efficient efficiently
+efficient 0.6741406449340133
+completely 0.6256762114018125
+cognitively 0.6149092347935892
+aerodynamically 0.6125561897151195
+thermally 0.6085799170572103
+29
+27
+
+*complete completely fortunate fortunately
+fortunate 0.6949485702495972
+hopelessly 0.5588514337000504
+completely 0.5551359526355898
+sweetly 0.543200848732355
+horribly 0.5400729043186826
+586
+584
+
+*complete completely free freely
+free 0.6797852758000562
+completely 0.6025572208383302
+totally 0.5480779822856401
+entirely 0.5423259985313361
+wholly 0.5406314593913044
+71
+69
+
+*complete completely furious furiously
+furious 0.6973441091158536
+completely 0.5948276756253537
+violently 0.587001122966981
+hopelessly 0.5853053295426343
+totally 0.584338223893537
+16
+14
+
+*complete completely happy happily
+happy 0.7180774129466145
+completely 0.6025371908669397
+totally 0.5918914015487083
+hopelessly 0.5710717064384956
+utterly 0.5421060827754463
+279
+277
+
+*complete completely immediate immediately
+immediate 0.6844931233058955
+completely 0.6721440423762819
+totally 0.6292949357831636
+hopelessly 0.6266820940105893
+utterly 0.6242324084723526
+1343
+1341
+
+*complete completely infrequent infrequently
+infrequent 0.708269582132274
+completely 0.6529560262736014
+hopelessly 0.6230844507983108
+blatantly 0.6193994569200414
+patently 0.6183013355493812
+761
+759
+
+*complete completely lucky luckily
+lucky 0.7026160445789487
+totally 0.5696039259909854
+hopelessly 0.5651982377495539
+completely 0.5610172273463946
+horribly 0.5531491389116229
+703
+701
+
+*complete completely most mostly
+most 0.7632624653364501
+eminently 0.6484043740725334
+supremely 0.6404294065235702
+stunningly 0.6383573723544903
+devastatingly 0.6286808744459864
+395
+393
+
+*complete completely obvious obviously
+obvious 0.7084705343473967
+blatantly 0.6250936605605119
+completely 0.624437137662592
+hopelessly 0.6239872080365462
+grossly 0.6172616534435833
+352
+350
+
+*complete completely occasional occasionally
+occasional 0.7078872886573803
+completely 0.6602612644251471
+hopelessly 0.6164917437816387
+utterly 0.6136781545946111
+faintly 0.6070419582705704
+850
+848
+
+*complete completely possible possibly
+possible 0.653811778272376
+completely 0.554933664509797
+laughably 0.5383917772427782
+needlessly 0.5358911186741472
+irredeemably 0.5317935992809212
+1301
+1299
+
+*complete completely precise precisely
+precise 0.6561278532595504
+completely 0.6524496910914428
+patently 0.6434608813674759
+fundamentally 0.6415520609134223
+grammatically 0.6361016749589866
+1345
+1343
+
+*complete completely professional professionally
+professional 0.6838358588716902
+completely 0.6009079087408514
+totally 0.5380156233636609
+rotationally 0.5225966171974896
+cosmetically 0.5198920259055146
+911
+909
+
+*complete completely quick quickly
+quick 0.6923629010312415
+completely 0.6499877765223173
+totally 0.6100043106378347
+hopelessly 0.6068457160139371
+sweetly 0.58904342274951
+1180
+1178
+
+*complete completely quiet quietly
+quiet 0.6610934495055357
+completely 0.6052372887380847
+sweetly 0.5963112695597089
+hopelessly 0.5902198779096789
+blatantly 0.5711400006475603
+27
+25
+
+*complete completely rapid rapidly
+rapid 0.6860911888580572
+completely 0.6367067732743659
+hopelessly 0.6058613324898289
+totally 0.595944390341789
+grossly 0.5863560530365521
+303
+301
+
+*complete completely rare rarely
+rare 0.6987105241362008
+completely 0.5996501084911678
+sweetly 0.5627155091272443
+hopelessly 0.5622575175262097
+grossly 0.5525618850383436
+1851
+1849
+
+*complete completely reluctant reluctantly
+reluctant 0.7143676754857269
+completely 0.5993259637103461
+hesitant 0.5911546554141661
+totally 0.5803762993406805
+hopelessly 0.5647768217256957
+1475
+1473
+
+*complete completely safe safely
+safe 0.6877326615237286
+completely 0.569343399080242
+totally 0.5351501463375877
+hopelessly 0.5315788188898617
+sweetly 0.5228557952202204
+401
+399
+
+*complete completely serious seriously
+serious 0.6890250986923597
+completely 0.6270385743539979
+psychologically 0.6160681621460484
+blatantly 0.6157149304095741
+hopelessly 0.6138204253796474
+443
+441
+
+*complete completely slow slowly
+slow 0.6612201114851772
+completely 0.6231101924118658
+hopelessly 0.5883854604258012
+emotionally 0.5731362768038898
+grossly 0.5672218434434513
+923
+921
+
+*complete completely sudden suddenly
+sudden 0.7216449398174426
+completely 0.655455533507572
+hopelessly 0.61939412942141
+totally 0.6182788551721965
+utterly 0.609715174001011
+1052
+1050
+
+*complete completely swift swiftly
+swift 0.6771093936927234
+completely 0.5748185533649858
+hopelessly 0.5337139973499992
+irretrievably 0.5287636267294639
+totally 0.5226866237709789
+162
+160
+
+*complete completely typical typically
+typical 0.6383142773076511
+decidedly 0.5955111381705047
+deliciously 0.5942172927589138
+characteristically 0.5904123118878591
+entirely 0.5892622174789302
+925
+923
+
+*complete completely unfortunate unfortunately
+unfortunate 0.6845662692916803
+utterly 0.6164397247129136
+ghastly 0.6019574460341085
+hopelessly 0.5998464637206492
+patently 0.5935915664622269
+2131
+2129
+
+*complete completely usual usually
+usual 0.6310374154506502
+deliciously 0.5773609607616405
+laughably 0.5736437120018361
+charmingly 0.5730968577498926
+patently 0.5705736889662697
+1603
+1601
+
+*complete completely amazing amazingly
+amazing 0.6721158555163448
+completely 0.610584652148271
+totally 0.5873237152053702
+incredibly 0.5773832702945126
+hopelessly 0.5751924049282305
+39
+37
+
+*complete completely apparent apparently
+apparent 0.6756847255754266
+hopelessly 0.6144238018466126
+completely 0.5977830860986031
+laughably 0.5955009194192742
+grossly 0.593325125421995
+871
+869
+
+*complete completely calm calmly
+calm 0.6545298392290915
+completely 0.5567008167029134
+emotionally 0.53932240012184
+hopelessly 0.507061021320975
+jealously 0.5059290508556095
+1571
+1569
+
+*complete completely cheerful cheerfully
+cheerful 0.6827054071648234
+psychologically 0.6796977278416367
+bubbly 0.6781391543973411
+morally 0.6743348224347002
+emotionally 0.67023395030672
+619
+617
+
+*efficient efficiently fortunate fortunately
+fortunate 0.6610080868677308
+jealously 0.6175074706040419
+cruelly 0.6107657981479978
+effortlessly 0.6024601669883404
+skillfully 0.6013457073333202
+345
+343
+
+*efficient efficiently free freely
+free 0.6793424563371295
+freely 0.5992481519434937
+illegally 0.5911244202635447
+covertly 0.5898442633840597
+efficiently 0.589662723662049
+2
+1
+
+*efficient efficiently furious furiously
+furious 0.6792508372730515
+violently 0.6724881851768305
+angrily 0.6678991215217556
+furiously 0.6570659991966874
+silently 0.6496852338435815
+4
+3
+
+*efficient efficiently happy happily
+happy 0.6727477889221807
+happily 0.6214539446347501
+silently 0.6126773150711703
+peacefully 0.6071658766053417
+effortlessly 0.6047900349714332
+2
+1
+
+*efficient efficiently immediate immediately
+immediate 0.6750873286592094
+silently 0.6706636945346748
+telepathically 0.6691914718319685
+spontaneously 0.667170094224295
+effortlessly 0.6647029370492683
+902
+900
+
+*efficient efficiently infrequent infrequently
+periodically 0.6976276005944405
+infrequently 0.6901966288622169
+erratically 0.6878172574242221
+aggressively 0.6868440148908118
+intermittently 0.6852466090470342
+2
+2
+
+*efficient efficiently lucky luckily
+lucky 0.656003924172303
+happily 0.6299159117677878
+bravely 0.6190382043322343
+furiously 0.6099990973361807
+hysterically 0.6090942080971298
+174
+173
+
+*efficient efficiently most mostly
+most 0.7216526968338068
+endlessly 0.6483666623761117
+eternally 0.6410087531962724
+devastatingly 0.6342113243942273
+gloriously 0.6331988913927462
+730
+729
+
+*efficient efficiently obvious obviously
+obvious 0.6744065106490905
+selectively 0.665430893374087
+gracefully 0.6632788054693088
+effortlessly 0.661492049456823
+disruptively 0.6569194361281495
+1328
+1326
+
+*efficient efficiently occasional occasionally
+occasional 0.6933271501859178
+periodically 0.6873066307639552
+mercilessly 0.6682430830702161
+intermittently 0.6596232432290597
+selectively 0.649841561223889
+90
+89
+
+*efficient efficiently possible possibly
+possible 0.6531076126043707
+selectively 0.6014038894213143
+periodically 0.5895336967276658
+telepathically 0.5858068861800705
+preferentially 0.5857099877757707
+1210
+1208
+
+*efficient efficiently precise precisely
+efficiently 0.706744130355859
+cleanly 0.6992450108136231
+intelligently 0.6934561138767044
+gracefully 0.6917520684703002
+productively 0.6889581954839172
+1193
+1191
+
+*efficient efficiently professional professionally
+professional 0.6659920904094557
+telepathically 0.5971287733878439
+cooperatively 0.5951755613614607
+synchronously 0.5902410414167324
+surreptitiously 0.589922188131278
+20
+18
+
+*efficient efficiently quick quickly
+effortlessly 0.6765949603968942
+gracefully 0.6757235804459776
+mercilessly 0.6723225869257424
+swiftly 0.6684981513436109
+bravely 0.6674951992163636
+1013
+1011
+
+*efficient efficiently quiet quietly
+quiet 0.6626094205648168
+effortlessly 0.650419242592952
+jealously 0.6440692684683195
+gracefully 0.6371669264918992
+swiftly 0.6333125271637364
+13
+12
+
+*efficient efficiently rapid rapidly
+efficiently 0.6975166285965337
+skillfully 0.6704664755832782
+forcefully 0.6693139322828674
+swiftly 0.6632335874604833
+seamlessly 0.6631220176096247
+217
+215
+
+*efficient efficiently rare rarely
+rare 0.6633329027616501
+spontaneously 0.6352078282807968
+periodically 0.628499608811059
+aggressively 0.6175889208419839
+infrequently 0.6167321842609944
+376
+374
+
+*efficient efficiently reluctant reluctantly
+reluctant 0.6605351983577058
+indiscriminately 0.6344289594386858
+unknowingly 0.634054297442494
+discreetly 0.6316242741431299
+effortlessly 0.6280138419294689
+162
+161
+
+*efficient efficiently safe safely
+efficiently 0.6585356596091603
+silently 0.6538511010427178
+aimlessly 0.6505723423422253
+gracefully 0.6473791966241184
+telepathically 0.64371572291412
+16
+14
+
+*efficient efficiently serious seriously
+serious 0.6860304062051349
+constructively 0.6700638461528201
+productively 0.6679809336074004
+aggressively 0.6553672537225053
+gracefully 0.6506575046999743
+505
+503
+
+*efficient efficiently slow slowly
+slow 0.6625484179722735
+smoothly 0.6614863883140591
+cleanly 0.6608488817503451
+efficiently 0.6554495411818336
+spontaneously 0.6537270392989393
+170
+168
+
+*efficient efficiently sudden suddenly
+sudden 0.7013357933098482
+violently 0.6642460226695301
+jealously 0.6565972346372417
+spontaneously 0.6556359108760836
+effortlessly 0.6540862888632701
+1081
+1079
+
+*efficient efficiently swift swiftly
+swift 0.6623765885225792
+swiftly 0.5874528379362006
+gracefully 0.5700829262184411
+promptly 0.5660267249257623
+gently 0.5642775862083522
+2
+1
+
+*efficient efficiently typical typically
+asynchronously 0.6172332100579784
+typical 0.6170712083972414
+chaotically 0.6164917077920147
+deftly 0.6134515479247031
+preferentially 0.6126518966192704
+614
+612
+
+*efficient efficiently unfortunate unfortunately
+unfortunate 0.6741917970265525
+jealously 0.6272720422280276
+untimely 0.6219775031034392
+indiscriminately 0.6217192234046478
+effortlessly 0.6213950990841978
+1901
+1899
+
+*efficient efficiently usual usually
+usual 0.6507253670286706
+mercilessly 0.5911409754009753
+indiscriminately 0.5875769679799016
+preferentially 0.587286374893602
+habitually 0.5871446153724469
+1513
+1511
+
+*efficient efficiently amazing amazingly
+amazing 0.677077584681052
+effortlessly 0.5926240539516883
+jealously 0.5837224786326832
+relentlessly 0.5737499820792689
+magically 0.5677374063166032
+226
+224
+
+*efficient efficiently apparent apparently
+apparent 0.6664201159515378
+violently 0.6500758428645557
+mercilessly 0.639416177155868
+silently 0.6380037854406132
+preferentially 0.6365423302753244
+1381
+1379
+
+*efficient efficiently calm calmly
+calm 0.6839182821331544
+gracefully 0.5693536341572946
+cleanly 0.5649995304231209
+smoothly 0.5637414789919937
+calmly 0.5636323513998863
+5
+4
+
+*efficient efficiently cheerful cheerfully
+effortlessly 0.7398302599407754
+erratically 0.7361484559838749
+cautiously 0.7340949267605046
+recklessly 0.7339004332800437
+loudly 0.7332052803252896
+122
+122
+
+*efficient efficiently complete completely
+complete 0.6793462653837377
+seamlessly 0.6180417419518048
+systematically 0.5957766666795593
+covertly 0.5892853273167755
+unknowingly 0.5823114363839159
+552
+550
+
+*fortunate fortunately free freely
+free 0.6970995028063895
+telekinetically 0.6099112716164082
+fortunately 0.6071736434880433
+luckily 0.6053095597703292
+optionally 0.6030827211767147
+1310
+1308
+
+*fortunate fortunately furious furiously
+tearfully 0.689681791762303
+furious 0.6826758535297164
+drunkenly 0.6802135526392558
+inexplicably 0.6792152591192546
+fortunately 0.6731663444889373
+10
+8
+
+*fortunate fortunately happy happily
+fortunately 0.709257611825234
+thankfully 0.6983856214711358
+luckily 0.6910213693345837
+sadly 0.6834014199117495
+mercifully 0.683153178910275
+498
+496
+
+*fortunate fortunately immediate immediately
+immediate 0.699775970278609
+fortunately 0.6845104328451307
+irrevocably 0.6828853161333975
+immediatly 0.682612556046914
+instinctively 0.6786890436876124
+962
+960
+
+*fortunate fortunately infrequent infrequently
+unpredictably 0.7124350421720846
+fortunately 0.7114617600445243
+unavoidably 0.7064533832146898
+irrevocably 0.704943888136542
+irresponsibly 0.7041561283043254
+474
+472
+
+*fortunate fortunately lucky luckily
+fortunately 0.7690027332493079
+luckily 0.7623101128391929
+thankfully 0.7475676301528812
+miraculously 0.7323544499705207
+mercifully 0.7315329943016583
+2
+1
+
+*fortunate fortunately most mostly
+most 0.7760980455714536
+stunningly 0.6740842566440528
+unfailingly 0.6725340108211254
+undeniably 0.6669729027690254
+hauntingly 0.6662378835825838
+1023
+1021
+
+*fortunate fortunately obvious obviously
+obvious 0.6944985512408806
+willy-nilly 0.6912838789659854
+automagically 0.6891303729845969
+fortunately 0.686484450548608
+wilfully 0.6846899846251309
+938
+936
+
+*fortunate fortunately occasional occasionally
+occasional 0.7310237271853229
+fortunately 0.6646354769961159
+irrevocably 0.66413785341666
+unaccountably 0.6616422165075448
+compulsively 0.6558980071055933
+714
+712
+
+*fortunate fortunately possible possibly
+possible 0.7240605676618364
+luckily 0.5868911515071642
+fortunately 0.5858149957302772
+automagically 0.5791237077835151
+thusly 0.5753031478126975
+1132
+1130
+
+*fortunate fortunately precise precisely
+precise 0.6966434387062629
+intuitively 0.684248313228939
+unequivocally 0.6785030232641364
+truthfully 0.6769182755242537
+perceptibly 0.6757582245962792
+1055
+1053
+
+*fortunate fortunately professional professionally
+professional 0.723107603329186
+fortunately 0.6125569561454272
+consequentially 0.5952786731514325
+resultantly 0.5934239497662303
+telekinetically 0.5929804970886191
+1067
+1065
+
+*fortunate fortunately quick quickly
+willy-nilly 0.6894094867022798
+inexplicably 0.6847312030919982
+inadvertantly 0.6817896562484691
+telekinetically 0.6801441179133151
+hysterically 0.6788399236696696
+1285
+1283
+
+*fortunate fortunately quiet quietly
+quiet 0.6839125995603272
+fortunately 0.6522791228488252
+unhesitatingly 0.6464833301187506
+harmlessly 0.6459609088612152
+mightily 0.64438810160325
+468
+466
+
+*fortunate fortunately rapid rapidly
+rapid 0.694920169685579
+telekinetically 0.6597769850458562
+irrevocably 0.6548467658735128
+irreversibly 0.6544121989419881
+fearfully 0.6531253304662521
+1464
+1462
+
+*fortunate fortunately rare rarely
+rare 0.6839483293392887
+fortunately 0.6459656261322745
+unconsciously 0.6337665696250825
+unaccountably 0.6314601844539983
+unpredictably 0.6306451752469847
+1307
+1305
+
+*fortunate fortunately reluctant reluctantly
+fortunately 0.7130959867194515
+thankfully 0.6941289321205638
+mercifully 0.6907228965173713
+luckily 0.6902815596771553
+inexplicably 0.6870939121119763
+1068
+1066
+
+*fortunate fortunately safe safely
+safe 0.6846657665072882
+telekinetically 0.6309427320945348
+fortunately 0.6309288055730676
+harmlessly 0.6297207751676258
+luckily 0.6277830295280602
+965
+963
+
+*fortunate fortunately serious seriously
+fortunately 0.692493071842994
+serious 0.6876877004783851
+perceptibly 0.6778861679747601
+wilfully 0.6752640158222707
+affirmatively 0.6743923220237605
+1413
+1411
+
+*fortunate fortunately slow slowly
+reversibly 0.6814583655713656
+slow 0.6740603227939506
+reflexively 0.6593159580827743
+harmlessly 0.6589371595261285
+involuntarily 0.6569551793535272
+1055
+1053
+
+*fortunate fortunately sudden suddenly
+sudden 0.6970541585499814
+irrevocably 0.6924959862992445
+irreversibly 0.6882639321011033
+inexplicably 0.6862215745215096
+wilfully 0.6828072497741869
+589
+587
+
+*fortunate fortunately swift swiftly
+swift 0.6730953023020034
+quitely 0.6246742600317612
+fortunately 0.6191726224809468
+mcfeely 0.6097836816929187
+mcnelly 0.6076714599862398
+1035
+1033
+
+*fortunate fortunately typical typically
+typical 0.6888129989887302
+independantly 0.6324334505700443
+unashamedly 0.6283803325026311
+particuarly 0.6238758652579145
+exuberantly 0.6222474014306625
+803
+801
+
+*fortunate fortunately unfortunate unfortunately
+fortunately 0.7781472094801023
+sadly 0.7463922809191145
+regrettably 0.7423530498299687
+thankfully 0.7421982947692883
+automagically 0.7420540532748988
+822
+821
+
+*fortunate fortunately usual usually
+usual 0.6881521610434652
+luckily 0.6213222907057602
+fortunately 0.6163232349599602
+willy-nilly 0.6140706781085921
+occassionally 0.6088372967279068
+1426
+1424
+
+*fortunate fortunately amazing amazingly
+fortunately 0.6769173543913368
+amazing 0.6634731834527245
+thankfully 0.643850070863712
+sadly 0.6428026959412125
+regrettably 0.6325645386878319
+67
+65
+
+*fortunate fortunately apparent apparently
+apparent 0.6917429381750263
+fortunately 0.6780591482588971
+luckily 0.6637431974202735
+mercifully 0.6582150565524663
+automagically 0.656480744501321
+892
+890
+
+*fortunate fortunately calm calmly
+calm 0.6739243499452476
+fortunately 0.6043349241905988
+regretfully 0.5914847117502029
+smugly 0.5897254883782665
+luckily 0.5882219448822226
+1203
+1201
+
+*fortunate fortunately cheerful cheerfully
+frilly 0.7439631584043865
+maniacally 0.7346642993639361
+portly 0.7345643879819498
+exuberantly 0.7341366311456987
+crumbly 0.7325026980214158
+131
+130
+
+*fortunate fortunately complete completely
+complete 0.725074172302869
+fortunately 0.5920306305227219
+singlehandedly 0.5897668250439998
+instantaneously 0.5755189106652971
+reversibly 0.5754128866836146
+867
+865
+
+*fortunate fortunately efficient efficiently
+analytically 0.7001508820319988
+cost-effectively 0.6991871261299396
+intuitively 0.6963374024128497
+interactively 0.692939234424916
+abstractly 0.6925124983582472
+592
+590
+
+*free freely furious furiously
+furious 0.6871615016831161
+loudly 0.6292910666676779
+vigorously 0.6289583419625896
+forcefully 0.6129043549568451
+passionately 0.6125244818804211
+19
+18
+
+*free freely happy happily
+happy 0.667732582262923
+freely 0.6141438335738791
+loudly 0.5894109359072931
+vehemently 0.5833558728310932
+forcefully 0.5811207416157853
+15
+13
+
+*free freely immediate immediately
+immediate 0.7158599813819065
+freely 0.6155648231713321
+intelligently 0.6057867787123575
+securely 0.6051897439556642
+selectively 0.5993367857239937
+1678
+1676
+
+*free freely infrequent infrequently
+infrequent 0.7117949226289368
+freely 0.6580787939546034
+sparingly 0.6485332153208421
+infrequently 0.6471451445469542
+stringently 0.6280779371564569
+4
+2
+
+*free freely lucky luckily
+lucky 0.6750294312689877
+freely 0.5820099210890628
+loudly 0.5617783872602098
+rudely 0.561710906187187
+unhappily 0.5591312816392573
+901
+899
+
+*free freely most mostly
+most 0.7332471425097713
+energetically 0.6111781495551885
+devastatingly 0.6081557917604669
+therapeutically 0.6053758459428901
+eminently 0.60501444145185
+1331
+1329
+
+*free freely obvious obviously
+obvious 0.7084041818358956
+selectively 0.6134092001020722
+neutrally 0.6114819587859325
+liberally 0.6098460086713959
+productively 0.6096393170472711
+1440
+1438
+
+*free freely occasional occasionally
+occasional 0.717875495315273
+freely 0.6123576123070087
+elaborately 0.6104906854764189
+periodically 0.6094925150428265
+thinly 0.6082048674445356
+584
+582
+
+*free freely possible possibly
+possible 0.693038059636219
+selectively 0.5462213349148957
+freely 0.5404495710431019
+destructively 0.5156434494954635
+tendentiously 0.5154979070480652
+1781
+1779
+
+*free freely precise precisely
+precise 0.7145561644266317
+concisely 0.6442112186368332
+succinctly 0.6346103236988798
+eloquently 0.6340007549863678
+intelligently 0.6318312712962946
+1209
+1207
+
+*free freely professional professionally
+professional 0.691707536162571
+freely 0.6096653244857277
+flexibly 0.5489299474044176
+productively 0.5469393242274502
+prolifically 0.541965171758646
+51
+49
+
+*free freely quick quickly
+quick 0.6786366288954037
+freely 0.6321097109957919
+eloquently 0.6186095061021619
+sensitively 0.6124255230422466
+loudly 0.6123118640973435
+1104
+1102
+
+*free freely quiet quietly
+quiet 0.6842960639799834
+freely 0.6440599297309624
+vigorously 0.5970959785287265
+loudly 0.5942238612143372
+faithfully 0.5929249515359813
+85
+83
+
+*free freely rapid rapidly
+rapid 0.6941685995445844
+freely 0.624145975260598
+vigorously 0.6140280640680487
+skillfully 0.6124205579602223
+flexibly 0.6110712104801561
+134
+132
+
+*free freely rare rarely
+rare 0.7001910683507803
+freely 0.6170427420190379
+infrequently 0.5867487166229818
+sparingly 0.5730882426853716
+loudly 0.5715818551077441
+569
+567
+
+*free freely reluctant reluctantly
+reluctant 0.6795249521375799
+liberally 0.6002949634937385
+freely 0.5992728847522496
+obliquely 0.5964833104791906
+rudely 0.5960695486176554
+809
+807
+
+*free freely safe safely
+freely 0.668305226468926
+safe 0.6557444318555677
+securely 0.6019488754544979
+faithfully 0.5935802982010556
+erratically 0.5874060491432281
+315
+313
+
+*free freely serious seriously
+serious 0.7119185831269033
+productively 0.6315390109565046
+vigorously 0.6213816928461992
+constructively 0.620847651519571
+rigorously 0.6163268774313241
+804
+802
+
+*free freely slow slowly
+slow 0.6858170732295392
+freely 0.6205935163331268
+smoothly 0.6059360722904735
+intelligently 0.5995508892160306
+erratically 0.5971186603421673
+313
+311
+
+*free freely sudden suddenly
+sudden 0.7229873085333351
+vigorously 0.6125159949063739
+freely 0.6080505928349559
+forcefully 0.6080008604993291
+selectively 0.6056678357233379
+1424
+1422
+
+*free freely swift swiftly
+swift 0.6952923332475877
+freely 0.5376844104928133
+vigorously 0.5255138276581752
+swiftly 0.5198367925588613
+cleverly 0.5164071718922001
+4
+2
+
+*free freely typical typically
+typical 0.674158063209607
+freely 0.5828466310885562
+lushly 0.561238856371643
+intricately 0.5607969629785674
+elaborately 0.5596556140498515
+487
+485
+
+*free freely unfortunate unfortunately
+unfortunate 0.6901403286919402
+regrettable 0.5988082931306934
+grisly 0.5905950948350924
+sensitively 0.5897889055746119
+stringently 0.5886003381418198
+4821
+4819
+
+*free freely usual usually
+usual 0.7027006352966054
+freely 0.5465904739723573
+tendentiously 0.5208899042473992
+profusely 0.5184228287461755
+selectively 0.5121615955324339
+1610
+1608
+
+*free freely amazing amazingly
+amazing 0.6684099553695331
+astonishing 0.5847476706368573
+elaborately 0.5633203864798216
+comprehensively 0.5591912425441257
+profusely 0.5581756561032806
+940
+938
+
+*free freely apparent apparently
+apparent 0.6937826241030568
+obliquely 0.5910640837511123
+inappropriately 0.584654950382201
+selectively 0.5841654089321423
+destructively 0.5832315372291911
+2641
+2639
+
+*free freely calm calmly
+calm 0.6781648823832623
+freely 0.5967983537661431
+civilly 0.5477224336296505
+loudly 0.5436766114993979
+politely 0.5430734959373433
+38
+36
+
+*free freely cheerful cheerfully
+cheerful 0.7041844106865425
+creatively 0.6733333381716208
+freely 0.6721811237483108
+sensitively 0.6690552393080326
+vividly 0.6642043718658961
+614
+612
+
+*free freely complete completely
+complete 0.6659577702977703
+seamlessly 0.5725433994472333
+freely 0.5689095480717364
+comprehensively 0.5680316469193352
+intelligently 0.5653270716097073
+1202
+1200
+
+*free freely efficient efficiently
+efficient 0.6859867469177172
+efficiently 0.6707698927352176
+intelligently 0.6577947347171974
+stringently 0.6570652991467206
+flexibly 0.6537711561087941
+2
+1
+
+*free freely fortunate fortunately
+fortunate 0.6856139474204189
+freely 0.5830178180916512
+intensively 0.5808451113811318
+stringently 0.5776363854008868
+densely 0.5733021296858282
+1364
+1362
+
+*furious furiously happy happily
+perpetually 0.6779582982796554
+maniacally 0.6731785913039869
+continously 0.6709017640523568
+mindlessly 0.6708372410825162
+incessantly 0.669924266428225
+793
+791
+
+*furious furiously immediate immediately
+immediate 0.7137799290347071
+iteratively 0.6994764608651509
+squarely 0.6966708113528838
+impartially 0.6958430290426604
+compulsively 0.694926515614103
+1431
+1429
+
+*furious furiously infrequent infrequently
+infrequently 0.7307563925253056
+minorly 0.7254532096645356
+inexpensively 0.7183733843524873
+inefficiently 0.7179608504906853
+painlessly 0.7165943732830685
+1
+1
+
+*furious furiously lucky luckily
+continously 0.6821579880126594
+hysterically 0.6811279630361202
+accidently 0.6793312404386361
+unhappily 0.6791895104931999
+sneakily 0.6790638175106495
+46
+45
+
+*furious furiously most mostly
+most 0.7760972168279711
+marvelously 0.6975372937318385
+unfailingly 0.697485457602168
+perennially 0.6956340558941766
+notionally 0.6898038481523338
+935
+933
+
+*furious furiously obvious obviously
+obvious 0.7096251676117802
+shamelessly 0.7021857717007464
+willy-nilly 0.7014880134850028
+tendentiously 0.7011607493056817
+destructively 0.6994015563257361
+1066
+1064
+
+*furious furiously occasional occasionally
+periodically 0.7140006055485274
+minorly 0.7123427819117026
+occasional 0.7115777494594577
+mercilessly 0.7098118450618315
+compulsively 0.7095149630291957
+718
+716
+
+*furious furiously possible possibly
+possible 0.7136185840940058
+optionally 0.6149417619542878
+iteratively 0.6139289865347921
+interactively 0.6138236559699329
+programmatically 0.6130389428541271
+1203
+1201
+
+*furious furiously precise precisely
+precise 0.7229448733318095
+concretely 0.699633792723613
+usefully 0.699129684480321
+straightforwardly 0.6989225959169046
+intelligently 0.6986074819941341
+1055
+1053
+
+*furious furiously professional professionally
+professional 0.715307262576359
+holistically 0.6358077419025384
+feasibly 0.6355150218060995
+interactively 0.6318134080313819
+proficiently 0.6316416539047554
+900
+898
+
+*furious furiously quick quickly
+continously 0.7174126068432883
+laboriously 0.7168432206793078
+willy-nilly 0.7164018725221359
+unobtrusively 0.715726908725849
+agressively 0.7154584458707861
+1519
+1517
+
+*furious furiously quiet quietly
+quiet 0.6845419466575686
+incessantly 0.6777846664159239
+painlessly 0.6767005225911009
+sneakily 0.6766401668458619
+harmlessly 0.6759837536794495
+912
+910
+
+*furious furiously rapid rapidly
+iteratively 0.705236257495936
+differentially 0.7041876545572185
+flexibly 0.7024064519848973
+inexpensively 0.7022605789659431
+unevenly 0.7014005345666353
+1289
+1287
+
+*furious furiously rare rarely
+rare 0.7025124363227887
+infrequently 0.6676170291209731
+inexpensively 0.6560900383173263
+inefficiently 0.6557095969272813
+prenatally 0.6543159586930175
+1013
+1011
+
+*furious furiously reluctant reluctantly
+uneasily 0.7257977330845248
+validly 0.7174785000598592
+proficiently 0.7153814467523554
+robotically 0.714957808538134
+holistically 0.7147050095980036
+1479
+1477
+
+*furious furiously safe safely
+safe 0.701074058873465
+squarely 0.6629993439130293
+competitively 0.6465211006183276
+holistically 0.6464320579267488
+aimlessly 0.6460570767693868
+926
+924
+
+*furious furiously serious seriously
+productively 0.7255745655434291
+holistically 0.7243162529304512
+substantively 0.7235417793550234
+unreliably 0.7233930602795455
+collegially 0.721664583009458
+1252
+1250
+
+*furious furiously slow slowly
+slow 0.6983064193921869
+reversibly 0.6807304131736834
+cleanly 0.6779791221189978
+reflexively 0.6765422934471658
+covertly 0.6734006491987973
+1199
+1197
+
+*furious furiously sudden suddenly
+mercilessly 0.713752170625806
+irreversibly 0.7134719741593067
+iteratively 0.7107442247283472
+indiscriminately 0.7101306336436443
+explosively 0.7101096075097754
+1380
+1378
+
+*furious furiously swift swiftly
+swift 0.6730883764434142
+differentially 0.6293776880998047
+inexpensively 0.6260019134836778
+electromagnetically 0.6257185144995026
+robotically 0.6249127799880665
+952
+950
+
+*furious furiously typical typically
+typical 0.6945825459702019
+independantly 0.6620565437810578
+decoratively 0.6535644306023384
+characteristically 0.6531405933904971
+exuberantly 0.6519631616590745
+184
+183
+
+*furious furiously unfortunate unfortunately
+flippantly 0.7226634091887985
+problematically 0.7203320904078254
+shamelessly 0.720123631336585
+automagically 0.7197516405106055
+programmatically 0.7197064393057898
+1459
+1457
+
+*furious furiously usual usually
+usual 0.6940136611949637
+compulsively 0.6361545875809484
+occassionally 0.6355527303074279
+suggestively 0.6352044716952605
+willy-nilly 0.6343851504661656
+1292
+1290
+
+*furious furiously amazing amazingly
+amazing 0.6790310220337588
+tediously 0.6518095639066598
+alarmingly 0.6440116196425659
+shamelessly 0.6435883949526445
+crazily 0.6420674443431993
+278
+277
+
+*furious furiously apparent apparently
+apparent 0.6997810235186575
+menacingly 0.6857040754429977
+suggestively 0.6828598658171787
+transiently 0.6819565959988095
+destructively 0.6808199627279489
+1286
+1284
+
+*furious furiously calm calmly
+calm 0.675265146797127
+reflexively 0.6262399251630735
+gracefully 0.6251648502441333
+cleanly 0.6249490327196611
+painlessly 0.6181751622722016
+1557
+1555
+
+*furious furiously cheerful cheerfully
+frilly 0.7855231326783786
+creatively 0.7814379586521552
+maturely 0.7809847841960131
+competently 0.7791744414376057
+soberly 0.7790027736692031
+329
+329
+
+*furious furiously complete completely
+complete 0.7074742273436831
+recursively 0.6355507077934571
+seamlessly 0.6312630112086801
+sequentially 0.6280169652847114
+sneakily 0.6265017202938457
+1255
+1253
+
+*furious furiously efficient efficiently
+cost-effectively 0.7291881396945036
+profitably 0.7250929400727998
+inexpensively 0.7235298133026945
+flexibly 0.7186445057513771
+optimally 0.717319967387819
+8
+8
+
+*furious furiously fortunate fortunately
+fortunate 0.6734684900473561
+stringently 0.6675977541038182
+uneasily 0.6648520860448466
+busily 0.6647923769755808
+advantageously 0.6639878391890647
+734
+732
+
+*furious furiously free freely
+free 0.7134093978264177
+programmatically 0.6298011896057092
+sneakily 0.6292922303174582
+surreptitiously 0.6251592841499289
+telekinetically 0.6246252568697493
+294
+292
+
+*happy happily immediate immediately
+immediate 0.7155904533809264
+happily 0.6621108185310012
+telepathically 0.6456967487164434
+surreptitiously 0.6435417420572808
+impulsively 0.6408374109341749
+672
+670
+
+*happy happily infrequent infrequently
+infrequent 0.7007842955416208
+periodically 0.687552952044664
+infrequently 0.6779676323131941
+happily 0.6706796243344421
+intermittently 0.6693048377119999
+3
+2
+
+*happy happily lucky luckily
+happily 0.7539545376022143
+unhappily 0.6966978805054277
+impulsively 0.6647329868553802
+discreetly 0.6611299901644743
+helplessly 0.6596807808857161
+14
+13
+
+*happy happily most mostly
+most 0.7717603179885272
+therapeutically 0.618569745249337
+gloriously 0.6177298289866824
+helplessly 0.6171901436890933
+imminently 0.6137285189708888
+1295
+1293
+
+*happy happily obvious obviously
+obvious 0.702187151120153
+happily 0.6628730877126818
+patiently 0.6499012393314683
+tendentiously 0.6460617441248498
+gracefully 0.6452432839288443
+1315
+1313
+
+*happy happily occasional occasionally
+occasional 0.7221547224100399
+periodically 0.6847795629214459
+happily 0.6526244686759045
+intermittently 0.6518921836651811
+impulsively 0.6514612073017431
+396
+394
+
+*happy happily possible possibly
+possible 0.7200999147629018
+happily 0.5757978183416439
+periodically 0.5596687133541609
+surreptitiously 0.5549237338291091
+impulsively 0.5524449969428483
+1293
+1291
+
+*happy happily precise precisely
+precise 0.6973007351213492
+flexibly 0.6737276692140105
+sensibly 0.6713356917516833
+concretely 0.6627171192265078
+confidently 0.6626511502227177
+1021
+1019
+
+*happy happily professional professionally
+professional 0.7119459290794948
+joyfully 0.5864099983887889
+discreetly 0.583560069774548
+happily 0.5829760417624597
+dutifully 0.5826217212239577
+240
+238
+
+*happy happily quick quickly
+happily 0.6931743120977707
+discreetly 0.6726883320085437
+stealthily 0.6716917908575579
+impulsively 0.6711056566973395
+noisily 0.6709181907688677
+1253
+1251
+
+*happy happily quiet quietly
+quiet 0.6933717480549998
+happily 0.6750474517014494
+discreetly 0.633849593104161
+stealthily 0.6252858556575653
+impulsively 0.6210890280193891
+54
+52
+
+*happy happily rapid rapidly
+rapid 0.6804645327118815
+seamlessly 0.6652588487335005
+skillfully 0.6602091361279255
+flexibly 0.6594663698091391
+discreetly 0.6563243308326644
+824
+822
+
+*happy happily rare rarely
+rare 0.6920342541083561
+periodically 0.6284268659788628
+happily 0.6212316896445161
+infrequently 0.6145803473439578
+discreetly 0.6109280882267416
+208
+206
+
+*happy happily reluctant reluctantly
+happily 0.7387445640041015
+discreetly 0.6946446569737277
+unhappily 0.6941229726436966
+uneasily 0.6875606947433521
+impulsively 0.687450189479355
+56
+55
+
+*happy happily safe safely
+happily 0.6811412864285802
+safe 0.67705136145066
+comfortably 0.6308951343125117
+helplessly 0.6257870534222895
+patiently 0.6247737965107677
+193
+191
+
+*happy happily serious seriously
+serious 0.7045344260614782
+happily 0.6644891796925717
+productively 0.657976156417658
+constructively 0.6543724859513688
+civily 0.6498266941906251
+736
+734
+
+*happy happily slow slowly
+slow 0.6961044204517168
+reversibly 0.6616675071833619
+covertly 0.6498125845566888
+cleanly 0.6380064734425832
+seamlessly 0.6372719766372863
+69
+67
+
+*happy happily sudden suddenly
+sudden 0.6930781800408066
+irreversibly 0.6698396084331951
+jealously 0.6675368590261447
+periodically 0.6646629678326137
+seamlessly 0.6634907764641811
+1003
+1001
+
+*happy happily swift swiftly
+swift 0.6929443932900031
+happily 0.5762935417370415
+reversibly 0.5683641877379085
+stealthily 0.5653930586462117
+mcfeely 0.5630633172103399
+34
+32
+
+*happy happily typical typically
+typical 0.6736550796319989
+attentively 0.6042258516623714
+anxiously 0.6020511137433154
+grandly 0.6012102378654273
+lazily 0.6005508739209822
+375
+374
+
+*happy happily unfortunate unfortunately
+happily 0.7006051872336293
+unhappily 0.666998188747454
+unwillingly 0.6600331022018296
+discreetly 0.6592323401239533
+unfortunate 0.6588887169137957
+1484
+1482
+
+*happy happily usual usually
+usual 0.6998297343497905
+anxiously 0.5803533858820779
+helplessly 0.5752395083646676
+surreptitiously 0.5728116403947531
+attentively 0.5714190890892513
+1305
+1303
+
+*happy happily amazing amazingly
+amazing 0.6683994138040036
+happily 0.6255402911717438
+helplessly 0.5974402692193654
+joyfully 0.5952220564031931
+jealously 0.5945329793449081
+797
+795
+
+*happy happily apparent apparently
+apparent 0.7050838071091042
+happily 0.63665375086088
+anxiously 0.6240375294811868
+nervously 0.6228048671427717
+helplessly 0.6225965387829175
+1382
+1380
+
+*happy happily calm calmly
+calm 0.6838517743854255
+happily 0.620371348767348
+seamlessly 0.586083890705012
+civilly 0.5784046923868843
+gracefully 0.5778348068067619
+16
+14
+
+*happy happily cheerful cheerfully
+happily 0.7665272305710932
+discreetly 0.7442172255267825
+diligently 0.7433042620033183
+competently 0.741556724008469
+cautiously 0.7407825478984126
+122
+121
+
+*happy happily complete completely
+complete 0.720699791283351
+seamlessly 0.6045032126640356
+covertly 0.5880596241471053
+compulsorily 0.583925776198818
+reversibly 0.5806337928186475
+1478
+1476
+
+*happy happily efficient efficiently
+efficient 0.6911841651340189
+profitably 0.6862393327175383
+efficiently 0.6846389420186291
+flexibly 0.6843839908953032
+sustainably 0.6779464411680306
+3
+2
+
+*happy happily fortunate fortunately
+happily 0.7005058135876965
+unhappily 0.6577038764693178
+discreetly 0.6564621573853876
+healthily 0.6445290027272046
+fortunate 0.642960699582197
+346
+344
+
+*happy happily free freely
+free 0.6901684597764619
+happily 0.6295563978715976
+covertly 0.6146208317140252
+surreptitiously 0.605457589533413
+stealthily 0.6017259294121592
+73
+71
+
+*happy happily furious furiously
+furious 0.6939260443358362
+happily 0.6928120289079627
+angrily 0.6627292154197638
+tearfully 0.6567830335552418
+furiously 0.656718394713623
+5
+3
+
+*immediate immediately infrequent infrequently
+immediately 0.6760787974498081
+infrequent 0.6407208400580798
+infrequently 0.6047067818454662
+painlessly 0.5925863109594693
+fleetingly 0.5880378547423741
+3
+1
+
+*immediate immediately lucky luckily
+lucky 0.6507985179733144
+immediately 0.5548815442512576
+unhappily 0.5313630602649808
+unceremoniously 0.5187186958454497
+nilly 0.5137606295987808
+19
+17
+
+*immediate immediately most mostly
+most 0.7354842656022876
+immediately 0.6054230265310571
+devastatingly 0.5615933131297566
+marvelously 0.5604992939288687
+stunningly 0.5564391166672872
+1111
+1109
+
+*immediate immediately obvious obviously
+immediately 0.6621952224060841
+obvious 0.6401685169647036
+immediatly 0.5832132102651945
+predictably 0.5825936953985162
+automagically 0.574800092336056
+1122
+1120
+
+*immediate immediately occasional occasionally
+immediately 0.6647872493700091
+occasional 0.65568453286663
+sensationally 0.5836595250468182
+mysteriously 0.5784827908029676
+modestly 0.5738736529856898
+130
+128
+
+*immediate immediately possible possibly
+possible 0.6263229489522264
+immediately 0.580336449768987
+immediatly 0.496791044217778
+automagically 0.49285998242380524
+retroactively 0.48629824860890236
+1293
+1291
+
+*immediate immediately precise precisely
+immediately 0.6401490121188321
+precise 0.6206301922176161
+plausibly 0.599910053355117
+confidently 0.5985089787843376
+conclusively 0.5926176021437108
+1256
+1254
+
+*immediate immediately professional professionally
+professional 0.6770203025168646
+immediately 0.6030677248572044
+sensationally 0.4882859721603444
+instantly 0.48530668330871984
+belatedly 0.48491505172124405
+225
+223
+
+*immediate immediately quick quickly
+immediately 0.6547743953396378
+quick 0.6217232426529734
+unceremoniously 0.5877204400168576
+immediatly 0.5765178518056038
+precipitously 0.5759083200348768
+85
+83
+
+*immediate immediately quiet quietly
+quiet 0.6613843987554262
+immediately 0.6509422409050736
+instantly 0.5527778484960932
+briskly 0.5399319103386083
+promisingly 0.5229953708520956
+69
+67
+
+*immediate immediately rapid rapidly
+immediately 0.6520240442282877
+rapid 0.6327805706258053
+precipitously 0.5679816451326749
+unceremoniously 0.5646405260904925
+promisingly 0.557795365376178
+130
+128
+
+*immediate immediately rare rarely
+rare 0.6626068572823255
+immediately 0.6153203592195094
+promisingly 0.521518612936094
+belatedly 0.5122577008836173
+infrequently 0.5095779136529576
+511
+509
+
+*immediate immediately reluctant reluctantly
+reluctant 0.646060640466148
+immediately 0.6321704361959692
+shortly 0.5623242677214547
+promisingly 0.5587540813412081
+unofficially 0.5517577734957363
+35
+33
+
+*immediate immediately safe safely
+safe 0.6657594133665451
+immediately 0.6143382626494798
+ashore 0.5042727192501497
+briskly 0.5034873535588517
+thither 0.49635875250202965
+545
+543
+
+*immediate immediately serious seriously
+immediately 0.6550325472244442
+serious 0.6412099029316995
+immediatly 0.5618033021013747
+destructively 0.5613480570539756
+enthusiastically 0.5611147972067195
+811
+809
+
+*immediate immediately slow slowly
+slow 0.6499592175302067
+immediately 0.573084559979852
+clumsily 0.5401701433133107
+hurriedly 0.5341195855414909
+briskly 0.5337871311341199
+6
+4
+
+*immediate immediately sudden suddenly
+immediately 0.7080227817354361
+sudden 0.6238603505503043
+abruptly 0.6092410105418126
+unceremoniously 0.6091256810607067
+promptly 0.6075585662321957
+309
+307
+
+*immediate immediately swift swiftly
+swift 0.620175143997167
+immediately 0.612343143765698
+blakely 0.5505210359896751
+weatherly 0.542895866405111
+lattimore 0.5394574441305107
+73
+71
+
+*immediate immediately typical typically
+typical 0.6329127611998364
+immediately 0.5810823940729204
+imminently 0.5078532318383143
+independantly 0.5048138343604377
+commendably 0.5035945695548398
+298
+296
+
+*immediate immediately unfortunate unfortunately
+immediately 0.6621205801800647
+unfortunate 0.6157628102531499
+immediatly 0.5820762639605701
+regrettably 0.5730544382486967
+improbably 0.5717821719043161
+1493
+1491
+
+*immediate immediately usual usually
+usual 0.6348841501921517
+immediately 0.5763178620870091
+gleefully 0.48907398583596595
+invariably 0.4867835323445322
+suggestively 0.48545445938878107
+1061
+1059
+
+*immediate immediately amazing amazingly
+amazing 0.6628485873653117
+immediately 0.5587526286736852
+astonishing 0.5245179543032408
+astounding 0.4897479654505821
+instantly 0.4866087741277798
+31
+29
+
+*immediate immediately apparent apparently
+immediately 0.6681864473864183
+apparent 0.6365528469435117
+shortly 0.5885926529669334
+menacingly 0.5513923344193271
+immediatly 0.5504064385023663
+973
+971
+
+*immediate immediately calm calmly
+calm 0.6644459618214127
+immediately 0.5538980403580607
+instantly 0.47360456337567536
+convincingly 0.46311885151270604
+blankly 0.45965663433390724
+8
+6
+
+*immediate immediately cheerful cheerfully
+immediately 0.6734780799951706
+promisingly 0.6335918101824063
+hungover 0.6276590552913365
+cheerful 0.6276229692022854
+cautiously 0.6246452240428578
+140
+138
+
+*immediate immediately complete completely
+complete 0.6540543010143954
+immediately 0.6139483476966804
+singlehandedly 0.5039213218009886
+instantly 0.4995851991668687
+retroactively 0.49728355075219033
+767
+765
+
+*immediate immediately efficient efficiently
+efficient 0.6334009977863759
+immediately 0.6298628190046304
+profitably 0.5877808534290905
+cost-effectively 0.5798397713766518
+efficiently 0.5786624837894678
+5
+3
+
+*immediate immediately fortunate fortunately
+fortunate 0.624250242954734
+immediately 0.5758544494642027
+thenceforward 0.5370161220145928
+unhappily 0.5268332002691063
+promisingly 0.5262004051560883
+263
+261
+
+*immediate immediately free freely
+free 0.6953766624162762
+immediately 0.582060201376427
+instantly 0.4938123223132044
+triumphantly 0.4630874017117148
+stealthily 0.46104666194864763
+323
+321
+
+*immediate immediately furious furiously
+furious 0.6733049172451486
+immediately 0.6306208078751041
+furiously 0.5396006325781023
+instantly 0.5386362746533463
+angrily 0.5380104939844866
+3
+1
+
+*immediate immediately happy happily
+happy 0.6445530524536066
+immediately 0.58114731335355
+unceremoniously 0.5144607112142143
+mysteriously 0.5141602398209599
+acrimoniously 0.5141122013423186
+9
+7
+
+*infrequent infrequently lucky luckily
+lucky 0.6784634102658244
+unhappily 0.6395597788384448
+royally 0.6193753204086013
+greedily 0.6192679855197623
+lovingly 0.6158430990862254
+16
+15
+
+*infrequent infrequently most mostly
+most 0.7365658994589168
+approvingly 0.6640860219347526
+therapeutically 0.6508052422259457
+imminently 0.6474708795163819
+prodigiously 0.6473081014232317
+1024
+1022
+
+*infrequent infrequently obvious obviously
+dispassionately 0.6860837237929007
+innocently 0.6815804720508508
+greedily 0.680595537096523
+automagically 0.6802338642543407
+truthfully 0.6799415854449098
+1325
+1323
+
+*infrequent infrequently occasional occasionally
+infrequently 0.7771692959916967
+fleetingly 0.7530909028327945
+sporadically 0.748110468151118
+intermittently 0.7448112827083315
+attentively 0.7438040085308636
+392
+391
+
+*infrequent infrequently possible possibly
+possible 0.6926992984506259
+feasibly 0.5772911611299747
+fleetingly 0.573519665330706
+optionally 0.5713640780858504
+idly 0.5700759591393727
+1260
+1258
+
+*infrequent infrequently precise precisely
+concretely 0.7108187234717886
+succinctly 0.7046498467506717
+confidently 0.7023177761007537
+concisely 0.7021303858596525
+credibly 0.7007186325109118
+958
+956
+
+*infrequent infrequently professional professionally
+professional 0.6780404098172025
+feasibly 0.6244460048998848
+proficiently 0.6213534933675454
+pseudonymously 0.6190103171909642
+ceremoniously 0.6149309595306661
+372
+370
+
+*infrequent infrequently quick quickly
+quick 0.6726694374595987
+courageously 0.6665141992670679
+courteously 0.6627267866152492
+cleverly 0.6624201079523684
+sloppily 0.6599370356882273
+1233
+1231
+
+*infrequent infrequently quiet quietly
+quiet 0.6775447322270169
+tenderly 0.6459406797619146
+lovingly 0.6438584250711694
+discreetly 0.6419311789346189
+courageously 0.6372834714011739
+385
+383
+
+*infrequent infrequently rapid rapidly
+skillfully 0.7009746897222044
+infrequently 0.6928638005594956
+deftly 0.6908282973971852
+skilfully 0.6879159746549975
+discreetly 0.6873157182902517
+1283
+1281
+
+*infrequent infrequently rare rarely
+infrequently 0.7118610779404794
+fleetingly 0.654600126706127
+rare 0.6516436526454469
+reverently 0.6494993278388786
+carelessly 0.6491408733631843
+533
+531
+
+*infrequent infrequently reluctant reluctantly
+reluctant 0.6863738917082615
+indifferently 0.645217876620199
+honourably 0.6446941594453006
+hesitantly 0.6437022832798833
+proficiently 0.6430210510064207
+712
+710
+
+*infrequent infrequently safe safely
+safe 0.7108343455556738
+infrequently 0.5934630684746638
+idly 0.5912761731836467
+proficiently 0.5900967058062804
+squarely 0.5886687921865748
+392
+390
+
+*infrequent infrequently serious seriously
+dispassionately 0.6935408630817734
+courteously 0.69329499335738
+infrequently 0.6909438785437917
+sympathetically 0.6907206226434917
+tenderly 0.6905107461228897
+1347
+1345
+
+*infrequent infrequently slow slowly
+cleanly 0.6672862699805784
+clumsily 0.6645859453283054
+slow 0.6604280124523433
+infrequently 0.6591392880723079
+discreetly 0.6577639131946917
+708
+706
+
+*infrequent infrequently sudden suddenly
+profusely 0.7052129483234271
+indiscriminately 0.6999351479478158
+skillfully 0.6996109994013465
+carelessly 0.6978958617535025
+surreptitiously 0.6956365207834108
+1131
+1129
+
+*infrequent infrequently swift swiftly
+swift 0.6423123887872362
+mcfeely 0.6114167455182196
+cunningly 0.6107970274439067
+courageously 0.6103030165229468
+cleverly 0.6074810556007668
+689
+687
+
+*infrequent infrequently typical typically
+typical 0.6682241125570306
+admiringly 0.6244607020821928
+approvingly 0.623293419815529
+proficiently 0.6181568155611386
+decoratively 0.617750962109849
+249
+247
+
+*infrequent infrequently unfortunate unfortunately
+greedily 0.6975212207029136
+tenderly 0.6935916253942218
+flippantly 0.6935657139138107
+contemptuously 0.693439277277349
+incoherently 0.6922621957634748
+1617
+1615
+
+*infrequent infrequently usual usually
+usual 0.6740514220153828
+proficiently 0.6006369844553581
+greedily 0.597210397024795
+sardonically 0.5959802816691374
+attentively 0.594809999905325
+956
+954
+
+*infrequent infrequently amazing amazingly
+amazing 0.6470383032874429
+lovingly 0.6440014952133639
+tenderly 0.6351917257597639
+fondly 0.6304139427768708
+cunningly 0.6213449530496393
+878
+876
+
+*infrequent infrequently apparent apparently
+apparent 0.6774045156646534
+greedily 0.6451940786198329
+menacingly 0.6416837793258038
+wistfully 0.6400354241814971
+ominously 0.6393887612694944
+1164
+1162
+
+*infrequent infrequently calm calmly
+calm 0.6672449674271753
+confidently 0.589010648631166
+lovingly 0.5872315087565956
+cleanly 0.5833894463851312
+courteously 0.5823900965216803
+249
+247
+
+*infrequent infrequently cheerful cheerfully
+tenderly 0.7605751834369225
+competently 0.7501577833971481
+sympathetically 0.7455431773012313
+lovingly 0.7417939063870762
+thoughtfully 0.7411593620515459
+163
+162
+
+*infrequent infrequently complete completely
+complete 0.7021612695351244
+compulsorily 0.5839324741450922
+retroactively 0.5830924682258207
+customarily 0.5771660857048063
+retrospectively 0.5763988794847194
+1649
+1647
+
+*infrequent infrequently efficient efficiently
+profitably 0.7083186796541906
+concretely 0.700880558030365
+judiciously 0.6993762425979094
+intelligently 0.696842532783083
+competently 0.6957956776103298
+25
+25
+
+*infrequent infrequently fortunate fortunately
+fortunate 0.6625080293495993
+infrequently 0.6365051316882403
+discreetly 0.6302158431747548
+reverently 0.6299125897874529
+nobly 0.6297034608141366
+634
+632
+
+*infrequent infrequently free freely
+free 0.688263376671858
+surreptitiously 0.5978004423974977
+feasibly 0.5960428624077088
+greedily 0.595457019402841
+discreetly 0.5926854441991529
+453
+451
+
+*infrequent infrequently furious furiously
+furious 0.6772232881506928
+drunkenly 0.6668446237050165
+bravely 0.6652962169552754
+tearfully 0.6652177000107826
+furiously 0.6594462758868292
+5
+4
+
+*infrequent infrequently happy happily
+happy 0.6824548772929419
+tenderly 0.6173360398254825
+unhappily 0.6127655662530669
+greedily 0.6101723977579008
+infrequently 0.6078756031645519
+11
+9
+
+*infrequent infrequently immediate immediately
+dispassionately 0.6898064436839655
+uncritically 0.6887703581891397
+surreptitiously 0.6885084075297703
+instinctively 0.6869033730451282
+nonchalantly 0.6868613490523224
+1274
+1272
+
+*lucky luckily most mostly
+most 0.7810878390382047
+unfailingly 0.6713214807759575
+undeniably 0.6704938424332314
+notionally 0.6661174773155077
+marvelously 0.6648063125205116
+1216
+1214
+
+*lucky luckily obvious obviously
+willy-nilly 0.7035540645013819
+problematically 0.7027677336054803
+persuasively 0.7017294665123137
+automagically 0.6989003321092252
+definitly 0.6968657194869315
+1101
+1099
+
+*lucky luckily occasional occasionally
+occasional 0.7013828021576004
+compulsively 0.699892542077669
+telekinetically 0.6974360233439162
+suggestively 0.6973366772910163
+subliminally 0.697092638758579
+704
+702
+
+*lucky luckily possible possibly
+possible 0.7322273272284834
+luckily 0.598253469335275
+telekinetically 0.5846306812281671
+thusly 0.5837863854710494
+automagically 0.5831887846159914
+1323
+1321
+
+*lucky luckily precise precisely
+precise 0.716590134464746
+concretely 0.695351599033667
+persuasively 0.6890304552480625
+abstractly 0.6860641218371606
+authoritatively 0.6839385680617429
+910
+908
+
+*lucky luckily professional professionally
+professional 0.7140685655626753
+consequentially 0.6225341982237853
+feasibly 0.6217153187329869
+resultantly 0.6207311063018255
+suggestively 0.6185942453060884
+1196
+1194
+
+*lucky luckily quick quickly
+willy-nilly 0.7250840658684363
+telekinetically 0.7199702611445281
+harmlessly 0.7193389303003431
+nonchalantly 0.7171107646726034
+subliminally 0.7170387124272851
+1393
+1391
+
+*lucky luckily quiet quietly
+quiet 0.6943985734871064
+harmlessly 0.6569880569509342
+menacingly 0.6563146893010318
+smugly 0.6542834050831833
+timidly 0.6522238975280963
+949
+947
+
+*lucky luckily rapid rapidly
+rapid 0.6866324832159676
+telekinetically 0.6857319299399343
+iteratively 0.6833815873641768
+ominously 0.6786852181441988
+subliminally 0.6780014540037199
+1328
+1326
+
+*lucky luckily rare rarely
+word-initially 0.6809840562187944
+recurrently 0.6793413374509545
+ominously 0.6790446567175095
+prenatally 0.6781862405688716
+scathingly 0.6752716421336454
+1231
+1229
+
+*lucky luckily reluctant reluctantly
+luckily 0.7029412718530361
+consequentially 0.6971635401108204
+fortuitously 0.6946391911676308
+ominously 0.6943330101781356
+regrettably 0.6938283397254257
+1049
+1047
+
+*lucky luckily safe safely
+safe 0.6831467822497104
+harmlessly 0.6522449258993926
+telekinetically 0.6504288453220235
+squarely 0.6491462468019126
+luckily 0.6483736133455701
+486
+484
+
+*lucky luckily serious seriously
+persuasively 0.7021718643186127
+problematically 0.6997617766487525
+contentiously 0.6983706457418102
+holistically 0.6977341871620336
+affirmatively 0.6975948119742943
+1276
+1274
+
+*lucky luckily slow slowly
+reversibly 0.6991961948983271
+reflexively 0.683269427647633
+slow 0.6807172066601789
+harmlessly 0.6736926217162768
+stealthily 0.6669888411156235
+972
+970
+
+*lucky luckily sudden suddenly
+sudden 0.6986970242716448
+irreversibly 0.6972426438588446
+telekinetically 0.6906115583088188
+gleefully 0.6905127071537028
+irrevocably 0.6899915338403464
+1222
+1220
+
+*lucky luckily swift swiftly
+swift 0.6830345782724037
+smugly 0.6180851089244329
+ruefully 0.6146440304307486
+indignantly 0.6122281755242388
+subliminally 0.6049076233880525
+920
+918
+
+*lucky luckily typical typically
+typical 0.6985209202797803
+suggestively 0.6337671073818171
+unarguably 0.6328072446499806
+intriguingly 0.6322543755758337
+expecially 0.6320945534061203
+284
+282
+
+*lucky luckily unfortunate unfortunately
+definitly 0.7371451671459825
+problematically 0.7367607520698168
+intriguingly 0.7354873781536383
+luckily 0.7346102209805451
+weaselly 0.7344924590018191
+995
+994
+
+*lucky luckily usual usually
+usual 0.7094471979656918
+luckily 0.6211555657106164
+suggestively 0.6106950148760766
+willy-nilly 0.6089568405105086
+occassionally 0.608823867485098
+1264
+1262
+
+*lucky luckily amazing amazingly
+luckily 0.6597681165601729
+fortunately 0.6575243085159121
+regrettably 0.6566829494116047
+tellingly 0.6565342932655326
+amazing 0.6552842122566186
+500
+498
+
+*lucky luckily apparent apparently
+apparent 0.7100828398166152
+menacingly 0.6688592931927585
+luckily 0.6650667241017947
+suggestively 0.6622715485556867
+subliminally 0.6582418200292117
+1185
+1183
+
+*lucky luckily calm calmly
+calm 0.7058796822955999
+reflexively 0.588708578952341
+regretfully 0.5837499433237415
+smugly 0.5836047614900034
+luckily 0.5801695397110335
+1011
+1009
+
+*lucky luckily cheerful cheerfully
+sprightly 0.7587630578765654
+slovenly 0.7573972467813493
+homely 0.756407528768038
+cynically 0.7561783494444095
+soberly 0.7560732936766663
+259
+259
+
+*lucky luckily complete completely
+complete 0.7269045815194979
+recursively 0.6018471306409471
+singlehandedly 0.5982387606585737
+reflexively 0.5972627397832261
+compulsorily 0.5968686248967975
+1404
+1402
+
+*lucky luckily efficient efficiently
+cost-effectively 0.7187900236228277
+abstractly 0.7103277392291203
+flexibly 0.705238971061785
+concretely 0.7048292961920043
+holistically 0.7036653544722185
+132
+131
+
+*lucky luckily fortunate fortunately
+luckily 0.7591389407965997
+fortunately 0.7506164029837823
+regrettably 0.7426949124850101
+intriguingly 0.7418335638324175
+menacingly 0.7413371178085014
+2
+1
+
+*lucky luckily free freely
+free 0.7019888096080891
+telekinetically 0.6232611142569381
+luckily 0.6197731156758676
+excitedly 0.6193347072026534
+sneakily 0.6186742241194427
+1044
+1042
+
+*lucky luckily furious furiously
+tearfully 0.723533523169866
+drunkenly 0.7096482308785466
+excitedly 0.7063138582595522
+angrily 0.7046940700742034
+defiantly 0.7027727208648067
+9
+9
+
+*lucky luckily happy happily
+luckily 0.7424510402519954
+regretfully 0.7253193120976862
+defiantly 0.7246988531082426
+regrettably 0.7238130898110132
+thankfully 0.7227876313010878
+815
+814
+
+*lucky luckily immediate immediately
+immediate 0.7199330217485758
+subliminally 0.6818271471424066
+psionically 0.6741839717795277
+nonchalantly 0.6737507381273737
+immediatly 0.6734989042348887
+1006
+1004
+
+*lucky luckily infrequent infrequently
+intriguingly 0.7133616410513753
+cynically 0.7125566018164926
+unpredictably 0.7120182197012043
+subliminally 0.7100719526078904
+recurrently 0.7096510040340177
+44
+44
+
+*most mostly obvious obviously
+obvious 0.7041724187221177
+mostly 0.5635842076250536
+plausible 0.5436576133004197
+unconformably 0.537754609601398
+understandable 0.5373086891718154
+3276
+3274
+
+*most mostly occasional occasionally
+occasional 0.7063959631530782
+mostly 0.6207387523580916
+largely 0.5701032237001075
+intermittently 0.5688753592033271
+mainly 0.5655436189647116
+265
+263
+
+*most mostly possible possibly
+possible 0.6892345545654377
+feasible 0.5068880030047708
+practicable 0.49938220859789517
+mostly 0.4984658954668635
+primarily 0.49820770466347974
+949
+947
+
+*most mostly precise precisely
+precise 0.7132525760360695
+soberly 0.5542587846452731
+concisely 0.5464586712256908
+conservatively 0.5430536763404833
+accurate 0.5389394372973821
+2162
+2160
+
+*most mostly professional professionally
+professional 0.7195421883604722
+mostly 0.5553405948192203
+semi-professional 0.5243669204243101
+mainly 0.506559115011839
+primarily 0.5017295223487018
+34
+32
+
+*most mostly quick quickly
+quick 0.7249675678686973
+mostly 0.5286899488609575
+unconformably 0.513869302685928
+squarely 0.5124184592256467
+steely 0.5058840484814963
+3640
+3638
+
+*most mostly quiet quietly
+quiet 0.7115225202108574
+mostly 0.5511215878253137
+blissful 0.5138998302229592
+squarely 0.5094219048885414
+mainly 0.5023845757840965
+340
+338
+
+*most mostly rapid rapidly
+rapid 0.7278987508191684
+gradual 0.553328624159576
+mostly 0.5291365594459412
+unconformably 0.5191074856325784
+hydraulically 0.5166664945742819
+911
+909
+
+*most mostly rare rarely
+rare 0.7172885425365414
+uncommon 0.5781873692176156
+mostly 0.5552629378425411
+terrestrially 0.5091945407756509
+word-initially 0.5089252066794989
+6153
+6151
+
+*most mostly reluctant reluctantly
+reluctant 0.7515473789423012
+hesitant 0.6045537790651427
+mostly 0.5474153511958378
+loath 0.5313543165583393
+largely 0.5229995570696916
+1543
+1541
+
+*most mostly safe safely
+safe 0.7256779719105378
+mostly 0.5240384425883873
+squarely 0.5035385660753452
+unconformably 0.485483015461571
+terrestrially 0.4769707537087602
+595
+593
+
+*most mostly serious seriously
+serious 0.6977235522001871
+mostly 0.578782319811173
+soberly 0.5421219087747996
+collegially 0.5369609919822166
+unconformably 0.5363942811145983
+1357
+1355
+
+*most mostly slow slowly
+slow 0.7244053805672358
+mostly 0.5218579606617603
+accelerate 0.500174336030076
+cleanly 0.49782117683073024
+spontaneously 0.4976165530914043
+109
+107
+
+*most mostly sudden suddenly
+sudden 0.7451963030801005
+untimely 0.58159517255772
+abrupt 0.5624293224226091
+mostly 0.542830754556335
+unconformably 0.5327730657035273
+2025
+2023
+
+*most mostly swift swiftly
+swift 0.6989292273688501
+quitely 0.48674048115382007
+dilly 0.4824085155621125
+neneh 0.475944162797064
+barnacle 0.47527125365996725
+1496
+1494
+
+*most mostly typical typically
+typical 0.6655070556659622
+mostly 0.6138557829051361
+mainly 0.5938631061785348
+predominantly 0.5904423786411352
+primarily 0.5784012319296445
+544
+542
+
+*most mostly unfortunate unfortunately
+unfortunate 0.7232677271851294
+untimely 0.5730215902987932
+tragic 0.5667518725849272
+regrettable 0.5664913400831563
+mercyful 0.5645370128247593
+11303
+11301
+
+*most mostly usual usually
+usual 0.6769533086439713
+mostly 0.5398639875789711
+mainly 0.4999816261536285
+primarily 0.4929853351723177
+unconformably 0.4823111104113744
+2361
+2359
+
+*most mostly amazing amazingly
+amazing 0.7034506455809265
+astonishing 0.5722092457723374
+incredible 0.5616150080354466
+wonderful 0.5343641775968798
+exhilarating 0.5330926050940517
+4318
+4316
+
+*most mostly apparent apparently
+apparent 0.7220619693194753
+mostly 0.5584040594317233
+untimely 0.5238410921893577
+mainly 0.5200311652937251
+unconformably 0.517891877691266
+2127
+2125
+
+*most mostly calm calmly
+calm 0.6957975643877025
+quiet 0.5260181562619398
+sedate 0.4876815412515827
+persevere 0.4775187018525472
+tranquil 0.47699259794390536
+97
+95
+
+*most mostly cheerful cheerfully
+cheerful 0.7143366903292535
+joyful 0.6497770435291084
+self-centered 0.6480065152363932
+good-natured 0.6465750949091936
+vivacious 0.6445356889049695
+3080
+3078
+
+*most mostly complete completely
+complete 0.7441670190351585
+completes 0.5211829407432397
+mostly 0.5155562134220156
+finalize 0.4843670004168432
+undertake 0.4758760498306738
+76
+74
+
+*most mostly efficient efficiently
+efficient 0.6942341779275634
+cost-effective 0.6030203938115851
+user-friendly 0.5980614887047336
+efficacious 0.5823944824758591
+uneconomical 0.5745355727599136
+14
+13
+
+*most mostly fortunate fortunately
+fortunate 0.7301263665415688
+mostly 0.5340628937567021
+unlucky 0.5322851992588976
+lucky 0.5239175083077098
+unfortunate 0.48944382167678946
+522
+520
+
+*most mostly free freely
+free 0.7084810688488544
+mostly 0.5404202800865271
+mainly 0.5069517786924386
+unconformably 0.4791055457671114
+primarily 0.4772720395863532
+570
+568
+
+*most mostly furious furiously
+furious 0.7068546300181516
+angry 0.5730294644137429
+bravely 0.5238829916089028
+grief-stricken 0.5224672894657942
+mysteriously 0.5125043388240085
+28
+26
+
+*most mostly happy happily
+happy 0.7529112730098969
+mostly 0.5187577744233712
+ecstatic 0.4964429809258615
+largely 0.4889047205440349
+reluctant 0.48652112592115815
+35
+33
+
+*most mostly immediate immediately
+immediate 0.7269407253814576
+mostly 0.5680082530759288
+unconformably 0.5547049464702114
+squarely 0.547314014385396
+untimely 0.5459957355762992
+7356
+7354
+
+*most mostly infrequent infrequently
+infrequent 0.7048037890236095
+mostly 0.6010949694100324
+sporadic 0.5923910064111196
+word-initially 0.5793224218094037
+inadvertent 0.5769582509571871
+15
+13
+
+*most mostly lucky luckily
+lucky 0.7374587786361909
+happy 0.5202725967554499
+mostly 0.519117498590573
+unlucky 0.5159627073229899
+raggedy 0.5046632900772603
+251
+249
+
+*obvious obviously occasional occasionally
+occasional 0.6677320312439688
+obviously 0.6597502358310265
+minorly 0.6457264329125381
+evidently 0.6349041892929495
+devoutly 0.6325401261944538
+350
+348
+
+*obvious obviously possible possibly
+obviously 0.6453358378033041
+possible 0.6152319577835738
+admittedly 0.5770297930511556
+evidently 0.5756159097017496
+arguably 0.5752397069247898
+102
+100
+
+*obvious obviously precise precisely
+obviously 0.6952033425306927
+precise 0.6693406364803623
+evidently 0.6363061050543113
+emphatically 0.6259878051052401
+unequivocally 0.6205615431497085
+499
+497
+
+*obvious obviously professional professionally
+professional 0.6983127230701419
+obviously 0.5793328422137707
+independantly 0.5324444049638657
+apparently 0.5278103166712266
+doubtlessly 0.5265447209979719
+1024
+1022
+
+*obvious obviously quick quickly
+quick 0.6647155775773577
+obviously 0.6555225154300528
+evidently 0.6042538606787479
+stupidly 0.5915160104357071
+amazingly 0.5901795786458627
+1644
+1642
+
+*obvious obviously quiet quietly
+quiet 0.6739877883379296
+obviously 0.6260355495883947
+evidently 0.592750251296615
+devoutly 0.5688057350057291
+unarguably 0.5636998815308663
+342
+340
+
+*obvious obviously rapid rapidly
+rapid 0.6625310366534743
+obviously 0.6212988425422036
+evidently 0.5888191590531726
+crucially 0.585855626846249
+emphatically 0.585758314277357
+1539
+1537
+
+*obvious obviously rare rarely
+rare 0.6751242051872722
+obviously 0.6313346692609411
+evidently 0.5733616125200099
+unarguably 0.5582998422602476
+apparently 0.5575105002025197
+410
+408
+
+*obvious obviously reluctant reluctantly
+reluctant 0.686051724655949
+obviously 0.6435558702828086
+evidently 0.6354829123771016
+apparently 0.6326903561809262
+probably 0.5986597683303372
+1111
+1109
+
+*obvious obviously safe safely
+safe 0.6793148656765198
+obviously 0.60506872436736
+evidently 0.5435078634788136
+unarguably 0.5281254362950956
+definatly 0.5279780126671552
+1439
+1437
+
+*obvious obviously serious seriously
+obviously 0.7207653099455636
+evidently 0.6608111915588217
+crucially 0.645717954050601
+minorly 0.6436017288807144
+serious 0.6398967468282816
+609
+607
+
+*obvious obviously slow slowly
+slow 0.6682694400979823
+obviously 0.6009808415405976
+evidently 0.5645083733061304
+apparently 0.5562848084823209
+clumsily 0.5524124839472639
+680
+678
+
+*obvious obviously sudden suddenly
+obviously 0.6609589104054568
+sudden 0.6551256233542212
+evidently 0.6201875130872181
+flagrantly 0.6125700952594898
+blatantly 0.6124324047921866
+1072
+1070
+
+*obvious obviously swift swiftly
+swift 0.6506368568792045
+obviously 0.5708569434764514
+quitely 0.5551296869633056
+mcnelly 0.5400896711457435
+szekely 0.5393268569116496
+11131
+11129
+
+*obvious obviously typical typically
+typical 0.6918293569433414
+obviously 0.6414179961681138
+evidently 0.5728862898312906
+apparently 0.5697196900064565
+arguably 0.5586177042159683
+240
+238
+
+*obvious obviously unfortunate unfortunately
+obviously 0.7226586749679504
+evidently 0.6701661406313612
+regrettably 0.65358104058261
+self-evidently 0.6517279744905582
+unquestionably 0.6463401563459704
+176
+174
+
+*obvious obviously usual usually
+usual 0.6481838050665315
+obviously 0.6468954989085597
+surely 0.5795541927381137
+apparently 0.5766948961150097
+evidently 0.5756416172795572
+919
+917
+
+*obvious obviously amazing amazingly
+amazing 0.663169275199549
+obviously 0.6276524255224052
+evidently 0.5891843385846257
+definately 0.5675698282171849
+arguably 0.5640815239441928
+6
+4
+
+*obvious obviously apparent apparently
+obviously 0.7685262501037634
+evidently 0.7123829456902159
+apparently 0.7069972332075205
+sorely 0.6780349053775019
+understandably 0.6754132228574453
+3
+2
+
+*obvious obviously calm calmly
+calm 0.6759160115949024
+obviously 0.5424944742064757
+definitely 0.49300074406989514
+regrettably 0.4890314010222847
+regretfully 0.48509136065624847
+1317
+1315
+
+*obvious obviously cheerful cheerfully
+obviously 0.7013223734156708
+girly 0.6795098935358842
+slovenly 0.6767383816511994
+surly 0.6760170836317441
+sonically 0.6752402363168811
+384
+382
+
+*obvious obviously complete completely
+complete 0.6856858818186076
+obviously 0.5634181885108517
+apparently 0.541506611980169
+completed 0.5318954261549649
+evidently 0.5278967923375719
+525
+523
+
+*obvious obviously efficient efficiently
+obviously 0.6665447594588396
+efficient 0.6616483079422728
+ergonomically 0.6260451277588783
+abstractly 0.6223683139412111
+analytically 0.61675171718106
+544
+542
+
+*obvious obviously fortunate fortunately
+fortunate 0.6685883876304285
+obviously 0.6338752864255277
+evidently 0.5995964635701859
+apparently 0.5951314337004506
+presumably 0.5739985806539273
+23
+21
+
+*obvious obviously free freely
+free 0.6979432020486479
+obviously 0.5730886632492956
+apparently 0.5333872873755654
+evidently 0.5219859698347653
+imminently 0.5057155856932141
+724
+722
+
+*obvious obviously furious furiously
+furious 0.657612425618555
+evidently 0.6074024593291042
+obviously 0.6038692023009368
+apparently 0.6002062764064977
+defiantly 0.5931299193162214
+15
+13
+
+*obvious obviously happy happily
+happy 0.6809822636659145
+obviously 0.6380123770118404
+evidently 0.5993982009415569
+apparently 0.579031990333713
+regrettably 0.5609754747430262
+291
+289
+
+*obvious obviously immediate immediately
+obviously 0.6845954645093425
+immediate 0.6655150837527283
+devoutly 0.628941855574635
+evidently 0.6254231671716003
+undoubtedly 0.6234809257107059
+1361
+1359
+
+*obvious obviously infrequent infrequently
+obviously 0.7063199621823592
+infrequent 0.6699217112107179
+minorly 0.6557894421690169
+evidently 0.6493396370121063
+self-evidently 0.6416006857927032
+125
+123
+
+*obvious obviously lucky luckily
+lucky 0.6672703813486006
+obviously 0.6367397836202197
+apparently 0.6069998613384991
+evidently 0.5928370486130484
+unhappily 0.5694743396993714
+9
+7
+
+*obvious obviously most mostly
+most 0.7620036447429929
+obviously 0.6541474603302992
+eminently 0.6395756313491026
+undeniably 0.6323340730654431
+hauntingly 0.6289099467743184
+539
+537
+
+*occasional occasionally possible possibly
+possible 0.6737720414073461
+occasionally 0.5857892111191597
+preferably 0.5310564279333839
+alternatively 0.5160004422135929
+optionally 0.5029277238739857
+213
+211
+
+*occasional occasionally precise precisely
+precise 0.6501296368161001
+concisely 0.6135836277547032
+generically 0.6097047661651107
+succinctly 0.6095184423759107
+paradoxically 0.6095007467140484
+800
+798
+
+*occasional occasionally professional professionally
+professional 0.6272462603615664
+occasionally 0.5968219478766457
+recurrently 0.5547932261886399
+preferrably 0.5503908022803354
+proficiently 0.5502416256862654
+413
+411
+
+*occasional occasionally quick quickly
+quick 0.6425327026306565
+occasionally 0.6277154493784523
+sometimes 0.5839987455656387
+courageously 0.5784241737382861
+hysterically 0.5750642035281138
+1402
+1400
+
+*occasional occasionally quiet quietly
+quiet 0.635297951789124
+occasionally 0.5866243829486392
+madly 0.5647260839334103
+softly 0.5626997426181332
+courageously 0.5589515504061094
+312
+310
+
+*occasional occasionally rapid rapidly
+rapid 0.6381140284107532
+occasionally 0.6293012457982841
+sometimes 0.5826778543679735
+profitably 0.581672917970827
+playfully 0.5767836377496861
+1095
+1093
+
+*occasional occasionally rare rarely
+occasionally 0.6857970546115149
+rare 0.6326410966776403
+infrequently 0.6053273300103031
+rarely 0.5999537258831164
+word-initially 0.5902840390359574
+4
+2
+
+*occasional occasionally reluctant reluctantly
+reluctant 0.668010922946678
+occasionally 0.6146042550164643
+preferably 0.5616966879009366
+sometimes 0.5595499375799123
+derisively 0.5584598623674986
+452
+450
+
+*occasional occasionally safe safely
+safe 0.6921240293556372
+occasionally 0.5584727908561076
+ashore 0.5264674170032266
+aimlessly 0.5115887848405563
+aloft 0.5043023989868787
+292
+290
+
+*occasional occasionally serious seriously
+occasionally 0.6624754999860415
+preferably 0.6240172040538389
+habitually 0.6230720474309164
+plausibly 0.6226342161329044
+gratuitously 0.6202568356391587
+792
+790
+
+*occasional occasionally slow slowly
+slow 0.6586556229531076
+occasionally 0.6098896664810028
+clumsily 0.5537806740173571
+recklessly 0.5537636221761467
+sometimes 0.5479391588988345
+14
+12
+
+*occasional occasionally sudden suddenly
+occasionally 0.656657103947361
+sudden 0.6384320284138907
+sometimes 0.6077389092619429
+playfully 0.6077384632293603
+habitually 0.6066762220793416
+924
+922
+
+*occasional occasionally swift swiftly
+swift 0.6344929066759268
+occasionally 0.5474971283398937
+mcfeely 0.5309039587056206
+sometimes 0.5275656863045878
+quitely 0.520101704586495
+1844
+1842
+
+*occasional occasionally typical typically
+occasionally 0.624638540191166
+typically 0.6165601828589528
+typical 0.6027688355493199
+usually 0.5988725119461447
+principally 0.5926871830017544
+2
+1
+
+*occasional occasionally unfortunate unfortunately
+occasionally 0.6436608134306929
+misleadingly 0.6122501984430698
+weaselly 0.6076149655850621
+word-initially 0.6075539072980902
+unfortunate 0.6050418423717703
+1336
+1334
+
+*occasional occasionally usual usually
+usual 0.6385991550607963
+occasionally 0.5943897008767389
+preferably 0.5457285882817695
+habitually 0.5305572719125862
+occassionally 0.5240324367530659
+42
+40
+
+*occasional occasionally amazing amazingly
+amazing 0.6216671194886298
+occasionally 0.583706843068431
+sometimes 0.5623849530527233
+invariably 0.5409084734378223
+fashionably 0.5390897798405581
+281
+279
+
+*occasional occasionally apparent apparently
+apparent 0.6418500564180328
+occasionally 0.6272471051396269
+habitually 0.5779497498187436
+menacingly 0.5765022645697964
+preferably 0.5749627438383731
+671
+669
+
+*occasional occasionally calm calmly
+calm 0.6518651763670256
+occasionally 0.5100608368517441
+gracefully 0.4851323492994304
+realistically 0.48263416759104283
+softly 0.47896380029670715
+177
+175
+
+*occasional occasionally cheerful cheerfully
+bubbly 0.6944279741840194
+occasionally 0.6910365846421828
+tenderly 0.6810224947732775
+offensively 0.6754622695883643
+incongruously 0.6731608603112179
+143
+142
+
+*occasional occasionally complete completely
+complete 0.6523803980606222
+occasionally 0.5489890973723098
+preferably 0.5341763960762563
+invariably 0.5137591672447065
+optionally 0.5130189207571958
+1593
+1591
+
+*occasional occasionally efficient efficiently
+efficient 0.6522300047136199
+profitably 0.6235961783056402
+efficiently 0.6089247268514313
+capably 0.603686165383646
+ideally 0.6014606818920972
+3
+2
+
+*occasional occasionally fortunate fortunately
+fortunate 0.6726302228222707
+occasionally 0.5533583425623823
+rarely 0.5130499807125957
+presumably 0.5103724961716464
+frequently 0.5103712443330412
+268
+266
+
+*occasional occasionally free freely
+free 0.6895845261658671
+occasionally 0.5484096344234821
+sometimes 0.5110850317849053
+optionally 0.5011012277072611
+preferably 0.4972216927294013
+40
+38
+
+*occasional occasionally furious furiously
+furious 0.6401792093024417
+occasionally 0.6003384894099427
+playfully 0.5808879579095272
+tearfully 0.5793579911853708
+courageously 0.5771691822213116
+7
+5
+
+*occasional occasionally happy happily
+happy 0.6647873142391106
+occasionally 0.5709552010355247
+preferably 0.5236573205039663
+hypothetically 0.522608335198362
+habitually 0.519755085810923
+7
+5
+
+*occasional occasionally immediate immediately
+immediate 0.6269828844492813
+occasionally 0.6171098727716116
+playfully 0.6142857761998116
+optionally 0.6101217473075657
+habitually 0.6087313738455575
+1467
+1465
+
+*occasional occasionally infrequent infrequently
+occasionally 0.7844213606962442
+infrequently 0.7154490541830044
+frequently 0.6936823396411119
+word-initially 0.6889094430190368
+rarely 0.6873862861364946
+2
+1
+
+*occasional occasionally lucky luckily
+lucky 0.647318309382577
+occasionally 0.5932819507736143
+luckily 0.548548914195459
+lolly 0.5429812492849755
+unhappily 0.5396798236885739
+3
+1
+
+*occasional occasionally most mostly
+most 0.7177007008467
+occasionally 0.6367347082574093
+sometimes 0.6182704388281873
+marvelously 0.5953348428132994
+particularly 0.5939109858631696
+345
+343
+
+*occasional occasionally obvious obviously
+obvious 0.6475528305093368
+occasionally 0.6269456931646071
+preferably 0.6159628671778499
+plausibly 0.6000706919519766
+habitually 0.5999448779303459
+499
+497
+
+*possible possibly precise precisely
+precise 0.6863000821384473
+possibly 0.6615855335048012
+plausibly 0.6315401868274502
+unambiguously 0.6132073745487394
+demonstrably 0.6102722241238099
+1039
+1037
+
+*possible possibly professional professionally
+professional 0.669772774296651
+possibly 0.5928982913031386
+probably 0.5730464633712969
+quintessentially 0.5622216375491988
+inclusively 0.5582667662731188
+1107
+1105
+
+*possible possibly quick quickly
+quick 0.6906121832979462
+possibly 0.612929688757346
+sweetly 0.5804247064821498
+smelly 0.578107607697001
+stupidly 0.5779611443244215
+1607
+1605
+
+*possible possibly quiet quietly
+quiet 0.6829152659696653
+possibly 0.6018450268436716
+devoutly 0.5786076541623958
+evidently 0.5712449794243268
+madly 0.5693762794982238
+166
+164
+
+*possible possibly rapid rapidly
+rapid 0.6939611087407427
+possibly 0.6155515217048558
+flagrantly 0.569141214026477
+diffusely 0.5690853340780451
+chaotically 0.5683080329116507
+1052
+1050
+
+*possible possibly rare rarely
+rare 0.6971849975498959
+possibly 0.6365798895791788
+sweetly 0.5539301770040055
+frilly 0.5534432112893423
+quintessentially 0.5488179900850737
+1186
+1184
+
+*possible possibly reluctant reluctantly
+reluctant 0.706725263493521
+possibly 0.6701164941657167
+probably 0.6329441066822
+presumably 0.6160583346595793
+evidently 0.6036003751532115
+1475
+1473
+
+*possible possibly safe safely
+safe 0.662792283782703
+possibly 0.5961342165262419
+comfortably 0.5561949407710283
+aimlessly 0.553184998302481
+squarely 0.5516054184620295
+1160
+1158
+
+*possible possibly serious seriously
+serious 0.6894315805093337
+possibly 0.6556971942988311
+plausibly 0.6089662789350292
+devoutly 0.6020798475911282
+recognizably 0.6003530695412056
+794
+792
+
+*possible possibly slow slowly
+slow 0.7010164105872587
+possibly 0.63726864662619
+recklessly 0.5522123546791676
+painlessly 0.5502047271711678
+chaotically 0.5494564588807452
+64
+62
+
+*possible possibly sudden suddenly
+sudden 0.6888926057133408
+possibly 0.6459273116245485
+untimely 0.6178458872610796
+irretrievably 0.60018043163912
+irreversibly 0.598307765294308
+1527
+1525
+
+*possible possibly swift swiftly
+swift 0.6785599969431154
+possibly 0.5673731916526997
+probably 0.5564372198559734
+quitely 0.5425318438032014
+szekely 0.5387062914316278
+869
+867
+
+*possible possibly typical typically
+typical 0.6845700295082482
+possibly 0.637024643983423
+predominantly 0.5879427038571862
+principally 0.587037029839392
+predominately 0.5838956634965126
+306
+304
+
+*possible possibly unfortunate unfortunately
+unfortunate 0.6947838181323982
+possibly 0.6720098858047218
+ghastly 0.612725462297365
+grisly 0.6042224418126366
+presumably 0.6018282845741786
+1303
+1301
+
+*possible possibly usual usually
+possibly 0.7155013846626725
+undoubtedly 0.6392840676046381
+apparently 0.6285368686416516
+probably 0.6284497253645834
+evidently 0.6272744141918882
+1262
+1260
+
+*possible possibly amazing amazingly
+amazing 0.7087472848016971
+possibly 0.5839041118027287
+astonishing 0.5610724439501584
+ghastly 0.5513940464273912
+beastly 0.5432229008722714
+42
+40
+
+*possible possibly apparent apparently
+possibly 0.708961130417364
+apparent 0.6617173405162261
+presumably 0.6415857585849384
+probably 0.6288301720329673
+evidently 0.6105743449136866
+6
+4
+
+*possible possibly calm calmly
+calm 0.666813105949244
+possibly 0.5496333639747131
+chilly 0.5174043182195505
+madly 0.5090410271125498
+shallowly 0.5056426829386924
+703
+701
+
+*possible possibly cheerful cheerfully
+homely 0.7027196446926182
+bubbly 0.6998573124384749
+miserly 0.6899069640062112
+shapely 0.6879498860032156
+surly 0.6878670407319711
+768
+766
+
+*possible possibly complete completely
+complete 0.6793644106504925
+possibly 0.6030172600644251
+reputedly 0.5505295001342794
+presumably 0.5490964566713777
+supposedly 0.547923959623924
+434
+432
+
+*possible possibly efficient efficiently
+efficient 0.6638063612219004
+possibly 0.6516794292346885
+plausibly 0.6357714353677067
+cost-effectively 0.6306707471148405
+inexpensively 0.6302786815456313
+130
+128
+
+*possible possibly fortunate fortunately
+fortunate 0.7169160656050605
+possibly 0.5962711353894933
+presumably 0.5838800374107233
+probably 0.5785774649432498
+reputedly 0.555767483167993
+106
+104
+
+*possible possibly free freely
+free 0.7102679072189091
+possibly 0.5945337138242072
+presumably 0.5367835021285454
+supposedly 0.5259368452561807
+reputedly 0.5180921365668612
+896
+894
+
+*possible possibly furious furiously
+furious 0.688558957570617
+possibly 0.5805748474647138
+passionately 0.579850878747519
+sweetly 0.5687740299406356
+violently 0.5686769437202517
+13
+11
+
+*possible possibly happy happily
+happy 0.7170895249991903
+possibly 0.6173497208982025
+probably 0.5605561695477901
+evidently 0.55611609981913
+presumably 0.5522163440562322
+66
+64
+
+*possible possibly immediate immediately
+immediate 0.6748365225304859
+possibly 0.6710180846363691
+devoutly 0.6376984025384658
+probably 0.6327259151604941
+quintessentially 0.6230091550844316
+1452
+1450
+
+*possible possibly infrequent infrequently
+infrequent 0.7065715364503665
+possibly 0.6722304919548416
+recognizably 0.6118562412896842
+minorly 0.6095241370060879
+recognisably 0.6080706360036334
+14
+12
+
+*possible possibly lucky luckily
+lucky 0.7175069077786195
+possibly 0.606161706358902
+presumably 0.5734720664349892
+unhappily 0.5516170246112037
+apparently 0.5514759938192546
+149
+147
+
+*possible possibly most mostly
+most 0.7591525732613672
+possibly 0.6608227977757101
+arguably 0.6320507595163148
+hauntingly 0.6301068856346448
+eminently 0.6296333540190115
+144
+142
+
+*possible possibly obvious obviously
+possibly 0.7215023963593983
+obvious 0.6544448447020682
+egregiously 0.6529221080414167
+plausibly 0.6521039161825077
+flagrantly 0.6488976446290653
+11
+9
+
+*possible possibly occasional occasionally
+occasional 0.7064191706571613
+possibly 0.6804287761275566
+devoutly 0.6145631404754075
+putatively 0.604987156988057
+frilly 0.6025706191396161
+91
+89
+
+*precise precisely professional professionally
+professional 0.6702335859816794
+precisely 0.5884464958209772
+preferrably 0.5274041511566524
+ostensibly 0.5254656525038863
+expecially 0.5216594057043505
+654
+652
+
+*precise precisely quick quickly
+precisely 0.6347184708369866
+quick 0.6310864107952414
+hysterically 0.5957811144818036
+willy-nilly 0.5945475903084432
+'billy 0.5938086303672679
+1165
+1163
+
+*precise precisely quiet quietly
+quiet 0.631709231078275
+precisely 0.6053777397527149
+tenderly 0.581648539016097
+squarely 0.5728876523118877
+seductively 0.5725710638707943
+106
+104
+
+*precise precisely rapid rapidly
+precisely 0.6563648222899595
+rapid 0.638698677412517
+conformably 0.581157077959405
+vegetatively 0.5797444611118773
+squarely 0.5784614186851633
+1039
+1037
+
+*precise precisely rare rarely
+rare 0.6601089789602756
+precisely 0.6227267052425445
+prenatally 0.5404884341595088
+word-finally 0.5387313966519297
+quintessentially 0.5358603970132986
+822
+820
+
+*precise precisely reluctant reluctantly
+reluctant 0.6746378446113004
+precisely 0.6039606797784876
+ostensibly 0.5674132952417366
+assumedly 0.5597521086177959
+expecially 0.5568329357085507
+946
+944
+
+*precise precisely safe safely
+safe 0.6423313683252652
+precisely 0.589654743682725
+squarely 0.5679935997502709
+aimlessly 0.5587352636508156
+instinctively 0.5468675787915531
+1053
+1051
+
+*precise precisely serious seriously
+serious 0.6619253626163626
+precisely 0.6521551721861955
+expecially 0.5861125116886073
+tenderly 0.58505481336587
+intently 0.5850005588614311
+1007
+1005
+
+*precise precisely slow slowly
+slow 0.6469277927674432
+precisely 0.6329002215810872
+uncontrollably 0.5548783726953326
+reflexively 0.5544880866056251
+recklessly 0.5522455933256726
+289
+287
+
+*precise precisely sudden suddenly
+sudden 0.6503007295950222
+precisely 0.620040311425829
+conformably 0.6015876455371552
+instinctively 0.5985369009392173
+explosively 0.594690504283126
+655
+653
+
+*precise precisely swift swiftly
+swift 0.6556428029188202
+precisely 0.5820083381518001
+quitely 0.5403101674367843
+snively 0.5230771665883844
+powderly 0.5209967397045983
+584
+582
+
+*precise precisely typical typically
+typical 0.669391620606507
+precisely 0.6178918836245254
+principally 0.5909933988001798
+predominantly 0.5582629526339306
+predominately 0.553816437626968
+16
+14
+
+*precise precisely unfortunate unfortunately
+precisely 0.63905920277845
+unfortunate 0.6361401058388536
+gangly 0.5985948748341494
+measly 0.5945478305482206
+'only 0.5943789216743526
+1239
+1237
+
+*precise precisely usual usually
+usual 0.6614216893527548
+precisely 0.592707446281879
+exactly 0.5365340163963725
+measly 0.5230933644114342
+ostensibly 0.5142482670700547
+884
+882
+
+*precise precisely amazing amazingly
+amazing 0.6441840737690179
+precisely 0.5964214350862094
+hillbilly 0.5502398656820005
+quintessentially 0.5469233560146949
+psychobilly 0.5465951261248782
+344
+342
+
+*precise precisely apparent apparently
+precisely 0.6415967676750206
+apparent 0.6382768640730945
+ostensibly 0.5952495056078526
+expecially 0.5914358218803406
+conformably 0.5835187163639449
+630
+628
+
+*precise precisely calm calmly
+calm 0.6473255304495925
+precisely 0.5775230181299783
+tenderly 0.49087005577832765
+instinctively 0.48238729594312946
+madly 0.4812147032416043
+416
+414
+
+*precise precisely cheerful cheerfully
+bubbly 0.6925419352416979
+precisely 0.6918601350708531
+portly 0.6746900596948894
+gangly 0.6729498678244376
+homely 0.6725198212292907
+282
+280
+
+*precise precisely complete completely
+complete 0.6612531062736358
+precisely 0.6356450836568593
+exactly 0.5628344623305406
+basically 0.53429683341337
+singlehandedly 0.5095527805051042
+281
+279
+
+*precise precisely efficient efficiently
+precisely 0.7287209138410105
+efficient 0.640085457712531
+ideally 0.6380309776433297
+abstractly 0.6230825152076587
+analytically 0.6166137228733287
+11
+9
+
+*precise precisely fortunate fortunately
+fortunate 0.6595539520334479
+precisely 0.5969073204789289
+unhappily 0.5323780606747038
+assumedly 0.5317456685749526
+presumably 0.5312302055473309
+14
+12
+
+*precise precisely free freely
+free 0.6801420841447261
+precisely 0.5647195444721165
+literally 0.5147273528361451
+exactly 0.5069173015336448
+aimlessly 0.5015084684509469
+699
+697
+
+*precise precisely furious furiously
+furious 0.6680508863813835
+instinctively 0.5653247257109966
+furiously 0.5630414144881074
+drunkenly 0.5613597466859893
+impulsively 0.5600174609350371
+3
+2
+
+*precise precisely happy happily
+happy 0.6462460435230709
+precisely 0.57234909419782
+basically 0.5540375568734169
+ostensibly 0.5489112912636708
+hillbilly 0.548590575436297
+127
+125
+
+*precise precisely immediate immediately
+precisely 0.6864508865957523
+immediate 0.6656158609299272
+instinctively 0.603328610186595
+squarely 0.5968879809939915
+conformably 0.5965461466606504
+720
+718
+
+*precise precisely infrequent infrequently
+precisely 0.6769480766215997
+infrequent 0.6368986262639369
+irresponsibly 0.622913286033299
+word-initially 0.6224038891011233
+word-finally 0.6222763017896532
+21
+19
+
+*precise precisely lucky luckily
+lucky 0.6592632731790989
+precisely 0.5672922888130104
+unhappily 0.5582998594485842
+lolly 0.5577914736049311
+smelly 0.5466562852901633
+33
+31
+
+*precise precisely most mostly
+most 0.7492692104802788
+principally 0.596355163838322
+precisely 0.5920181207302859
+quintessentially 0.5883570974715485
+unfailingly 0.5860894831950902
+254
+252
+
+*precise precisely obvious obviously
+precisely 0.6697378327741135
+obvious 0.6455095503892063
+expecially 0.6111118291632625
+automagically 0.6069060873351241
+willy-nilly 0.6042681693778322
+828
+826
+
+*precise precisely occasional occasionally
+occasional 0.6582771843887854
+precisely 0.620486702009879
+ostensibly 0.6063539522625669
+putatively 0.605554306169418
+incoherently 0.6008509826837097
+553
+551
+
+*precise precisely possible possibly
+possible 0.6556955650976625
+precisely 0.5852485753715565
+preferably 0.5199288721328122
+preferrably 0.5178124164628669
+expecially 0.5168565959363818
+966
+964
+
+*professional professionally quick quickly
+quick 0.7029925447361631
+professionally 0.6320852421469348
+competently 0.6281006968323803
+admirably 0.6202894366147506
+recklessly 0.6199533034495637
+1465
+1463
+
+*professional professionally quiet quietly
+quiet 0.7015534309875661
+professionally 0.624831091842222
+competently 0.6139495672363232
+faithfully 0.6115068486752742
+diligently 0.6091310672726954
+49
+47
+
+*professional professionally rapid rapidly
+rapid 0.7130998410127826
+professionally 0.6386842163158233
+creatively 0.6126706774615478
+skillfully 0.6109315303425987
+intensively 0.6100520571264858
+873
+871
+
+*professional professionally rare rarely
+rare 0.7249088637089438
+professionally 0.6300853705897854
+infrequently 0.5976587549598096
+competitively 0.5768750739290003
+uncommon 0.576083578618382
+1182
+1180
+
+*professional professionally reluctant reluctantly
+reluctant 0.7049303811666977
+professionally 0.6309136996725742
+hesitant 0.6084182042222677
+admirably 0.6036856923788237
+brilliantly 0.5989981322095455
+1416
+1414
+
+*professional professionally safe safely
+safe 0.7251029945797388
+professionally 0.6176316980624262
+competitively 0.5823058909743802
+competently 0.5729092214208897
+faithfully 0.5688922755484348
+1006
+1004
+
+*professional professionally serious seriously
+serious 0.6901253231063048
+professionally 0.6847695064934463
+productively 0.6711102487340046
+creatively 0.6620180508133334
+diligently 0.6534171073975825
+1027
+1025
+
+*professional professionally slow slowly
+slow 0.7284544458173567
+professionally 0.615165429834799
+cleanly 0.60657785239442
+competitively 0.5999697464124623
+recklessly 0.595702024992378
+88
+86
+
+*professional professionally sudden suddenly
+sudden 0.7125801833055251
+jealously 0.6378138958297938
+untimely 0.6271230022845343
+recklessly 0.622827604760439
+asexually 0.6205640192802611
+1659
+1657
+
+*professional professionally swift swiftly
+swift 0.7113392018535201
+professionally 0.554206574162003
+dilly 0.5303019401492667
+faithfully 0.5290351222353555
+diligently 0.5270592269132547
+306
+304
+
+*professional professionally typical typically
+typical 0.6982708191784363
+professionally 0.5993412330970128
+industrially 0.57494301059818
+lushly 0.574660833474749
+co-operatively 0.5728923623099351
+828
+826
+
+*professional professionally unfortunate unfortunately
+unfortunate 0.7113865607733048
+professionally 0.6365313370702964
+grisly 0.6140060128373876
+competently 0.603908289727142
+untimely 0.6015307264478285
+3092
+3090
+
+*professional professionally usual usually
+usual 0.6849470652276879
+professionally 0.60737746098672
+cooperatively 0.5546208694014128
+brilliantly 0.5545637641997715
+diligently 0.5498226951854176
+1483
+1481
+
+*professional professionally amazing amazingly
+amazing 0.7013450952050231
+astonishing 0.6104752382756458
+professionally 0.5829822385853978
+brilliantly 0.5772817152053497
+admirably 0.5706459619933344
+102
+100
+
+*professional professionally apparent apparently
+apparent 0.7053528429939213
+intermittently 0.5915077563490847
+professionally 0.588659168642366
+destructively 0.587838056921634
+irrationally 0.5867416478425058
+1473
+1471
+
+*professional professionally calm calmly
+calm 0.700046840847201
+professionally 0.5680848434168395
+cleanly 0.5577247659158435
+competently 0.5563676528802097
+faithfully 0.555864863667032
+52
+50
+
+*professional professionally cheerful cheerfully
+cheerful 0.7172806353078568
+professionally 0.7089954925789735
+creatively 0.6952420918087513
+competently 0.6908386683589645
+artistically 0.688829482937849
+550
+548
+
+*professional professionally complete completely
+complete 0.7000087776831629
+professionally 0.5948844970104172
+cleanly 0.5682475358576221
+collaboratively 0.5675420715938804
+covertly 0.5641861006003948
+1491
+1489
+
+*professional professionally efficient efficiently
+efficient 0.7101702941425357
+efficiently 0.6749979354467792
+professionally 0.6666865804963334
+diligently 0.6565565767611056
+competently 0.6565441473795445
+2
+1
+
+*professional professionally fortunate fortunately
+fortunate 0.7115694805092291
+intensively 0.587434030268881
+intimately 0.5779631991557567
+professionally 0.5733500019156493
+diligently 0.5707251943509115
+1449
+1447
+
+*professional professionally free freely
+free 0.691462522318054
+professionally 0.5967654547011311
+competitively 0.580198530945412
+cooperatively 0.5793137968476169
+collaboratively 0.5721515283161959
+423
+421
+
+*professional professionally furious furiously
+furious 0.7210952239748263
+professionally 0.6062893886609724
+recklessly 0.6060519737026094
+bravely 0.6052601347172302
+relentlessly 0.5995163497761886
+14
+12
+
+*professional professionally happy happily
+happy 0.712520571816146
+professionally 0.5851565032687808
+faithfully 0.5769742644127375
+competently 0.571604002198826
+diligently 0.5625362329751311
+19
+17
+
+*professional professionally immediate immediately
+immediate 0.6996782118056081
+creatively 0.6350320104129388
+securely 0.6340729005122309
+diplomatically 0.6312133614944927
+intelligently 0.6295617134948602
+1701
+1699
+
+*professional professionally infrequent infrequently
+infrequent 0.7171702489374335
+professionally 0.6747845806878179
+infrequently 0.6735451547329366
+sparingly 0.6645034470338884
+intermittently 0.6539218341514823
+3
+1
+
+*professional professionally lucky luckily
+lucky 0.7044551345581971
+unhappily 0.5849108072236717
+professionally 0.5834520676859202
+brilliantly 0.5734476256107266
+bravely 0.5728213806653772
+1174
+1172
+
+*professional professionally most mostly
+most 0.7522274390968887
+insufficiently 0.6432775036294279
+wonderfully 0.6431082216505355
+fabulously 0.6421517804881196
+outstandingly 0.6405014552759347
+1017
+1015
+
+*professional professionally obvious obviously
+obvious 0.7258205575370265
+ethically 0.6166565867446856
+professionally 0.6160312120778844
+productively 0.6136735262739427
+competently 0.612063785373437
+1480
+1478
+
+*professional professionally occasional occasionally
+occasional 0.7028341868495526
+professionally 0.6941671568587584
+intermittently 0.6697198188826775
+sporadically 0.6582029228326964
+brilliantly 0.6528033394709741
+199
+197
+
+*professional professionally possible possibly
+possible 0.7010775955970507
+professionally 0.598314435784299
+competently 0.5358120678329027
+competitively 0.5352277178036422
+intermittently 0.5332932604602961
+1279
+1277
+
+*professional professionally precise precisely
+precise 0.7065198553462383
+concisely 0.6562242010054627
+competently 0.6533282517361403
+intelligently 0.6486881127305519
+graphically 0.6484634154066701
+1403
+1401
+
+*quick quickly quiet quietly
+quickly 0.6776863216657142
+quiet 0.6712298614562114
+rapidly 0.5996190740813117
+swiftly 0.5775033247568128
+instantly 0.5611321422220208
+32
+30
+
+*quick quickly rapid rapidly
+quickly 0.754413289353381
+rapidly 0.7151357039539623
+swiftly 0.6436867217002262
+rapid 0.6291200105588354
+efficiently 0.616754078191992
+2
+1
+
+*quick quickly rare rarely
+rare 0.6771167783441505
+quickly 0.6674236074468209
+rapidly 0.6113900868055749
+spontaneously 0.541334757191732
+swiftly 0.5302078119412102
+295
+293
+
+*quick quickly reluctant reluctantly
+quickly 0.6647677285176596
+reluctant 0.625567142323562
+eventually 0.5943709411948327
+promptly 0.5919398481131328
+rapidly 0.5912452960769966
+23
+21
+
+*quick quickly safe safely
+quickly 0.6584171983306182
+safe 0.6310543623618097
+rapidly 0.5670676450252854
+promptly 0.5606399327078303
+efficiently 0.5521115303005577
+26
+24
+
+*quick quickly serious seriously
+quickly 0.6827982785845744
+serious 0.671111306809747
+rapidly 0.6247008520192352
+swiftly 0.5813329141923042
+forcefully 0.5743200612913084
+213
+211
+
+*quick quickly slow slowly
+quickly 0.7112468578368312
+rapidly 0.6766440071722907
+slowly 0.6648573959280505
+slow 0.6286272430737192
+smoothly 0.6224231264543256
+3
+2
+
+*quick quickly sudden suddenly
+quickly 0.7164694065329218
+rapidly 0.6954972372455155
+swiftly 0.6691315387176818
+promptly 0.6532859047324945
+gradually 0.6403914264777368
+27
+25
+
+*quick quickly swift swiftly
+quickly 0.6889937015160688
+rapidly 0.6234333637496187
+swiftly 0.6013765451889889
+swift 0.5938270116678617
+promptly 0.5863689140894094
+3
+2
+
+*quick quickly typical typically
+typical 0.6373820554109773
+quickly 0.583284393463587
+rapidly 0.5294790478875493
+cost-effectively 0.5203042926545431
+modernly 0.5191108239740131
+29
+27
+
+*quick quickly unfortunate unfortunately
+quickly 0.6567143473840023
+unfortunate 0.6342215478357704
+rapidly 0.6049614954594924
+swiftly 0.5770305685029933
+unwillingly 0.5765161326801106
+1426
+1424
+
+*quick quickly usual usually
+usual 0.6349627535043665
+quickly 0.5767819691626075
+rapidly 0.516043515492524
+definitively 0.49991904088877026
+urgently 0.4987262129998151
+1262
+1260
+
+*quick quickly amazing amazingly
+amazing 0.6656429975100095
+quickly 0.6013990236777503
+rapidly 0.5630206452416292
+astonishing 0.548860822082281
+swiftly 0.5096886085897565
+801
+799
+
+*quick quickly apparent apparently
+apparent 0.6582087969462131
+quickly 0.6204648284601672
+rapidly 0.568060888413912
+explosively 0.5506270468464323
+forcefully 0.5466731715680668
+1220
+1218
+
+*quick quickly calm calmly
+calm 0.6757297199493587
+quickly 0.6066206282445484
+rapidly 0.543102363878583
+swiftly 0.5158263220008275
+smoothly 0.5010264722786192
+92
+90
+
+*quick quickly cheerful cheerfully
+quickly 0.7222638752163235
+cheerful 0.6478401039512313
+swiftly 0.6464046622016764
+rapidly 0.6462516366098717
+painlessly 0.6407164223091177
+240
+238
+
+*quick quickly complete completely
+complete 0.6663442529955957
+quickly 0.6016648775443072
+seamlessly 0.5343579940566712
+rapidly 0.5259148773889077
+promptly 0.5152929718405593
+657
+655
+
+*quick quickly efficient efficiently
+quickly 0.7238694187988961
+efficient 0.6715690703747096
+rapidly 0.655514506555732
+efficiently 0.6517444309930402
+cost-effectively 0.5983362951046891
+4
+2
+
+*quick quickly fortunate fortunately
+fortunate 0.6350652547698503
+quickly 0.6218733035343171
+rapidly 0.6033710623316532
+swiftly 0.562786196993832
+readily 0.5487358250838397
+85
+83
+
+*quick quickly free freely
+free 0.6610078088153254
+quickly 0.6107678871823947
+instantly 0.5362048147280103
+rapidly 0.5329116444533213
+readily 0.5221185962882128
+21
+19
+
+*quick quickly furious furiously
+quickly 0.6854720139274906
+furious 0.6548458051952954
+rapidly 0.6165930735525142
+swiftly 0.6059457087699621
+promptly 0.6029753102407194
+12
+10
+
+*quick quickly happy happily
+quickly 0.6694299787523705
+happy 0.6303409020455096
+rapidly 0.5721107281261019
+amicably 0.5604166609646335
+promptly 0.5572606472878329
+19
+17
+
+*quick quickly immediate immediately
+quickly 0.6938033104986031
+immediate 0.6509128554777472
+rapidly 0.6389245312940602
+promptly 0.6138326903170147
+swiftly 0.6115191773882397
+9
+7
+
+*quick quickly infrequent infrequently
+quickly 0.6891982259305339
+rapidly 0.6695919798797401
+infrequent 0.6560033502952067
+painlessly 0.615450857609026
+swiftly 0.6093972801368731
+7
+5
+
+*quick quickly lucky luckily
+quickly 0.6607232319976158
+lucky 0.6152082230985103
+rapidly 0.5782300654117563
+promptly 0.5769001969476466
+swiftly 0.5640467642229473
+38
+36
+
+*quick quickly most mostly
+most 0.7328854528794881
+quickly 0.5738926991171972
+devastatingly 0.5590664173412058
+stunningly 0.5452273222535232
+instantly 0.5423918439892755
+1164
+1162
+
+*quick quickly obvious obviously
+quickly 0.6727136108871892
+obvious 0.6679957359380094
+rapidly 0.6182739784334679
+swiftly 0.5725539730356416
+gracefully 0.5720524098717538
+1086
+1084
+
+*quick quickly occasional occasionally
+quickly 0.6646082101343552
+occasional 0.6557954220287312
+rapidly 0.6121138631843265
+spontaneously 0.601217034797951
+gradually 0.5947113597150733
+745
+743
+
+*quick quickly possible possibly
+possible 0.6680653708673883
+quickly 0.5564350675888801
+eventually 0.4976261832054445
+rapidly 0.4877843198543076
+inadvertently 0.4852169468579941
+1239
+1237
+
+*quick quickly precise precisely
+quickly 0.6722049664630073
+precise 0.653891536788423
+rapidly 0.6125804076793536
+succinctly 0.6080873717764186
+concisely 0.605634344956287
+150
+148
+
+*quick quickly professional professionally
+professional 0.6705717180907623
+quickly 0.6042363629821161
+promptly 0.5311675941854809
+rapidly 0.5145438302545301
+gradually 0.5097399472372429
+231
+229
+
+*quiet quietly rapid rapidly
+rapid 0.6996509711346204
+quietly 0.661470867695256
+forcefully 0.6566216117391634
+passively 0.6429949444325729
+purposefully 0.6403051645682551
+717
+715
+
+*quiet quietly rare rarely
+rare 0.6843188607988132
+quietly 0.6495212491161546
+spontaneously 0.6240818268906347
+unintentionally 0.6236563754142644
+maliciously 0.6205638310998106
+1164
+1162
+
+*quiet quietly reluctant reluctantly
+reluctant 0.6924371198704664
+quietly 0.6546419735765943
+inexplicably 0.6388889717411239
+unlawfully 0.6378612524105068
+unceremoniously 0.6373836961259899
+598
+596
+
+*quiet quietly safe safely
+quietly 0.6814281542391372
+safe 0.6756675185760354
+silently 0.6406006424391438
+passively 0.6234422524013379
+gracefully 0.6186640419906507
+150
+148
+
+*quiet quietly serious seriously
+serious 0.6972950145474512
+quietly 0.6787796167701411
+passively 0.6624813688763803
+forcefully 0.6593740363089544
+diplomatically 0.6542219193156654
+992
+990
+
+*quiet quietly slow slowly
+quietly 0.7133367973161858
+recklessly 0.6761606910589298
+amicably 0.6749983021602494
+purposefully 0.6719455453646052
+silently 0.671246234874459
+391
+389
+
+*quiet quietly sudden suddenly
+quietly 0.7041671898690633
+violently 0.6919631844672922
+mysteriously 0.6905935519635353
+forcefully 0.6901968053226316
+abruptly 0.6889893945689265
+891
+889
+
+*quiet quietly swift swiftly
+swift 0.6869131032256702
+quietly 0.6292848897221854
+quitely 0.5777688265733633
+unceremoniously 0.5754907239311067
+mysteriously 0.5699405493288247
+40
+38
+
+*quiet quietly typical typically
+typical 0.6548022685268854
+ostentatiously 0.6164791375297944
+flamboyantly 0.6145554967216289
+exuberantly 0.609720240638142
+furtively 0.6061229156391514
+644
+642
+
+*quiet quietly unfortunate unfortunately
+unjustly 0.6711427561200592
+quietly 0.6709808031956366
+prematurely 0.6704299584776269
+unintentionally 0.6676961817040317
+mysteriously 0.6646268409274064
+1222
+1220
+
+*quiet quietly usual usually
+usual 0.6793392236226773
+passively 0.5839994418717661
+unconditionally 0.5837802580562671
+furiously 0.5832765118655403
+habitually 0.5822648278588153
+1286
+1284
+
+*quiet quietly amazing amazingly
+amazing 0.6635471696103639
+mysteriously 0.6186632609478342
+quietly 0.6185752438877881
+inexplicably 0.603641279391791
+ruthlessly 0.6026139658128213
+149
+147
+
+*quiet quietly apparent apparently
+apparent 0.6879318789426176
+passively 0.6510321875476424
+violently 0.6445083318255269
+purposefully 0.6420678868517173
+silently 0.6411312560725417
+1124
+1122
+
+*quiet quietly calm calmly
+quietly 0.7613403938169523
+amicably 0.7232876305086695
+peacefully 0.7192244973432815
+silently 0.7120828945915876
+gracefully 0.7106988240063162
+491
+490
+
+*quiet quietly cheerful cheerfully
+quietly 0.8080600183811445
+recklessly 0.7619310062744105
+erratically 0.7612639963258978
+tactfully 0.7568457522542783
+cruelly 0.7558862450333028
+95
+94
+
+*quiet quietly complete completely
+complete 0.6781405932673457
+systematically 0.6088977834375879
+seamlessly 0.6060098481838952
+quietly 0.6043728934872178
+involuntarily 0.6017650492708183
+421
+419
+
+*quiet quietly efficient efficiently
+efficiently 0.6887850600464192
+profitably 0.6865583424125494
+efficient 0.6810419392733813
+diplomatically 0.6758151369014874
+proactively 0.6735710680896088
+1
+1
+
+*quiet quietly fortunate fortunately
+fortunate 0.678096540641526
+cruelly 0.6298574200453619
+quietly 0.6267899190328937
+unjustly 0.6162641230466047
+forcefully 0.6115925049204243
+399
+397
+
+*quiet quietly free freely
+free 0.6802716400839716
+quietly 0.6286563097863348
+silently 0.611286950484149
+illegally 0.6095438123653497
+unlawfully 0.6066839051831782
+448
+446
+
+*quiet quietly furious furiously
+furious 0.709601059973744
+quietly 0.6930269581207386
+violently 0.6580350542073606
+furiously 0.6535152592892823
+mysteriously 0.6485115391224116
+4
+2
+
+*quiet quietly happy happily
+happy 0.6934036758286689
+quietly 0.6781934615059765
+mysteriously 0.6254404852356407
+amicably 0.6190264266522544
+silently 0.6173220548525709
+9
+7
+
+*quiet quietly immediate immediately
+immediate 0.6933872649524666
+quietly 0.6839536147499349
+silently 0.6758598818111116
+willfully 0.6723666402140634
+passively 0.6703582162295832
+1369
+1367
+
+*quiet quietly infrequent infrequently
+quietly 0.6976562429997926
+infrequent 0.6938885397475505
+passively 0.6870337484979211
+intermittently 0.6839195080621717
+purposefully 0.678594428258015
+18
+16
+
+*quiet quietly lucky luckily
+lucky 0.7015337608656806
+quietly 0.6431863669587541
+mysteriously 0.6149302934812207
+miraculously 0.6116356770057535
+unhappily 0.6042657253871558
+123
+121
+
+*quiet quietly most mostly
+most 0.7424815325358302
+devastatingly 0.6631677505705951
+eternally 0.6616132992629943
+gloriously 0.6586729951634229
+stunningly 0.656230745833543
+1288
+1286
+
+*quiet quietly obvious obviously
+obvious 0.6920690683626111
+willfully 0.6758031320350011
+passively 0.6708865409433727
+purposefully 0.6677744859087352
+selectively 0.665899084936311
+1277
+1275
+
+*quiet quietly occasional occasionally
+occasional 0.7022901778877172
+mysteriously 0.6857299348184923
+intermittently 0.6781991596750944
+quietly 0.6780029502749159
+periodically 0.672728287505592
+362
+360
+
+*quiet quietly possible possibly
+possible 0.6822978059847555
+selectively 0.5933753374796055
+preemptively 0.5853823333003415
+passively 0.5840926876544068
+inadvertently 0.5836528295245715
+1235
+1233
+
+*quiet quietly precise precisely
+succinctly 0.6893995634525049
+concisely 0.687574425932119
+passively 0.6793022653681647
+selectively 0.6789234947221607
+tactfully 0.678770804828841
+1053
+1051
+
+*quiet quietly professional professionally
+professional 0.6869378110989761
+quietly 0.6080999992183597
+unlawfully 0.6024281736196907
+ceremonially 0.5979828665799342
+unconditionally 0.5977323517144123
+298
+296
+
+*quiet quietly quick quickly
+quick 0.6966022642112545
+quietly 0.6958295877253602
+unceremoniously 0.6468147688260575
+inexplicably 0.6442146362663013
+heroically 0.6429094002290926
+1238
+1236
+
+*rapid rapidly rare rarely
+rare 0.6855010282188568
+rapidly 0.6564756142002844
+quickly 0.5783318413146165
+spontaneously 0.5545871947670005
+gradually 0.550733525145388
+548
+546
+
+*rapid rapidly reluctant reluctantly
+reluctant 0.6687753831977213
+rapidly 0.6069240332739751
+explosively 0.5535507798590334
+chaotically 0.5481481735167525
+magically 0.5480715802763331
+524
+522
+
+*rapid rapidly safe safely
+safe 0.6699928750556918
+rapidly 0.587890929079314
+gracefully 0.5501075348704414
+briskly 0.5491125478847891
+smoothly 0.5445572834601246
+21
+19
+
+*rapid rapidly serious seriously
+serious 0.6889464011724978
+rapidly 0.6608293867774536
+quickly 0.5845984438710451
+gracefully 0.5836580059668108
+swiftly 0.5772557458461015
+419
+417
+
+*rapid rapidly slow slowly
+rapidly 0.7124257268303177
+slowly 0.6774787855066904
+slow 0.6476311312751397
+smoothly 0.6322665923344702
+gradually 0.6245625567290914
+2
+1
+
+*rapid rapidly sudden suddenly
+rapidly 0.7433801942102187
+swiftly 0.6729220042940773
+gradually 0.6656454207636615
+spontaneously 0.6529223412253156
+dramatically 0.6521612616222158
+31
+29
+
+*rapid rapidly swift swiftly
+rapidly 0.663346725042833
+swift 0.6124154664196223
+swiftly 0.5954663682326751
+steadily 0.577770995087135
+quickly 0.5774942652976356
+3
+1
+
+*rapid rapidly typical typically
+typical 0.6667611120320353
+rapidly 0.5601896387551136
+gradually 0.5091277398326159
+atypical 0.5066896018419373
+briskly 0.5058668653325274
+134
+132
+
+*rapid rapidly unfortunate unfortunately
+unfortunate 0.6560092727183652
+rapidly 0.6397955884643635
+swiftly 0.5693888985416595
+gracefully 0.5672414877530306
+magically 0.5669111581696838
+2389
+2387
+
+*rapid rapidly usual usually
+usual 0.6551589699409668
+rapidly 0.5551334116718837
+gradually 0.504037066205112
+progressively 0.5014935333014182
+incrementally 0.5000812727117663
+1327
+1325
+
+*rapid rapidly amazing amazingly
+amazing 0.6834312673148827
+rapidly 0.6010889349827627
+astonishing 0.5455505795874295
+steadily 0.537309461857301
+dramatically 0.52711370863699
+209
+207
+
+*rapid rapidly apparent apparently
+apparent 0.6596047649657953
+rapidly 0.6214856507622963
+explosively 0.5782133614475073
+gradually 0.5698856279176001
+violently 0.5679460773783527
+1035
+1033
+
+*rapid rapidly calm calmly
+calm 0.6962376276070444
+rapidly 0.5788578710953046
+smoothly 0.512413949069317
+swiftly 0.5114896680516775
+quickly 0.5090717912862888
+27
+25
+
+*rapid rapidly cheerful cheerfully
+rapidly 0.6767909685235037
+cheerful 0.6718469530962157
+gracefully 0.6366633652097445
+erratically 0.6364392977758961
+swiftly 0.6345582703207377
+256
+254
+
+*rapid rapidly complete completely
+complete 0.6674040476974769
+rapidly 0.5790683770826109
+seamlessly 0.5363145233724891
+spontaneously 0.5245178470674794
+instantaneously 0.5188993874644423
+307
+305
+
+*rapid rapidly efficient efficiently
+rapidly 0.7230222873202713
+efficient 0.6587009816743973
+quickly 0.6537893120614588
+efficiently 0.6473357808250496
+smoothly 0.6188481962446859
+4
+2
+
+*rapid rapidly fortunate fortunately
+fortunate 0.6889163535330647
+rapidly 0.6085096077572686
+swiftly 0.5297669805990903
+gracefully 0.5109839508280966
+inexorably 0.5095316027531016
+224
+222
+
+*rapid rapidly free freely
+free 0.6726373666840021
+rapidly 0.5772664444023345
+gradually 0.5356284833875552
+instantly 0.5319549651302968
+spontaneously 0.5194880949862597
+8
+6
+
+*rapid rapidly furious furiously
+furious 0.669753645673289
+rapidly 0.6566677362864921
+swiftly 0.6037446531243734
+violently 0.5945238009725379
+quickly 0.5873828749545272
+11
+9
+
+*rapid rapidly happy happily
+happy 0.6586051332081229
+rapidly 0.6022683320889624
+quickly 0.5564676422813781
+quietly 0.551465083588495
+gracefully 0.546013861550897
+9
+7
+
+*rapid rapidly immediate immediately
+rapidly 0.6781540777615862
+immediate 0.6663919433126817
+spontaneously 0.6140739251683219
+swiftly 0.6086581251846996
+instantaneously 0.6049163407034994
+197
+195
+
+*rapid rapidly infrequent infrequently
+rapidly 0.7294924538551542
+infrequent 0.6515308037330858
+steadily 0.6335847241864268
+painlessly 0.6328665739586443
+erratically 0.6287618968438742
+30
+28
+
+*rapid rapidly lucky luckily
+lucky 0.6588232882014315
+rapidly 0.594642176051733
+miraculously 0.5406833688835135
+swiftly 0.5381797984884686
+mysteriously 0.5381466848672806
+130
+128
+
+*rapid rapidly most mostly
+most 0.738657462252262
+devastatingly 0.5823646509550232
+marvelously 0.5650551470041113
+stunningly 0.564211609352097
+unfailingly 0.5616941446068191
+999
+997
+
+*rapid rapidly obvious obviously
+obvious 0.6914483899397523
+rapidly 0.6494144905300658
+gracefully 0.5829181195950003
+effortlessly 0.5705693641326952
+quickly 0.5696638799348351
+900
+898
+
+*rapid rapidly occasional occasionally
+occasional 0.6625327254465998
+rapidly 0.6602748439139902
+gradually 0.6205123350176632
+spontaneously 0.6156656250385871
+explosively 0.6152059962403217
+736
+734
+
+*rapid rapidly possible possibly
+possible 0.6714464920517053
+rapidly 0.5389916240182802
+gradually 0.5070275101248598
+incrementally 0.4968377967338451
+spontaneously 0.4952991926216228
+1152
+1150
+
+*rapid rapidly precise precisely
+rapidly 0.6673148509228114
+precise 0.6542539345943524
+cleanly 0.6196471917441213
+gracefully 0.6179435726557945
+smoothly 0.6084459454127475
+884
+882
+
+*rapid rapidly professional professionally
+professional 0.6658400406819447
+rapidly 0.5723157810426265
+gradually 0.5450527324693984
+quickly 0.5252119784014813
+steadily 0.5228116775420556
+477
+475
+
+*rapid rapidly quick quickly
+rapidly 0.7213915451544856
+quickly 0.6740317474508284
+swiftly 0.6688444168949279
+gracefully 0.6440149262755224
+steadily 0.6375313345353784
+2
+1
+
+*rapid rapidly quiet quietly
+quiet 0.6875507482016516
+rapidly 0.6377921219846534
+steadily 0.5908584505881904
+quickly 0.5809122393580305
+swiftly 0.5747890677486615
+12
+10
+
+*rare rarely reluctant reluctantly
+reluctant 0.6782272670330401
+rarely 0.6321595589508293
+grudgingly 0.5869622334285944
+regretfully 0.5763594236078863
+foolishly 0.5736670061706506
+26
+24
+
+*rare rarely safe safely
+safe 0.6557998083079026
+rarely 0.6115235520317526
+greedily 0.5531724622186105
+idly 0.5527295631252351
+comfortably 0.5502449718583022
+71
+69
+
+*rare rarely serious seriously
+rarely 0.6669680482221881
+serious 0.6625940079968764
+attentively 0.6134928087772834
+plausibly 0.6042419516957721
+helpfully 0.6026545755557103
+1225
+1223
+
+*rare rarely slow slowly
+slow 0.6769417346632308
+rarely 0.6377729686517921
+reversibly 0.5767063154831238
+realistically 0.5705980813903622
+momentarily 0.5700821282101395
+11
+9
+
+*rare rarely sudden suddenly
+rarely 0.6580474768090654
+sudden 0.6398066188726764
+habitually 0.6290513162108068
+momentarily 0.6223375484528403
+inexorably 0.6207359970991806
+1539
+1537
+
+*rare rarely swift swiftly
+swift 0.6729016190127243
+rarely 0.575693226639197
+quitely 0.5031430554781919
+seldom 0.4964934864250753
+smugly 0.49585356015804594
+1207
+1205
+
+*rare rarely typical typically
+rarely 0.645847783959903
+typical 0.6370899574357355
+typically 0.5959567889425114
+generally 0.5821335084907828
+independantly 0.5723040817639193
+3
+1
+
+*rare rarely unfortunate unfortunately
+rarely 0.6737097404392389
+regrettably 0.6267026190728724
+greedily 0.6245680652357846
+ordinarily 0.623523080414196
+fleetingly 0.6211278217803945
+1426
+1424
+
+*rare rarely usual usually
+usual 0.6686253421597301
+rarely 0.5928802540381315
+habitually 0.5293892826153602
+attentively 0.5273827904549026
+greedily 0.5210852765033187
+384
+382
+
+*rare rarely amazing amazingly
+amazing 0.6336057441470689
+rarely 0.6120267346028467
+definately 0.5623713327246702
+grudgingly 0.5611031698590936
+regretfully 0.5557020263876391
+111
+109
+
+*rare rarely apparent apparently
+apparent 0.6740183152911123
+rarely 0.621096915128092
+menacingly 0.5821850488769761
+momentarily 0.5745249470005094
+transiently 0.5744521594061083
+1070
+1068
+
+*rare rarely calm calmly
+calm 0.6888424436659112
+rarely 0.5606882369690077
+grudgingly 0.5118888790476543
+calmly 0.510629709141537
+realistically 0.49788507640177326
+4
+2
+
+*rare rarely cheerful cheerfully
+rarely 0.6964279053672976
+tenderly 0.6765202484463991
+attentively 0.6756432594928263
+portly 0.6717987851801612
+childishly 0.6716102440596455
+28
+27
+
+*rare rarely complete completely
+complete 0.6905412781354482
+rarely 0.5766264724272246
+routinely 0.525813878315125
+realistically 0.5205666776219791
+customarily 0.5172723528593794
+2022
+2020
+
+*rare rarely efficient efficiently
+efficient 0.6545104062072364
+profitably 0.6348728966279108
+rarely 0.6327306339902298
+cost-effectively 0.6283613413494266
+efficiently 0.6251744087609281
+5
+3
+
+*rare rarely fortunate fortunately
+fortunate 0.6776253036971998
+rarely 0.6340819524431
+fleetingly 0.5366103670698436
+grudgingly 0.535002936101234
+greedily 0.5331317921284767
+58
+56
+
+*rare rarely free freely
+free 0.6811618643688648
+rarely 0.5955843167502355
+routinely 0.5372252398144912
+optionally 0.5228629016967707
+greedily 0.522183612123122
+144
+142
+
+*rare rarely furious furiously
+furious 0.6589365738804523
+foolishly 0.598281806795933
+grudgingly 0.5980046860327117
+tearfully 0.5921553222865127
+reluctantly 0.5895003504478579
+15
+13
+
+*rare rarely happy happily
+happy 0.6518509671953828
+rarely 0.5856824706706039
+grudgingly 0.5730286171932275
+regretfully 0.5717516931622281
+hypothetically 0.5596256116209686
+7
+5
+
+*rare rarely immediate immediately
+immediate 0.6694630613499415
+rarely 0.6327358829334855
+instinctively 0.6002314112007615
+habitually 0.5927344467639035
+ordinarily 0.5925987791693206
+1401
+1399
+
+*rare rarely infrequent infrequently
+rarely 0.7645653833428713
+infrequently 0.6755383519218755
+infrequent 0.6544320634991126
+occasionally 0.6509500271475303
+fleetingly 0.6498345063848315
+2
+1
+
+*rare rarely lucky luckily
+rarely 0.6534693025698627
+lucky 0.6456216580903864
+unhappily 0.5843476665301953
+dearly 0.5755202621057507
+greedily 0.5669124767999068
+6
+4
+
+*rare rarely most mostly
+most 0.7560689354033904
+rarely 0.6457414924268702
+scarcely 0.5977445600584651
+therapeutically 0.5873223156668965
+ordinarily 0.5857894213305435
+936
+934
+
+*rare rarely obvious obviously
+obvious 0.6659570084940146
+rarely 0.6357686615449764
+plausibly 0.6115898674715075
+conceivably 0.6078886710058978
+trivially 0.6070657340349803
+982
+980
+
+*rare rarely occasional occasionally
+rarely 0.7397829404536141
+occasionally 0.667736485415059
+occasional 0.6614722806266082
+intermittently 0.6353796623332816
+fleetingly 0.6328262831773979
+2
+1
+
+*rare rarely possible possibly
+possible 0.686005534307088
+rarely 0.5981058698467228
+conceivably 0.5160222095172763
+optionally 0.5094146300253234
+incidentally 0.5063205163722686
+1108
+1106
+
+*rare rarely precise precisely
+precise 0.6773599367602904
+rarely 0.6589044581697497
+realistically 0.6256759859913461
+credibly 0.6225918760693193
+concretely 0.6141614702031621
+880
+878
+
+*rare rarely professional professionally
+professional 0.6813196961687098
+rarely 0.5898940284025598
+feasibly 0.5344699155777282
+proficiently 0.5255823524180647
+collegiately 0.5249210454876267
+959
+957
+
+*rare rarely quick quickly
+quick 0.6453879832797875
+rarely 0.6295296576899075
+greedily 0.5992243870272117
+cheerfully 0.5962215420596355
+robotically 0.5940637520917113
+1761
+1759
+
+*rare rarely quiet quietly
+quiet 0.6560237514682105
+rarely 0.6277772569997714
+regretfully 0.5709649422596264
+grudgingly 0.5708363759226877
+attentively 0.569152810895514
+702
+700
+
+*rare rarely rapid rapidly
+rapid 0.6531656014822199
+rarely 0.6391419966944815
+flexibly 0.587923481180823
+routinely 0.5849796146094541
+profitably 0.5817459265885113
+1463
+1461
+
+*reluctant reluctantly safe safely
+safe 0.6676425275077619
+reluctantly 0.614715051273127
+silently 0.5855122987450203
+begrudgingly 0.5819890253270088
+grudgingly 0.5718283275786035
+295
+293
+
+*reluctant reluctantly serious seriously
+serious 0.6825419223837461
+reluctantly 0.6548819472023183
+forcefully 0.6174200421711717
+begrudgingly 0.6171451299226993
+grudgingly 0.6157597367266535
+499
+497
+
+*reluctant reluctantly slow slowly
+slow 0.67929133396754
+reluctantly 0.6364459432063911
+reversibly 0.613249779277649
+cleanly 0.608434181569703
+begrudgingly 0.6049562837892603
+7
+5
+
+*reluctant reluctantly sudden suddenly
+sudden 0.6783984640632964
+reluctantly 0.6513781810564508
+angrily 0.6472223979824588
+forcefully 0.6433319859888607
+abruptly 0.6419793459660001
+457
+455
+
+*reluctant reluctantly swift swiftly
+swift 0.6840361904693156
+reluctantly 0.5871038022066118
+angrily 0.5423482280777662
+mcfeely 0.5387021919107585
+grudgingly 0.5358877259466528
+14
+12
+
+*reluctant reluctantly typical typically
+typical 0.6673335555023089
+reluctantly 0.5458122565284951
+urgently 0.5412040054537167
+begrudgingly 0.5321231612203421
+impulsively 0.5274049462043598
+488
+486
+
+*reluctant reluctantly unfortunate unfortunately
+reluctantly 0.7070551877249881
+grudgingly 0.654239379318286
+begrudgingly 0.6483194020450171
+unwillingly 0.6470098610429581
+unfortunate 0.631900070121715
+1333
+1331
+
+*reluctant reluctantly usual usually
+usual 0.6627729027053719
+reluctantly 0.564286954288177
+urgently 0.5545991299831569
+excitedly 0.5417819661630723
+tearfully 0.5402936713429126
+1478
+1476
+
+*reluctant reluctantly amazing amazingly
+amazing 0.6697326800995564
+reluctantly 0.586691015490415
+grudgingly 0.5845641114610611
+astonishing 0.5602305605512061
+begrudgingly 0.5513288650532366
+916
+914
+
+*reluctant reluctantly apparent apparently
+apparent 0.6814145082801104
+reluctantly 0.6378940982534838
+grudgingly 0.6013833471304433
+begrudgingly 0.6010195568711041
+angrily 0.6004549464063489
+1618
+1616
+
+*reluctant reluctantly calm calmly
+calm 0.6897332667011412
+reluctantly 0.6046734673613464
+grudgingly 0.5633979143330791
+politely 0.5294838500852161
+confidently 0.5263717844438267
+7
+5
+
+*reluctant reluctantly cheerful cheerfully
+reluctantly 0.7264399367466
+grudgingly 0.6951729196711905
+cautiously 0.6903234796967692
+loudly 0.6892459337733967
+tactfully 0.6818151372230513
+84
+83
+
+*reluctant reluctantly complete completely
+complete 0.7094483625140826
+reluctantly 0.5721448361793264
+grudgingly 0.5479702436675049
+completed 0.5350483971346025
+begrudgingly 0.5307738180696674
+1775
+1773
+
+*reluctant reluctantly efficient efficiently
+efficiently 0.6511407296336414
+efficient 0.6500962764252997
+urgently 0.6416739990646885
+flexibly 0.6401853041230561
+concisely 0.6393459698266512
+1
+1
+
+*reluctant reluctantly fortunate fortunately
+reluctantly 0.6653174675376867
+grudgingly 0.6325259644701328
+fortunate 0.6300374166699964
+begrudgingly 0.6071784125318319
+unwillingly 0.6006928427512733
+309
+307
+
+*reluctant reluctantly free freely
+free 0.6839144086042788
+reluctantly 0.6024847231337062
+begrudgingly 0.5675212604247359
+grudgingly 0.5662940933756373
+unwittingly 0.5598163655900341
+25
+23
+
+*reluctant reluctantly furious furiously
+reluctantly 0.7151550994577323
+angrily 0.6756954817766818
+furious 0.6725849543876304
+tearfully 0.6425248889414384
+grudgingly 0.6393700212151772
+13
+11
+
+*reluctant reluctantly happy happily
+reluctantly 0.708057936817447
+grudgingly 0.6792817090501059
+begrudgingly 0.6437459420727393
+happily 0.6436353852529492
+silently 0.6405008094207708
+4
+3
+
+*reluctant reluctantly immediate immediately
+immediate 0.6664726719586552
+reluctantly 0.659112530757291
+angrily 0.6463854314396726
+silently 0.6402550583687
+solemnly 0.6337335732759103
+462
+460
+
+*reluctant reluctantly infrequent infrequently
+infrequent 0.6849818448303614
+reluctantly 0.6757652221467176
+infrequently 0.648656075848769
+begrudgingly 0.6338743053559208
+grudgingly 0.6292638289664505
+3
+1
+
+*reluctant reluctantly lucky luckily
+reluctantly 0.6716109045084802
+lucky 0.6461965537348303
+grudgingly 0.6201137770057324
+begrudgingly 0.6095510358885032
+happily 0.5929596840389827
+20
+18
+
+*reluctant reluctantly most mostly
+most 0.7430173403506855
+unreservedly 0.569546034720844
+rhetorically 0.567603506082696
+helplessly 0.5663322772973107
+reluctantly 0.5662882525435935
+1512
+1510
+
+*reluctant reluctantly obvious obviously
+obvious 0.6738635835233452
+reluctantly 0.6383281425661061
+urgently 0.6339948390635473
+begrudgingly 0.6208475057872491
+confidently 0.6185970644993797
+1244
+1242
+
+*reluctant reluctantly occasional occasionally
+occasional 0.6954352453659843
+reluctantly 0.6687778111040131
+periodically 0.6347011307383073
+grudgingly 0.6231244484988584
+begrudgingly 0.6200166617013703
+97
+95
+
+*reluctant reluctantly possible possibly
+possible 0.6730724698446764
+reluctantly 0.5939541795137926
+grudgingly 0.5497302941826292
+begrudgingly 0.5480543432571933
+inadvertently 0.5342617812910334
+1849
+1847
+
+*reluctant reluctantly precise precisely
+precise 0.6831618268935203
+confidently 0.646315819174688
+concisely 0.631217789391907
+credibly 0.6299903671636518
+succinctly 0.6295119243340647
+985
+983
+
+*reluctant reluctantly professional professionally
+professional 0.670297583149005
+reluctantly 0.595907652410563
+begrudgingly 0.5764841455145232
+tearfully 0.562045709930447
+grudgingly 0.5614696600831658
+894
+892
+
+*reluctant reluctantly quick quickly
+reluctantly 0.665989938969682
+begrudgingly 0.6494056449887537
+cleverly 0.6492189158716641
+confidently 0.6455357208554285
+forcefully 0.6425451507041663
+585
+583
+
+*reluctant reluctantly quiet quietly
+quiet 0.6789887491493523
+reluctantly 0.6457816603349898
+grudgingly 0.6045250659875273
+begrudgingly 0.5884540274791868
+angrily 0.5837830488121917
+11
+9
+
+*reluctant reluctantly rapid rapidly
+rapid 0.6803898472548514
+reluctantly 0.6370393655821459
+forcefully 0.6188257868361193
+begrudgingly 0.6063471753050391
+angrily 0.5973964910780868
+382
+380
+
+*reluctant reluctantly rare rarely
+rare 0.6775291653923876
+reluctantly 0.6244288777520396
+infrequently 0.5822911223608266
+begrudgingly 0.5769466288535381
+belatedly 0.5684416217335763
+32
+30
+
+*safe safely serious seriously
+serious 0.7015272815631843
+safely 0.6351400285107388
+constructively 0.6220552015736581
+productively 0.6141792659133705
+forcefully 0.6121491358389999
+1077
+1075
+
+*safe safely slow slowly
+slow 0.7013097143937536
+safely 0.646863035423063
+reversibly 0.619333733342603
+cleanly 0.6093808345699492
+spontaneously 0.603022710255812
+34
+32
+
+*safe safely sudden suddenly
+sudden 0.712301015595038
+safely 0.6641727702945939
+swiftly 0.6335713684170776
+spontaneously 0.6311949454829219
+forcibly 0.6301398028704276
+996
+994
+
+*safe safely swift swiftly
+swift 0.7015110379923646
+safely 0.5886470061144929
+swiftly 0.5481115598444642
+reversibly 0.524011518503178
+summarily 0.5216859139838541
+3
+1
+
+*safe safely typical typically
+typical 0.6559620151265686
+asynchronously 0.5667153295075619
+safely 0.5656991017651642
+iteratively 0.5614800732075058
+flexibly 0.5607165524145306
+7
+5
+
+*safe safely unfortunate unfortunately
+unfortunate 0.6884282954036512
+safely 0.6231541088709928
+untimely 0.6095396273983232
+prematurely 0.5907702416266198
+destructively 0.5873895341737191
+2464
+2462
+
+*safe safely usual usually
+usual 0.6853098019920243
+safely 0.5555662367281228
+surreptitiously 0.535742552559224
+iteratively 0.5309911212944246
+preferentially 0.5286182630498478
+1389
+1387
+
+*safe safely amazing amazingly
+amazing 0.6839759624513975
+astonishing 0.5919966103803725
+safely 0.5670699436498999
+magically 0.5487161134907721
+effortlessly 0.5462384833218581
+631
+629
+
+*safe safely apparent apparently
+apparent 0.7132333324079433
+safely 0.6100561486735764
+irreversibly 0.5789243014393624
+destructively 0.5752795704955092
+forcibly 0.574917414817915
+1407
+1405
+
+*safe safely calm calmly
+calm 0.6877055379310956
+safely 0.6185444368152104
+swiftly 0.5466756161431522
+cleanly 0.5466494094417538
+peacefully 0.5359982996866409
+19
+17
+
+*safe safely cheerful cheerfully
+surly 0.7009183646819325
+safely 0.6952131808075507
+thoughtfully 0.6898000059578414
+painlessly 0.6893988662772755
+cautiously 0.688288127139176
+208
+206
+
+*safe safely complete completely
+complete 0.7121316968447033
+safely 0.5900887477728243
+seamlessly 0.5612714869495633
+reversibly 0.5507657390614709
+compulsorily 0.5488198273327254
+224
+222
+
+*safe safely efficient efficiently
+safely 0.7173263889241409
+efficiently 0.7013000162040969
+flexibly 0.6797951074944562
+securely 0.6698424944117258
+profitably 0.6692815586592229
+2
+1
+
+*safe safely fortunate fortunately
+fortunate 0.6767323283128274
+safely 0.613921308478611
+forcibly 0.5697141552872088
+swiftly 0.568612752843674
+forcefully 0.5679939271753874
+435
+433
+
+*safe safely free freely
+safely 0.682208025585289
+free 0.6661806547382189
+illegally 0.5895678904844225
+reversibly 0.579100561983001
+surreptitiously 0.5766404859990003
+49
+47
+
+*safe safely furious furiously
+furious 0.692492117322674
+safely 0.6341430104710062
+forcibly 0.615573945806609
+forcefully 0.6152374134182798
+swiftly 0.6125610205781948
+11
+9
+
+*safe safely happy happily
+safely 0.6616023426053633
+happy 0.6491369874579679
+amicably 0.6102422130205007
+forcefully 0.6052898588912597
+peacefully 0.6049172288316037
+31
+29
+
+*safe safely immediate immediately
+immediate 0.709546807630895
+safely 0.676885079480625
+spontaneously 0.6203649159808798
+forcibly 0.6101454960496699
+irreversibly 0.6096819188941265
+1165
+1163
+
+*safe safely infrequent infrequently
+infrequent 0.7048702692588982
+safely 0.6489196420900398
+painlessly 0.6282087768476443
+irreversibly 0.6248135026649095
+destructively 0.6219466703754098
+8
+6
+
+*safe safely lucky luckily
+lucky 0.6477112288080827
+safely 0.6027579598330075
+summarily 0.5958573818868038
+forcibly 0.5944774070363666
+miraculously 0.591198594974159
+129
+127
+
+*safe safely most mostly
+most 0.7459495462075667
+devastatingly 0.6018033375513561
+marvelously 0.5927529487084107
+maximally 0.591391810663895
+imminently 0.5877793085340871
+1231
+1229
+
+*safe safely obvious obviously
+obvious 0.7000125828463543
+safely 0.6462077910380208
+selectively 0.6153588125784489
+destructively 0.6145555550835459
+flexibly 0.6069028721409767
+1548
+1546
+
+*safe safely occasional occasionally
+occasional 0.7179036933461013
+periodically 0.6282747479152373
+safely 0.6206294911743712
+irreversibly 0.6141194097024184
+spontaneously 0.6113113192731537
+772
+770
+
+*safe safely possible possibly
+possible 0.6801997758056761
+safely 0.5978158542140922
+selectively 0.5509696660496669
+reversibly 0.5393371704786328
+preemptively 0.5387062027698649
+1006
+1004
+
+*safe safely precise precisely
+precise 0.6966821261102224
+safely 0.669937061107505
+confidently 0.6367392781538678
+cleanly 0.635774514262458
+flexibly 0.6349501346703554
+808
+806
+
+*safe safely professional professionally
+professional 0.6991999971014903
+safely 0.5983164947629672
+synchronously 0.5415154812686885
+surreptitiously 0.5414271864998743
+asynchronously 0.5398402628317762
+1026
+1024
+
+*safe safely quick quickly
+safely 0.6964858085906099
+quick 0.6632726602604172
+swiftly 0.6450138322165291
+gracefully 0.6234678364768568
+summarily 0.6225934081695833
+646
+644
+
+*safe safely quiet quietly
+safely 0.6628605638090919
+quiet 0.6510187203932191
+swiftly 0.6375087785213692
+effortlessly 0.6195450823590095
+cleanly 0.6142555125663751
+164
+162
+
+*safe safely rapid rapidly
+rapid 0.703026058039158
+safely 0.6507244150801763
+swiftly 0.6149827090676054
+forcefully 0.6103145599668619
+forcibly 0.5997312671261193
+20
+18
+
+*safe safely rare rarely
+rare 0.6594486315776878
+spontaneously 0.6234513227149374
+safely 0.6137868320095842
+periodically 0.593551742330164
+experimentally 0.5907894248478552
+717
+715
+
+*safe safely reluctant reluctantly
+reluctant 0.6841437509377766
+safely 0.640048348572547
+forcibly 0.6034088212113904
+summarily 0.5970301355034126
+amicably 0.5925728456165518
+675
+673
+
+*serious seriously slow slowly
+slow 0.673989490952947
+seriously 0.5831914372238916
+clumsily 0.5138886937441345
+slowly 0.5133647918661463
+recklessly 0.5102379583542892
+4
+2
+
+*serious seriously sudden suddenly
+sudden 0.6719065897426059
+seriously 0.6447702687563109
+severely 0.5977890579344904
+irreparably 0.5753550278293385
+hopelessly 0.5648538552466817
+618
+616
+
+*serious seriously swift swiftly
+swift 0.6776608940270169
+seriously 0.5419998260185984
+quitely 0.4851683439086931
+gravely 0.48170029421930916
+severely 0.4722221293167822
+1370
+1368
+
+*serious seriously typical typically
+typical 0.6301230019380163
+seriously 0.5450423572864306
+characteristically 0.5219445182432793
+sorely 0.5137542722836167
+unpleasantly 0.5041823145693747
+9
+7
+
+*serious seriously unfortunate unfortunately
+seriously 0.6802439738865403
+unfortunate 0.6447251460265365
+grievously 0.548276273229003
+severly 0.5400284816705231
+stupidly 0.5386948521861047
+1294
+1292
+
+*serious seriously usual usually
+usual 0.6621543794616847
+seriously 0.559616264455569
+desperately 0.4967001105440436
+sorely 0.4847970790983007
+grievously 0.4738057492740131
+910
+908
+
+*serious seriously amazing amazingly
+amazing 0.6807909726672358
+seriously 0.5713950725761847
+astonishing 0.5312276006540672
+badly 0.47945510950723325
+severely 0.4727671441552713
+50
+48
+
+*serious seriously apparent apparently
+apparent 0.6644982702112574
+seriously 0.6539256112078313
+severely 0.5658933630905119
+sorely 0.5579360930034328
+desperately 0.5500888350011441
+582
+580
+
+*serious seriously calm calmly
+calm 0.6553380435283759
+seriously 0.5447296851621846
+quiet 0.4594852974168989
+madly 0.44548937643669984
+politely 0.4440339208080296
+13
+11
+
+*serious seriously cheerful cheerfully
+seriously 0.696209440095219
+cheerful 0.6403828607790399
+passionately 0.6259747567316333
+sweetly 0.6250900332688768
+grievously 0.6183110890956462
+303
+301
+
+*serious seriously complete completely
+complete 0.6599445600109347
+seriously 0.5376359412445214
+systematically 0.4684655222801126
+realistically 0.46535559755252076
+singlehandedly 0.4647316510685866
+480
+478
+
+*serious seriously efficient efficiently
+efficient 0.6488780424299994
+seriously 0.6161704446214373
+user-friendly 0.5653813781349553
+abstractly 0.5612284023162881
+leniently 0.5607334949875318
+14
+12
+
+*serious seriously fortunate fortunately
+fortunate 0.6683321657852407
+seriously 0.6241685947275313
+severely 0.5436433817307232
+badly 0.5256225195360668
+grievously 0.5145098454437014
+310
+308
+
+*serious seriously free freely
+free 0.6803007723497592
+seriously 0.5300153986941751
+momentarily 0.44849382946384564
+aimlessly 0.44784792921032246
+perpetually 0.4470548315446754
+290
+288
+
+*serious seriously furious furiously
+furious 0.654894159766238
+seriously 0.6323651922014404
+furiously 0.5579459252710104
+passionately 0.5562252229861592
+violently 0.5559630142459248
+3
+1
+
+*serious seriously happy happily
+happy 0.6537857101333592
+seriously 0.5809368506734902
+hopelessly 0.5240556295252
+desperately 0.5192686610899239
+badly 0.5104487526743426
+72
+70
+
+*serious seriously immediate immediately
+immediate 0.6542988513381087
+seriously 0.641058237516775
+irreparably 0.5730647238523299
+severely 0.5728587210541518
+grievously 0.5702169570646083
+1257
+1255
+
+*serious seriously infrequent infrequently
+seriously 0.7014801333470798
+infrequent 0.6590506174778288
+severely 0.6122616457294411
+grievously 0.6084507053515738
+irreparably 0.6015545508085836
+23
+21
+
+*serious seriously lucky luckily
+lucky 0.6584838211012496
+seriously 0.6076639018916015
+badly 0.5305016628172093
+desperately 0.5176291067997648
+severely 0.5114203167810834
+22
+20
+
+*serious seriously most mostly
+most 0.7098513497790846
+morbidly 0.5934848959262063
+deliciously 0.5817920323767464
+stunningly 0.581115911267587
+seriously 0.5791204427561847
+1094
+1092
+
+*serious seriously obvious obviously
+seriously 0.696329100673601
+obvious 0.6358492812840271
+sorely 0.5923389173971012
+egregiously 0.5905123029606827
+hopelessly 0.5891693991997715
+175
+173
+
+*serious seriously occasional occasionally
+seriously 0.6712038236391097
+occasional 0.6331786353887705
+irreparably 0.6231213268639713
+severely 0.609588523477941
+grievously 0.6083270634261009
+123
+121
+
+*serious seriously possible possibly
+possible 0.6697338722322016
+seriously 0.5663206008185381
+sorely 0.4574515989659703
+desperately 0.45503973984981494
+grievously 0.45430341821994324
+505
+503
+
+*serious seriously precise precisely
+precise 0.6720275731778844
+seriously 0.637707333869649
+sorely 0.5543995474237061
+realistically 0.5527213127620081
+emphatically 0.5504449496075302
+862
+860
+
+*serious seriously professional professionally
+professional 0.6455232307902344
+seriously 0.6107416993137155
+grievously 0.48691870514367275
+curtly 0.4855980286941852
+irreparably 0.4814092359537798
+178
+176
+
+*serious seriously quick quickly
+quick 0.6480703785286204
+seriously 0.6206798919679404
+hopelessly 0.5442369539412075
+sorely 0.5437518375479592
+gravely 0.5432190726319038
+1463
+1461
+
+*serious seriously quiet quietly
+quiet 0.6643646142410414
+seriously 0.6132733642081117
+passionately 0.5176736717637616
+madly 0.5137941637100564
+grievously 0.5090639705647128
+48
+46
+
+*serious seriously rapid rapidly
+rapid 0.6742901272746101
+seriously 0.6247472378410702
+irreparably 0.5287615554587637
+severely 0.5279939586540741
+grievously 0.5215240262815183
+825
+823
+
+*serious seriously rare rarely
+rare 0.6633111128819534
+seriously 0.6285554617845734
+severely 0.53550442458654
+grievously 0.532103516241092
+gravely 0.5182477007652566
+940
+938
+
+*serious seriously reluctant reluctantly
+reluctant 0.6603572893472438
+seriously 0.5945677353805207
+hesitant 0.5310988542641651
+naively 0.5278628028133255
+evidently 0.5253121917608436
+1010
+1008
+
+*serious seriously safe safely
+safe 0.6656028870697106
+seriously 0.5497591861311053
+lightly 0.4963655701663805
+aimlessly 0.48447425617491846
+courageously 0.47588975530143207
+1102
+1100
+
+*slow slowly sudden suddenly
+sudden 0.6495620158004787
+slowly 0.6457684403601837
+gradually 0.6380283405042771
+rapidly 0.6211742855877427
+swiftly 0.5989128887426532
+43
+41
+
+*slow slowly swift swiftly
+slowly 0.6325364863379043
+swift 0.6284470538432002
+gradually 0.5358655129578604
+rapidly 0.5300351498831583
+swiftly 0.5127621196353893
+5
+3
+
+*slow slowly typical typically
+typical 0.6354899432675896
+slowly 0.522353527988753
+characteristic 0.5152919308141174
+gradually 0.5147383974052849
+characteristically 0.49812278862506976
+33
+31
+
+*slow slowly unfortunate unfortunately
+unfortunate 0.6348112252845308
+slowly 0.5918791252592362
+rapidly 0.5459372160345363
+gradually 0.5452929892571706
+grisly 0.5387638894043277
+1331
+1329
+
+*slow slowly usual usually
+usual 0.6439939743654858
+slowly 0.5025367623767728
+gradually 0.4935898700104946
+menacingly 0.4579888046422178
+greedily 0.45754846586159814
+1151
+1149
+
+*slow slowly amazing amazingly
+amazing 0.6519582297525867
+slowly 0.5737587011124531
+astonishing 0.5376655980458337
+gradually 0.5247458658381982
+rapidly 0.517913865578077
+146
+144
+
+*slow slowly apparent apparently
+apparent 0.6732605889509301
+gradually 0.5399748308660679
+slowly 0.5376238209349157
+explosively 0.5129200028218314
+menacingly 0.5114179730102315
+1107
+1105
+
+*slow slowly calm calmly
+slowly 0.6536906624183033
+calm 0.6197257399535462
+gradually 0.5459043419697465
+rapidly 0.5322965369813698
+calmly 0.5234351506559489
+5
+3
+
+*slow slowly cheerful cheerfully
+slowly 0.6518613041786133
+cheerful 0.645063650196483
+bubbly 0.6231885177642413
+homely 0.6205770658320172
+shapely 0.6120918746932309
+279
+277
+
+*slow slowly complete completely
+complete 0.6700476284149209
+slowly 0.5879496115111654
+seamlessly 0.4914896422910996
+gradually 0.486037162044211
+rapidly 0.467620210614196
+242
+240
+
+*slow slowly efficient efficiently
+slowly 0.6521637341275435
+efficient 0.6478286871299711
+rapidly 0.6222489568632552
+quickly 0.5994691972048214
+efficiently 0.5916127486917755
+5
+3
+
+*slow slowly fortunate fortunately
+fortunate 0.654010654942195
+slowly 0.5736020924698995
+rapidly 0.5291465082613115
+gradually 0.5074130058694333
+inexorably 0.494335214771102
+55
+53
+
+*slow slowly free freely
+free 0.6701052951821133
+slowly 0.5664403891729509
+gradually 0.5192142668859051
+rapidly 0.4702935757500055
+willingly 0.4693623653330653
+22
+20
+
+*slow slowly furious furiously
+furious 0.6820452256564732
+slowly 0.5984246099212323
+meanwhile 0.5592922620053781
+gradually 0.5481217985794196
+rapidly 0.5375902226767773
+8
+6
+
+*slow slowly happy happily
+happy 0.6504176830288287
+slowly 0.5489803879731567
+quietly 0.5158781062334371
+happily 0.5121194841601602
+gradually 0.5007631897453906
+4
+2
+
+*slow slowly immediate immediately
+immediate 0.6750677932997935
+slowly 0.5765542301504016
+gradually 0.5615831573093438
+rapidly 0.5610868298958276
+swiftly 0.5379843390965267
+54
+52
+
+*slow slowly infrequent infrequently
+slowly 0.6582672169915248
+infrequent 0.6423672816554269
+rapidly 0.626031322927136
+gradually 0.6058639623834496
+briskly 0.5852233224176304
+6
+4
+
+*slow slowly lucky luckily
+lucky 0.6451337417926416
+slowly 0.5699118729784818
+unhappily 0.5174246622338216
+miraculously 0.5167110264913749
+happily 0.5087892477264371
+39
+37
+
+*slow slowly most mostly
+most 0.7202383096084478
+devastatingly 0.5484878565210373
+stunningly 0.5382126700872963
+particularly 0.5314686129722298
+eternally 0.5311371081436558
+1000
+998
+
+*slow slowly obvious obviously
+obvious 0.6663480132303816
+slowly 0.5775707678017842
+rapidly 0.5641073895015474
+gradually 0.5565307373764767
+gracefully 0.5512211230049555
+865
+863
+
+*slow slowly occasional occasionally
+occasional 0.659093700134184
+gradually 0.6050038490716827
+slowly 0.6002143388090107
+periodically 0.5821573998450543
+modestly 0.5726278636041989
+151
+149
+
+*slow slowly possible possibly
+possible 0.652694463737636
+slowly 0.5123735954715686
+gradually 0.5026645057717499
+incrementally 0.45167454093062864
+momentarily 0.4484245208630313
+1443
+1441
+
+*slow slowly precise precisely
+precise 0.6523880627243608
+slowly 0.6188662787590283
+succinctly 0.5671564453529888
+gracefully 0.5649081271239742
+flexibly 0.5633195881574323
+724
+722
+
+*slow slowly professional professionally
+professional 0.6663151652285588
+gradually 0.5261210442787585
+slowly 0.5110901226986804
+promisingly 0.47485961157269596
+joyfully 0.468227257609384
+316
+314
+
+*slow slowly quick quickly
+slowly 0.6702221600128234
+quick 0.6134663164300334
+quickly 0.6012594686052116
+rapidly 0.5980684608793918
+swiftly 0.5958885838287651
+3
+1
+
+*slow slowly quiet quietly
+slowly 0.6711152107804653
+quiet 0.6352039113740461
+gradually 0.5830978965235653
+rapidly 0.575200622174511
+steadily 0.5694043974507358
+9
+7
+
+*slow slowly rapid rapidly
+slowly 0.6893037286768724
+rapidly 0.647749350700452
+rapid 0.6372737204353547
+gradually 0.6186532677624701
+quickly 0.5913338567466476
+2
+1
+
+*slow slowly rare rarely
+rare 0.6539958167944037
+rapidly 0.5762574212546853
+slowly 0.5733452174129159
+gradually 0.5583719121312982
+quickly 0.5415153187763604
+210
+208
+
+*slow slowly reluctant reluctantly
+reluctant 0.650889078045294
+slowly 0.5724093544821708
+promisingly 0.5403968289517523
+gradually 0.5368536955162908
+miraculously 0.5253139853358892
+9
+7
+
+*slow slowly safe safely
+safe 0.6646555902620003
+slowly 0.5646618666090975
+briskly 0.5053225076817424
+gracefully 0.5007336711796347
+comfortably 0.4929900778566514
+39
+37
+
+*slow slowly serious seriously
+serious 0.6718559163165689
+slowly 0.5842625352307248
+rapidly 0.568769661606558
+gradually 0.5569301473701714
+gracefully 0.5452901116644164
+28
+26
+
+*sudden suddenly swift swiftly
+suddenly 0.631033349145833
+swift 0.6138844113059877
+unexpectedly 0.5514582236226715
+quitely 0.5509211414997118
+mcfeely 0.5333203057887398
+127
+125
+
+*sudden suddenly typical typically
+typical 0.6886397526709157
+suddenly 0.5812538296442715
+emblematic 0.5272462865307715
+unexpectedly 0.5025311855436408
+independantly 0.4970084193082156
+34
+32
+
+*sudden suddenly unfortunate unfortunately
+suddenly 0.6973421452516742
+unexpectedly 0.6218232401974516
+unfortunate 0.6188712450688166
+sadly 0.6123517484130719
+unhappily 0.6047874363510861
+126
+124
+
+*sudden suddenly usual usually
+usual 0.6828345684681328
+suddenly 0.5928578274724644
+surely 0.5056478996020225
+luckily 0.4968855230294875
+unexpectedly 0.48774444481932133
+884
+882
+
+*sudden suddenly amazing amazingly
+amazing 0.6559121968955341
+suddenly 0.5998569390522921
+sadly 0.5311899213981149
+fortunately 0.5219845282775792
+unexpectedly 0.5217533538714045
+20
+18
+
+*sudden suddenly apparent apparently
+suddenly 0.6625309155623897
+apparent 0.6494465744388689
+unexpectedly 0.5916572065263908
+luckily 0.5710492884497456
+menacingly 0.5648466908895023
+124
+122
+
+*sudden suddenly calm calmly
+calm 0.6548520406318676
+suddenly 0.6068127782259651
+awake 0.49416715326944893
+instantly 0.4795476667854002
+unexpectedly 0.47868285976711755
+248
+246
+
+*sudden suddenly cheerful cheerfully
+suddenly 0.7106055722889961
+cheerful 0.6597476905939145
+surly 0.6458502451948909
+homely 0.6446223656511519
+girly 0.6380214979904348
+205
+203
+
+*sudden suddenly complete completely
+complete 0.6846975176290694
+suddenly 0.5721420699164271
+completed 0.5199297452526813
+completing 0.4951139607288546
+unexpectedly 0.48055908765391986
+1420
+1418
+
+*sudden suddenly efficient efficiently
+efficient 0.6700156084192906
+suddenly 0.5931496935947603
+user-friendly 0.5740398299980768
+cost-effectively 0.5677034375617946
+profitably 0.5591588235526679
+79
+77
+
+*sudden suddenly fortunate fortunately
+fortunate 0.6602864302755566
+suddenly 0.5977202732129164
+unhappily 0.5417129613769428
+unexpectedly 0.53656238014651
+fortunately 0.5359161845551139
+5
+3
+
+*sudden suddenly free freely
+free 0.711202891434379
+suddenly 0.5742219246113122
+unexpectedly 0.48807445230048063
+instantly 0.48190705805266587
+luckily 0.4691872485629476
+331
+329
+
+*sudden suddenly furious furiously
+suddenly 0.6705007103175302
+furious 0.6703870441700874
+unexpectedly 0.6174250520840903
+mysteriously 0.5716246920805438
+tearfully 0.5656773511083032
+8
+6
+
+*sudden suddenly happy happily
+happy 0.6696076591686129
+suddenly 0.6310732451697137
+unexpectedly 0.547606555397054
+unhappily 0.5359663859218162
+mysteriously 0.5327120123587071
+7
+5
+
+*sudden suddenly immediate immediately
+suddenly 0.7147694898086745
+immediate 0.6377599665974641
+instantly 0.6033742331375156
+unexpectedly 0.6029854563703996
+immediatly 0.6012860620279672
+386
+384
+
+*sudden suddenly infrequent infrequently
+suddenly 0.6961281516549382
+unexpectedly 0.6454833581804417
+infrequent 0.6392496844628017
+infrequently 0.6190743070860505
+minorly 0.6132004496114731
+4
+2
+
+*sudden suddenly lucky luckily
+lucky 0.6860530017939592
+suddenly 0.6298188878670014
+unhappily 0.5460514790892036
+unexpectedly 0.5388006993609438
+luckily 0.5333195775316906
+5
+3
+
+*sudden suddenly most mostly
+most 0.7560925098425184
+devastatingly 0.5722510672541029
+suddenly 0.5719529841292166
+hauntingly 0.5676035143153346
+stunningly 0.5665674170339761
+1000
+998
+
+*sudden suddenly obvious obviously
+suddenly 0.6667638333062221
+obvious 0.6623657443421127
+sadly 0.5832166361039259
+unexpectedly 0.5767071109832085
+understandably 0.5757626681062447
+171
+169
+
+*sudden suddenly occasional occasionally
+suddenly 0.6809649324414937
+occasional 0.6545546662475593
+unexpectedly 0.6248675355172297
+mysteriously 0.6181404409782865
+impulsively 0.5980235555731305
+237
+235
+
+*sudden suddenly possible possibly
+possible 0.6866764795283276
+suddenly 0.600696631494055
+luckily 0.4902906754422278
+unexpectedly 0.48852477099770275
+finally 0.47699497164034677
+861
+859
+
+*sudden suddenly precise precisely
+precise 0.6533200799740436
+suddenly 0.6203194894875996
+plausibly 0.583900075125036
+hypothetically 0.5791806120109825
+urgently 0.5778559882816929
+335
+333
+
+*sudden suddenly professional professionally
+professional 0.6988558383873651
+suddenly 0.5828161541800245
+unexpectedly 0.5038547071358459
+serendipitously 0.4932665478899355
+coincidently 0.49014750327523116
+383
+381
+
+*sudden suddenly quick quickly
+suddenly 0.6934122405736047
+unexpectedly 0.6236911367329098
+quick 0.6235649016794066
+inexplicably 0.590626375361041
+hysterically 0.5870785177846959
+130
+128
+
+*sudden suddenly quiet quietly
+suddenly 0.6664544071874788
+quiet 0.6587267756970753
+unexpectedly 0.5571038126249073
+instantly 0.554018429152538
+madly 0.5501104711668561
+9
+7
+
+*sudden suddenly rapid rapidly
+suddenly 0.7082526618138468
+unexpectedly 0.6288611274440784
+promisingly 0.611771976916682
+acrimoniously 0.605405925497721
+rapid 0.6014934740644579
+93
+91
+
+*sudden suddenly rare rarely
+suddenly 0.6745426909818731
+rare 0.6682590312101913
+unexpectedly 0.5785808868413209
+promisingly 0.5395760841638864
+serendipitously 0.5198552676122155
+264
+262
+
+*sudden suddenly reluctant reluctantly
+reluctant 0.670146761201913
+suddenly 0.6291500723597766
+unexpectedly 0.5738499604565215
+unhappily 0.5660780839632534
+promisingly 0.561076802215297
+131
+129
+
+*sudden suddenly safe safely
+safe 0.6661529930552345
+suddenly 0.5879961223200313
+aimlessly 0.526733441929875
+idly 0.5148781513611816
+luckily 0.5127168793280986
+966
+964
+
+*sudden suddenly serious seriously
+serious 0.665032620179772
+suddenly 0.6594754366727127
+unexpectedly 0.5890182949898738
+attentively 0.5594725774019789
+innocently 0.5591784691190441
+527
+525
+
+*sudden suddenly slow slowly
+suddenly 0.6548341952298117
+slow 0.6425627961777975
+slowly 0.5655128611699934
+unexpectedly 0.5582627332753697
+recklessly 0.5515286372461392
+3
+1
+
+*swift swiftly typical typically
+typical 0.6971972347426113
+cost-effectively 0.6141060498700187
+self-consciously 0.6138463298344546
+chaotically 0.6136739382595434
+fluidly 0.6132000860600116
+1064
+1062
+
+*swift swiftly unfortunate unfortunately
+unfortunate 0.6989617648563392
+swiftly 0.6706378949453421
+unwillingly 0.6680369906128387
+expeditiously 0.6610336485388527
+haphazardly 0.6598119932036919
+1762
+1760
+
+*swift swiftly usual usually
+usual 0.7025339611612562
+indiscriminately 0.6024160975409181
+pre-emptively 0.591132126503686
+healthily 0.5907659284969358
+surreptitiously 0.5902623797403596
+1689
+1687
+
+*swift swiftly amazing amazingly
+amazing 0.704723958872248
+swiftly 0.6272749407467509
+effortlessly 0.6169212918724587
+explosively 0.5999119479765563
+laboriously 0.5953478825388291
+710
+708
+
+*swift swiftly apparent apparently
+apparent 0.7023122001978501
+forcefully 0.6657769933526522
+explosively 0.6629130853865757
+passively 0.6544627514163027
+unwillingly 0.653946382639596
+1437
+1435
+
+*swift swiftly calm calmly
+calm 0.6906105555799794
+swiftly 0.653543735738421
+amicably 0.616496014703949
+gracefully 0.6119950884995169
+forcefully 0.6076491068507947
+400
+398
+
+*swift swiftly cheerful cheerfully
+swiftly 0.7350761214866853
+cautiously 0.7280264154795371
+creatively 0.7251366232072529
+forcefully 0.7242275709372945
+fluidly 0.723947868194175
+215
+213
+
+*swift swiftly complete completely
+complete 0.710926298677995
+seamlessly 0.6360183375137197
+singlehandedly 0.6176957064818339
+swiftly 0.6168493490864793
+instantaneously 0.6151291443510805
+822
+820
+
+*swift swiftly efficient efficiently
+efficiently 0.7134542131202858
+efficient 0.7117797678514245
+profitably 0.7024879719289008
+cost-effectively 0.7001387118602197
+expeditiously 0.6936071160627244
+1
+1
+
+*swift swiftly fortunate fortunately
+fortunate 0.7005298051615402
+swiftly 0.6569184958443495
+forcefully 0.6397035952631775
+cruelly 0.6328312999806444
+expeditiously 0.6320218734195587
+587
+585
+
+*swift swiftly free freely
+free 0.7291695325611289
+covertly 0.5974315418824813
+swiftly 0.5968279087558536
+surreptitiously 0.5920111337421987
+instantaneously 0.5918689516692991
+36
+34
+
+*swift swiftly furious furiously
+furious 0.7202904166528967
+swiftly 0.6935897248385526
+forcefully 0.6800016075406051
+furiously 0.6595302232973357
+bravely 0.6582854368410582
+4
+2
+
+*swift swiftly happy happily
+happy 0.7165588710588621
+forcefully 0.6373064881753855
+amicably 0.632790993473825
+swiftly 0.6324505730287032
+effortlessly 0.6145732453020767
+9
+7
+
+*swift swiftly immediate immediately
+swiftly 0.7186328929403707
+instantaneously 0.7089855939445286
+forcefully 0.7028115313965573
+spontaneously 0.7004518751140539
+immediate 0.6969215091310277
+914
+912
+
+*swift swiftly infrequent infrequently
+swiftly 0.7151703887217915
+forcefully 0.7072057397115405
+painlessly 0.7071110570236556
+erratically 0.7041689458171219
+infrequent 0.7027020297285915
+13
+11
+
+*swift swiftly lucky luckily
+lucky 0.706644865838343
+swiftly 0.6365166657716222
+unhappily 0.6273182443425632
+forcefully 0.6246886013631261
+bravely 0.6244062375558325
+231
+229
+
+*swift swiftly most mostly
+most 0.7459111682346478
+gloriously 0.6604456738511205
+imminently 0.6584439678123346
+unfailingly 0.6570087013423977
+devastatingly 0.6565757518464742
+1246
+1244
+
+*swift swiftly obvious obviously
+obvious 0.7162071299840898
+forcefully 0.6809778822651117
+swiftly 0.677525562917788
+gracefully 0.6710048439150565
+expeditiously 0.669825684266045
+1268
+1266
+
+*swift swiftly occasional occasionally
+occasional 0.7115409959236568
+explosively 0.6911390452238758
+ruthlessly 0.6891421183107581
+periodically 0.6871722284200905
+intermittently 0.6867214676058427
+1116
+1114
+
+*swift swiftly possible possibly
+possible 0.695153910134448
+indiscriminately 0.6034707248934049
+incrementally 0.5995085359617234
+preemptively 0.597998325031239
+surreptitiously 0.5947018020567946
+1423
+1421
+
+*swift swiftly precise precisely
+precise 0.7052305610480628
+concisely 0.7000415392296397
+coherently 0.6942880943416876
+expeditiously 0.6928327793929447
+rigorously 0.6892120362806535
+1333
+1331
+
+*swift swiftly professional professionally
+professional 0.7267245466985773
+haphazardly 0.6003612863176245
+swiftly 0.6001260160378454
+clandestinely 0.5948034481213172
+discreetly 0.5935253781037572
+530
+528
+
+*swift swiftly quick quickly
+swiftly 0.7645699546818987
+expeditiously 0.7253922059252923
+forcefully 0.7235019442140962
+effortlessly 0.715890058379525
+gracefully 0.7146570685979087
+168
+167
+
+*swift swiftly quiet quietly
+quiet 0.7150053468832092
+swiftly 0.6859004693193509
+effortlessly 0.6496184560449803
+forcefully 0.6436651728113567
+expeditiously 0.6404127477350458
+52
+50
+
+*swift swiftly rapid rapidly
+swiftly 0.7531622908673024
+forcefully 0.7310267213192025
+skillfully 0.7021371130175976
+expeditiously 0.7010593589917142
+fluidly 0.6992065948248205
+11
+10
+
+*swift swiftly rare rarely
+rare 0.7180948195916459
+swiftly 0.6430872625750663
+spontaneously 0.6393531066808643
+forcefully 0.6247711847863938
+haphazardly 0.6226933165621341
+1331
+1329
+
+*swift swiftly reluctant reluctantly
+reluctant 0.7161700448639019
+unwillingly 0.6524189596653576
+haphazardly 0.6482649636139405
+forcefully 0.6471408592250596
+amicably 0.6460842934472626
+615
+613
+
+*swift swiftly safe safely
+safe 0.7184004120388549
+gracefully 0.6209472873446341
+swiftly 0.6204594239251877
+silently 0.6179133833896988
+expeditiously 0.617144009298842
+121
+119
+
+*swift swiftly serious seriously
+serious 0.7360321359256935
+forcefully 0.6700670762181017
+swiftly 0.6697046147872204
+productively 0.6638359026815424
+expeditiously 0.6521562957554122
+798
+796
+
+*swift swiftly slow slowly
+swiftly 0.7229159259686996
+spontaneously 0.6962501441892329
+cleanly 0.6947338636827484
+amicably 0.6911155747329016
+forcefully 0.6889565682532368
+162
+160
+
+*swift swiftly sudden suddenly
+swiftly 0.7519551319142027
+forcefully 0.7255787271939681
+spontaneously 0.7104043925641443
+explosively 0.7050877605475129
+effortlessly 0.7027776262820856
+468
+466
+
+*typical typically unfortunate unfortunately
+unfortunate 0.6573125549346907
+ordinarily 0.6418889339567095
+optionally 0.6337364488154555
+regrettably 0.6314898739690133
+habitually 0.6305638769127335
+1630
+1628
+
+*typical typically usual usually
+typically 0.7073835025762205
+optionally 0.6529180760787854
+habitually 0.6461336105569204
+usually 0.643391632213949
+customarily 0.6407474266138298
+4
+3
+
+*typical typically amazing amazingly
+amazing 0.6684668406637038
+typically 0.5914279049621403
+fashionably 0.584412118911299
+astonishing 0.5757147146949052
+conveniently 0.5748311247235459
+409
+407
+
+*typical typically apparent apparently
+apparent 0.6663376981263078
+typically 0.6635078073622172
+preferentially 0.6354102065533612
+transiently 0.6340036170208041
+optionally 0.6338381977839722
+1358
+1356
+
+*typical typically calm calmly
+calm 0.6694526070571574
+gracefully 0.559339943056425
+realistically 0.5532515405723278
+calmly 0.5487093235009611
+faithfully 0.5485250815303836
+4
+3
+
+*typical typically cheerful cheerfully
+faithfully 0.7205321744963762
+tactfully 0.7204262526578158
+sensitively 0.7192905715605723
+equitably 0.7167905194725522
+competently 0.7151059509956491
+87
+87
+
+*typical typically complete completely
+complete 0.6707320622923627
+typically 0.6057119907771371
+optionally 0.5917109804256628
+recursively 0.5882912485431345
+customarily 0.5880358062549206
+732
+730
+
+*typical typically efficient efficiently
+efficiently 0.6901687314400389
+typically 0.6891342696947892
+efficient 0.6782888304569897
+profitably 0.6734950564673551
+flexibly 0.6647233830882177
+1
+1
+
+*typical typically fortunate fortunately
+fortunate 0.689674845174243
+typically 0.6069451360912752
+conveniently 0.580356385200464
+ordinarily 0.5772929667137315
+unhappily 0.5762825591698656
+119
+117
+
+*typical typically free freely
+free 0.6863357146802178
+typically 0.6006261696423579
+optionally 0.594093651829496
+normally 0.5786813107807363
+preferentially 0.5733623145462593
+211
+209
+
+*typical typically furious furiously
+furious 0.6707253655893276
+tearfully 0.6362645383811771
+furiously 0.6300700400632756
+angrily 0.6292414864219488
+forcefully 0.6280304781954898
+3
+2
+
+*typical typically happy happily
+happy 0.6837336838676131
+happily 0.5964604430513327
+unhappily 0.583047279586517
+habitually 0.5773372845669531
+perpetually 0.574348002280343
+2
+1
+
+*typical typically immediate immediately
+immediate 0.6854062822427521
+typically 0.653747830044477
+optionally 0.6488588490648953
+preferentially 0.6477646708222974
+vegetatively 0.6378168265212836
+1178
+1176
+
+*typical typically infrequent infrequently
+infrequent 0.6771412392307434
+typically 0.6692856937586124
+infrequently 0.6664633638430307
+secondarily 0.6624968066348217
+transiently 0.6624506448235783
+3
+1
+
+*typical typically lucky luckily
+lucky 0.6796865507075298
+unhappily 0.6096665046591441
+happily 0.5928698139422733
+lolly 0.5797480449408271
+hysterically 0.5791353243443278
+9
+7
+
+*typical typically most mostly
+most 0.7126743012070524
+typically 0.6986392338512328
+ordinarily 0.6743679105895102
+maximally 0.6651884145706365
+perennially 0.6648431862989914
+676
+674
+
+*typical typically obvious obviously
+obvious 0.6813073761602834
+optionally 0.6483020485859391
+ordinarily 0.6468351525932223
+habitually 0.6424623892566492
+typically 0.6423206622761575
+1425
+1423
+
+*typical typically occasional occasionally
+typically 0.6933840453906649
+occasionally 0.6924707715114471
+optionally 0.689566172838963
+habitually 0.6884143409577871
+transiently 0.6864466294889311
+2
+1
+
+*typical typically possible possibly
+possible 0.6799759919168832
+typically 0.6059824079696874
+optionally 0.58980711438071
+normally 0.5688052109710814
+preferentially 0.5613798386752765
+1193
+1191
+
+*typical typically precise precisely
+precise 0.6849191339693644
+conveniently 0.6620272679439742
+realistically 0.6587918739978524
+succinctly 0.6585321446314627
+concretely 0.6557424686851008
+1036
+1034
+
+*typical typically professional professionally
+professional 0.6834048278825238
+typically 0.5933743279209953
+optionally 0.5807849078387143
+dually 0.572531012977701
+customarily 0.5682354188048314
+865
+863
+
+*typical typically quick quickly
+quick 0.6621865934486264
+gracefully 0.6375285308905996
+skilfully 0.6326428950183086
+wisely 0.6316870378011452
+blithely 0.6303593578280874
+1307
+1305
+
+*typical typically quiet quietly
+quiet 0.6518149122240234
+effortlessly 0.6250004649590276
+gracefully 0.6247985801482868
+faithfully 0.6245405317441902
+jealously 0.6243602337237784
+435
+433
+
+*typical typically rapid rapidly
+rapid 0.6984622162883262
+typically 0.6218641099448408
+optionally 0.6127203074814139
+preferentially 0.6122875028203032
+flexibly 0.6107453401739107
+714
+712
+
+*typical typically rare rarely
+typically 0.6547933612127343
+rare 0.6463571370299285
+infrequently 0.6211603272343791
+vegetatively 0.619802184758524
+normally 0.6162136861005721
+54
+52
+
+*typical typically reluctant reluctantly
+reluctant 0.704887663198308
+typically 0.6018347467278566
+uneasily 0.5991873834531897
+customarily 0.5982659891621318
+optionally 0.5980902650807951
+785
+783
+
+*typical typically safe safely
+safe 0.6712197573114075
+gracefully 0.5927866362366817
+comfortably 0.5912409300668982
+wirelessly 0.5874809247846733
+securely 0.586696990285886
+20
+18
+
+*typical typically serious seriously
+serious 0.6663014413110387
+usefully 0.6491668523147281
+flexibly 0.64820569125991
+asexually 0.6481327715058178
+destructively 0.648095311264557
+574
+572
+
+*typical typically slow slowly
+slow 0.6785628476906745
+reversibly 0.6370509223066629
+preferentially 0.6110956200982434
+realistically 0.609631031113587
+reflexively 0.6091024850496508
+73
+71
+
+*typical typically sudden suddenly
+sudden 0.6880609628582899
+preferentially 0.6430106912081326
+irreversibly 0.6422334960635828
+jealously 0.640489887358382
+forcefully 0.6389675110191734
+1435
+1433
+
+*typical typically swift swiftly
+swift 0.6870162943371058
+quitely 0.5666625489050856
+typically 0.5472681683950849
+mcfeely 0.5466614572212913
+mcnelly 0.5439399212850473
+427
+425
+
+*unfortunate unfortunately usual usually
+usual 0.6626326782184179
+unfortunately 0.6348179045324569
+luckily 0.5402362720068467
+sorely 0.5334999310653451
+however 0.5329124751934038
+637
+635
+
+*unfortunate unfortunately amazing amazingly
+unfortunately 0.7085564101465371
+fortunately 0.623186444919667
+sadly 0.6187310902389681
+thankfully 0.601509325228638
+amazing 0.6010384215080423
+9
+7
+
+*unfortunate unfortunately apparent apparently
+unfortunately 0.685403382239575
+sorely 0.6426675035432403
+fortunately 0.6286963159646127
+apparent 0.6274652842129746
+horrifically 0.6231566304500243
+48
+46
+
+*unfortunate unfortunately calm calmly
+calm 0.6521254252060935
+unfortunately 0.5999660059560078
+regretfully 0.5177843087709104
+sadly 0.516461499101348
+fortunately 0.5102063087580809
+1222
+1220
+
+*unfortunate unfortunately cheerful cheerfully
+unfortunately 0.7478175409135482
+sonically 0.6977383529255802
+exuberantly 0.6858541059297303
+tenderly 0.6808887717076758
+tactfully 0.6804563452770677
+89
+88
+
+*unfortunate unfortunately complete completely
+complete 0.7040769717235846
+unfortunately 0.6118433907786934
+completed 0.526435595764919
+completing 0.5039742892387442
+fortunately 0.5037923675350554
+218
+216
+
+*unfortunate unfortunately efficient efficiently
+efficient 0.6845109571510066
+unfortunately 0.6715118715093158
+cost-effectively 0.6046940584045752
+abstractly 0.5948374805323912
+user-friendly 0.5937704394534778
+237
+235
+
+*unfortunate unfortunately fortunate fortunately
+unfortunately 0.7586404625355448
+fortunately 0.6502607227030446
+regrettably 0.6189923830940984
+apparently 0.6164989100794157
+evidently 0.6147280314008245
+2
+1
+
+*unfortunate unfortunately free freely
+free 0.6901139955258437
+unfortunately 0.5881080791434452
+luckily 0.5106039381629068
+sneakily 0.5099568672176151
+prudently 0.5064544818390742
+946
+944
+
+*unfortunate unfortunately furious furiously
+unfortunately 0.6774430024463647
+furious 0.6421695190818659
+tearfully 0.6270699163192213
+furiously 0.6173302511030996
+mightily 0.6118155681228373
+4
+2
+
+*unfortunate unfortunately happy happily
+unfortunately 0.6889961662509134
+happy 0.6343359255188398
+sadly 0.5989828547234459
+thankfully 0.5965901541299937
+fortunately 0.5934415816637306
+417
+415
+
+*unfortunate unfortunately immediate immediately
+unfortunately 0.7071040031368906
+immediate 0.6475553066525324
+fortunately 0.6245743541321381
+irrevocably 0.6235920773596805
+instinctively 0.6220076686962583
+1336
+1334
+
+*unfortunate unfortunately infrequent infrequently
+unfortunately 0.7491883888213525
+sorely 0.6474887300191486
+infrequent 0.6470510810887069
+predictably 0.6391170631597012
+unavoidably 0.6389357930089646
+103
+101
+
+*unfortunate unfortunately lucky luckily
+unfortunately 0.7094723224880053
+luckily 0.6334091241687472
+fortunately 0.6317880966296928
+thankfully 0.6254307478677212
+sadly 0.6152058648275969
+2
+1
+
+*unfortunate unfortunately most mostly
+most 0.763889659988603
+unfortunately 0.656666046182609
+stunningly 0.608220265389354
+unfailingly 0.608185032739697
+marvelously 0.6066918777855861
+818
+816
+
+*unfortunate unfortunately obvious obviously
+unfortunately 0.7402894104127736
+understandably 0.6606187120245911
+predictably 0.6560472980985579
+sadly 0.655198247851923
+sorely 0.6541946292011805
+42
+41
+
+*unfortunate unfortunately occasional occasionally
+unfortunately 0.719237216048566
+occasional 0.6539203124054244
+unaccountably 0.6380661571078448
+horrifically 0.634459400593712
+sorely 0.6316604373576251
+293
+291
+
+*unfortunate unfortunately possible possibly
+possible 0.6633965645331906
+unfortunately 0.6093171935512578
+however 0.5652050288654924
+luckily 0.5356655280586333
+fortunately 0.5269970363904426
+1300
+1298
+
+*unfortunate unfortunately precise precisely
+unfortunately 0.6843710049935526
+precise 0.6617245893016608
+concretely 0.6214538292330762
+categorically 0.6167286668822394
+abstractly 0.6130835294353005
+788
+786
+
+*unfortunate unfortunately professional professionally
+professional 0.6788040619904039
+unfortunately 0.6133737342294626
+however 0.5610681397869839
+fortunately 0.542700166654965
+consequentially 0.5383737097751337
+1244
+1242
+
+*unfortunate unfortunately quick quickly
+unfortunately 0.6850348532767905
+quick 0.6545335666507913
+mightily 0.6098800033925835
+shamefully 0.6006330452172475
+willy-nilly 0.5979507835364274
+1276
+1274
+
+*unfortunate unfortunately quiet quietly
+unfortunately 0.6528610495773013
+quiet 0.6326750476314268
+mightily 0.6159384820839126
+unhesitatingly 0.5913428994871486
+perceptibly 0.5890906397398067
+275
+273
+
+*unfortunate unfortunately rapid rapidly
+unfortunately 0.6640350963973545
+rapid 0.6577262357602758
+mightily 0.5932177710880954
+prudently 0.5866001190443054
+catastrophically 0.5858308718993297
+1355
+1353
+
+*unfortunate unfortunately rare rarely
+unfortunately 0.6885111334323515
+rare 0.6276800628062118
+mightily 0.5945767925592331
+sorely 0.5909364210746256
+fortunately 0.5850904269114935
+915
+913
+
+*unfortunate unfortunately reluctant reluctantly
+unfortunately 0.708681277492144
+apparently 0.6409797095465389
+evidently 0.6375995534147118
+fortunately 0.6349995789419581
+thankfully 0.6291509518551346
+1229
+1227
+
+*unfortunate unfortunately safe safely
+safe 0.6825595669328847
+unfortunately 0.620251573294938
+luckily 0.5277714902859202
+harmlessly 0.5270289387545879
+helplessly 0.5257629366253114
+1031
+1029
+
+*unfortunate unfortunately serious seriously
+unfortunately 0.7215944258826731
+serious 0.6485618389970915
+fortunately 0.6193109571499825
+mightily 0.6188445953144504
+perceptibly 0.6184488304626408
+1160
+1158
+
+*unfortunate unfortunately slow slowly
+slow 0.6486649871606881
+unfortunately 0.6414855358888131
+reflexively 0.579106187011809
+reversibly 0.5768469447953799
+harmlessly 0.5746321888967578
+503
+501
+
+*unfortunate unfortunately sudden suddenly
+unfortunately 0.7045219867367704
+mightily 0.6720991742467872
+irrevocably 0.6676108796894885
+irretrievably 0.6675651652860498
+catastrophically 0.666769232972106
+803
+801
+
+*unfortunate unfortunately swift swiftly
+swift 0.6498234609528041
+unfortunately 0.6031799685959166
+quitely 0.557087862873509
+mightily 0.5386322084947306
+however 0.5359302369946464
+1184
+1182
+
+*unfortunate unfortunately typical typically
+typical 0.6795099649044288
+unfortunately 0.6603016027783521
+characteristically 0.5426358341150306
+exuberantly 0.5369888483223656
+unarguably 0.5369470843389078
+30
+28
+
+*usual usually amazing amazingly
+amazing 0.6895389909749
+usually 0.5949836115750662
+astonishing 0.5583257524241468
+fashionably 0.5563791936162911
+improbably 0.5435340600251377
+217
+215
+
+*usual usually apparent apparently
+usually 0.6929414404427134
+apparent 0.6647388195712757
+typically 0.6294397238583156
+secondarily 0.6121959940012711
+normally 0.6095877300614824
+1069
+1067
+
+*usual usually calm calmly
+calm 0.6785330433023953
+usually 0.5498633279436879
+gracefully 0.5147297166963004
+normally 0.5128170595873033
+conveniently 0.5117861249417979
+522
+520
+
+*usual usually cheerful cheerfully
+crumbly 0.6864371236843256
+shapely 0.6861372257757408
+portly 0.6808504914624536
+frilly 0.6807832673399306
+usually 0.6803742434397158
+624
+622
+
+*usual usually complete completely
+complete 0.6754898912241625
+usually 0.6356483989478415
+typically 0.5663492698878594
+normally 0.5642114338293377
+conveniently 0.5615664591569053
+206
+204
+
+*usual usually efficient efficiently
+efficient 0.687597825107403
+usually 0.6851116491686163
+typically 0.645326113025551
+profitably 0.6392228512166204
+inexpensively 0.6369484828977967
+27
+25
+
+*usual usually fortunate fortunately
+fortunate 0.6848892129665439
+usually 0.6379332903288085
+typically 0.5765714209964823
+conveniently 0.5668431581742128
+normally 0.5645260190056764
+335
+333
+
+*usual usually free freely
+free 0.708846408881813
+usually 0.5933945074418412
+normally 0.5552017842055266
+typically 0.5481073763106026
+homogeneously 0.5291166522936339
+524
+522
+
+*usual usually furious furiously
+furious 0.6680510750117954
+usually 0.6218229850044023
+nobly 0.5906271155737897
+drunkenly 0.5902991746447622
+grimly 0.589065866880722
+19
+17
+
+*usual usually happy happily
+happy 0.6887630325077624
+usually 0.5931923685129191
+unhappily 0.5608312288852997
+regrettably 0.5518171416789119
+normally 0.5501963598579883
+89
+87
+
+*usual usually immediate immediately
+immediate 0.676794788639333
+usually 0.6674083474527626
+vegetatively 0.6329529517486728
+unconformably 0.6306233361034811
+pinnately 0.6301676931605881
+1239
+1237
+
+*usual usually infrequent infrequently
+infrequent 0.6869903175185214
+usually 0.6783433948238282
+infrequently 0.6540083526866123
+normally 0.6430131703687424
+vegetatively 0.6400510009873743
+3
+1
+
+*usual usually lucky luckily
+lucky 0.6840098381728115
+usually 0.6191443941768994
+unhappily 0.5877296711096959
+cuddly 0.5536147663516546
+lolly 0.5529832573548843
+194
+192
+
+*usual usually most mostly
+most 0.7411669238759828
+usually 0.6962061768025908
+typically 0.6397951210277879
+notionally 0.6338255895871927
+perennially 0.631994884853693
+181
+179
+
+*usual usually obvious obviously
+usually 0.6903374577933973
+obvious 0.6518119130943594
+plausibly 0.6504403794228335
+ordinarily 0.6497479997928652
+secondarily 0.6465747277267353
+1177
+1175
+
+*usual usually occasional occasionally
+usually 0.6892081092180855
+occasional 0.6734824912325881
+intermittently 0.6474137389867877
+normally 0.6463595996931403
+secondarily 0.6421352669434541
+8
+6
+
+*usual usually possible possibly
+usually 0.7274975454253371
+typically 0.6618194748732026
+normally 0.6529760164629257
+secondarily 0.6290815185041317
+optionally 0.6206978448406512
+952
+950
+
+*usual usually precise precisely
+precise 0.6898279732340131
+usually 0.6749371966591432
+conveniently 0.6398735982296047
+abstractly 0.6309374018649229
+concretely 0.6303234774640947
+825
+823
+
+*usual usually professional professionally
+professional 0.6746124960138122
+usually 0.6382295286148619
+normally 0.5695888753980152
+inclusively 0.5688336339193576
+dually 0.5678123507382928
+719
+717
+
+*usual usually quick quickly
+quick 0.6661259909840492
+usually 0.6472516912675959
+eccentrically 0.6139137956636416
+skilfully 0.6084840204169777
+superiorly 0.6081403683408634
+1393
+1391
+
+*usual usually quiet quietly
+quiet 0.6733506525722871
+usually 0.5979969206359832
+uneasily 0.584159055081915
+superiorly 0.5840966510316753
+majestically 0.5819925873454398
+393
+391
+
+*usual usually rapid rapidly
+rapid 0.681515542529737
+usually 0.6405785667009777
+superiorly 0.6114719698329699
+vegetatively 0.6114215799167276
+diffusely 0.603892891881019
+1000
+998
+
+*usual usually rare rarely
+rare 0.684712811743812
+usually 0.644462097127204
+typically 0.5834900551435998
+infrequently 0.5834548173674707
+normally 0.5764128363153261
+99
+97
+
+*usual usually reluctant reluctantly
+reluctant 0.6967524246316236
+usually 0.6488722575976473
+uneasily 0.5943699614528531
+fittingly 0.584543703860892
+unhappily 0.5837769644394692
+987
+985
+
+*usual usually safe safely
+safe 0.7017487046490092
+usually 0.6141065774410336
+normally 0.5536830474113591
+comfortably 0.5442992477627119
+conveniently 0.5437478481559295
+328
+326
+
+*usual usually serious seriously
+serious 0.6727302706788596
+usually 0.6408711000188727
+asexually 0.6258190015392843
+vegetatively 0.624173224831911
+conservatively 0.6238053621298946
+1148
+1146
+
+*usual usually slow slowly
+slow 0.6828563465186239
+usually 0.618793851473602
+reversibly 0.5901368335696524
+normally 0.5899207669748182
+vegetatively 0.5870372300959955
+81
+79
+
+*usual usually sudden suddenly
+sudden 0.6768384918232452
+usually 0.6329184218346968
+vegetatively 0.6280376140352003
+medially 0.6243800247931423
+pinnately 0.62262348806546
+1505
+1503
+
+*usual usually swift swiftly
+swift 0.6875152412483411
+usually 0.5701621479341157
+quitely 0.5473479472106001
+brantly 0.5360079482057918
+neely 0.5347739579686446
+1085
+1083
+
+*usual usually typical typically
+usually 0.7569791807626981
+typically 0.7089958032013424
+generally 0.6592472676087441
+normally 0.6537177900378074
+predominantly 0.639972117377408
+2
+1
+
+*usual usually unfortunate unfortunately
+unfortunate 0.6543794036170745
+usually 0.6475210346897067
+improbably 0.6221893895163969
+fiddly 0.6200056714431916
+transitively 0.619716059592299
+1361
+1359
+
