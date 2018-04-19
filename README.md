@@ -1,5 +1,6 @@
 # ULL-labs
 The code for all the tasks is in __[ULL-Practical1-EceTakmaz_BasakEskili.ipynb](https://github.com/ecekt/ULL-lab-1/blob/master/ULL-Practical1-EceTakmaz_BasakEskili.ipynb)__ 
+(We have interactive visualizations with Bokeh for clusters, but GitHub may not show them through the browser.)
 
 
 In the __[runs](https://github.com/ecekt/ULL-lab-1/tree/master/runs)__ folder, we provide the output files from the analogy task.
