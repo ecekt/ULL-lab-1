@@ -1,5 +1,6 @@
 # ULL-labs
-The code for all the tasks is in **ULL-Practical1-EceTakmaz_BasakEskili.ipynb**.
+The code for all the tasks is in __[ULL-Practical1-EceTakmaz_BasakEskili.ipynb](https://github.com/ecekt/ULL-lab-1/blob/master/ULL-Practical1-EceTakmaz_BasakEskili.ipynb)__ 
+
 
 In the __[runs](https://github.com/ecekt/ULL-lab-1/tree/master/runs)__ folder, we provide the output files from the analogy task.
 
