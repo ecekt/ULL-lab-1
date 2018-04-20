@@ -1,4 +1,4 @@
-# ULL-labs
+# ULL Practical 1
 The code for all the tasks is in __[ULL-Practical1-EceTakmaz_BasakEskili.ipynb](https://github.com/ecekt/ULL-lab-1/blob/master/ULL-Practical1-EceTakmaz_BasakEskili.ipynb)__ 
 (We have interactive visualizations with Bokeh for clusters, but GitHub may not show them through the browser.)
 
